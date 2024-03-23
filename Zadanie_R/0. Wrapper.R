@@ -1,0 +1,79 @@
+#REMOVE ALL OBJECTS AND CLEAN WORKING ENVIRONMENT:
+rm(list=ls())
+gc(full= TRUE)
+
+#1. Loading libraries
+library(caret)
+library(dplyr)
+library(smotefamily)
+library(dplyr)
+library(corrplot)
+library(gmodels)
+library(klaR)
+library(randomForest)
+
+
+#2. Sourcing script files
+
+source('1. Data_profiling.R')
+source('2. Data_manipulation.R')
+source('3. Models.R')
+source('4. Test_set_script.R')
+
+#3. DATA LOADING:
+trainset<-"~/Documents/Inżynieria Danych- Big Data/R- predykcje/r-predykcje/GNU R predykcje- styczeń/train_student.csv"
+newset  <-"~/Documents/Inżynieria Danych- Big Data/R- predykcje/r-predykcje/GNU R predykcje- styczeń/test_student.csv"
+base.set<-read.csv(trainset)
+new.set <- read.csv(newset)
+
+
+#4. DATA PROFILLING
+
+# A. Creating plots
+plots.creation   <- create.plots(base.set)
+# B. Creating contingent tables
+contingent.tables<- create.tables(base.set)
+
+names(base.set)
+
+#5. DATA MANIPULATION
+
+train.set <- process_data(base.set, train= TRUE)$train
+test.set  <- process_data(base.set, train= TRUE)$test
+new.data  <- process_data(new.set, train= FALSE)
+
+
+#6. Creating GLM Model
+
+model.glm <- glm.model(train.set)
+
+# Finding cut-off point
+
+cut.off.glm <- cutOff.optim(train.set, model.glm, "response")
+
+#7. Creating RandomForrest Model
+
+model.rf <- random.forrest(train.set)
+
+# Finding cut-off point
+
+cut.off.rf <- cutOff.optim(train.set, model.rf, "prob")
+
+
+#8. Testing models
+
+test.glm <- test.models(test.set, model.glm, 'response', cut.off.glm)
+test.rf <- test.models(test.set, model.rf , 'prob', cut.off.rf)
+
+#9. Comparing models
+
+compare<- compare.models(test.glm, test.rf)
+  
+#10. Prediction on new.set
+
+final.prediction <- new.set.test(new.data,compare,model.rf,model.glm,cut.off.rf,cut.off.glm)
+  
+#11. Saving to csv
+
+write.csv(final.prediction$NextAccident,"83539_Chruszczewski.csv",row.names=FALSE,quote=FALSE)
+
