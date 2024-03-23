@@ -1,0 +1,13 @@
+{
+    "sortOrder": [
+        {
+            "columnIndex": 2,
+            "ascending": true
+        },
+        {
+            "columnIndex": 4,
+            "ascending": true
+        }
+    ],
+    "path": "~/Documents/Inżynieria Danych- Big Data/R- predykcje/Zadanie_R"
+}
