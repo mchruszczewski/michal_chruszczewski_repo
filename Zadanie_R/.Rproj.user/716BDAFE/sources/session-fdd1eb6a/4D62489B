@@ -1,26 +1,26 @@
 {
-    "id": "3BE30849",
-    "path": "~/Documents/Inżynieria Danych- Big Data/R- predykcje/Zadanie_R/0. Wrapper.R",
-    "project_path": null,
+    "id": "4D62489B",
+    "path": "~/Documents/Inżynieria Danych- Big Data/Projekt końcowy/Zadanie_R/3. Models.R",
+    "project_path": "3. Models.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1711197933061.0,
+    "created": 1711291373069.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "29,0",
-        "scrollLine": "0"
+        "cursorPosition": "18,12",
+        "scrollLine": "8"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711197706,
+    "lastKnownWriteTime": 1711197444,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711197706,
+    "last_content_update": 1711197444,
     "read_only": false,
     "read_only_alternatives": []
 }
