@@ -38,11 +38,10 @@ class Clubs():
         - A collection of club data aggregated across the specified seasons.
         """
         try:
-            url_competitions = []
             for i in range(int(self.season_id_start), int(self.season_id_end) + 1):
                 season = str(i)
                 # Append each season's URL to the list.
-                url_competitions += self.url + 'competitions/' + self.comp_id + '/clubs/' + '?season_id=' + season
+                url_competitions = self.url + 'competitions/' + self.comp_id + '/clubs/' + '?season_id=' + season
                 response = requests.get(url_competitions)
                 data = response.json()
                 data = data['clubs']
@@ -113,12 +112,12 @@ class Players(Clubs):
         Returns a list of player data dictionaries.
         """
         try:
-            club_ids = self.clubs_ids()  # Fetch club IDs
+            clubs = self.clubs_ids()  # Fetch club IDs
             urls_clubs = []
             # Generate URLs for fetching player data for each club and season
             for i in range(int(self.season_id_start), int(self.season_id_end) + 1):
                 season = str(i)
-                urls_clubs += [f'{self.url}clubs/{club_id}/players?season_id={season}' for club_id in club_ids]
+                urls_clubs += [f'{self.url}clubs/{club_id}/players?season_id={season}' for club_id in clubs]
             
             players_dict = []
             # Fetch player data from each URL
