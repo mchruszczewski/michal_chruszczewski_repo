@@ -1,6 +1,6 @@
 import pandas as pd
 
-class Player:
+class Player_fbref:
     
     def __init__(self, player_id, player_dict, player_name):
         self.player_id = player_id
