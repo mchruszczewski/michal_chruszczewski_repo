@@ -1,0 +1,1208 @@
+,id,name,position,dateOfBirth,age,nationality,currentClub,height,foot,joinedOn,signedFrom,marketValue,status,joined,contract
+0,40792,Manuel Riemann,Goalkeeper,"Sep 9, 1988",34,Germany,VfL Bochum,"1,86m",right,"Jul 1, 2015",: Ablöse free transfer,€1.00m,,,
+1,316983,Marko Johansson,Goalkeeper,"Aug 25, 1998",24,Sweden,FC Hansa Rostock,"1,94m",right,"Sep 1, 2022",Hamburger SV,€400k,,,
+2,61989,Michael Esser,Goalkeeper,"Nov 22, 1987",35,Germany,VfL Bochum,"1,98m",right,"Jul 1, 2021",Hannover 96,€300k,Knee injury - Return unknown,,
+3,452192,Paul Grave,Goalkeeper,"Apr 10, 2001",22,Germany,Wuppertaler SV,"1,93m",right,"Mar 2, 2019",VfL Bochum U19,€100k,,,
+4,343959,Erhan Masovic,Centre-Back,"Nov 22, 1998",24,Serbia,VfL Bochum,"1,89m",both,"Oct 5, 2020",Club Brugge KV,€8.00m,,,
+5,118850,Ivan Ordets,Centre-Back,"Jul 8, 1992",30,Ukraine,VfL Bochum,"1,95m",right,"Jul 10, 2022",Dynamo Moscow,€3.00m,,"On loan from Dynamo Moscow until Jun 30, 2024",
+6,413843,Keven Schlotterbeck,Centre-Back,"Apr 28, 1997",26,Germany,VfL Bochum,"1,89m",left,"Aug 22, 2023",SC Freiburg,€3.00m,,"On loan from SC Freiburg until Jun 30, 2024",
+7,110036,Dominique Heintz,Centre-Back,"Aug 15, 1993",29,Germany,1.FC Köln,"1,88m",left,"Aug 11, 2022",1.FC Union Berlin,€1.20m,,,
+8,696164,Tim Oermann,Centre-Back,"Oct 6, 2003",19,Germany,VfL Bochum,"1,89m",right,"Jul 1, 2022",VfL Bochum U19,€800k,Hamstring injury - Return unknown,"Returned after loan spell with Wolfsberger AC; date: Jun 30, 2023; fee: End of loan",
+9,63489,Vasilios Lampropoulos,Centre-Back,"Mar 31, 1990",33,Greece,OFI Crete FC,"1,85m",right,"Aug 14, 2020",Deportivo de La Coruña,€500k,,,
+10,813730,Mohammed Tolba,Centre-Back,"Jul 19, 2004",18,Germany,VfL Bochum,"1,85m",right,"Jul 1, 2022",VfL Bochum U19,€200k,Cruciate ligament tear - Return unknown,,
+11,154396,Danilo Soares,Left-Back,"Oct 29, 1991",31,Brazil,VfL Bochum,"1,70m",left,"Jul 1, 2017",TSG 1899 Hoffenheim,€1.80m,,,
+12,231586,Jannes Horn,Left-Back,"Feb 6, 1997",26,Germany,1.FC Nuremberg,"1,86m",left,"Jul 25, 2022",1.FC Köln,€1.20m,,"Returned after loan spell with 1.FC Nuremberg; date: Jun 30, 2023; fee: End of loan",
+13,148967,Konstantinos Stafylidis,Left-Back,"Dec 2, 1993",29,Greece,FC Hansa Rostock,"1,78m",left,"Jul 6, 2022",TSG 1899 Hoffenheim,€1.20m,,,
+14,397099,Jordi Osei-Tutu,Right-Back,"Oct 2, 1998",24,England,PAS Giannina,"1,76m",right,"Jul 1, 2022",Arsenal FC U21,€1.20m,"Knee injury - Return expected on Apr 27, 2024",,
+15,196435,Saidy Janko,Right-Back,"Oct 22, 1995",27,The Gambia,BSC Young Boys,"1,81m",right,"Jul 1, 2022",Real Valladolid CF,€1.00m,,,
+16,121686,Cristian Gamboa,Right-Back,"Oct 24, 1989",33,Costa Rica,VfL Bochum,"1,75m",right,"Aug 27, 2019",Celtic FC,€600k,,,
+17,199297,Jacek Goralski,Defensive Midfield,"Sep 21, 1992",30,Poland,Wieczysta Krakow,"1,72m",right,"Jul 1, 2022",Kairat Almaty,€700k,,,
+18,111266,Anthony Losilla,Defensive Midfield,"Mar 10, 1986",37,France,VfL Bochum,"1,85m",right,"Jul 1, 2014",SG Dynamo Dresden,€500k,Team captain,,
+19,443331,Patrick Osterhage,Central Midfield,"Feb 1, 2000",23,Germany,VfL Bochum,"1,86m",left,"Jul 1, 2021",Borussia Dortmund II,€4.00m,,,
+20,339829,Pierre Kunde,Central Midfield,"Jul 26, 1995",27,Cameroon,Atromitos Athens,"1,80m",right,"Jan 6, 2023",Olympiacos Piraeus,€1.70m,,,
+21,106872,Kevin Stöger,Attacking Midfield,"Aug 27, 1993",29,Austria,VfL Bochum,"1,75m",left,"Jul 1, 2022",1.FSV Mainz 05,€3.00m,,,
+22,179635,Philipp Förster,Attacking Midfield,"Feb 4, 1995",28,Germany,VfL Bochum,"1,88m",left,"Jul 1, 2022",VfB Stuttgart,€2.80m,,,
+23,190289,Gerrit Holtmann,Left Winger,"Mar 25, 1995",28,Philippines,SV Darmstadt 98,"1,85m",left,"Aug 24, 2020",1.FSV Mainz 05,€2.50m,,,
+24,289182,Christopher Antwi-Adjei,Left Winger,"Feb 7, 1994",29,Ghana,VfL Bochum,"1,74m",right,"Jul 1, 2021",SC Paderborn 07,€2.20m,,,
+25,245744,Takuma Asano,Right Winger,"Nov 10, 1994",28,Japan,VfL Bochum,"1,73m",right,"Jul 1, 2021",Without Club,€4.00m,,,
+26,283140,Tarsis Bonga,Right Winger,"Jan 10, 1997",26,Germany,Hallescher FC,"1,97m",right,"Jul 15, 2020",Chemnitzer FC,€300k,Knee injury - Return unknown,,
+27,119037,Philipp Hofmann,Centre-Forward,"Mar 30, 1993",30,Germany,VfL Bochum,"1,95m",left,"Jul 1, 2022",Karlsruher SC,€2.80m,,,
+28,79967,Simon Zoller,Centre-Forward,"Jun 26, 1991",32,Germany,FC St. Pauli,"1,79m",right,"Jan 1, 2019",1.FC Köln,€1.10m,Hamstring injury - Return unknown,,
+29,291422,Lys Mousset,Centre-Forward,"Feb 8, 1996",27,France,Without Club,"1,86m",right,"Aug 15, 2022",Sheffield United,€1.00m,,"Returned after loan spell with Nîmes Olympique; date: Jun 30, 2023; fee: End of loan",
+30,406973,Moritz Broschinski,Centre-Forward,"Sep 23, 2000",22,Germany,VfL Bochum,"1,90m",right,"Jan 22, 2023",Borussia Dortmund II,€1.00m,,,
+31,312819,Silvere Ganvoula,Centre-Forward,"Jun 29, 1996",27,Congo,BSC Young Boys,"1,91m",right,"Jul 5, 2019",RSC Anderlecht,€600k,,,
+32,125714,Mark Flekken,Goalkeeper,"Jun 13, 1993",30,Netherlands,Brentford FC,"1,95m",both,"Jul 1, 2018",: Ablöse €2.00m,€10.00m,,,
+33,526845,Noah Atubolu,Goalkeeper,"May 25, 2002",21,Germany,SC Freiburg,"1,90m",right,"Jul 1, 2021",SC Freiburg II,€3.50m,,,
+34,120296,Benjamin Uphoff,Goalkeeper,"Aug 8, 1993",29,Germany,SC Freiburg,"1,92m",right,"Aug 5, 2020",Karlsruher SC,€500k,,,
+35,225657,Philipp Lienhart,Centre-Back,"Jul 11, 1996",26,Austria,SC Freiburg,"1,89m",right,"Jul 1, 2018",Real Madrid,€20.00m,unknown injury - Return unknown,,
+36,124502,Matthias Ginter,Centre-Back,"Jan 19, 1994",29,Germany,SC Freiburg,"1,89m",right,"Jul 1, 2022",Borussia Mönchengladbach,€18.00m,"Achilles tendon surgery - Return expected on Jun 30, 2024",,
+37,413843,Keven Schlotterbeck,Centre-Back,"Apr 28, 1997",26,Germany,VfL Bochum,"1,89m",left,"Jul 1, 2018",SC Freiburg II,€3.00m,,,
+38,527276,Kenneth Schmidt,Centre-Back,"Jun 3, 2002",21,Germany,SC Freiburg,"1,87m",left,"Jan 1, 2023",SC Freiburg II,€3.00m,Injury to abdominal muscles - Return unknown,,
+39,45683,Manuel Gulde,Centre-Back,"Feb 12, 1991",32,Germany,SC Freiburg,"1,84m",right,"Jul 1, 2016",Karlsruher SC,€1.50m,,,
+40,93707,Christian Günter,Left-Back,"Feb 28, 1993",30,Germany,SC Freiburg,"1,84m",left,"Jul 1, 2012",SC Freiburg U19,€7.50m,Team captain,,
+41,453865,Kimberly Ezekwem,Left-Back,"Jun 19, 2001",22,Germany,SC Paderborn 07,"1,87m",left,"Jul 1, 2021",SC Freiburg II,€350k,Ill - Return unknown,,
+42,548348,Kiliann Sildillia,Right-Back,"May 16, 2002",21,France,SC Freiburg,"1,86m",right,"Jul 1, 2021",SC Freiburg II,€12.00m,,,
+43,578680,Hugo Siquet,Right-Back,"Jul 9, 2002",20,Belgium,Cercle Brugge,"1,80m",right,"Jan 1, 2022",: Ablöse €4.50m,€3.30m,,,
+44,93604,Lukas Kübler,Right-Back,"Aug 30, 1992",30,Germany,SC Freiburg,"1,82m",right,"Jul 1, 2015",: Ablöse free transfer,€2.50m,,,
+45,342039,Yannik Keitel,Defensive Midfield,"Feb 15, 2000",23,Germany,SC Freiburg,"1,86m",both,"Jul 1, 2020",SC Freiburg II,€4.00m,,,
+46,55099,Nicolas Höfler,Defensive Midfield,"Mar 9, 1990",33,Germany,SC Freiburg,"1,81m",right,"Jul 1, 2010",SC Freiburg II,€2.50m,,,
+47,190284,Maximilian Eggestein,Central Midfield,"Dec 8, 1996",26,Germany,SC Freiburg,"1,81m",right,"Aug 18, 2021",SV Werder Bremen,€10.00m,,,
+48,608832,Merlin Röhl,Central Midfield,"Jul 5, 2002",20,Germany,SC Freiburg,"1,92m",right,"Aug 17, 2022",FC Ingolstadt 04,€2.00m,,,
+49,690429,Robert Wagner,Central Midfield,"Jul 14, 2003",19,Germany,SpVgg Greuther Fürth,"1,81m",right,"Jul 1, 2022",SC Freiburg II,€1.40m,,,
+50,70285,Jonathan Schmid,Right Midfield,"Jun 22, 1990",33,France,FC Progrès Niederkorn,"1,79m",right,"Jul 1, 2019",FC Augsburg,€900k,,,
+51,272587,Daniel-Kofi Kyereh,Attacking Midfield,"Mar 8, 1996",27,Ghana,SC Freiburg,"1,79m",right,"Jul 1, 2022",FC St. Pauli,€8.00m,Cruciate ligament tear - Return unknown,,
+52,297583,Woo-yeong Jeong,Attacking Midfield,"Sep 20, 1999",23,"Korea, South",VfB Stuttgart,"1,79m",right,"Jul 1, 2019",FC Bayern Munich II,€3.50m,,,
+53,185077,Vincenzo Grifo,Left Winger,"Apr 7, 1993",30,Italy,SC Freiburg,"1,80m",right,"Sep 2, 2019",TSG 1899 Hoffenheim,€12.00m,,,
+54,392163,Noah Weißhaupt,Left Winger,"Sep 20, 2001",21,Germany,SC Freiburg,"1,81m",right,"Jul 1, 2021",SC Freiburg II,€4.00m,,,
+55,473050,Kevin Schade,Right Winger,"Nov 27, 2001",21,Germany,Brentford FC,"1,85m",right,"Jul 1, 2021",SC Freiburg II,€25.00m,Adductor injury - Return unknown,"Returned after loan spell with Brentford FC; date: Jun 30, 2023; fee: End of loan",
+56,358504,Ritsu Doan,Right Winger,"Jun 16, 1998",25,Japan,SC Freiburg,"1,72m",left,"Jul 5, 2022",PSV Eindhoven,€18.00m,,,
+57,332798,Roland Sallai,Right Winger,"May 22, 1997",26,Hungary,SC Freiburg,"1,83m",both,"Aug 31, 2018",APOEL Nicosia,€10.00m,,,
+58,120205,Michael Gregoritsch,Centre-Forward,"Apr 18, 1994",29,Austria,SC Freiburg,"1,93m",left,"Jul 8, 2022",FC Augsburg,€8.00m,,,
+59,248999,Lucas Höler,Centre-Forward,"Jul 10, 1994",28,Germany,SC Freiburg,"1,84m",right,"Jan 1, 2018",: Ablöse €2.00m,€5.00m,,,
+60,42936,Nils Petersen,Centre-Forward,"Dec 6, 1988",34,Germany,Blankenburger FV,"1,88m",right,"Jul 1, 2015",SV Werder Bremen,€1.50m,,,
+61,93651,Marcel Schuhen,Goalkeeper,"Jan 13, 1993",30,Germany,SV Darmstadt 98,"1,90m",both,"Jul 1, 2019",: Ablöse free transfer,€1.00m,,,
+62,146693,Alexander Brunst,Goalkeeper,"Jul 7, 1995",27,Germany,SV Darmstadt 98,"1,95m",right,"Jul 1, 2022",Vejle Boldklub,€200k,,,
+63,275081,Steve Kroll,Goalkeeper,"May 7, 1997",26,Germany,Retired,"1,91m",right,"Jul 1, 2021",SpVgg Unterhaching,€125k,,,
+64,391742,Patric Pfeiffer,Centre-Back,"Aug 20, 1999",23,Ghana,FC Augsburg,"1,96m",right,"Jul 1, 2019",: Ablöse €250k,€3.00m,,,
+65,77812,Christoph Zimmermann,Centre-Back,"Jan 12, 1993",30,Germany,SV Darmstadt 98,"1,94m",right,"Jul 20, 2022",Norwich City,€1.30m,,,
+66,119286,Jannik Müller,Centre-Back,"Jan 18, 1994",29,Germany,SV Darmstadt 98,"1,87m",right,"Jul 1, 2021",DAC Dunajska Streda,€1.00m,,,
+67,692070,Clemens Riedel,Centre-Back,"Jul 19, 2003",19,Germany,SV Darmstadt 98,"1,86m",right,"Jul 1, 2021",SV Darmstadt 98 U19,€1.00m,,,
+68,322075,Thomas Isherwood,Centre-Back,"Jan 28, 1998",25,Sweden,SV Darmstadt 98,"1,95m",left,"Jan 3, 2021",Östersunds FK,€900k,,,
+69,286596,Emir Karic,Left-Back,"Jun 9, 1997",26,Austria,SV Darmstadt 98,"1,84m",left,"Jul 1, 2021",SCR Altach,€700k,,,
+70,54846,Fabian Holland,Left-Back,"Jul 11, 1990",32,Germany,SV Darmstadt 98,"1,72m",left,"Jul 5, 2015",: Ablöse €500k,€600k,Team captain,,
+71,321096,Keanan Bennetts,Left-Back,"Mar 9, 1999",24,Germany,SV Wehen Wiesbaden,"1,81m",left,"Oct 21, 2022",Without Club,€500k,,,
+72,725721,Philipp Sonn,Left-Back,"Sep 11, 2004",18,Germany,VfR Wormatia Worms,"1,71m",left,"Jul 1, 2022",SV Darmstadt 98 U19,€100k,,,
+73,237162,Matthias Bader,Right-Back,"Jun 17, 1997",26,Germany,SV Darmstadt 98,"1,76m",right,"Jan 31, 2020",1.FC Köln,€2.00m,,,
+74,270027,Frank Ronstadt,Right-Back,"Jul 21, 1997",25,Germany,1.FC Kaiserslautern,"1,79m",right,"Jul 1, 2021",Würzburger Kickers,€550k,,,
+75,57598,Klaus Gjasula,Defensive Midfield,"Dec 14, 1989",33,Albania,SV Darmstadt 98,"1,90m",both,"Aug 11, 2021",Hamburger SV,€500k,"Yellow card suspension - until Apr 7, 2024 - Bundesliga - 1 matchday",,
+76,391379,Yassin Ben Balla,Defensive Midfield,"Feb 24, 1996",27,France,SV Sandhausen,"1,80m",right,"Jul 2, 2022",FC Ingolstadt 04,€350k,,,
+77,94148,Fabian Schnellhardt,Central Midfield,"Jan 12, 1994",29,Germany,SV Darmstadt 98,"1,80m",left,"Jul 1, 2019",: Ablöse ?,€1.00m,,,
+78,42072,Tobias Kempe,Central Midfield,"Jun 27, 1989",34,Germany,SV Darmstadt 98,"1,84m",right,"Jul 7, 2017",1.FC Nuremberg,€500k,,,
+79,908211,Nico Baier,Central Midfield,"Apr 18, 2005",18,Poland,SV Darmstadt 98 U19,,,"Jul 1, 2017",,,,,
+80,237226,Marvin Mehlem,Attacking Midfield,"Sep 11, 1997",25,Germany,SV Darmstadt 98,"1,74m",right,"Jul 5, 2019",Karlsruher SC,€1.50m,"Broken fibula - Return expected on May 19, 2024",,
+81,283497,Mathias Honsak,Left Winger,"Dec 20, 1996",26,Austria,SV Darmstadt 98,"1,88m",left,"Jul 1, 2022",Red Bull Salzburg,€1.50m,,,
+82,482107,Magnus Warming,Left Winger,"Jun 8, 2000",23,Denmark,SK Brann,"1,88m",right,"Jan 2, 2022",Torino FC,€700k,,,
+83,828356,André Leipold,Right Winger,"Nov 12, 2001",21,Germany,SV Lafnitz,"1,81m",right,"Jul 1, 2021",SV Wacker Burghausen,€150k,,"Returned after loan spell with Würzburger Kickers; date: Jun 30, 2023; fee: End of loan",
+84,288340,Phillip Tietz,Centre-Forward,"Jul 9, 1997",25,Germany,FC Augsburg,"1,90m",right,"Jan 31, 2023",SV Wehen Wiesbaden,€2.70m,,,
+85,464195,Filip Stojilkovic,Centre-Forward,"Jan 4, 2000",23,Switzerland,1.FC Kaiserslautern,"1,86m",right,"Jul 1, 2019",: Ablöse €2.00m,€2.00m,,,
+86,231590,Braydon Manu,Centre-Forward,"Mar 28, 1997",26,Ghana,SV Darmstadt 98,"1,70m",both,"Jul 12, 2022",Hallescher FC,€1.50m,,,
+87,673071,Oscar Vilhelmsson,Centre-Forward,"Oct 2, 2003",19,Sweden,SV Darmstadt 98,"1,88m",left,"Aug 6, 2020",IFK Göteborg,€1.50m,,,
+88,187499,Aaron Seydel,Centre-Forward,"Feb 7, 1996",27,Germany,SV Darmstadt 98,"1,99m",left,"Dec 6, 2022",1.FSV Mainz 05,€500k,,,
+89,48015,Lukas Hradecky,Goalkeeper,"Nov 24, 1989",33,Finland,Bayer 04 Leverkusen,"1,92m",right,"Jul 1, 2018",Eintracht Frankfurt,€2.50m,Team captain,,
+90,223972,Patrick Pentz,Goalkeeper,"Jan 2, 1997",26,Austria,Bröndby IF,"1,83m",left,"Jan 27, 2023",Stade Reims,€1.50m,,,
+91,112541,Andrey Lunev,Goalkeeper,"Nov 13, 1991",31,Russia,Qarabağ FK,"1,90m",right,"Jul 10, 2021",: Ablöse free transfer,€1.20m,,,
+92,85543,Niklas Lomb,Goalkeeper,"Jul 28, 1993",29,Germany,Bayer 04 Leverkusen,"1,86m",right,"Jul 1, 2012",Bayer 04 Leverkusen U19,€250k,,,
+93,696022,Maximilian Neutgens,Goalkeeper,"Mar 3, 2004",19,Germany,Borussia Mönchengladbach II,"1,88m",,"Aug 16, 2021",,,unknown injury - Return unknown,,
+94,659813,Piero Hincapié,Centre-Back,"Jan 9, 2002",21,Ecuador,Bayer 04 Leverkusen,"1,84m",left,"Jan 31, 2020",CA Talleres,€35.00m,,,
+95,564545,Edmond Tapsoba,Centre-Back,"Feb 2, 1999",24,Burkina Faso,Bayer 04 Leverkusen,"1,92m",right,"Jul 16, 2015",Vitória Guimarães SC,€30.00m,,,
+96,196357,Jonathan Tah,Centre-Back,"Feb 11, 1996",27,Germany,Bayer 04 Leverkusen,"1,95m",right,"Jul 22, 2021",: Ablöse €9.00m,€20.00m,,,
+97,644771,Odilon Kossounou,Centre-Back,"Jan 4, 2001",22,Cote d'Ivoire,Bayer 04 Leverkusen,"1,91m",right,"Jul 1, 2019",Club Brugge KV,€18.00m,,,
+98,937113,Madi Monamay,Centre-Back,"Apr 6, 2006",17,Belgium,Bayer 04 Leverkusen U19,"1,85m",right,"Jan 13, 2021",,,,,
+99,215099,Daley Sinkgraven,Left-Back,"Jul 4, 1995",27,Netherlands,UD Las Palmas,"1,79m",left,"Aug 16, 2021",Ajax Amsterdam,€2.50m,,,
+100,315131,Timothy Fosu-Mensah,Right-Back,"Jan 2, 1998",25,Netherlands,Bayer 04 Leverkusen,"1,85m",right,"Jan 14, 2023",Manchester United,€2.00m,,,
+101,159088,Robert Andrich,Defensive Midfield,"Sep 22, 1994",28,Germany,Bayer 04 Leverkusen,"1,87m",right,"Jul 1, 2020",1.FC Union Berlin,€11.00m,,,
+102,743395,Noah Mbamba,Defensive Midfield,"Jan 5, 2005",18,Belgium,Bayer 04 Leverkusen,"1,87m",right,"Jul 1, 2022",Club Brugge KV,€3.00m,"No eligibility - until Jun 30, 2024 - UEFA Europa League",,
+103,452068,Ayman Azhil,Defensive Midfield,"Apr 10, 2001",22,Morocco,Borussia Dortmund II,"1,75m",,"Jan 1, 2020",Bayer 04 Leverkusen U19,€400k,,,
+104,606079,Joshua Eze,Defensive Midfield,"Mar 20, 2003",20,Germany,SC Fortuna Köln,"1,83m",right,"Jul 1, 2019",Bayer 04 Leverkusen U19,€200k,,,
+105,696024,Leon Köhl,Defensive Midfield,"Feb 17, 2004",19,Germany,Maryland Terrapins (University of Maryland),"1,86m",,"Jul 30, 2019",,,,,
+106,401578,Exequiel Palacios,Central Midfield,"Oct 5, 1998",24,Argentina,Bayer 04 Leverkusen,"1,77m",right,"Aug 13, 2015",: Ablöse €17.00m,€22.00m,,,
+107,125858,Kerem Demirbay,Central Midfield,"Jul 3, 1993",29,Germany,Galatasaray,"1,83m",left,"Jul 1, 2021",TSG 1899 Hoffenheim,€6.00m,,,
+108,232454,Nadiem Amiri,Central Midfield,"Oct 27, 1996",26,Germany,1.FSV Mainz 05,"1,80m",right,"Jan 27, 2021",TSG 1899 Hoffenheim,€6.00m,,,
+109,89701,Charles Aránguiz,Central Midfield,"Apr 17, 1989",34,Chile,Sport Club Internacional,"1,71m",right,"Jul 12, 2021",Sport Club Internacional,€3.50m,,,
+110,788445,Zidan Sertdemir,Central Midfield,"Feb 4, 2005",18,Denmark,FC Nordsjaelland,"1,86m",left,"Jul 1, 2020",FC Nordsjaelland U19,€1.00m,,,
+111,484547,Jeremie Frimpong,Right Midfield,"Dec 10, 2000",22,Netherlands,Bayer 04 Leverkusen,"1,71m",right,"Jul 1, 2023",Celtic FC,€40.00m,,,
+112,361065,Mitchel Bakker,Left Midfield,"Jun 20, 2000",23,Netherlands,Atalanta BC,"1,85m",left,"Aug 26, 2021",Paris Saint-Germain,€9.00m,,,
+113,598577,Florian Wirtz,Attacking Midfield,"May 3, 2003",20,Germany,Bayer 04 Leverkusen,"1,77m",right,"Aug 30, 2022",Bayer 04 Leverkusen U19,€85.00m,,,
+114,696027,Ayman Aourir,Attacking Midfield,"Oct 6, 2004",18,Morocco,Bayer 04 Leverkusen,"1,72m",both,"Jul 16, 2018",Bayer 04 Leverkusen U19,,,"Internal transfer: Bayer 04 Leverkusen U19; date: Jul 1, 2023",
+115,532776,Amine Adli,Left Winger,"May 10, 2000",23,Morocco,Bayer 04 Leverkusen,"1,74m",left,"Jul 1, 2019",FC Toulouse,€20.00m,,,
+116,392768,Callum Hudson-Odoi,Left Winger,"Nov 7, 2000",22,England,Nottingham Forest,"1,78m",right,"Jul 1, 2011",Chelsea FC,€15.00m,,,
+117,428791,Paulinho,Left Winger,"Jul 15, 2000",22,Brazil,Clube Atlético Mineiro,"1,77m",right,"Sep 8, 2020",Clube de Regatas Vasco da Gama,€7.50m,,"Returned after loan spell with Clube Atlético Mineiro; date: Jun 30, 2023; fee: End of loan",
+118,395516,Moussa Diaby,Right Winger,"Jul 7, 1999",23,France,Aston Villa,"1,71m",left,"Jul 1, 2022",Paris Saint-Germain,€50.00m,,,
+119,61087,Karim Bellarabi,Right Winger,"Apr 8, 1990",33,Germany,Without Club,"1,84m",right,"Jan 30, 2022",: Ablöse free transfer,€1.50m,,,
+120,242086,Patrik Schick,Centre-Forward,"Jan 24, 1996",27,Czech Republic,Bayer 04 Leverkusen,"1,91m",left,"Jul 1, 2014",AS Roma,€25.00m,,,
+121,160929,Marvin Schwäbe,Goalkeeper,"Apr 25, 1995",28,Germany,1.FC Köln,"1,90m",right,"Jul 1, 2021",Bröndby IF,€7.00m,,,
+122,607720,Jonas Urbig,Goalkeeper,"Aug 8, 2003",19,Germany,SpVgg Greuther Fürth,"1,89m",both,"Jul 1, 2022",1.FC Köln U19,€1.50m,,,
+123,84938,Timo Horn,Goalkeeper,"May 12, 1993",30,Germany,Red Bull Salzburg,"1,92m",left,"Jul 1, 2011",1.FC Köln II,€1.50m,Injury to abdominal muscles - Return unknown,,
+124,453757,Julian Roloff,Goalkeeper,"Jan 17, 2001",22,Germany,SV Grün-Weiß Brauweiler,"1,92m",right,"Mar 8, 2022",,€100k,,,
+125,227089,Matthias Köbbing,Goalkeeper,"May 28, 1997",26,Germany,1.FC Köln,"1,96m",both,"Jul 1, 2021",1.FC Köln II,€100k,,,
+126,236981,Timo Hübers,Centre-Back,"Jul 20, 1996",26,Germany,1.FC Köln,"1,90m",right,"Jul 1, 2023",Hannover 96,€8.50m,,,
+127,303219,Jeff Chabot,Centre-Back,"Feb 12, 1998",25,Germany,1.FC Köln,"1,95m",left,"Jul 1, 2022",UC Sampdoria,€5.50m,,"Joined from UC Sampdoria; date: Jul 1, 2023; fee: €2.50m",
+128,384553,Luca Kilian,Centre-Back,"Sep 1, 1999",23,Germany,1.FC Köln,"1,92m",right,"Sep 1, 2022",1.FSV Mainz 05,€3.50m,"Cruciate ligament injury - Return expected on Jun 30, 2024",,
+129,674921,Nikola Soldo,Centre-Back,"Jan 25, 2001",22,Croatia,1.FC Kaiserslautern,"1,89m",right,"Jul 1, 2023",NK Lokomotiva Zagreb,€1.50m,,,
+130,795762,Elias Bakatukanda,Centre-Back,"Apr 13, 2004",19,Germany,1.FC Köln,"1,93m",both,"Jul 1, 2012",1.FC Köln U19,€250k,Ill - Return unknown,"Internal transfer: 1.FC Köln U19; date: Jul 1, 2023",
+131,815822,Rijad Smajic,Centre-Back,"May 2, 2004",19,Bosnia-Herzegovina,1.FC Köln II,"1,90m",,"Jul 1, 2022",,€150k,"Yellow card suspension - until Apr 8, 2024 - Regionalliga West - 1 matchday",,
+132,108537,Jonas Hector,Left-Back,"May 27, 1990",33,Germany,Retired,"1,85m",left,"Jul 1, 2018",1.FC Köln II,€3.50m,,,
+133,331779,Kristian Pedersen,Left-Back,"Aug 4, 1994",28,Denmark,Sheffield Wednesday,"1,89m",left,"Jul 1, 2019",Birmingham City,€1.20m,,,
+134,160968,Benno Schmitz,Right-Back,"Nov 17, 1994",28,Germany,1.FC Köln,"1,82m",right,"Jul 1, 2019",: Ablöse €200k,€3.00m,,,
+135,272812,Kingsley Ehizibue,Right-Back,"May 25, 1995",28,Netherlands,Udinese Calcio,"1,89m",right,"Jul 29, 2019",PEC Zwolle,€2.50m,,,
+136,153678,Kingsley Schindler,Right-Back,"Jul 12, 1993",29,Ghana,Samsunspor,"1,83m",right,"Jul 1, 2021",Holstein Kiel,€1.00m,,,
+137,290587,Ellyes Skhiri,Defensive Midfield,"May 10, 1995",28,Tunisia,Eintracht Frankfurt,"1,85m",right,"Jul 1, 2022",Montpellier HSC,€13.00m,"Calf problems - Return expected on Apr 8, 2024",,
+138,287188,Dejan Ljubicic,Defensive Midfield,"Oct 8, 1997",25,Austria,1.FC Köln,"1,87m",right,"Jul 1, 2022",Rapid Vienna,€10.00m,,,
+139,597000,Eric Martel,Defensive Midfield,"Apr 29, 2002",21,Germany,1.FC Köln,"1,88m",right,"Sep 16, 2020",RB Leipzig,€9.00m,Indirect card suspension -  - DFB-Pokal - 1 matchday,,
+140,522077,Georg Strauch,Defensive Midfield,"Mar 30, 2001",22,Germany,1.FC Köln II,"1,77m",right,"Feb 4, 2022",,€200k,,,
+141,678479,Denis Huseinbasic,Central Midfield,"Jul 3, 2001",21,Bosnia-Herzegovina,1.FC Köln,"1,84m",right,"Jan 18, 2019",Kickers Offenbach,€5.00m,,,
+142,232418,Ondrej Duda,Central Midfield,"Dec 5, 1994",28,Slovakia,Hellas Verona,"1,80m",right,"Jan 1, 2024",Hertha BSC,€3.40m,,"Returned after loan spell with Hellas Verona; date: Jun 30, 2023; fee: End of loan",
+143,490581,Mathias Olesen,Central Midfield,"Mar 21, 2001",22,Luxembourg,Yverdon Sport FC,"1,88m",both,"Jan 17, 2020",1.FC Köln II,€1.20m,,,
+144,106270,Florian Kainz,Attacking Midfield,"Oct 24, 1992",30,Austria,1.FC Köln,"1,76m",both,"Jul 1, 2022",SV Werder Bremen,€5.00m,Team captain; Red card suspension -  - DFB-Pokal - 2 matchdays,,
+145,598575,Joshua Schwirten,Attacking Midfield,"Jan 7, 2002",21,Germany,FC Erzgebirge Aue,"1,82m",both,"Sep 21, 2020",,€200k,,,
+146,720162,Justin Diehl,Left Winger,"Nov 27, 2004",18,Germany,1.FC Köln,"1,74m",right,"Jul 1, 2022",1.FC Köln II,€500k,Fitness - Return unknown,"Joining: Unknown; date: Jul 1, 2024; fee: -",
+147,472249,Jan Thielmann,Right Winger,"May 26, 2002",21,Germany,1.FC Köln,"1,78m",right,"Jan 2, 2023",1.FC Köln U19,€6.50m,,,
+148,335103,Linton Maina,Right Winger,"Jun 23, 1999",24,Germany,1.FC Köln,"1,80m",right,"Jul 1, 2021",Hannover 96,€6.00m,,,
+149,324344,Dimitrios Limnios,Right Winger,"May 27, 1998",25,Greece,Panathinaikos FC,"1,78m",right,"Jul 1, 2020",PAOK Thessaloniki,€2.00m,,,
+150,296879,Steffen Tigges,Centre-Forward,"Jul 31, 1998",24,Germany,1.FC Köln,"1,94m",left,"Jul 5, 2022",Borussia Dortmund,€3.50m,,,
+151,178459,Davie Selke,Centre-Forward,"Jan 20, 1995",28,Germany,1.FC Köln,"1,95m",right,"Jul 1, 2022",Hertha BSC,€2.50m,,,
+152,112935,Mark Uth,Centre-Forward,"Aug 24, 1991",31,Germany,1.FC Köln,"1,85m",left,"Nov 17, 2018",FC Schalke 04,€1.50m,Fitness - Return unknown,,
+153,553285,Tim Lemperle,Centre-Forward,"Feb 5, 2002",21,Germany,SpVgg Greuther Fürth,"1,87m",right,"Sep 15, 2020",1.FC Köln U19,€1.50m,Ankle problems - Return unknown,,
+154,125614,Sargis Adamyan,Centre-Forward,"May 23, 1993",30,Armenia,1.FC Köln,"1,84m",right,"Jul 1, 2023",TSG 1899 Hoffenheim,€1.00m,,,
+155,93763,Alexander Schwolow,Goalkeeper,"Jun 2, 1992",31,Germany,1.FC Union Berlin,"1,90m",right,"Jul 1, 2022",Hertha BSC,€900k,,,
+156,39015,Ralf Fährmann,Goalkeeper,"Sep 27, 1988",34,Germany,FC Schalke 04,"1,97m",right,"Jul 1, 2011",Eintracht Frankfurt,€400k,,,
+157,453770,Justin Heekeren,Goalkeeper,"Nov 27, 2000",22,Germany,Patro Eisden Maasmechelen,"1,96m",,"Jul 1, 2022",Rot-Weiß Oberhausen,€250k,,,
+158,19114,Michael Langer,Goalkeeper,"Jan 6, 1985",38,Austria,FC Schalke 04,"1,95m",right,"Aug 4, 2017",IFK Norrköping,€50k,,,
+159,521964,Malick Thiaw,Centre-Back,"Aug 8, 2001",21,Germany,AC Milan,"1,94m",right,"Jul 1, 2020",FC Schalke 04 U19,€20.00m,"Heel spur - Return expected on Apr 11, 2024",,
+160,460245,Moritz Jenz,Centre-Back,"Apr 30, 1999",24,Germany,VfL Wolfsburg,"1,90m",right,"Jan 26, 2023",FC Lorient,€7.50m,,,
+161,541231,Sepp van den Berg,Centre-Back,"Dec 20, 2001",21,Netherlands,1.FSV Mainz 05,"1,92m",right,"Aug 30, 2022",Liverpool FC,€5.00m,,,
+162,434110,Leo Greiml,Centre-Back,"Jul 3, 2001",21,Austria,FC Schalke 04,"1,87m",right,"Jul 1, 2022",Rapid Vienna,€1.20m,Cruciate ligament tear - Return unknown,,
+163,81789,Maya Yoshida,Centre-Back,"Aug 24, 1988",34,Japan,Los Angeles Galaxy,"1,89m",right,"Jul 5, 2022",UC Sampdoria,€900k,,,
+164,129358,Marcin Kaminski,Centre-Back,"Jan 15, 1992",31,Poland,FC Schalke 04,"1,92m",left,"Jul 1, 2021",VfB Stuttgart,€700k,,,
+165,84085,Timothée Kolodziejczak,Centre-Back,"Oct 1, 1991",31,France,Paris FC,"1,83m",left,"Oct 21, 2022",Without Club,€400k,,,
+166,684340,Ibrahima Cissé,Centre-Back,"Feb 15, 2001",22,Mali,FC Schalke 04,"1,96m",right,"Jul 1, 2022",Jong KAA Gent,€200k,,,
+167,336008,Julius Schell,Centre-Back,"Jan 10, 2000",23,Germany,Alemannia Aachen,"1,88m",right,"Jul 1, 2022",,€125k,,,
+168,241477,Thomas Ouwejan,Left-Back,"Sep 30, 1996",26,Netherlands,FC Schalke 04,"1,83m",left,"Jan 7, 2023",AZ Alkmaar,€2.00m,,,
+169,131827,Jere Uronen,Left-Back,"Jul 13, 1994",28,Finland,Charlotte FC,"1,77m",left,"Sep 24, 2020",Stade Brestois 29,€1.00m,,,
+170,553905,Kerim Calhanoglu,Left-Back,"Aug 26, 2002",20,Germany,SpVgg Greuther Fürth,"1,80m",left,"Jul 7, 2022",FC Schalke 04 U19,€800k,,"Returned after loan spell with SV Sandhausen; date: Jun 30, 2023; fee: End of loan",
+171,452054,Joey Müller,Left-Back,"Aug 30, 2000",22,Germany,Roda JC Kerkrade,"1,80m",left,"Jul 1, 2021",,€175k,,,
+172,147038,Cédric Brunner,Right-Back,"Feb 17, 1994",29,Switzerland,FC Schalke 04,"1,81m",right,"Sep 28, 2021",Arminia Bielefeld,€1.80m,,,
+173,472242,Mehmet Aydın,Right-Back,"Feb 9, 2002",21,Türkiye,Trabzonspor,"1,80m",right,"Jul 14, 2022",FC Schalke 04 U19,€1.50m,,,
+174,570160,Henning Matriciani,Right-Back,"Mar 14, 2000",23,Germany,FC Schalke 04,"1,87m",right,"Jan 31, 2023",FC Schalke 04 II,€1.20m,,,
+175,337333,Alex Král,Defensive Midfield,"May 19, 1998",25,Czech Republic,1.FC Union Berlin,"1,86m",right,"Jul 1, 2021",Spartak Moscow,€7.00m,,,
+176,265127,Éder Balanta,Defensive Midfield,"Feb 28, 1993",30,Colombia,Club Brugge KV,"1,80m",left,"Jan 1, 2023",Club Brugge KV,€2.00m,,,
+177,596881,Florian Flick,Defensive Midfield,"May 1, 2000",23,Germany,1.FC Nuremberg,"1,90m",both,"Jul 1, 2022",FC Schalke 04 II,€1.50m,,"Returned after loan spell with 1.FC Nuremberg; date: Jun 30, 2023; fee: End of loan",
+178,470815,Niklas Tauer,Defensive Midfield,"Feb 17, 2001",22,Germany,Eintracht Braunschweig,"1,83m",right,"Jul 1, 2022",1.FSV Mainz 05,€1.20m,,,
+179,405687,Tom Krauß,Central Midfield,"Jun 22, 2001",22,Germany,1.FSV Mainz 05,"1,82m",right,"Jul 1, 2021",RB Leipzig,€7.00m,,,
+180,606752,Rodrigo Zalazar,Central Midfield,"Aug 12, 1999",23,Uruguay,SC Braga,"1,78m",right,"Apr 6, 2019",Eintracht Frankfurt,€4.00m,,,
+181,39025,Danny Latza,Central Midfield,"Dec 7, 1989",33,Germany,FC Schalke 04,"1,79m",right,"Jul 1, 2022",1.FSV Mainz 05,€500k,,,
+182,346332,Nassim Boujellab,Central Midfield,"Jun 20, 1999",24,Morocco,Arminia Bielefeld,"1,82m",both,"Jul 1, 2022",FC Schalke 04 II,€400k,,,
+183,153661,Tobias Mohr,Left Midfield,"Aug 24, 1995",27,Germany,FC Schalke 04,"1,82m",left,"Jul 21, 2021",1.FC Heidenheim 1846,€1.20m,,,
+184,222859,Florent Mollet,Attacking Midfield,"Nov 19, 1991",31,France,FC Nantes,"1,75m",right,"Jan 1, 2023",Montpellier HSC,€2.00m,,,
+185,53400,Dominick Drexler,Attacking Midfield,"May 26, 1990",33,Germany,FC Schalke 04,"1,83m",right,"Jul 1, 2021",1.FC Köln,€750k,,,
+186,405393,Soichiro Kozuki,Attacking Midfield,"Dec 22, 2000",22,Japan,Górnik Zabrze,"1,82m",right,"Jul 1, 2021",FC Schalke 04 II,€600k,,,
+187,283141,Blendi Idrizi,Attacking Midfield,"May 2, 1998",25,Kosovo,FC Schalke 04,"1,76m",right,"Jan 23, 2023",FC Schalke 04 II,€400k,,"Returned after loan spell with SSV Jahn Regensburg; date: Jun 30, 2023; fee: End of loan",
+188,116088,Marius Bülter,Left Winger,"Mar 29, 1993",30,Germany,TSG 1899 Hoffenheim,"1,88m",right,"Aug 5, 2022",1.FC Union Berlin,€3.00m,,,
+189,200041,Andreas Ivan,Left Winger,"Jan 10, 1995",28,Romania,FC Schalke 04 II,"1,80m",both,"Jan 20, 2023",,€125k,,,
+190,287920,Tim Skarke,Right Winger,"Sep 7, 1996",26,Germany,SV Darmstadt 98,"1,81m",right,"Sep 1, 2022",1.FC Union Berlin,€1.20m,,,
+191,410561,Sidi Sané,Right Winger,"Apr 21, 2003",20,Germany,Eintracht Braunschweig,"1,87m",right,"Jul 1, 2021",,€200k,,,
+192,308552,Jordan Larsson,Centre-Forward,"Jun 20, 1997",26,Sweden,FC Copenhagen,"1,75m",left,"Jul 1, 2022",Spartak Moscow,€3.00m,,"Returned after loan spell with FC Copenhagen; date: Jun 30, 2023; fee: End of loan",
+193,147043,Michael Frey,Centre-Forward,"Jul 19, 1994",28,Switzerland,Queens Park Rangers,"1,88m",right,"Jul 1, 2023",Royal Antwerp FC,€2.00m,,,
+194,43824,Kevin Müller,Goalkeeper,"Mar 15, 1991",32,Germany,1.FC Heidenheim 1846,"1,90m",right,"Jul 1, 2015",VfB Stuttgart II,€800k,,,
+195,57796,Vitus Eicher,Goalkeeper,"Nov 5, 1990",32,Germany,1.FC Heidenheim 1846,"1,91m",left,"Jan 17, 2017",TSV 1860 Munich,€250k,,,
+196,519035,Paul Tschernuth,Goalkeeper,"Jan 20, 2002",21,Austria,1.FC Heidenheim 1846,"1,86m",left,"Jul 1, 2021",1.FC Heidenheim 1846 U19,€100k,,,
+197,133731,Patrick Mainka,Centre-Back,"Nov 6, 1994",28,Germany,1.FC Heidenheim 1846,"1,94m",right,"Jul 1, 2018",Borussia Dortmund II,€2.00m,Team captain,,
+198,337092,Tim Siersleben,Centre-Back,"Mar 9, 2000",23,Germany,1.FC Heidenheim 1846,"1,87m",left,"Jul 1, 2023",VfL Wolfsburg,€1.50m,,"Joined from VfL Wolfsburg; date: Jul 1, 2023; fee: €500k",
+199,485747,Thomas Keller,Centre-Back,"Aug 5, 1999",23,Germany,1.FC Heidenheim 1846,"1,86m",right,"Jul 1, 2022",FC Ingolstadt 04,€350k,"Cruciate ligament tear - Return expected on May 1, 2024",,
+200,192169,Jonas Föhrenbach,Left-Back,"Jan 26, 1996",27,Germany,1.FC Heidenheim 1846,"1,84m",left,"Jul 1, 2019",SC Freiburg,€1.00m,,,
+201,31599,Norman Theuerkauf,Left-Back,"Jan 24, 1987",36,Germany,1.FC Heidenheim 1846,"1,83m",left,"Jul 1, 2015",: Ablöse free transfer,€300k,,,
+202,595301,Tim Köther,Left-Back,"Feb 22, 2001",22,Germany,MSV Duisburg,"1,75m",left,"Jul 1, 2022",Fortuna Düsseldorf II,€200k,,,
+203,117478,Marnon Busch,Right-Back,"Dec 8, 1994",28,Germany,1.FC Heidenheim 1846,"1,82m",right,"Jul 1, 2017",SV Werder Bremen,€1.50m,,,
+204,307845,Marvin Rittmüller,Right-Back,"Mar 7, 1999",24,Germany,Eintracht Braunschweig,"1,78m",both,"Jul 19, 2020",1.FC Köln II,€350k,,,
+205,392710,Lennard Maloney,Defensive Midfield,"Oct 8, 1999",23,United States,1.FC Heidenheim 1846,"1,88m",right,"Jul 1, 2022",Borussia Dortmund II,€2.00m,,,
+206,251295,Dzenis Burnic,Defensive Midfield,"May 22, 1998",25,Germany,Karlsruher SC,"1,81m",left,"Aug 3, 2020",Borussia Dortmund,€550k,,,
+207,93563,Andreas Geipl,Defensive Midfield,"Apr 21, 1992",31,Germany,SSV Jahn Regensburg,"1,78m",right,"Jul 1, 2020",SSV Jahn Regensburg,€350k,,,
+208,478423,Melvin Ramusovic,Defensive Midfield,"Jun 19, 2001",22,Germany,Stuttgarter Kickers,"1,84m",,"Jul 1, 2020",1.FC Heidenheim 1846 U19,€100k,,,
+209,581357,Jan Schöppner,Central Midfield,"Jun 12, 1999",24,Germany,1.FC Heidenheim 1846,"1,90m",right,"Aug 5, 2020",SC Verl,€1.50m,,,
+210,448028,Kevin Sessa,Central Midfield,"Jul 6, 2000",22,Germany,1.FC Heidenheim 1846,"1,75m",right,"Jul 1, 2018",1.FC Heidenheim 1846 U19,€1.50m,,,
+211,94030,Denis Thomalla,Attacking Midfield,"Aug 16, 1992",30,Germany,1.FC Heidenheim 1846,"1,86m",right,"Jul 1, 2016",Lech Poznan,€750k,,,
+212,273669,Adrian Beck,Attacking Midfield,"Jun 9, 1997",26,Germany,1.FC Heidenheim 1846,"1,86m",right,"Jul 1, 2022",SSV Ulm 1846,€650k,,,
+213,196843,Merveille Biankadi,Attacking Midfield,"May 9, 1995",28,Germany,Arminia Bielefeld,"1,84m",both,"Jul 18, 2019",FC Hansa Rostock,€300k,,,
+214,639504,Mert Arslan,Attacking Midfield,"Aug 12, 2003",19,Germany,1.FC Lokomotive Leipzig,"1,72m",both,"Jul 1, 2022",1.FC Heidenheim 1846 U19,€50k,,,
+215,342967,Jan-Niklas Beste,Left Winger,"Jan 4, 1999",24,Germany,1.FC Heidenheim 1846,"1,75m",left,"Jul 1, 2022",SV Werder Bremen,€3.00m,,,
+216,191359,Florian Pick,Left Winger,"Sep 8, 1995",27,Germany,1.FC Heidenheim 1846,"1,76m",right,"Sep 1, 2020",1.FC Kaiserslautern,€900k,,,
+217,924339,Christopher Negele,Left Winger,"Apr 11, 2005",18,Germany,1.FC Heidenheim 1846 U19,,,"Jul 1, 2021",,,,,
+218,193033,Tim Kleindienst,Centre-Forward,"Aug 31, 1995",27,Germany,1.FC Heidenheim 1846,"1,94m",right,"Sep 1, 2020",KAA Gent,€4.00m,,,
+219,184204,Christian Kühlwetter,Centre-Forward,"Apr 21, 1996",27,Germany,1.FC Heidenheim 1846,"1,82m",both,"Aug 6, 2019",1.FC Kaiserslautern,€600k,,,
+220,394033,Stefan Schimmer,Centre-Forward,"Apr 28, 1994",29,Germany,1.FC Heidenheim 1846,"1,85m",right,"Jul 1, 2022",SpVgg Unterhaching,€500k,,,
+221,247915,Jonas Omlin,Goalkeeper,"Jan 10, 1994",29,Switzerland,Borussia Mönchengladbach,"1,90m",right,"Jan 19, 2023",Montpellier HSC,€9.00m,Team captain,,
+222,42205,Yann Sommer,Goalkeeper,"Dec 17, 1988",34,Switzerland,Inter Milan,"1,83m",right,"Jul 1, 2014",: Ablöse €9.00m,€5.00m,,,
+223,455922,Jan Olschowsky,Goalkeeper,"Nov 18, 2001",21,Germany,Borussia Mönchengladbach,"1,85m",right,"Jul 13, 2020",Borussia Mönchengladbach II,€800k,,,
+224,31653,Tobias Sippel,Goalkeeper,"Mar 22, 1988",35,Germany,Borussia Mönchengladbach,"1,83m",right,"Jul 1, 2015",1.FC Kaiserslautern,€400k,,,
+225,284270,Moritz Nicolas,Goalkeeper,"Oct 21, 1997",25,Germany,Borussia Mönchengladbach,"1,93m",right,"Jul 1, 2016",Borussia Mönchengladbach II,€350k,,"Returned after loan spell with Roda JC Kerkrade; date: Jun 30, 2023; fee: End of loan",
+226,912447,Florian Dimmer,Goalkeeper,"Jan 15, 2005",18,Germany,Borussia Mönchengladbach U19,"1,90m",both,"Jul 1, 2015",,€100k,,,
+227,596103,Maximilian Brüll,Goalkeeper,"Aug 26, 2002",20,Germany,Borussia Mönchengladbach II,"1,87m",right,"Jul 1, 2018",,€75k,,,
+228,192635,Nico Elvedi,Centre-Back,"Sep 30, 1996",26,Switzerland,Borussia Mönchengladbach,"1,89m",right,"Jul 2, 2022",: Ablöse €4.00m,€18.00m,,,
+229,403898,Jordan Beyer,Centre-Back,"May 19, 2000",23,Germany,Burnley FC,"1,87m",right,"Jan 11, 2022",Borussia Mönchengladbach U19,€16.00m,Hamstring injury - Return unknown,"Returned after loan spell with Burnley FC; date: Jun 30, 2023; fee: End of loan",
+230,355816,Ko Itakura,Centre-Back,"Jan 27, 1997",26,Japan,Borussia Mönchengladbach,"1,88m",right,"Jul 1, 2009",Manchester City,€12.00m,,,
+231,196231,Marvin Friedrich,Centre-Back,"Dec 13, 1995",27,Germany,Borussia Mönchengladbach,"1,93m",right,"Jul 1, 2016",1.FC Union Berlin,€4.00m,,,
+232,47587,Tony Jantschke,Centre-Back,"Apr 7, 1990",33,Germany,Borussia Mönchengladbach,"1,77m",right,"Aug 14, 2019",Borussia Mönchengladbach U19,€600k,,,
+233,340480,Mamadou Doucouré,Centre-Back,"May 21, 1998",25,France,Borussia Mönchengladbach,"1,83m",left,"Aug 6, 2021",Paris Saint-Germain B,€100k,muscular problems - Return unknown,"Joining: Without Club; date: Jul 1, 2024; fee: -",
+234,284732,Ramy Bensebaini,Left-Back,"Apr 16, 1995",28,Algeria,Borussia Dortmund,"1,87m",left,"Jan 1, 2021",Stade Rennais FC,€20.00m,"Inner ligament injury - Return expected on May 31, 2024",,
+235,524285,Luca Netz,Left-Back,"May 15, 2003",20,Germany,Borussia Mönchengladbach,"1,84m",left,"Jul 1, 2019",Hertha BSC,€6.50m,,,
+236,504153,Joe Scally,Right-Back,"Dec 31, 2002",20,United States,Borussia Mönchengladbach,"1,84m",right,"Jan 4, 2023",New York City FC,€12.00m,,,
+237,85791,Stefan Lainer,Right-Back,"Aug 27, 1992",30,Austria,Borussia Mönchengladbach,"1,75m",right,"Jul 1, 2023",Red Bull Salzburg,€3.00m,,,
+238,912455,Simon Walde,Right-Back,"Jan 4, 2005",18,Germany,Borussia Mönchengladbach,"1,85m",right,"Jul 1, 2016",Borussia Mönchengladbach U19,€500k,"Syndesmotic ligament tear - Return expected on Jun 30, 2024",,
+239,196792,Julian Weigl,Defensive Midfield,"Sep 8, 1995",27,Germany,Borussia Mönchengladbach,"1,86m",right,"Jan 21, 2021",SL Benfica,€10.00m,,"Joined from SL Benfica; date: Jul 1, 2023; fee: €7.18m",
+240,82097,Christoph Kramer,Defensive Midfield,"Feb 19, 1991",32,Germany,Borussia Mönchengladbach,"1,91m",right,"Jul 1, 2017",Bayer 04 Leverkusen,€2.50m,,,
+241,624690,Manu Koné,Central Midfield,"May 17, 2001",22,France,Borussia Mönchengladbach,"1,85m",right,"Jul 1, 2022",FC Toulouse,€40.00m,"Torn muscle fiber - Return expected on Apr 22, 2024",,
+242,278332,Florian Neuhaus,Central Midfield,"Mar 16, 1997",26,Germany,Borussia Mönchengladbach,"1,85m",right,"Jul 1, 2020",TSV 1860 Munich,€12.00m,,,
+243,610428,Oscar Fraulo,Central Midfield,"Dec 6, 2003",19,Denmark,FC Utrecht,"1,80m",right,"Jul 1, 2018",FC Midtjylland,€2.00m,,,
+244,467434,Rocco Reitz,Central Midfield,"May 29, 2002",21,Germany,Borussia Mönchengladbach,"1,76m",right,"Jan 1, 2016",Borussia Mönchengladbach U19,€800k,,"Returned after loan spell with Sint-Truidense VV; date: Jun 30, 2023; fee: End of loan",
+245,368860,Torben Müsel,Central Midfield,"Jul 25, 1999",23,Germany,Rot-Weiss Essen,"1,85m",right,"Jul 1, 2015",1.FC Kaiserslautern,€200k,,,
+246,7161,Jonas Hofmann,Attacking Midfield,"Jul 14, 1992",30,Germany,Bayer 04 Leverkusen,"1,76m",right,"Jul 1, 2021",Borussia Dortmund,€13.00m,,,
+247,48298,Lars Stindl,Attacking Midfield,"Aug 26, 1988",34,Germany,Karlsruher SC,"1,81m",right,"Jul 1, 2021",: Ablöse €3.00m,€1.00m,,,
+248,520857,Conor Noß,Attacking Midfield,"Jan 1, 2001",22,Ireland,FC Blau-Weiss Linz,"1,82m",both,"Jul 1, 2022",Borussia Mönchengladbach II,€400k,,,
+249,321070,Hannes Wolf,Left Winger,"Apr 16, 1999",24,Austria,New York City FC,"1,79m",left,"Aug 30, 2022",RB Leipzig,€3.00m,,,
+250,586659,Yvandro Borges Sanches,Left Winger,"May 24, 2004",19,Luxembourg,NEC Nijmegen,"1,77m",right,"Jan 1, 2010",Borussia Mönchengladbach U19,€1.50m,"Cruciate ligament tear - Return expected on Oct 3, 2024",,
+251,629588,Nathan Ngoumou,Right Winger,"Mar 14, 2000",23,France,Borussia Mönchengladbach,"1,85m",right,"Jul 22, 2019",FC Toulouse,€5.00m,,,
+252,32711,Patrick Herrmann,Right Winger,"Feb 12, 1991",32,Germany,Borussia Mönchengladbach,"1,79m",right,"Jul 13, 2018",Borussia Mönchengladbach U19,€1.50m,,,
+253,318528,Marcus Thuram,Centre-Forward,"Aug 6, 1997",25,France,Inter Milan,"1,92m",right,"Jan 1, 2023",EA Guingamp,€32.00m,,,
+254,45672,Kevin Trapp,Goalkeeper,"Jul 8, 1990",32,Germany,Eintracht Frankfurt,"1,89m",right,"Aug 7, 2019",Paris Saint-Germain,€8.50m,,,
+255,448705,Diant Ramaj,Goalkeeper,"Sep 19, 2001",21,Germany,Ajax Amsterdam,"1,89m",both,"Jul 1, 2021",1.FC Heidenheim 1846,€750k,"Elbow injury - Return expected on Jun 30, 2024",,
+256,586229,Jannik Horz,Goalkeeper,"Apr 14, 2003",20,Germany,SG Barockstadt Fulda-Lehnerz,"1,93m",both,"Jul 19, 2021",,€200k,,,
+257,40034,Jens Grahl,Goalkeeper,"Sep 22, 1988",34,Germany,Eintracht Frankfurt,"1,92m",right,"Jan 1, 2023",VfB Stuttgart,€200k,,,
+258,726120,Simon Simoni,Goalkeeper,"Jul 14, 2004",18,Albania,Eintracht Frankfurt,"1,95m",right,"Jul 5, 2018",: Ablöse €600k,€200k,,,
+259,371149,Evan Ndicka,Centre-Back,"Aug 20, 1999",23,Cote d'Ivoire,AS Roma,"1,92m",left,"Jan 31, 2019",AJ Auxerre,€28.00m,"Yellow card suspension - until Apr 7, 2024 - Serie A - 1 matchday",,
+260,546213,Tuta,Centre-Back,"Jul 4, 1999",23,Brazil,Eintracht Frankfurt,"1,85m",right,"Jul 1, 2022",São Paulo FC U20,€15.00m,Red card suspension -  - Bundesliga,,
+261,571299,Hrvoje Smolcic,Centre-Back,"Aug 17, 2000",22,Croatia,Eintracht Frankfurt,"1,85m",left,"Jan 31, 2019",HNK Rijeka,€4.00m,,,
+262,216181,Almamy Touré,Centre-Back,"Apr 28, 1996",27,Mali,1.FC Kaiserslautern,"1,81m",right,"Jul 1, 2022",AS Monaco,€2.50m,,,
+263,272638,Jérôme Onguéné,Centre-Back,"Dec 22, 1997",25,Cameroon,Servette FC,"1,86m",right,"Jul 1, 2014",Red Bull Salzburg,€2.00m,,,
+264,39259,Makoto Hasebe,Centre-Back,"Jan 18, 1984",39,Japan,Eintracht Frankfurt,"1,80m",right,"Jul 1, 2023",1.FC Nuremberg,€800k,,,
+265,666168,Dario Gebuhr,Centre-Back,"May 6, 2003",20,Germany,Eintracht Frankfurt,"1,88m",both,"Aug 12, 2022",Eintracht Frankfurt II,€400k,,"Internal transfer: Eintracht Frankfurt II; date: Jul 1, 2023",
+266,346567,Luca Pellegrini,Left-Back,"Mar 7, 1999",24,Italy,SS Lazio,"1,78m",left,"Jul 1, 2023",Juventus FC,€7.00m,,,
+267,111275,Philipp Max,Left-Back,"Sep 30, 1993",29,Germany,Eintracht Frankfurt,"1,77m",left,"Jul 1, 2021",PSV Eindhoven,€3.00m,,"Joined from PSV Eindhoven; date: Jul 1, 2023; fee: €2.00m",
+268,159844,Christopher Lenz,Left-Back,"Sep 22, 1994",28,Germany,RB Leipzig,"1,80m",left,"Aug 20, 2021",1.FC Union Berlin,€2.50m,,,
+269,610798,Jan Schröder,Left-Back,"Apr 15, 2003",20,Germany,Delaware Fightin' Blue Hens (Univ. of Delaware),"1,82m",left,"Jul 1, 2022",Eintracht Frankfurt U19,€200k,,,
+270,258039,Aurélio Buta,Right-Back,"Feb 10, 1997",26,Portugal,Eintracht Frankfurt,"1,72m",right,"Jul 1, 2014",Royal Antwerp FC,€8.00m,Ill - Return unknown,,
+271,49723,Timothy Chandler,Right-Back,"Mar 29, 1990",33,United States,Eintracht Frankfurt,"1,86m",right,"Jul 1, 2022",1.FC Nuremberg,€700k,,,
+272,374954,Kristijan Jakic,Defensive Midfield,"May 14, 1997",26,Croatia,FC Augsburg,"1,84m",right,"Jul 1, 2019",GNK Dinamo Zagreb,€7.00m,,,
+273,212723,Djibril Sow,Central Midfield,"Feb 6, 1997",26,Switzerland,Sevilla FC,"1,84m",right,"Jul 1, 2023",BSC Young Boys,€22.00m,,,
+274,536482,Junior Dina Ebimbe,Central Midfield,"Nov 21, 2000",22,France,Eintracht Frankfurt,"1,84m",right,"Jul 27, 2019",Paris Saint-Germain,€10.00m,"Yellow card suspension - until Apr 14, 2024 - Bundesliga - 1 matchday","Joined from Paris Saint-Germain; date: Jul 1, 2023; fee: €6.50m",
+275,44466,Sebastian Rode,Central Midfield,"Oct 11, 1990",32,Germany,Eintracht Frankfurt,"1,79m",right,"Jul 1, 2022",Borussia Dortmund,€2.00m,Team captain; Knee problems - Return unknown,"Joining: Retired; date: Jul 1, 2024; fee: -",
+276,654872,Marcel Wenig,Central Midfield,"May 4, 2004",19,Germany,1.FC Nuremberg,"1,88m",right,"Jul 1, 2022",FC Bayern Munich U19 ,€800k,Cruciate ligament tear - Return unknown,,
+277,519869,Mehdi Loune,Central Midfield,"May 14, 2004",19,Germany,Eintracht Frankfurt,"1,72m",,"Jul 1, 2019",Eintracht Frankfurt U19,€300k,Cruciate ligament tear - Return unknown,,
+278,161011,Filip Kostić,Left Midfield,"Nov 1, 1992",30,Serbia,Juventus FC,"1,84m",left,"Jul 11, 2021",: Ablöse €6.30m,€22.00m,,,
+279,513245,Jesper Lindstrøm,Attacking Midfield,"Feb 29, 2000",23,Denmark,SSC Napoli,"1,82m",right,"Jul 1, 2017",Bröndby IF,€28.00m,,,
+280,356141,Daichi Kamada,Attacking Midfield,"Aug 5, 1996",26,Japan,SS Lazio,"1,84m",right,"Jul 1, 2022",Sagan Tosu,€27.00m,,,
+281,74842,Mario Götze,Attacking Midfield,"Jun 3, 1992",31,Germany,Eintracht Frankfurt,"1,76m",right,"Jan 1, 2023",PSV Eindhoven,€12.00m,,,
+282,795738,Paxten Aaronson,Attacking Midfield,"Aug 26, 2003",19,United States,Vitesse Arnhem,"1,75m",right,"Jul 1, 2022",Philadelphia Union,€4.50m,,,
+283,422355,Jens Petter Hauge,Left Winger,"Oct 12, 1999",23,Norway,FK Bodø/Glimt,"1,84m",right,"Jul 1, 2022",AC Milan,€2.50m,,"Returned after loan spell with KAA Gent; date: Jun 30, 2023; fee: End of loan",
+284,456492,Faride Alidou,Left Winger,"Jul 18, 2001",21,Germany,1.FC Köln,"1,86m",right,"Jul 1, 2023",Hamburger SV,€2.50m,,,
+285,429874,Ansgar Knauff,Right Winger,"Jan 10, 2002",21,Germany,Eintracht Frankfurt,"1,80m",right,"Jul 1, 2022",Borussia Dortmund,€8.00m,,"Joined from Borussia Dortmund; date: Jul 1, 2023; fee: €5.00m",
+286,487969,Randal Kolo Muani,Centre-Forward,"Dec 5, 1998",24,France,Paris Saint-Germain,"1,87m",right,"Jul 5, 2021",FC Nantes,€80.00m,,,
+287,323831,Rafael Borré,Centre-Forward,"Sep 15, 1995",27,Colombia,Sport Club Internacional,"1,74m",right,"Jul 1, 2022",: Ablöse free transfer,€9.00m,,"Returned after loan spell with SV Werder Bremen; date: Mar 4, 2024; fee: End of loan",
+288,193782,Lucas Alario,Centre-Forward,"Oct 8, 1992",30,Argentina,Sport Club Internacional,"1,85m",right,"Oct 5, 2022",Bayer 04 Leverkusen,€2.50m,,,
+289,257814,Gregor Kobel,Goalkeeper,"Dec 6, 1997",25,Switzerland,Borussia Dortmund,"1,96m",right,"Jul 1, 2021",VfB Stuttgart,€35.00m,Stomach flu - Return unknown,,
+290,453737,Marcel Lotka,Goalkeeper,"May 25, 2001",22,Germany,Borussia Dortmund,"1,90m",right,"Jul 1, 2022",Hertha BSC,€1.50m,,,
+291,76158,Alexander Meyer,Goalkeeper,"Apr 13, 1991",32,Germany,Borussia Dortmund,"1,95m",right,"Jul 1, 2022",SSV Jahn Regensburg,€1.00m,,,
+292,388815,Luca Unbehaun,Goalkeeper,"Feb 27, 2001",22,Germany,SC Verl,"1,85m",right,"Jul 1, 2019",Borussia Dortmund U19,€650k,,,
+293,684116,Silas Ostrzinski,Goalkeeper,"Nov 19, 2003",19,Germany,Borussia Dortmund II,"1,98m",right,"Jul 1, 2022",,€150k,,,
+294,388198,Nico Schlotterbeck,Centre-Back,"Dec 1, 1999",23,Germany,Borussia Dortmund,"1,91m",left,"Jul 1, 2022",SC Freiburg,€40.00m,,,
+295,166601,Niklas Süle,Centre-Back,"Sep 3, 1995",27,Germany,Borussia Dortmund,"1,95m",right,"Jul 1, 2019",Bayern Munich,€35.00m,,,
+296,39728,Mats Hummels,Centre-Back,"Dec 16, 1988",34,Germany,Borussia Dortmund,"1,91m",right,"Jul 1, 2021",Bayern Munich,€6.00m,,,
+297,659513,Soumaïla Coulibaly,Centre-Back,"Oct 14, 2003",19,France,Royal Antwerp FC,"1,91m",left,"Jul 1, 2016",Paris Saint-Germain U19,€1.00m,,,
+298,482573,Antonios Papadopoulos,Centre-Back,"Sep 10, 1999",23,Germany,Borussia Dortmund II,"1,86m",right,"Jul 1, 2022",,€600k,,,
+299,170986,Raphaël Guerreiro,Left-Back,"Dec 22, 1993",29,Portugal,Bayern Munich,"1,70m",left,"Jul 1, 2019",FC Lorient,€20.00m,,,
+300,798043,Tom Rothe,Left-Back,"Oct 29, 2004",18,Germany,Holstein Kiel,"1,93m",left,"Jan 17, 2023",Borussia Dortmund U19,€3.50m,,,
+301,85867,Nico Schulz,Left-Back,"Apr 1, 1993",30,Germany,Without Club,"1,80m",left,"Jul 2, 2018",TSG 1899 Hoffenheim,€1.00m,,,
+302,370789,Julian Ryerson,Right-Back,"Nov 17, 1997",25,Norway,Borussia Dortmund,"1,83m",right,"Jul 1, 2020",1.FC Union Berlin,€13.00m,,,
+303,193900,Marius Wolf,Right-Back,"May 27, 1995",28,Germany,Borussia Dortmund,"1,87m",right,"Jan 4, 2016",Eintracht Frankfurt,€10.00m,,,
+304,100986,Thomas Meunier,Right-Back,"Sep 12, 1991",31,Belgium,Trabzonspor,"1,91m",right,"Jul 1, 2019",Paris Saint-Germain,€5.00m,,,
+305,274461,Felix Passlack,Right-Back,"May 29, 1998",25,Germany,VfL Bochum,"1,70m",right,"Jul 1, 2020",Borussia Dortmund U19,€1.50m,,,
+306,388513,Mateu Morey,Right-Back,"Mar 2, 2000",23,Spain,Borussia Dortmund,"1,73m",right,"Jul 1, 2022",FC Barcelona U19,€1.00m,,,
+307,119296,Emre Can,Defensive Midfield,"Jan 12, 1994",29,Germany,Borussia Dortmund,"1,86m",right,"Jul 1, 2017",Juventus FC,€14.00m,Team captain,,
+308,244940,Salih Özcan,Defensive Midfield,"Jan 11, 1998",25,Türkiye,Borussia Dortmund,"1,83m",right,"Jul 23, 2020",1.FC Köln,€13.00m,,,
+309,718232,Abdoulaye Kamara,Defensive Midfield,"Nov 6, 2004",18,France,Borussia Dortmund II,"1,85m",right,"Jul 1, 2019",,€1.00m,unknown injury - Return unknown,,
+310,191422,Mahmoud Dahoud,Central Midfield,"Jan 1, 1996",27,Syria,VfB Stuttgart,"1,78m",right,"Jan 12, 2020",Borussia Mönchengladbach,€12.00m,,,
+311,581678,Jude Bellingham,Attacking Midfield,"Jun 29, 2003",20,England,Real Madrid,"1,86m",right,"Jul 1, 2012",Birmingham City,€120.00m,,,
+312,187492,Julian Brandt,Attacking Midfield,"May 2, 1996",27,Germany,Borussia Dortmund,"1,85m",right,"Jul 1, 2022",Bayer 04 Leverkusen,€40.00m,,,
+313,504215,Giovanni Reyna,Attacking Midfield,"Nov 13, 2002",20,United States,Nottingham Forest,"1,85m",right,"Jul 1, 2022",Borussia Dortmund U19,€25.00m,,,
+314,35207,Marco Reus,Attacking Midfield,"May 31, 1989",34,Germany,Borussia Dortmund,"1,80m",right,"Jul 1, 2019",Borussia Mönchengladbach,€7.00m,,,
+315,655912,Göktan Gürpüz,Attacking Midfield,"Jan 22, 2003",20,Türkiye,Trabzonspor,"1,75m",right,"Jul 27, 2021",,€300k,,,
+316,496094,Karim Adeyemi,Left Winger,"Jan 18, 2002",21,Germany,Borussia Dortmund,"1,80m",left,"Jan 27, 2023",Red Bull Salzburg,€40.00m,,,
+317,670882,Jamie Bynoe-Gittens,Left Winger,"Aug 8, 2004",18,England,Borussia Dortmund,"1,77m",right,"Jul 6, 2022",Borussia Dortmund U19,€14.00m,,,
+318,102226,Thorgan Hazard,Left Winger,"Mar 29, 1993",30,Belgium,RSC Anderlecht,"1,75m",right,"Jul 29, 2020",Borussia Mönchengladbach,€7.00m,,"Returned after loan spell with PSV Eindhoven; date: Jun 30, 2023; fee: End of loan",
+319,326029,Donyell Malen,Right Winger,"Jan 19, 1999",24,Netherlands,Borussia Dortmund,"1,76m",right,"Aug 8, 2022",PSV Eindhoven,€28.00m,Thigh problems - Return unknown,,
+320,107775,Frederik Rönnow,Goalkeeper,"Aug 4, 1992",30,Denmark,1.FC Union Berlin,"1,88m",right,"Jul 20, 2021",Eintracht Frankfurt,€5.50m,,,
+321,309397,Lennart Grill,Goalkeeper,"Jan 25, 1999",24,Germany,VfL Osnabrück,"1,92m",right,"Jul 1, 2023",Bayer 04 Leverkusen,€1.00m,,,
+322,203411,Jakob Busk,Goalkeeper,"Sep 12, 1993",29,Denmark,1.FC Union Berlin,"1,89m",right,"Jan 15, 2016",FC Copenhagen,€250k,,"Joining: Without Club; date: Jul 1, 2024; fee: -",
+323,698840,Yannic Stein,Goalkeeper,"Sep 17, 2004",18,Germany,VfB Lübeck,"1,90m",,"Jul 1, 2023",1.FC Union Berlin U19,€200k,,,
+324,387047,Danilho Doekhi,Centre-Back,"Jun 30, 1998",25,Netherlands,1.FC Union Berlin,"1,90m",right,"Jul 1, 2022",Vitesse Arnhem,€17.00m,,,
+325,357156,Diogo Leite,Centre-Back,"Jan 23, 1999",24,Portugal,1.FC Union Berlin,"1,90m",left,"Jul 1, 2023",FC Porto,€15.00m,,"Joined from FC Porto; date: Jul 1, 2023; fee: €7.50m",
+326,284248,Paul Jaeckel,Centre-Back,"Jul 22, 1998",24,Germany,1.FC Union Berlin,"1,86m",right,"Jul 1, 2021",SpVgg Greuther Fürth,€5.00m,,,
+327,94201,Robin Knoche,Centre-Back,"May 22, 1992",31,Germany,1.FC Union Berlin,"1,89m",right,"Aug 4, 2020",VfL Wolfsburg,€5.00m,,,
+328,187491,Timo Baumgartl,Centre-Back,"Mar 4, 1996",27,Germany,FC Schalke 04,"1,92m",right,"Jul 1, 2021",PSV Eindhoven,€3.00m,"Suspended - until Jun 30, 2024 - 2. Bundesliga - 8 matchdays",,
+329,110036,Dominique Heintz,Centre-Back,"Aug 15, 1993",29,Germany,1.FC Köln,"1,88m",left,"Jan 1, 2022",SC Freiburg,€1.20m,,"Returned after loan spell with VfL Bochum; date: Jun 30, 2023; fee: End of loan",
+330,127076,Jérôme Roussillon,Left-Back,"Jan 6, 1993",30,Guadeloupe,1.FC Union Berlin,"1,72m",left,"Jan 12, 2023",VfL Wolfsburg,€3.00m,,,
+331,361575,Tymoteusz Puchacz,Left-Back,"Jan 23, 1999",24,Poland,1.FC Kaiserslautern,"1,80m",left,"Jul 1, 2021",Lech Poznan,€1.20m,,,
+332,72792,Niko Gießelmann,Left-Back,"Sep 26, 1991",31,Germany,SpVgg Greuther Fürth,"1,82m",left,"Jul 15, 2020",Fortuna Düsseldorf,€1.00m,Knock - Return unknown,,
+333,370789,Julian Ryerson,Right-Back,"Nov 17, 1997",25,Norway,Borussia Dortmund,"1,83m",right,"Jul 31, 2018",Viking FK,€13.00m,,,
+334,362977,Josip Juranovic,Right-Back,"Aug 16, 1995",27,Croatia,1.FC Union Berlin,"1,73m",right,"Jan 22, 2023",Celtic FC,€12.00m,,,
+335,75921,Christopher Trimmel,Right-Back,"Feb 24, 1987",36,Austria,1.FC Union Berlin,"1,89m",right,"Jul 1, 2014",Rapid Vienna,€800k,Team captain,,
+336,124410,Rani Khedira,Defensive Midfield,"Jan 27, 1994",29,Germany,1.FC Union Berlin,"1,89m",right,"Jul 1, 2021",FC Augsburg,€10.00m,,,
+337,692737,Aljoscha Kemlein,Defensive Midfield,"Aug 2, 2004",18,Germany,FC St. Pauli,"1,85m",right,"Jul 1, 2023",1.FC Union Berlin U19,€250k,,,
+338,177779,Janik Haberer,Central Midfield,"Apr 2, 1994",29,Germany,1.FC Union Berlin,"1,86m",right,"Jul 1, 2022",SC Freiburg,€7.00m,,,
+339,233782,Aïssa Laïdouni,Central Midfield,"Dec 13, 1996",26,Tunisia,1.FC Union Berlin,"1,84m",right,"Jan 27, 2023",Ferencvárosi TC,€7.00m,,,
+340,226524,Morten Thorsby,Central Midfield,"May 5, 1996",27,Norway,Genoa CFC,"1,88m",right,"Jul 19, 2022",UC Sampdoria,€5.50m,,,
+341,454863,András Schäfer,Central Midfield,"Apr 13, 1999",24,Hungary,1.FC Union Berlin,"1,78m",right,"Jan 21, 2022",DAC Dunajska Streda,€5.00m,,,
+342,183780,Paul Seguin,Central Midfield,"Mar 29, 1995",28,Germany,FC Schalke 04,"1,86m",right,"Jul 1, 2022",SpVgg Greuther Fürth,€2.50m,,,
+343,94137,Kevin Möhwald,Central Midfield,"Jul 3, 1993",29,Germany,KAS Eupen,"1,82m",right,"Aug 30, 2021",SV Werder Bremen,€600k,,,
+344,232144,Milos Pantovic,Attacking Midfield,"Jul 7, 1996",26,Serbia,KAS Eupen,"1,86m",right,"Jul 1, 2022",VfL Bochum,€1.50m,Hamstring muscle injury - Return unknown,,
+345,79377,Genki Haraguchi,Attacking Midfield,"May 9, 1991",32,Japan,VfB Stuttgart,"1,78m",right,"Jul 1, 2021",Hannover 96,€1.00m,,,
+346,168543,Levin Öztunali,Left Winger,"Mar 15, 1996",27,Germany,Hamburger SV,"1,84m",right,"Jul 1, 2021",1.FSV Mainz 05,€1.20m,,,
+347,518505,Jamie Leweling,Right Winger,"Feb 26, 2001",22,Germany,VfB Stuttgart,"1,85m",both,"Jul 1, 2022",SpVgg Greuther Fürth,€3.00m,,,
+348,287920,Tim Skarke,Right Winger,"Sep 7, 1996",26,Germany,SV Darmstadt 98,"1,81m",right,"Jul 1, 2022",SV Darmstadt 98,€1.20m,,,
+349,392156,Tim Maciejewski,Right Winger,"Mar 5, 2001",22,Germany,SV Sandhausen,"1,86m",right,"Jul 1, 2020",1.FC Union Berlin U19,€350k,,,
+350,188888,Sheraldo Becker,Centre-Forward,"Feb 9, 1995",28,Suriname,Real Sociedad,"1,80m",right,"Jul 1, 2019",ADO Den Haag,€17.00m,,,
+351,355369,Jordan,Centre-Forward,"Apr 26, 1996",27,United States,Borussia Mönchengladbach,"1,91m",right,"Jul 1, 2022",BSC Young Boys,€7.00m,,,
+352,117432,Kevin Behrens,Centre-Forward,"Feb 3, 1991",32,Germany,VfL Wolfsburg,"1,85m",both,"Jul 1, 2021",SV Sandhausen,€2.00m,,,
+353,186988,Sven Michel,Centre-Forward,"Jul 15, 1990",32,Germany,FC Augsburg,"1,77m",left,"Jan 31, 2022",SC Paderborn 07,€900k,,,
+354,94771,Andreas Voglsammer,Centre-Forward,"Jan 9, 1992",31,Germany,Hannover 96,"1,77m",right,"Jul 1, 2021",Arminia Bielefeld,€800k,,,
+355,692736,Malick Sanogo,Centre-Forward,"Jun 30, 2004",19,United States,1.FC Nuremberg II,"1,85m",left,"Jul 1, 2023",1.FC Union Berlin U19,,,"Internal transfer: 1.FC Union Berlin U19; date: Jul 1, 2023",
+356,17259,Manuel Neuer,Goalkeeper,"Mar 27, 1986",37,Germany,Bayern Munich,"1,93m",right,"Jul 1, 2011",FC Schalke 04,€7.00m,Team captain; Torn muscle fiber - Return unknown,,
+357,42205,Yann Sommer,Goalkeeper,"Dec 17, 1988",34,Switzerland,Inter Milan,"1,83m",right,"Jan 19, 2023",Borussia Mönchengladbach,€5.00m,,,
+358,40680,Sven Ulreich,Goalkeeper,"Aug 3, 1988",34,Germany,Bayern Munich,"1,92m",right,"Jul 1, 2021",Hamburger SV,€700k,,,
+359,604326,Johannes Schenk,Goalkeeper,"Jan 13, 2003",20,Germany,Preußen Münster,"1,91m",,"Jul 1, 2022",FC Bayern Munich II,€300k,,,
+360,326031,Matthijs de Ligt,Centre-Back,"Aug 12, 1999",23,Netherlands,Bayern Munich,"1,89m",right,"Jul 19, 2022",Juventus FC,€75.00m,,,
+361,344695,Dayot Upamecano,Centre-Back,"Oct 27, 1998",24,France,Bayern Munich,"1,86m",right,"Jul 5, 2021",RB Leipzig,€60.00m,,,
+362,353366,Benjamin Pavard,Centre-Back,"Mar 28, 1996",27,France,Inter Milan,"1,86m",right,"Jul 1, 2019",VfB Stuttgart,€40.00m,,,
+363,483046,Josip Stanisic,Centre-Back,"Apr 2, 2000",23,Croatia,Bayer 04 Leverkusen,"1,87m",both,"Aug 1, 2021",FC Bayern Munich II,€12.00m,,,
+364,538996,Tanguy Nianzou,Centre-Back,"Jun 7, 2002",21,France,Sevilla FC,"1,91m",right,"Jul 1, 2020",Paris Saint-Germain,€7.50m,,,
+365,12282,Daley Blind,Centre-Back,"Mar 9, 1990",33,Netherlands,Girona FC,"1,80m",left,"Jan 5, 2023",Ajax Amsterdam,€3.00m,,,
+366,639580,Justin Janitzek,Centre-Back,"Feb 10, 2004",19,Germany,FC St. Gallen 1879,"1,92m",right,"Jan 1, 2019",,€500k,,,
+367,567114,Liam Morrison,Centre-Back,"Apr 7, 2003",20,Scotland,Wigan Athletic,"1,83m",right,"Jul 1, 2019",,€300k,,,
+368,604322,Gabriel Marusic,Centre-Back,"Mar 3, 2003",20,Croatia,FC Bayern Munich II,"1,86m",left,"Jan 31, 2023",,€150k,Cruciate ligament tear - Return unknown,,
+369,424204,Alphonso Davies,Left-Back,"Nov 2, 2000",22,Canada,Bayern Munich,"1,85m",left,"Jul 1, 2022",Vancouver Whitecaps FC,€70.00m,,,
+370,281963,Lucas Hernández,Left-Back,"Feb 14, 1996",27,France,Paris Saint-Germain,"1,84m",left,"Oct 5, 2020",Atlético de Madrid,€45.00m,,,
+371,182712,João Cancelo,Right-Back,"May 27, 1994",29,Portugal,FC Barcelona,"1,82m",right,"Jul 2, 2015",Manchester City,€50.00m,"Yellow card suspension - until Apr 14, 2024 - LaLiga - 1 matchday",,
+372,340456,Noussair Mazraoui,Right-Back,"Nov 14, 1997",25,Morocco,Bayern Munich,"1,83m",right,"Nov 1, 2023",Ajax Amsterdam,€28.00m,,,
+373,190685,Bouna Sarr,Right-Back,"Jan 31, 1992",31,Senegal,Bayern Munich,"1,78m",right,"Jul 1, 2018",Olympique Marseille,€2.00m,"Cruciate ligament tear - Return expected on May 31, 2024",,
+374,161056,Joshua Kimmich,Defensive Midfield,"Feb 8, 1995",28,Germany,Bayern Munich,"1,77m",right,"Jul 1, 2022",VfB Stuttgart,€75.00m,,,
+375,792380,Aleksandar Pavlovic,Defensive Midfield,"May 3, 2004",19,Germany,Bayern Munich,"1,88m",both,"Aug 30, 2021",FC Bayern Munich II,,Ill - Return unknown,"Internal transfer: FC Bayern Munich II; date: Nov 1, 2023",
+376,153084,Leon Goretzka,Central Midfield,"Feb 6, 1995",28,Germany,Bayern Munich,"1,89m",right,"Jul 1, 2020",FC Schalke 04,€45.00m,,,
+377,478573,Ryan Gravenberch,Central Midfield,"May 16, 2002",21,Netherlands,Liverpool FC,"1,90m",right,"Jan 31, 2022",Ajax Amsterdam,€30.00m,,,
+378,106987,Marcel Sabitzer,Central Midfield,"Mar 17, 1994",29,Austria,Borussia Dortmund,"1,78m",right,"Jul 1, 2017",RB Leipzig,€20.00m,,"Returned after loan spell with Manchester United; date: Jun 30, 2023; fee: End of loan",
+379,580195,Jamal Musiala,Attacking Midfield,"Feb 26, 2003",20,Germany,Bayern Munich,"1,84m",right,"Jul 1, 2022",FC Bayern Munich U19 ,€110.00m,,,
+380,900909,Paul Wanner,Attacking Midfield,"Dec 23, 2005",17,Germany,SV 07 Elversberg,"1,85m",left,"Jul 26, 2022",FC Bayern Munich U19 ,€3.00m,,,
+381,243714,Kingsley Coman,Left Winger,"Jun 13, 1996",27,France,Bayern Munich,"1,81m",right,"Jul 1, 2022",: Ablöse €21.00m,€65.00m,,,
+382,200512,Sadio Mané,Left Winger,"Apr 10, 1992",31,Senegal,Al-Nassr FC,"1,74m",right,"Jan 17, 2023",Liverpool FC,€25.00m,,,
+383,801734,Mathys Tel,Left Winger,"Apr 27, 2005",18,France,Bayern Munich,"1,83m",right,"Jul 15, 2020",Stade Rennais FC,€20.00m,,,
+384,604327,Gabriel Vidovic,Left Winger,"Dec 1, 2003",19,Croatia,GNK Dinamo Zagreb,"1,80m",right,"Jul 1, 2017",FC Bayern Munich II,€2.50m,,,
+385,744728,Arijon Ibrahimovic,Left Winger,"Dec 11, 2005",17,Germany,Frosinone Calcio,"1,76m",right,"Jul 1, 2009",FC Bayern Munich U19 ,€1.00m,,,
+386,192565,Leroy Sané,Right Winger,"Jan 11, 1996",27,Germany,Bayern Munich,"1,83m",left,"Jul 1, 2020",Manchester City,€65.00m,,,
+387,159471,Serge Gnabry,Right Winger,"Jul 14, 1995",27,Germany,Bayern Munich,"1,76m",right,"Oct 5, 2020",SV Werder Bremen,€55.00m,,,
+388,146714,Tomas Koubek,Goalkeeper,"Aug 26, 1992",30,Czech Republic,FC Augsburg,"1,97m",right,"Aug 6, 2019",Stade Rennais FC,€1.00m,,,
+389,78339,Rafal Gikiewicz,Goalkeeper,"Oct 26, 1987",35,Poland,Widzew Lodz,"1,90m",right,"Jul 1, 2020",1.FC Union Berlin,€900k,,,
+390,392124,Daniel Klein,Goalkeeper,"Mar 13, 2001",22,Germany,SV Sandhausen,"1,91m",right,"Jul 2, 2021",TSG 1899 Hoffenheim II,€300k,,,
+391,381250,Benjamin Leneis,Goalkeeper,"Mar 8, 1999",24,Germany,FSV Zwickau,"1,95m",both,"Oct 24, 2018",FC Augsburg II,€100k,,,
+392,278343,Felix Uduokhai,Centre-Back,"Sep 9, 1997",25,Germany,FC Augsburg,"1,93m",left,"Jul 1, 2020",VfL Wolfsburg,€8.50m,,,
+393,314295,Reece Oxford,Centre-Back,"Dec 16, 1998",24,England,FC Augsburg,"1,90m",right,"Aug 2, 2019",West Ham United,€5.50m,muscular problems - Return unknown,,
+394,388363,Maximilian Bauer,Centre-Back,"Feb 9, 2000",23,Germany,FC Augsburg,"1,89m",right,"Jul 1, 2022",SpVgg Greuther Fürth,€3.50m,,,
+395,106405,Jeffrey Gouweleeuw,Centre-Back,"Jul 10, 1991",31,Netherlands,FC Augsburg,"1,88m",right,"Jan 9, 2016",AZ Alkmaar,€3.00m,,,
+396,569349,Frederik Winther,Centre-Back,"Jan 4, 2001",22,Denmark,Hammarby IF,"1,90m",left,"Oct 4, 2020",Lyngby BK,€1.00m,,"Returned after loan spell with GD Estoril Praia; date: Mar 26, 2024; fee: End of loan",
+397,330635,Felix Götze,Centre-Back,"Feb 11, 1998",25,Germany,Rot-Weiss Essen,"1,85m",right,"Jul 1, 2018",Bayern Munich,€400k,,"Returned after loan spell with Rot-Weiss Essen; date: Jun 30, 2023; fee: End of loan",
+398,692049,Daniel Katic,Centre-Back,"Apr 26, 2003",20,Croatia,NS Mura,"1,85m",right,"Jul 1, 2019",,€125k,,,
+399,520468,Iago,Left-Back,"Mar 23, 1997",26,Brazil,FC Augsburg,"1,81m",left,"Jul 1, 2019",Sport Club Internacional,€5.50m,,"Joining: Esporte Clube Bahia; date: Jul 1, 2024; fee: free transfer",
+400,288429,Mads Pedersen,Left-Back,"Sep 1, 1996",26,Denmark,FC Augsburg,"1,78m",left,"Jan 14, 2023",FC Nordsjaelland,€3.50m,,,
+401,371000,David Colina,Left-Back,"Jul 19, 2000",22,Croatia,Vejle Boldklub,"1,74m",left,"Sep 2, 2020",HNK Hajduk Split,€1.50m,,,
+402,353826,Robert Gumny,Right-Back,"Jun 4, 1998",25,Poland,FC Augsburg,"1,82m",right,"Jan 1, 2015",Lech Poznan,€3.50m,Cruciate ligament tear - Return unknown,,
+403,146163,Raphael Framberger,Right-Back,"Sep 6, 1995",27,Germany,FC Augsburg,"1,79m",right,"Jul 8, 2021",FC Augsburg U19,€800k,Cruciate ligament tear - Return unknown,"Returned after loan spell with SV Sandhausen; date: Jun 30, 2023; fee: End of loan",
+404,251302,Niklas Dorsch,Defensive Midfield,"Jan 15, 1998",25,Germany,FC Augsburg,"1,78m",right,"Jul 2, 2019",KAA Gent,€7.00m,Foot injury - Return unknown,,
+405,189475,Carlos Gruezo,Defensive Midfield,"Apr 19, 1995",28,Ecuador,San Jose Earthquakes,"1,72m",right,"Jan 31, 2023",FC Dallas,€3.00m,,,
+406,805714,Renato Veiga,Defensive Midfield,"Jul 29, 2003",19,Portugal,FC Basel 1893,"1,90m",left,"Jul 1, 2020",Sporting CP B,€1.00m,Ankle sprain - Return unknown,,
+407,57845,Tobias Strobl,Defensive Midfield,"May 12, 1990",33,Germany,Retired,"1,88m",right,"Aug 16, 2022",Borussia Mönchengladbach,€500k,,,
+408,34787,Julian Baumgartlinger,Defensive Midfield,"Jan 2, 1988",35,Austria,Retired,"1,84m",right,"Jan 3, 2023",Bayer 04 Leverkusen,€400k,,,
+409,565435,Arne Engels,Central Midfield,"Sep 8, 2003",19,Belgium,FC Augsburg,"1,85m",right,"Jul 1, 2022",Club NXT,€7.50m,,,
+410,296397,Arne Maier,Central Midfield,"Jan 8, 1999",24,Germany,FC Augsburg,"1,86m",right,"Jul 27, 2022",Hertha BSC,€6.50m,,,
+411,280575,Elvis Rexhbecaj,Central Midfield,"Nov 1, 1997",25,Germany,FC Augsburg,"1,82m",left,"Jul 1, 2022",VfL Wolfsburg,€3.50m,"Metatarsal fracture - Return expected on Jun 30, 2024",,
+412,730484,Aaron Zehnter,Left Midfield,"Oct 31, 2004",18,Germany,SC Paderborn 07,"1,80m",left,"Jul 1, 2018",FC Augsburg U19,€300k,,,
+413,249157,Fredrik Jensen,Attacking Midfield,"Sep 9, 1997",25,Finland,FC Augsburg,"1,83m",right,"Jul 1, 2021",Twente Enschede FC,€2.50m,,,
+414,401639,Lukas Petkov,Attacking Midfield,"Nov 1, 2000",22,Bulgaria,SpVgg Greuther Fürth,"1,83m",right,"Jul 1, 2023",FC Augsburg II,€800k,,,
+415,381252,Josué Mbila,Attacking Midfield,"Aug 21, 1999",23,Germany,SpVgg Bayreuth,"1,75m",both,"Jan 30, 2023",,€100k,,,
+416,777005,Mert Kömür,Attacking Midfield,"Jul 17, 2005",17,Germany,FC Augsburg,"1,83m",both,"Jul 1, 2019",FC Augsburg U19,,,"Internal transfer: FC Augsburg U19; date: Jul 1, 2023",
+417,557614,Nathanaël Mbuku,Left Winger,"Mar 16, 2002",21,France,AS Saint-Étienne,"1,70m",left,"Jul 1, 2018",Stade Reims,€3.00m,,,
+418,345886,Rubén Vargas,Right Winger,"Aug 5, 1998",24,Switzerland,FC Augsburg,"1,79m",right,"Jul 1, 2019",FC Luzern,€6.50m,,,
+419,42783,André Hahn,Right Winger,"Aug 13, 1990",32,Germany,Retired,"1,85m",right,"Jul 1, 2020",: Ablöse €3.00m,€1.20m,,,
+420,283001,Noah Sarenren Bazee,Right Winger,"Aug 21, 1996",26,Germany,Arminia Bielefeld,"1,83m",right,"Jul 8, 2022",: Ablöse €1.70m,€600k,"Cruciate ligament tear - Return expected on Jun 30, 2024",,
+421,38410,Daniel Caligiuri,Right Winger,"Jan 15, 1988",35,Italy,FC 08 Villingen,"1,82m",right,"Jul 2, 2023",FC Schalke 04,€600k,,,
+422,335457,Ermedin Demirovic,Centre-Forward,"Mar 25, 1998",25,Bosnia-Herzegovina,FC Augsburg,"1,85m",right,"Jan 3, 2022",SC Freiburg,€12.00m,Team captain,,
+423,307924,Mergim Berisha,Centre-Forward,"May 11, 1998",25,Germany,TSG 1899 Hoffenheim,"1,88m",right,"Jan 13, 2023",Fenerbahce,€12.00m,Cruciate ligament tear - Return unknown,"Joined from Fenerbahce; date: Jul 2, 2023; fee: €4.00m",
+424,627207,Ricardo Pepi,Centre-Forward,"Jan 9, 2003",20,United States,PSV Eindhoven,"1,85m",right,"Jan 18, 2023",FC Dallas,€9.00m,,"Returned after loan spell with FC Groningen; date: Jun 30, 2023; fee: End of loan",
+425,618350,Dion Beljo,Centre-Forward,"Mar 1, 2002",21,Croatia,FC Augsburg,"1,95m",left,"Jan 18, 2023",NK Osijek,€6.50m,,,
+426,589737,Kelvin Yeboah,Centre-Forward,"May 6, 2000",23,Italy,Standard Liège,"1,85m",right,"Jul 1, 2019",Genoa CFC,€3.50m,,,
+427,342226,Irvin Cardona,Centre-Forward,"Aug 8, 1997",25,France,AS Saint-Étienne,"1,85m",right,"Jul 1, 2019",Stade Brestois 29,€2.50m,,,
+428,471936,Oliver Christensen,Goalkeeper,"Mar 22, 1999",24,Denmark,ACF Fiorentina,"1,90m",right,"Aug 26, 2021",Odense Boldklub,€4.00m,,,
+429,553282,Tjark Ernst,Goalkeeper,"Mar 15, 2003",20,Germany,Hertha BSC,"1,93m",both,"Jul 1, 2022",VfL Bochum U19,€400k,Pelvic injury - Return unknown,,
+430,24112,Rune Jarstein,Goalkeeper,"Sep 29, 1984",38,Norway,Retired,"1,92m",right,"Jan 1, 2014",Viking FK,€300k,,,
+431,815180,Robert Kwasigroch,Goalkeeper,"Jun 26, 2004",19,Germany,Hertha BSC,"1,92m",,"Jul 1, 2023",Hertha BSC II,€200k,,"Internal transfer: Hertha BSC II; date: Jul 1, 2023",
+432,160938,Marc Oliver Kempf,Centre-Back,"Jan 28, 1995",28,Germany,Hertha BSC,"1,86m",left,"Jan 25, 2022",VfB Stuttgart,€3.50m,,,
+433,432281,Márton Dárdai,Centre-Back,"Feb 12, 2002",21,Hungary,Hertha BSC,"1,88m",left,"Jul 1, 2020",Hertha BSC II,€3.50m,,,
+434,692734,Linus Gechter,Centre-Back,"Feb 27, 2004",19,Germany,Hertha BSC,"1,91m",right,"Jan 1, 2022",Hertha BSC U19,€2.50m,,"Returned after loan spell with Eintracht Braunschweig; date: Jun 30, 2023; fee: End of loan",
+435,325887,Filip Uremovic,Centre-Back,"Feb 11, 1997",26,Croatia,HNK Hajduk Split,"1,84m",right,"Jul 1, 2022",Rubin Kazan,€2.00m,,,
+436,456535,Agustín Rogel,Centre-Back,"Oct 17, 1997",25,Uruguay,Hertha BSC,"1,91m",right,"Aug 31, 2022",Club Estudiantes de La Plata,€1.50m,Knee surgery - Return unknown,,
+437,88262,Dedryck Boyata,Centre-Back,"Nov 28, 1990",32,Belgium,Club Brugge KV,"1,88m",right,"Jul 1, 2019",Celtic FC,€1.00m,,,
+438,797560,Joel da Silva Kiala,Centre-Back,"Jan 21, 2004",19,Germany,Hertha BSC II,"1,89m",both,"Aug 19, 2015",,€250k,,,
+439,282660,Maximilian Mittelstädt,Left-Back,"Mar 18, 1997",26,Germany,VfB Stuttgart,"1,80m",left,"Jul 1, 2014",: Ablöse -,€2.00m,,,
+440,89592,Marvin Plattenhardt,Left-Back,"Jan 26, 1992",31,Germany,Without Club,"1,81m",left,"Jul 1, 2022",1.FC Nuremberg,€1.00m,,,
+441,787151,Lukas Ullrich,Left-Back,"Mar 16, 2004",19,Germany,Borussia Mönchengladbach,"1,80m",left,"Aug 6, 2020",,€750k,,,
+442,258883,Jonjoe Kenny,Right-Back,"Mar 15, 1997",26,England,Hertha BSC,"1,76m",right,"Aug 31, 2012",Everton FC,€3.00m,,,
+443,338032,Deyovaisio Zeefuik,Right-Back,"Mar 11, 1998",25,Netherlands,Hertha BSC,"1,77m",right,"Jul 1, 2022",: Ablöse €4.00m,€1.20m,,"Returned after loan spell with Hellas Verona; date: Jun 30, 2023; fee: End of loan",
+444,51100,Peter Pekarík,Right-Back,"Oct 30, 1986",36,Slovakia,Hertha BSC,"1,77m",right,"Jan 27, 2020",VfL Wolfsburg,€500k,,,
+445,706617,Julian Eitschberger,Right-Back,"Mar 5, 2004",19,Germany,Hallescher FC,"1,82m",right,"Jul 5, 2022",Hertha BSC U19,€350k,,,
+446,353948,Lucas Tousart,Defensive Midfield,"Apr 29, 1997",26,France,1.FC Union Berlin,"1,84m",right,"Jan 31, 2023",: Ablöse €25.00m,€9.00m,,,
+447,226097,Ivan Sunjic,Defensive Midfield,"Oct 9, 1996",26,Croatia,Birmingham City,"1,85m",right,"Jul 1, 2023",Birmingham City,€1.50m,,,
+448,94199,Tolga Ciğerci,Defensive Midfield,"Mar 23, 1992",31,Türkiye,MKE Ankaragücü,"1,85m",right,"Jul 1, 2021",MKE Ankaragücü,€700k,,,
+449,820261,Pascal Klemens,Defensive Midfield,"Feb 23, 2005",18,Germany,Hertha BSC,"1,86m",,"Jul 18, 2015",Hertha BSC U19,€300k,,"Internal transfer: Hertha BSC U19; date: Jul 1, 2023",
+450,787152,Veit Stange,Defensive Midfield,"Feb 8, 2004",19,Germany,Hertha BSC II,"1,88m",right,"Aug 9, 2021",,€250k,,,
+451,261905,Suat Serdar,Central Midfield,"Apr 11, 1997",26,Germany,Hellas Verona,"1,84m",right,"Aug 8, 2022",FC Schalke 04,€4.50m,,,
+452,179643,Vladimír Darida,Central Midfield,"Aug 8, 1990",32,Czech Republic,Aris Thessaloniki,"1,72m",right,"Jul 1, 2021",SC Freiburg,€1.50m,,,
+453,279009,Marco Richter,Attacking Midfield,"Nov 24, 1997",25,Germany,1.FSV Mainz 05,"1,76m",right,"Jul 1, 2023",FC Augsburg,€5.00m,,,
+454,182574,Jean-Paul Boëtius,Attacking Midfield,"Mar 22, 1994",29,Netherlands,Without Club,"1,78m",right,"Jul 13, 2022",1.FSV Mainz 05,€1.50m,Cancer - Return unknown,,
+455,16922,Kevin-Prince Boateng,Attacking Midfield,"Mar 6, 1987",36,Ghana,Retired,"1,86m",right,"Aug 31, 2021",AC Monza,€700k,,,
+456,905011,Ibrahim Maza,Attacking Midfield,"Nov 24, 2005",17,Germany,Hertha BSC,"1,80m",right,"Aug 1, 2019",Hertha BSC U19,€600k,,"Internal transfer: Hertha BSC U19; date: Jul 1, 2023",
+457,688641,Tony Rölke,Attacking Midfield,"Jan 22, 2003",20,Germany,Hertha BSC II,"1,88m",both,"Jan 31, 2022",,€200k,,,
+458,500067,Chidera Ejuke,Left Winger,"Jan 2, 1998",25,Nigeria,Royal Antwerp FC,"1,76m",right,"Jan 30, 2020",CSKA Moscow,€5.50m,,,
+459,371142,Myziane Maolida,Left Winger,"Feb 14, 1999",24,Comoros,Hibernian FC,"1,81m",right,"Jul 2, 2022",OGC Nice,€1.50m,,,
+460,303259,Dodi Lukébakio,Right Winger,"Sep 24, 1997",25,Belgium,Sevilla FC,"1,87m",left,"Jul 30, 2022",Watford FC,€12.00m,,,
+461,569368,Kelian Nsona,Right Winger,"May 11, 2002",21,France,MSK Zilina,"1,90m",right,"Jul 1, 2017",SM Caen,€800k,,,
+462,327757,Krzysztof Piatek,Centre-Forward,"Jul 1, 1995",27,Poland,Basaksehir FK,"1,83m",right,"Jul 27, 2021",AC Milan,€7.00m,"Yellow card suspension - until Apr 15, 2024 - Süper Lig - 1 matchday","Returned after loan spell with US Salernitana 1919; date: Jun 30, 2023; fee: End of loan",
+463,448177,Jessic Ngankam,Centre-Forward,"Jul 20, 2000",22,Germany,1.FSV Mainz 05,"1,84m",right,"Jan 18, 2023",SpVgg Greuther Fürth,€5.00m,,,
+464,395523,Wilfried Kanga,Centre-Forward,"Feb 21, 1998",25,Cote d'Ivoire,Standard Liège,"1,89m",right,"Jul 1, 2022",BSC Young Boys,€3.00m,,,
+465,57071,Péter Gulácsi,Goalkeeper,"May 6, 1990",33,Hungary,RB Leipzig,"1,90m",right,"Jul 1, 2015",: Ablöse €3.00m,€5.00m,,,
+466,81173,Janis Blaswich,Goalkeeper,"May 2, 1991",32,Germany,RB Leipzig,"1,93m",right,"Jul 1, 2022",Heracles Almelo,€2.50m,,,
+467,73517,Ørjan Nyland,Goalkeeper,"Sep 10, 1990",32,Norway,Sevilla FC,"1,92m",right,"Oct 9, 2022",Without Club,€600k,,,
+468,665971,Jonas Nickisch,Goalkeeper,"May 21, 2004",19,Germany,1.FC Köln,"1,90m",both,"Jul 1, 2022",,€200k,,,
+469,897425,Timo Schlieck,Goalkeeper,"Mar 2, 2006",17,Germany,RasenBallsport Leipzig U19,"1,95m",right,"Jul 1, 2021",,€200k,,,
+470,710045,Oskar Preil,Goalkeeper,"Sep 14, 2003",19,Germany,FV Illertissen,"1,89m",right,"Jul 1, 2021",RasenBallsport Leipzig U19,€100k,,,
+471,475959,Josko Gvardiol,Centre-Back,"Jan 23, 2002",21,Croatia,Manchester City,"1,85m",left,"Aug 22, 2014",GNK Dinamo Zagreb,€75.00m,,,
+472,666234,Mohamed Simakan,Centre-Back,"May 3, 2000",23,France,RB Leipzig,"1,87m",right,"Jul 1, 2015",RC Strasbourg Alsace,€25.00m,,,
+473,215599,Lukas Klostermann,Centre-Back,"Jun 3, 1996",27,Germany,RB Leipzig,"1,89m",right,"Sep 1, 2022",VfL Bochum,€12.00m,,,
+474,93740,Willi Orbán,Centre-Back,"Nov 3, 1992",30,Hungary,RB Leipzig,"1,86m",right,"Aug 31, 2015",1.FC Kaiserslautern,€10.00m,Team captain,,
+475,229005,Abdou Diallo,Centre-Back,"May 4, 1996",27,Senegal,Al-Arabi SC,"1,86m",left,"Jul 31, 2022",Paris Saint-Germain,€10.00m,,,
+476,70243,Marcel Halstenberg,Centre-Back,"Sep 27, 1991",31,Germany,Hannover 96,"1,88m",left,"Jul 1, 2022",FC St. Pauli,€3.50m,,,
+477,318204,David Raum,Left-Back,"Apr 22, 1998",25,Germany,RB Leipzig,"1,80m",left,"Jul 1, 2021",TSG 1899 Hoffenheim,€14.00m,,,
+478,717346,Sanoussy Ba,Left-Back,"Jan 5, 2004",19,Germany,LASK,"1,84m",both,"Jul 1, 2021",RasenBallsport Leipzig U19,€500k,,,
+479,202591,Benjamin Henrichs,Right-Back,"Feb 23, 1997",26,Germany,RB Leipzig,"1,85m",right,"Jan 1, 2021",AS Monaco,€15.00m,,,
+480,668276,Hugo Novoa,Right-Back,"Jan 24, 2003",20,Spain,Villarreal CF B,"1,82m",right,"Jul 1, 2017",RasenBallsport Leipzig U19,€4.30m,,,
+481,451276,Dominik Szoboszlai,Central Midfield,"Oct 25, 2000",22,Hungary,Liverpool FC,"1,87m",right,"Jul 1, 2022",Red Bull Salzburg,€50.00m,,,
+482,223967,Konrad Laimer,Central Midfield,"May 27, 1997",26,Austria,Bayern Munich,"1,80m",right,"Jan 1, 2019",: Ablöse €7.00m,€28.00m,,,
+483,223979,Xaver Schlager,Central Midfield,"Sep 28, 1997",25,Austria,RB Leipzig,"1,74m",left,"Aug 31, 2017",VfL Wolfsburg,€22.00m,,,
+484,402008,Amadou Haidara,Central Midfield,"Jan 31, 1998",25,Mali,RB Leipzig,"1,75m",right,"Jul 18, 2019",: Ablöse €19.00m,€17.00m,,,
+485,53418,Kevin Kampl,Central Midfield,"Oct 9, 1990",32,Slovenia,RB Leipzig,"1,78m",right,"Jan 25, 2020",Bayer 04 Leverkusen,€3.50m,,,
+486,344381,Christopher Nkunku,Attacking Midfield,"Nov 14, 1997",25,France,Chelsea FC,"1,77m",right,"Jan 7, 2015",Paris Saint-Germain,€80.00m,unknown injury - Return unknown,,
+487,293385,Dani Olmo,Attacking Midfield,"May 7, 1998",25,Spain,RB Leipzig,"1,79m",right,"Jul 1, 2021",GNK Dinamo Zagreb,€40.00m,,,
+488,111078,Emil Forsberg,Attacking Midfield,"Oct 23, 1991",31,Sweden,New York Red Bulls,"1,77m",right,"Aug 9, 2022",Malmö FF,€7.00m,,,
+489,742297,Caden Clark,Attacking Midfield,"May 27, 2003",20,United States,Minnesota United FC,"1,80m",right,"Jul 2, 2021",New York Red Bulls,€2.00m,,"Returned after loan spell with Vendsyssel FF; date: Dec 31, 2023; fee: End of loan",
+490,170527,Timo Werner,Centre-Forward,"Mar 6, 1996",27,Germany,Tottenham Hotspur,"1,80m",right,"Sep 22, 2020",Chelsea FC,€25.00m,,,
+491,198008,André Silva,Centre-Forward,"Nov 6, 1995",27,Portugal,Real Sociedad,"1,85m",right,"Jul 4, 2013",Eintracht Frankfurt,€15.00m,,,
+492,160963,Robin Zentner,Goalkeeper,"Oct 28, 1994",28,Germany,1.FSV Mainz 05,"1,95m",right,"Jul 1, 2014",: Ablöse -,€5.00m,,,
+493,251299,Finn Dahmen,Goalkeeper,"Mar 27, 1998",25,Germany,FC Augsburg,"1,86m",right,"Jul 1, 2018",: Ablöse -,€2.50m,,,
+494,490609,Lasse Rieß,Goalkeeper,"Jul 27, 2001",21,Germany,1.FSV Mainz 05,"1,91m",right,"Jul 1, 2021",1.FSV Mainz 05 II,€200k,,,
+495,370683,Andreas Hanche-Olsen,Centre-Back,"Jan 17, 1997",26,Norway,1.FSV Mainz 05,"1,85m",right,"Jan 13, 2023",KAA Gent,€7.50m,,,
+496,247555,Edimilson Fernandes,Centre-Back,"Apr 15, 1996",27,Switzerland,1.FSV Mainz 05,"1,87m",right,"Jul 1, 2019",West Ham United,€5.50m,,,
+497,126281,Alexander Hack,Centre-Back,"Sep 8, 1993",29,Germany,Al-Qadsiah FC,"1,93m",left,"Nov 30, 2015",: Ablöse -,€2.50m,,,
+498,334207,Maxim Leitsch,Centre-Back,"May 18, 1998",25,Germany,1.FSV Mainz 05,"1,89m",left,"Jul 1, 2022",VfL Bochum,€2.00m,,,
+499,82350,Stefan Bell,Centre-Back,"Aug 24, 1991",31,Germany,1.FSV Mainz 05,"1,92m",right,"Jul 1, 2010",: Ablöse -,€2.00m,infection - Return unknown,,
+500,796212,Philipp Schulz,Centre-Back,"May 25, 2005",18,Germany,1.FSV Mainz 05 II,"1,88m",right,"Jul 1, 2023",,€300k,,,
+501,584062,Lucas Laux,Centre-Back,"Oct 14, 2002",20,Germany,SV Sandhausen,"1,83m",both,"Jul 1, 2022",1.FSV Mainz 05 II,€175k,Cruciate ligament tear - Return unknown,,
+502,453016,Anthony Caci,Left-Back,"Jul 1, 1997",25,France,1.FSV Mainz 05,"1,84m",right,"Jul 1, 2019",RC Strasbourg Alsace,€8.50m,,,
+503,251878,Aarón Martín,Left-Back,"Apr 22, 1997",26,Spain,Genoa CFC,"1,78m",left,"Jul 1, 2021",RCD Espanyol Barcelona,€7.00m,,,
+504,240274,Anderson Lucoqui,Left-Back,"Jul 6, 1997",25,Angola,Eintracht Braunschweig,"1,80m",left,"Jul 9, 2021",Arminia Bielefeld,€600k,,"Returned after loan spell with FC Hansa Rostock; date: Jun 30, 2023; fee: End of loan",
+505,168989,Silvan Widmer,Right-Back,"Mar 5, 1993",30,Switzerland,1.FSV Mainz 05,"1,83m",right,"Jul 1, 2022",FC Basel 1893,€3.50m,Team captain,,
+506,85906,Danny da Costa,Right-Back,"Jul 13, 1993",29,Germany,1.FSV Mainz 05,"1,87m",right,"Jul 1, 2022",Eintracht Frankfurt,€1.80m,,,
+507,118847,Dominik Kohr,Defensive Midfield,"Jan 31, 1994",29,Germany,1.FSV Mainz 05,"1,83m",right,"Sep 27, 2019",Eintracht Frankfurt,€3.50m,,,
+508,470815,Niklas Tauer,Defensive Midfield,"Feb 17, 2001",22,Germany,Eintracht Braunschweig,"1,83m",right,"Jul 31, 2021",1.FSV Mainz 05 U19,€1.20m,,,
+509,344069,Anton Stach,Central Midfield,"Nov 15, 1998",24,Germany,TSG 1899 Hoffenheim,"1,94m",both,"Jul 1, 2018",SpVgg Greuther Fürth,€15.00m,,,
+510,357233,Leandro Barreiro,Central Midfield,"Jan 3, 2000",23,Luxembourg,1.FSV Mainz 05,"1,74m",right,"Sep 26, 2019",: Ablöse -,€14.00m,,,
+511,405689,Merveille Papela,Central Midfield,"Jan 18, 2001",22,Germany,1.FSV Mainz 05,"1,74m",right,"Jul 1, 2022",1.FSV Mainz 05 U19,€1.00m,,"Returned after loan spell with SV Sandhausen; date: Jun 30, 2023; fee: End of loan",
+512,663189,Eniss Shabani,Central Midfield,"May 29, 2003",20,Albania,1.FSV Mainz 05 II,"1,80m",both,"Jul 12, 2022",1.FSV Mainz 05 II,€200k,,,
+513,250013,Angelo Fulgini,Attacking Midfield,"Aug 20, 1996",26,France,RC Lens,"1,82m",right,"Jul 8, 2021",Angers SCO,€9.00m,,"Returned after loan spell with RC Lens; date: Jun 30, 2023; fee: End of loan",
+514,314398,Jae-sung Lee,Attacking Midfield,"Aug 10, 1992",30,"Korea, South",1.FSV Mainz 05,"1,80m",left,"Jul 1, 2022",Holstein Kiel,€4.00m,,,
+515,315332,Aymen Barkok,Attacking Midfield,"May 21, 1998",25,Morocco,Hertha BSC,"1,89m",right,"Jul 1, 2022",Eintracht Frankfurt,€2.00m,,,
+516,677794,Kaito Mizuta,Attacking Midfield,"Apr 8, 2000",23,Japan,Arminia Bielefeld,"1,82m",both,"Jul 1, 2022",,€225k,,,
+517,436585,Delano Burgzorg,Left Winger,"Nov 7, 1998",24,Netherlands,Huddersfield Town,"1,86m",right,"Nov 18, 2022",Heracles Almelo,€1.50m,,,
+518,658116,Ben Bobzien,Right Winger,"Apr 29, 2003",20,Germany,SC Austria Lustenau,"1,74m",right,"Jul 1, 2018",1.FSV Mainz 05 II,€600k,,,
+519,700106,Brajan Gruda,Right Winger,"May 31, 2004",19,Germany,1.FSV Mainz 05,"1,78m",left,"Jan 24, 2023",1.FSV Mainz 05 U19,€500k,,,
+520,333647,Jonathan Burkardt,Centre-Forward,"Jul 11, 2000",22,Germany,1.FSV Mainz 05,"1,83m",right,"Jul 1, 2022",: Ablöse -,€10.00m,,,
+521,283994,Ludovic Ajorque,Centre-Forward,"Feb 25, 1994",29,France,1.FSV Mainz 05,"1,96m",left,"Jul 1, 2022",RC Strasbourg Alsace,€9.00m,,,
+522,269878,Marcus Ingvartsen,Centre-Forward,"Jan 4, 1996",27,Denmark,FC Nordsjaelland,"1,87m",left,"Jan 5, 2016",1.FC Union Berlin,€5.50m,,,
+523,796213,Nelson Weiper,Centre-Forward,"Mar 17, 2005",18,Germany,1.FSV Mainz 05,"1,92m",right,"Jul 1, 2020",1.FSV Mainz 05 U19,€5.00m,,,
+524,260053,Jiri Pavlenka,Goalkeeper,"Apr 14, 1992",31,Czech Republic,SV Werder Bremen,"1,96m",right,"Jul 1, 2017",: Ablöse €3.00m,€3.00m,,,
+525,196813,Michael Zetterer,Goalkeeper,"Jul 12, 1995",27,Germany,SV Werder Bremen,"1,87m",both,"Jan 27, 2015",SpVgg Unterhaching,€500k,,,
+526,620295,Mio Backhaus,Goalkeeper,"Apr 16, 2004",19,Germany,FC Volendam,"1,94m",right,"Jul 12, 2022",SV Werder Bremen U19,€300k,,,
+527,369258,Dudu,Goalkeeper,"Feb 10, 1999",24,Germany,SV Werder Bremen,"1,96m",right,"Jul 1, 2020",SV Werder Bremen II,€200k,,,
+528,572891,Louis Lord,Goalkeeper,"Oct 22, 2003",19,Germany,FC Erzgebirge Aue,"1,90m",right,"Jul 1, 2019",,€150k,,,
+529,156990,Marco Friedl,Centre-Back,"Mar 16, 1998",25,Austria,SV Werder Bremen,"1,87m",left,"Jul 1, 2022",Bayern Munich,€7.00m,"Team captain; Yellow card suspension - until Apr 15, 2024 - Bundesliga - 1 matchday",,
+530,334221,Amos Pieper,Centre-Back,"Jan 17, 1998",25,Germany,SV Werder Bremen,"1,92m",right,"Jul 1, 2022",Arminia Bielefeld,€6.00m,Red card suspension -  - DFB-Pokal - 2 matchdays,,
+531,162434,Niklas Stark,Centre-Back,"Apr 14, 1995",28,Germany,SV Werder Bremen,"1,90m",right,"Feb 1, 2016",Hertha BSC,€5.50m,"Inner ligament injury - Return expected on Apr 22, 2024",,
+532,202228,Milos Veljkovic,Centre-Back,"Sep 26, 1995",27,Serbia,SV Werder Bremen,"1,88m",right,"Jul 1, 2021",Tottenham Hotspur U21,€5.50m,,,
+533,58995,Anthony Jung,Centre-Back,"Nov 3, 1991",31,Germany,SV Werder Bremen,"1,86m",left,"Oct 7, 2021",Bröndby IF,€1.50m,"Red card suspension - until Apr 15, 2024 - Bundesliga - 2 matchdays",,
+534,724104,Fabio Chiarodia,Centre-Back,"Jun 5, 2005",18,Italy,Borussia Mönchengladbach,"1,86m",left,"Jul 4, 2022",SV Werder Bremen U19,€1.00m,,,
+535,521412,Tim-Justin Dietrich,Centre-Back,"Nov 8, 2002",20,Germany,Hallescher FC,"1,90m",left,"Jul 15, 2022",,€200k,,,
+536,532539,Lee Buchanan,Left-Back,"Mar 7, 2001",22,England,Birmingham City,"1,79m",left,"Jul 1, 2020",Derby County,€3.50m,,,
+537,119211,Mitchell Weiser,Right-Back,"Apr 21, 1994",29,Germany,SV Werder Bremen,"1,77m",right,"Jul 1, 2019",Bayer 04 Leverkusen,€6.00m,,,
+538,393512,Felix Agu,Right-Back,"Sep 27, 1999",23,Germany,SV Werder Bremen,"1,80m",right,"Jul 1, 2021",VfL Osnabrück,€1.00m,,,
+539,381753,Ilia Gruev,Defensive Midfield,"May 6, 2000",23,Bulgaria,Leeds United,"1,85m",left,"Aug 1, 2020",SV Werder Bremen U19,€3.00m,Ankle injury - Return unknown,,
+540,185427,Nicolai Rapp,Defensive Midfield,"Dec 13, 1996",26,Germany,Karlsruher SC,"1,86m",right,"Jul 1, 2022",1.FC Union Berlin,€700k,,"Returned after loan spell with 1.FC Kaiserslautern; date: Jun 30, 2023; fee: End of loan",
+541,58396,Christian Groß,Defensive Midfield,"Feb 8, 1989",34,Germany,SV Werder Bremen,"1,82m",both,"Jul 1, 2018",SV Werder Bremen II,€500k,,"Joining: Retired; date: Jul 1, 2024; fee: -",
+542,471888,Tom Berger,Defensive Midfield,"Jul 31, 2001",21,Germany,SG Dynamo Dresden,"1,84m",left,"Jul 1, 2022",,€200k,Calf injury - Return unknown,,
+543,289835,Jens Stage,Central Midfield,"Nov 8, 1996",26,Denmark,SV Werder Bremen,"1,87m",right,"Sep 6, 2023",FC Copenhagen,€5.00m,Red card suspension -  - Bundesliga,,
+544,335003,Jean Manuel Mbom,Central Midfield,"Feb 24, 2000",23,Germany,Viborg FF,"1,85m",right,"Jan 3, 2019",SV Werder Bremen U19,€800k,,,
+545,664973,Dikeni Salifou,Central Midfield,"Jun 8, 2003",20,Togo,Juventus Next Gen,"1,91m",right,"Jul 15, 2020",FC Augsburg U19,€200k,,,
+546,825073,Leon Opitz,Left Midfield,"Apr 11, 2005",18,Germany,SV Werder Bremen,"1,83m",left,"Jul 1, 2017",SV Werder Bremen U19,,,"Internal transfer: SV Werder Bremen U19; date: Sep 6, 2023",
+547,346853,Romano Schmid,Attacking Midfield,"Jan 27, 2000",23,Austria,SV Werder Bremen,"1,68m",right,"Jan 1, 2021",: Ablöse €1.00m,€4.50m,,,
+548,93844,Leonardo Bittencourt,Attacking Midfield,"Dec 19, 1993",29,Germany,SV Werder Bremen,"1,71m",right,"Jul 1, 2019",TSG 1899 Hoffenheim,€2.80m,,,
+549,275249,Niklas Schmidt,Attacking Midfield,"Mar 1, 1998",25,Germany,FC Toulouse,"1,84m",both,"Jan 30, 2023",SV Werder Bremen II,€2.50m,,,
+550,645774,Eren Dinkçi,Right Winger,"Dec 13, 2001",21,Germany,1.FC Heidenheim 1846,"1,88m",right,"Jul 1, 2019",SV Werder Bremen II,€1.00m,,"Joining: SC Freiburg; date: Jul 1, 2024; fee: €5.00m",
+551,388058,Benjamin Goller,Right Winger,"Jan 1, 1999",24,Germany,1.FC Nuremberg,"1,80m",right,"Aug 25, 2021",FC Schalke 04,€450k,,,
+552,143891,Maximilian Philipp,Second Striker,"Mar 1, 1994",29,Germany,SC Freiburg,"1,83m",right,"Jul 1, 2022",VfL Wolfsburg,€2.00m,,,
+553,75489,Niclas Füllkrug,Centre-Forward,"Feb 9, 1993",30,Germany,Borussia Dortmund,"1,89m",right,"Jul 1, 2020",: Ablöse €6.50m,€13.00m,,,
+554,108880,Koen Casteels,Goalkeeper,"Jun 25, 1992",31,Belgium,VfL Wolfsburg,"1,97m",left,"Jan 21, 2015",TSG 1899 Hoffenheim,€8.00m,,"Joining: Without Club; date: Jul 1, 2024; fee: -",
+555,51977,Pavao Pervan,Goalkeeper,"Nov 13, 1987",35,Austria,VfL Wolfsburg,"1,94m",both,"Jul 1, 2018",: Ablöse €500k,€400k,,,
+556,574203,Philipp Schulze,Goalkeeper,"Jan 29, 2003",20,Germany,Hallescher FC,"1,90m",,"Jul 1, 2021",VfL Wolfsburg U19,€200k,,,
+557,192268,Niklas Klinger,Goalkeeper,"Oct 13, 1995",27,Germany,VfL Wolfsburg,"1,87m",right,"Jul 1, 2019",VfL Wolfsburg II,€100k,,,
+558,557459,Micky van de Ven,Centre-Back,"Apr 19, 2001",22,Netherlands,Tottenham Hotspur,"1,93m",left,"Aug 31, 2021",FC Volendam,€30.00m,,,
+559,434224,Maxence Lacroix,Centre-Back,"Apr 6, 2000",23,France,VfL Wolfsburg,"1,90m",right,"Aug 25, 2020",FC Sochaux-Montbéliard,€17.00m,"Red card suspension - until Apr 14, 2024 - Bundesliga - 2 matchdays",,
+560,338629,Sebastiaan Bornauw,Centre-Back,"Mar 22, 1999",24,Belgium,VfL Wolfsburg,"1,91m",right,"Jul 16, 2021",1.FC Köln,€8.50m,,,
+561,897423,David Odogu,Centre-Back,"Jun 3, 2006",17,Germany,VfL Wolfsburg U19,"1,91m",right,"Jul 1, 2019",,,,,
+562,221611,Paulo Otávio,Left-Back,"Nov 23, 1994",28,Brazil,Al-Sadd SC,"1,73m",left,"Jan 25, 2023",FC Ingolstadt 04,€4.00m,,,
+563,485965,Nicolas Cozza,Left-Back,"Jan 8, 1999",24,France,FC Nantes,"1,78m",left,"Aug 6, 2018",Montpellier HSC,€3.50m,,,
+564,127076,Jérôme Roussillon,Left-Back,"Jan 6, 1993",30,Guadeloupe,1.FC Union Berlin,"1,72m",left,"Oct 1, 2020",Montpellier HSC,€3.00m,,,
+565,327251,Ridle Baku,Right-Back,"Apr 8, 1998",25,Germany,VfL Wolfsburg,"1,76m",right,"Jul 1, 2022",1.FSV Mainz 05,€13.00m,,,
+566,435796,Kilian Fischer,Right-Back,"Oct 12, 2000",22,Germany,VfL Wolfsburg,"1,82m",both,"Jul 1, 2022",1.FC Nuremberg,€2.00m,,,
+567,370998,Bartol Franjic,Defensive Midfield,"Jan 14, 2000",23,Croatia,SV Darmstadt 98,"1,88m",left,"Jul 1, 2016",GNK Dinamo Zagreb,€3.00m,,,
+568,93704,Josuha Guilavogui,Defensive Midfield,"Sep 19, 1990",32,France,1.FSV Mainz 05,"1,88m",right,"Jul 16, 2022",: Ablöse €3.00m,€2.00m,,,
+569,342405,Mattias Svanberg,Central Midfield,"Jan 5, 1999",24,Sweden,VfL Wolfsburg,"1,85m",right,"Jul 21, 2021",Bologna FC 1909,€18.00m,,,
+570,406640,Felix Nmecha,Central Midfield,"Oct 10, 2000",22,Germany,Borussia Dortmund,"1,90m",right,"Jan 1, 2012",Manchester City U23,€15.00m,,,
+571,117674,Maximilian Arnold,Central Midfield,"May 27, 1994",29,Germany,VfL Wolfsburg,"1,84m",left,"Jul 1, 2021",VfL Wolfsburg U19,€14.00m,Team captain,,
+572,503881,Aster Vranckx,Central Midfield,"Oct 4, 2002",20,Belgium,VfL Wolfsburg,"1,83m",right,"Jul 1, 2016",KV Mechelen,€8.50m,,"Returned after loan spell with AC Milan; date: Jun 30, 2023; fee: End of loan",
+573,119277,Yannick Gerhardt,Central Midfield,"Mar 13, 1994",29,Germany,VfL Wolfsburg,"1,84m",left,"Jan 28, 2022",1.FC Köln,€6.00m,,,
+574,711517,Kevin Paredes,Left Midfield,"May 7, 2003",20,United States,VfL Wolfsburg,"1,75m",left,"Jul 1, 2022",D.C. United,€5.00m,,,
+575,407098,Jakub Kaminski,Left Winger,"Jun 5, 2002",21,Poland,VfL Wolfsburg,"1,79m",right,"Jul 1, 2016",Lech Poznan,€12.00m,,,
+576,293169,Josip Brekalo,Left Winger,"Jun 23, 1998",25,Croatia,HNK Hajduk Split,"1,75m",right,"Jul 1, 2023",GNK Dinamo Zagreb,€5.00m,,,
+577,671548,Lukas Ambros,Left Winger,"Jun 5, 2004",19,Czech Republic,SC Freiburg II,"1,82m",left,"Jul 1, 2022",VfL Wolfsburg U19,€200k,,,
+578,533295,Patrick Wimmer,Right Winger,"May 30, 2001",22,Austria,VfL Wolfsburg,"1,82m",right,"Jul 1, 2021",Arminia Bielefeld,€18.00m,,,
+579,143891,Maximilian Philipp,Second Striker,"Mar 1, 1994",29,Germany,SC Freiburg,"1,83m",right,"Jan 30, 2022",Dynamo Moscow,€2.00m,,,
+580,36182,Max Kruse,Second Striker,"Mar 19, 1988",35,Germany,Retired,"1,80m",left,"Jan 31, 2022",1.FC Union Berlin,€900k,,,
+581,391004,Jonas Wind,Centre-Forward,"Feb 7, 1999",24,Denmark,VfL Wolfsburg,"1,90m",right,"Jul 16, 2021",FC Copenhagen,€14.00m,,,
+582,314288,Lukas Nmecha,Centre-Forward,"Dec 14, 1998",24,Germany,VfL Wolfsburg,"1,85m",right,"Jul 1, 2020",Manchester City,€12.00m,Hamstring injury - Return unknown,,
+583,445939,Omar Marmoush,Centre-Forward,"Feb 7, 1999",24,Egypt,Eintracht Frankfurt,"1,83m",right,"Aug 19, 2020",VfL Wolfsburg II,€6.00m,,,
+584,535551,Bartosz Bialek,Centre-Forward,"Nov 11, 2001",21,Poland,KAS Eupen,"1,91m",right,"Aug 22, 2021",Zaglebie Lubin,€3.00m,,,
+585,196095,Luca Waldschmidt,Centre-Forward,"May 19, 1996",27,Germany,1.FC Köln,"1,81m",left,"Jul 14, 2022",SL Benfica,€3.00m,,,
+586,284769,Florian Müller,Goalkeeper,"Nov 13, 1997",25,Germany,SC Freiburg,"1,90m",left,"Jul 1, 2021",1.FSV Mainz 05,€1.50m,,,
+587,187624,Fabian Bredlow,Goalkeeper,"Mar 2, 1995",28,Germany,VfB Stuttgart,"1,90m",both,"Jul 1, 2019",1.FC Nuremberg,€1.50m,,,
+588,800946,Dennis Seimen,Goalkeeper,"Dec 1, 2005",17,Germany,VfB Stuttgart,"1,92m",left,"Jul 1, 2023",VfB Stuttgart U19,€200k,,"Internal transfer: VfB Stuttgart U19; date: Jul 1, 2023",
+589,470816,Florian Schock,Goalkeeper,"May 22, 2001",22,Germany,VfB Stuttgart,"2,00m",right,"Sep 7, 2021",VfB Stuttgart II,€200k,,,
+590,499319,Nicolas Glaus,Goalkeeper,"May 10, 2002",21,Switzerland,Grasshopper Club Zurich,"1,87m",right,"Jul 1, 2022",,€125k,,,
+591,415912,Konstantinos Mavropanos,Centre-Back,"Dec 11, 1997",25,Greece,West Ham United,"1,94m",right,"Jul 1, 2022",Arsenal FC,€15.00m,,,
+592,353892,Hiroki Ito,Centre-Back,"May 12, 1999",24,Japan,VfB Stuttgart,"1,88m",left,"Jul 28, 2020",Júbilo Iwata,€10.00m,,,
+593,193004,Waldemar Anton,Centre-Back,"Jul 20, 1996",26,Germany,VfB Stuttgart,"1,89m",right,"Sep 19, 2022",: Ablöse €4.00m,€4.50m,"Team captain; Yellow card suspension - until Apr 7, 2024 - Bundesliga - 1 matchday",,
+594,344598,Dan-Axel Zagadou,Centre-Back,"Jun 3, 1999",24,France,VfB Stuttgart,"1,96m",left,"Jul 1, 2018",Without Club,€2.50m,"Cruciate ligament tear - Return expected on Jun 30, 2024",,
+595,730408,Leon Reichardt,Centre-Back,"Jun 28, 2004",19,Germany,VfB Stuttgart II,"1,90m",left,"Jan 31, 2020",,,Red card suspension -  - Regionalliga Südwest,,
+596,293194,Borna Sosa,Left-Back,"Jan 21, 1998",25,Croatia,Ajax Amsterdam,"1,87m",left,"Jul 9, 2022",GNK Dinamo Zagreb,€12.00m,,,
+597,470594,Clinton Mola,Left-Back,"Mar 15, 2001",22,England,Reading FC,"1,84m",left,"Jul 1, 2020",Chelsea FC U23,€500k,,"Returned after loan spell with Blackburn Rovers; date: Jun 30, 2023; fee: End of loan",
+598,448258,Josha Vagnoman,Right-Back,"Dec 11, 2000",22,Germany,VfB Stuttgart,"1,90m",right,"Jul 24, 2020",Hamburger SV,€8.00m,,,
+599,195246,Pascal Stenzel,Right-Back,"Mar 20, 1996",27,Germany,VfB Stuttgart,"1,83m",right,"Jul 1, 2020",SC Freiburg,€1.50m,,,
+600,405674,Antonis Aidonis,Right-Back,"May 22, 2001",22,Germany,Borussia Dortmund II,"1,86m",right,"Jul 1, 2019",VfB Stuttgart II,€350k,,,
+601,666169,Mattis Hoppe,Right-Back,"Jul 23, 2003",19,Germany,VfB Stuttgart II,"1,79m",right,"Jul 1, 2021",,€150k,,,
+602,146310,Wataru Endo,Defensive Midfield,"Feb 9, 1993",30,Japan,Liverpool FC,"1,78m",right,"Aug 29, 2019",Sint-Truidense VV,€6.50m,,,
+603,232320,Atakan Karazor,Defensive Midfield,"Oct 13, 1996",26,Germany,VfB Stuttgart,"1,91m",right,"Jan 30, 2023",Holstein Kiel,€4.00m,,,
+604,493899,Luca Bazzoli,Defensive Midfield,"Nov 1, 2000",22,Germany,Preußen Münster,"1,88m",both,"Aug 14, 2021",,€225k,,,
+605,538971,Naouirou Ahamada,Central Midfield,"Mar 29, 2002",21,France,Crystal Palace,"1,83m",right,"Jul 1, 2020",Juventus U23,€10.00m,,,
+606,400546,Nikolas Nartey,Central Midfield,"Feb 22, 2000",23,Denmark,VfB Stuttgart,"1,85m",left,"Jan 30, 2023",1.FC Köln,€1.50m,Fitness - Return unknown,,
+607,329723,Gil Dias,Left Midfield,"Sep 28, 1996",26,Portugal,Legia Warszawa,"1,86m",left,"Jul 1, 2021",SL Benfica,€1.50m,,,
+608,569366,Enzo Millot,Attacking Midfield,"Jul 17, 2002",20,France,VfB Stuttgart,"1,74m",left,"Jul 1, 2022",AS Monaco,€7.00m,,,
+609,472243,Lilian Egloff,Attacking Midfield,"Aug 20, 2002",20,Germany,VfB Stuttgart,"1,82m",right,"Jul 19, 2021",VfB Stuttgart U19,€1.50m,,,
+610,79377,Genki Haraguchi,Attacking Midfield,"May 9, 1991",32,Japan,VfB Stuttgart,"1,78m",right,"Jan 8, 2020",1.FC Union Berlin,€1.00m,,,
+611,588020,Ömer Beyaz,Attacking Midfield,"Aug 29, 2003",19,Türkiye,Hatayspor,"1,71m",left,"Jul 1, 2019",Fenerbahce,€700k,"Yellow card suspension - until Apr 15, 2024 - Süper Lig - 1 matchday",,
+612,717465,Laurin Ulrich,Attacking Midfield,"Jan 31, 2005",18,Germany,VfB Stuttgart,"1,80m",right,"Aug 13, 2019",VfB Stuttgart U17,€500k,,,
+613,272278,Chris Führich,Left Winger,"Jan 9, 1998",25,Germany,VfB Stuttgart,"1,81m",right,"Jul 2, 2019",SC Paderborn 07,€4.00m,,,
+614,386786,Darko Churlinov,Left Winger,"Jul 11, 2000",22,North Macedonia,FC Schalke 04,"1,80m",right,"Jul 5, 2019",1.FC Köln,€2.20m,,,
+615,540302,Mateo Klimowicz,Left Winger,"Jul 6, 2000",22,Germany,Atlético de San Luis,"1,81m",right,"Jul 1, 2023",Instituto AC Córdoba,€1.20m,,"Returned after loan spell with Atlético de San Luis; date: Dec 31, 2023; fee: End of loan",
+616,612826,Silas,Right Winger,"Oct 6, 1998",24,DR Congo,VfB Stuttgart,"1,89m",right,"Jan 30, 2022",Paris FC,€8.00m,"Ill - Return expected on Apr 8, 2024",,
+617,618425,Tanguy Coulibaly,Right Winger,"Feb 18, 2001",22,France,Montpellier HSC,"1,79m",left,"Jul 8, 2022",Paris Saint-Germain U19,€2.50m,,,
+618,369567,Sasa Kalajdzic,Centre-Forward,"Jul 7, 1997",25,Austria,Eintracht Frankfurt,"2,00m",right,"Aug 2, 2022",FC Admira Wacker Mödling,€15.00m,Cruciate ligament tear - Return unknown,,
+619,270541,Serhou Guirassy,Centre-Forward,"Mar 12, 1996",27,Guinea,VfB Stuttgart,"1,87m",right,"Jul 1, 2022",Stade Rennais FC,€14.00m,,"Joined from Stade Rennais FC; date: Jul 1, 2023; fee: €9.00m",
+620,616344,Tiago Tomás,Centre-Forward,"Jun 16, 2002",21,Portugal,VfL Wolfsburg,"1,80m",right,"Jul 1, 2022",Sporting CP,€7.00m,,,
+621,55089,Oliver Baumann,Goalkeeper,"Jun 2, 1990",33,Germany,TSG 1899 Hoffenheim,"1,87m",right,"Jul 1, 2014",SC Freiburg,€4.00m,Team captain,,
+622,8246,Philipp Pentke,Goalkeeper,"May 1, 1985",38,Germany,1.FC Köln,"1,91m",right,"Jul 1, 2019",SSV Jahn Regensburg,€300k,,,
+623,432671,Luca Philipp,Goalkeeper,"Nov 28, 2000",22,Germany,TSG 1899 Hoffenheim,"1,92m",,"Jul 31, 2020",TSG 1899 Hoffenheim II,€300k,,,
+624,600942,Nahuel Noll,Goalkeeper,"Mar 17, 2003",20,Germany,TSG 1899 Hoffenheim,"1,91m",both,"Jul 1, 2021",TSG 1899 Hoffenheim U19,€250k,,,
+625,361260,Ozan Kabak,Centre-Back,"Mar 25, 2000",23,Türkiye,TSG 1899 Hoffenheim,"1,87m",right,"Jul 23, 2022",FC Schalke 04,€10.00m,,,
+626,371141,Stanley Nsoki,Centre-Back,"Apr 9, 1999",24,France,TSG 1899 Hoffenheim,"1,84m",left,"Aug 3, 2022",Club Brugge KV,€5.50m,,,
+627,160241,Kevin Akpoguma,Centre-Back,"Apr 19, 1995",28,Nigeria,TSG 1899 Hoffenheim,"1,92m",right,"Jul 1, 2013",: Ablöse €1.00m,€3.50m,,,
+628,84435,Kevin Vogt,Centre-Back,"Sep 23, 1991",31,Germany,1.FC Union Berlin,"1,94m",right,"Jul 1, 2016",1.FC Köln,€2.50m,,,
+629,504073,Eduardo Quaresma,Centre-Back,"Mar 2, 2002",21,Portugal,Sporting CP,"1,85m",right,"Aug 4, 2022",Sporting CP,€2.50m,,,
+630,124732,John Brooks,Centre-Back,"Jan 28, 1993",30,United States,TSG 1899 Hoffenheim,"1,94m",left,"Jan 26, 2023",SL Benfica,€2.00m,,,
+631,51676,Ermin Bicakcic,Centre-Back,"Jan 24, 1990",33,Bosnia-Herzegovina,Eintracht Braunschweig,"1,85m",right,"Jul 1, 2014",: Ablöse €400k,€700k,"Yellow card suspension - until Apr 8, 2024 - 2. Bundesliga - 1 matchday",,
+632,790918,Joshua Quarshie,Centre-Back,"Jul 26, 2004",18,Germany,Fortuna Düsseldorf,"1,97m",both,"Aug 16, 2023",TSG 1899 Hoffenheim II,€250k,,"Internal transfer: TSG 1899 Hoffenheim II; date: Aug 16, 2023",
+633,52348,Benjamin Hübner,Centre-Back,"Jul 4, 1989",33,Germany,Retired,"1,93m",left,"Jul 1, 2016",FC Ingolstadt 04,,,,
+634,277179,Angeliño,Left-Back,"Jan 4, 1997",26,Spain,AS Roma,"1,71m",left,"Aug 8, 2022",RB Leipzig,€12.00m,,,
+635,223974,Stefan Posch,Right-Back,"May 14, 1997",26,Austria,Bologna FC 1909,"1,90m",right,"Jul 1, 2017",TSG 1899 Hoffenheim II,€14.00m,,"Returned after loan spell with Bologna FC 1909; date: Jun 30, 2023; fee: End of loan",
+636,143798,Pavel Kaderabek,Right-Back,"Apr 25, 1992",31,Czech Republic,TSG 1899 Hoffenheim,"1,82m",right,"Jul 1, 2015",: Ablöse €3.50m,€3.00m,,,
+637,796429,Justin Che,Right-Back,"Nov 18, 2003",19,United States,ADO Den Haag,"1,85m",right,"Jan 18, 2023",TSG 1899 Hoffenheim II,€1.50m,,,
+638,315604,Diadié Samassékou,Defensive Midfield,"Jan 11, 1996",27,Mali,Cádiz CF,"1,77m",right,"Aug 15, 2019",Red Bull Salzburg,€7.00m,,,
+639,443710,Angelo Stiller,Defensive Midfield,"Apr 4, 2001",22,Germany,VfB Stuttgart,"1,83m",left,"Jul 1, 2021",FC Bayern Munich II,€5.00m,,,
+640,57051,Sebastian Rudy,Defensive Midfield,"Feb 28, 1990",33,Germany,SG Dilsberg/Bammenthal,"1,80m",right,"Jul 1, 2021",FC Schalke 04,€1.00m,,,
+641,476915,Melayro Bogarde,Defensive Midfield,"May 28, 2002",21,Netherlands,TSG 1899 Hoffenheim II,"1,86m",right,"Jul 1, 2020",TSG 1899 Hoffenheim U19,€700k,,"Returned after loan spell with PEC Zwolle; date: Jun 30, 2023; fee: End of loan",
+642,251309,Dennis Geiger,Central Midfield,"Jun 10, 1998",25,Germany,TSG 1899 Hoffenheim,"1,73m",right,"Jul 1, 2016",TSG 1899 Hoffenheim U19,€8.00m,,,
+643,234029,Grischa Prömel,Central Midfield,"Jan 9, 1995",28,Germany,TSG 1899 Hoffenheim,"1,84m",right,"Jul 1, 2022",1.FC Union Berlin,€7.00m,,,
+644,334999,Finn Becker,Central Midfield,"Jun 8, 2000",23,Germany,TSG 1899 Hoffenheim,"1,77m",left,"Jul 1, 2022",FC St. Pauli,€2.50m,,,
+645,91849,Thomas Delaney,Central Midfield,"Sep 3, 1991",31,Denmark,RSC Anderlecht,"1,82m",left,"Jan 30, 2023",Sevilla FC,€2.00m,,,
+646,569031,Umut Tohumcu,Central Midfield,"Aug 11, 2004",18,Germany,TSG 1899 Hoffenheim,"1,75m",both,"Jan 18, 2023",TSG 1899 Hoffenheim II,€1.50m,,,
+647,270393,Robert Skov,Left Midfield,"May 20, 1996",27,Denmark,TSG 1899 Hoffenheim,"1,85m",left,"Jul 29, 2019",FC Copenhagen,€6.50m,,,
+648,324278,Christoph Baumgartner,Attacking Midfield,"Aug 1, 1999",23,Austria,RB Leipzig,"1,80m",right,"Jan 15, 2019",TSG 1899 Hoffenheim II,€24.00m,,,
+649,822959,Tom Bischof,Attacking Midfield,"Jun 28, 2005",18,Germany,TSG 1899 Hoffenheim,"1,76m",left,"Jul 1, 2021",TSG 1899 Hoffenheim U17,€3.50m,,,
+650,789898,Muhammed Damar,Attacking Midfield,"Apr 9, 2004",19,Germany,Hannover 96,"1,85m",both,"Jul 1, 2022",Eintracht Frankfurt U19,€1.00m,,,
+651,293281,Jacob Bruun Larsen,Left Winger,"Sep 19, 1998",24,Denmark,Burnley FC,"1,83m",right,"Jan 31, 2020",Borussia Dortmund,€3.00m,,,
+652,538977,Georginio Rutter,Centre-Forward,"Apr 20, 2002",21,France,Leeds United,"1,82m",left,"Feb 1, 2021",Stade Rennais FC,€18.00m,,,
+653,46580,Andrej Kramaric,Centre-Forward,"Jun 19, 1991",32,Croatia,TSG 1899 Hoffenheim,"1,77m",right,"Jul 1, 2016",Leicester City,€8.00m,,,
+654,237164,Ihlas Bebou,Centre-Forward,"Apr 23, 1994",29,Togo,TSG 1899 Hoffenheim,"1,85m",right,"Jul 1, 2019",: Ablöse €9.00m,€7.00m,,,
+655,283196,Kasper Dolberg,Centre-Forward,"Oct 6, 1997",25,Denmark,RSC Anderlecht,"1,87m",right,"Jan 2, 2023",OGC Nice,€7.00m,,,
+656,145866,Munas Dabbur,Centre-Forward,"May 14, 1992",31,Israel,Shabab Al-Ahli Club,"1,82m",right,"Jan 7, 2020",Sevilla FC,€3.00m,,,
+657,524290,Fisnik Asllani,Centre-Forward,"Aug 8, 2002",20,Germany,Austria Vienna,"1,91m",both,"Jan 4, 2022",TSG 1899 Hoffenheim II,€800k,"Tendon tear - Return expected on Apr 22, 2024",,
+658,40792,Manuel Riemann,Goalkeeper,"Sep 9, 1988",35,Germany,,"1,86m",right,"Jul 1, 2015",: Ablöse free transfer,€800k,,,€800k
+659,348778,Niclas Thiede,Goalkeeper,"Apr 14, 1999",24,Germany,,"1,86m",both,"Jul 1, 2023",SC Verl,€350k,Broken finger - Return unknown,"Joined from SC Verl; date: Jul 1, 2023; fee: free transfer",€350k
+660,41323,Andreas Luthe,Goalkeeper,"Mar 10, 1987",37,Germany,,"1,95m",right,"Jan 29, 2024",1.FC Kaiserslautern,€300k,,"Joined as a winter arrival from: 1.FC Kaiserslautern; date: Jan 29, 2024; fee: ?",€300k
+661,61989,Michael Esser,Goalkeeper,"Nov 22, 1987",36,Germany,,"1,98m",right,"Jul 1, 2021",Hannover 96,€300k,Knee injury - Return unknown,,€300k
+662,343959,Erhan Masovic,Centre-Back,"Nov 22, 1998",25,Serbia,,"1,89m",both,"Oct 5, 2020",Club Brugge KV,€6.00m,,,€6.00m
+663,364258,Bernardo,Centre-Back,"May 14, 1995",28,Brazil,,"1,86m",left,"Aug 2, 2023",Red Bull Salzburg,€5.50m,,"Joined from Red Bull Salzburg; date: Aug 2, 2023; fee: €600k",€5.50m
+664,413843,Keven Schlotterbeck,Centre-Back,"Apr 28, 1997",26,Germany,,"1,89m",left,"Aug 22, 2023",SC Freiburg,€5.00m,,"On loan from SC Freiburg until Jun 30, 2024",€5.00m
+665,696164,Tim Oermann,Centre-Back,"Oct 6, 2003",20,Germany,,"1,89m",right,"Jul 1, 2022",VfL Bochum U19,€4.00m,Hamstring injury - Return unknown,"Returned after loan spell with Wolfsberger AC; date: Jun 30, 2023; fee: End of loan",€4.00m
+666,118850,Ivan Ordets,Centre-Back,"Jul 8, 1992",31,Ukraine,,"1,95m",right,"Jul 10, 2022",Dynamo Moscow,€3.00m,,"On loan from Dynamo Moscow until Jun 30, 2024",€3.00m
+667,265209,Noah Loosli,Centre-Back,"Jan 23, 1997",27,Switzerland,,"1,86m",right,"Jul 1, 2023",Grasshopper Club Zurich,€800k,,"Joined from Grasshopper Club Zurich; date: Jul 1, 2023; fee: free transfer",€800k
+668,813730,Mohammed Tolba,Centre-Back,"Jul 19, 2004",19,Germany,,"1,85m",right,"Jul 1, 2022",VfL Bochum U19,€200k,Cruciate ligament tear - Return unknown,,€200k
+669,196793,Maximilian Wittek,Left-Back,"Aug 21, 1995",28,Germany,,"1,73m",left,"Aug 14, 2023",Vitesse Arnhem,€2.00m,,"Joined from Vitesse Arnhem; date: Aug 14, 2023; fee: €750k",€2.00m
+670,154396,Danilo Soares,Left-Back,"Oct 29, 1991",32,Brazil,,"1,70m",left,"Jul 1, 2017",TSG 1899 Hoffenheim,€1.00m,,,€1.00m
+671,452222,Moritz Römling,Left-Back,"Apr 30, 2001",22,Germany,,"1,86m",left,"Jul 1, 2019",VfL Bochum U19,€150k,,"Returned after loan spell with Rot-Weiss Essen; date: Jun 30, 2023; fee: End of loan",€150k
+672,274461,Felix Passlack,Right-Back,"May 29, 1998",25,Germany,,"1,70m",right,"Jul 1, 2023",Borussia Dortmund,€1.50m,,"Joined from Borussia Dortmund; date: Jul 1, 2023; fee: free transfer",€1.50m
+673,121686,Cristian Gamboa,Right-Back,"Oct 24, 1989",34,Costa Rica,,"1,75m",right,"Aug 27, 2019",Celtic FC,€600k,,,€600k
+674,505324,Agon Elezi,Defensive Midfield,"Mar 1, 2001",23,North Macedonia,,"1,81m",right,"Jan 30, 2024",NK Varazdin,€800k,,"Joined as a winter arrival from: NK Varazdin; date: Jan 30, 2024; fee: ?",€800k
+675,111266,Anthony Losilla,Defensive Midfield,"Mar 10, 1986",38,France,,"1,85m",right,"Jul 1, 2014",SG Dynamo Dresden,€500k,Team captain,,€500k
+676,443331,Patrick Osterhage,Central Midfield,"Feb 1, 2000",24,Germany,,"1,86m",left,"Jul 1, 2021",Borussia Dortmund II,€7.00m,,,€7.00m
+677,204047,Matus Bero,Central Midfield,"Sep 6, 1995",28,Slovakia,,"1,81m",right,"Jul 1, 2023",Vitesse Arnhem,€3.50m,,"Joined from Vitesse Arnhem; date: Jul 1, 2023; fee: free transfer",€3.50m
+678,106872,Kevin Stöger,Attacking Midfield,"Aug 27, 1993",30,Austria,,"1,75m",left,"Jul 1, 2022",1.FSV Mainz 05,€4.00m,,,€4.00m
+679,179635,Philipp Förster,Attacking Midfield,"Feb 4, 1995",29,Germany,,"1,88m",left,"Jul 1, 2022",VfB Stuttgart,€1.80m,,,€1.80m
+680,334213,Lukas Daschner,Attacking Midfield,"Oct 1, 1998",25,Germany,,"1,85m",both,"Jul 1, 2023",FC St. Pauli,€1.50m,,"Joined from FC St. Pauli; date: Jul 1, 2023; fee: free transfer",€1.50m
+681,316575,Moritz-Broni Kwarteng,Attacking Midfield,"Apr 28, 1998",25,Germany,,"1,75m",both,"Jul 1, 2023",1.FC Magdeburg,€1.50m,"Inner knee ligament tear - Return expected on Jun 30, 2024","Joined from 1.FC Magdeburg; date: Jul 1, 2023; fee: €1.10m",€1.50m
+682,289182,Christopher Antwi-Adjei,Left Winger,"Feb 7, 1994",30,Ghana,,"1,74m",right,"Jul 1, 2021",SC Paderborn 07,€1.50m,,,€1.50m
+683,245744,Takuma Asano,Right Winger,"Nov 10, 1994",29,Japan,,"1,73m",right,"Jul 1, 2021",Without Club,€4.00m,,,€4.00m
+684,406973,Moritz Broschinski,Centre-Forward,"Sep 23, 2000",23,Germany,,"1,90m",right,"Jan 22, 2023",Borussia Dortmund II,€2.00m,,,€2.00m
+685,119037,Philipp Hofmann,Centre-Forward,"Mar 30, 1993",31,Germany,,"1,95m",left,"Jul 1, 2022",Karlsruher SC,€1.80m,,,€1.80m
+686,181547,Gonçalo Paciência,Centre-Forward,"Aug 1, 1994",29,Portugal,,"1,84m",right,"Sep 1, 2023",Celta de Vigo,€1.70m,,"On loan from Celta de Vigo until Jun 30, 2024",€1.70m
+687,526845,Noah Atubolu,Goalkeeper,"May 25, 2002",21,Germany,,"1,90m",right,"Jul 1, 2021",SC Freiburg II,€8.00m,,,€8.00m
+688,284769,Florian Müller,Goalkeeper,"Nov 13, 1997",26,Germany,,"1,90m",left,"Jul 1, 2023",VfB Stuttgart,€1.20m,,"Joined from VfB Stuttgart; date: Jul 1, 2023; fee: €1.50m",€1.20m
+689,120296,Benjamin Uphoff,Goalkeeper,"Aug 8, 1993",30,Germany,,"1,92m",right,"Aug 5, 2020",Karlsruher SC,€500k,,,€500k
+690,225657,Philipp Lienhart,Centre-Back,"Jul 11, 1996",27,Austria,,"1,89m",right,"Jul 1, 2018",Real Madrid,€20.00m,unknown injury - Return unknown,,€20.00m
+691,124502,Matthias Ginter,Centre-Back,"Jan 19, 1994",30,Germany,,"1,89m",right,"Jul 1, 2022",Borussia Mönchengladbach,€15.00m,"Achilles tendon surgery - Return expected on Jun 30, 2024",,€15.00m
+692,263380,Attila Szalai,Centre-Back,"Jan 20, 1998",26,Hungary,,"1,92m",left,"Jan 21, 2024",TSG 1899 Hoffenheim,€6.00m,,"On loan from TSG 1899 Hoffenheim until Jun 30, 2024",€6.00m
+693,527276,Kenneth Schmidt,Centre-Back,"Jun 3, 2002",21,Germany,,"1,87m",left,"Jan 1, 2023",SC Freiburg II,€3.00m,Injury to abdominal muscles - Return unknown,,€3.00m
+694,45683,Manuel Gulde,Centre-Back,"Feb 12, 1991",33,Germany,,"1,84m",right,"Jul 1, 2016",Karlsruher SC,€1.50m,,,€1.50m
+695,599419,Max Rosenfelder,Centre-Back,"Feb 10, 2003",21,Germany,,"1,86m",right,"Jul 1, 2023",SC Freiburg II,€500k,,"Internal transfer: SC Freiburg II; date: Jul 1, 2023",€500k
+696,93707,Christian Günter,Left-Back,"Feb 28, 1993",31,Germany,,"1,84m",left,"Jul 1, 2012",SC Freiburg U19,€6.00m,Team captain,,€6.00m
+697,815078,Jordy Makengo,Left-Back,"Aug 3, 2001",22,France,,"1,91m",left,"Jul 1, 2023",SC Freiburg II,€3.50m,,"Internal transfer: SC Freiburg II; date: Jul 1, 2023",€3.50m
+698,548348,Kiliann Sildillia,Right-Back,"May 16, 2002",21,France,,"1,86m",right,"Jul 1, 2021",SC Freiburg II,€18.00m,,,€18.00m
+699,93604,Lukas Kübler,Right-Back,"Aug 30, 1992",31,Germany,,"1,82m",right,"Jul 1, 2015",: Ablöse free transfer,€2.50m,,,€2.50m
+700,342039,Yannik Keitel,Defensive Midfield,"Feb 15, 2000",24,Germany,,"1,86m",both,"Jul 1, 2020",SC Freiburg II,€4.00m,,,€4.00m
+701,55099,Nicolas Höfler,Defensive Midfield,"Mar 9, 1990",34,Germany,,"1,81m",right,"Jul 1, 2010",SC Freiburg II,€2.00m,,,€2.00m
+702,190284,Maximilian Eggestein,Central Midfield,"Dec 8, 1996",27,Germany,,"1,81m",right,"Aug 18, 2021",SV Werder Bremen,€10.00m,,,€10.00m
+703,608832,Merlin Röhl,Central Midfield,"Jul 5, 2002",21,Germany,,"1,92m",right,"Aug 17, 2022",FC Ingolstadt 04,€10.00m,,,€10.00m
+704,272587,Daniel-Kofi Kyereh,Attacking Midfield,"Mar 8, 1996",28,Ghana,,"1,79m",right,"Jul 1, 2022",FC St. Pauli,€5.00m,Cruciate ligament tear - Return unknown,,€5.00m
+705,185077,Vincenzo Grifo,Left Winger,"Apr 7, 1993",30,Italy,,"1,80m",right,"Sep 2, 2019",TSG 1899 Hoffenheim,€12.00m,,,€12.00m
+706,392163,Noah Weißhaupt,Left Winger,"Sep 20, 2001",22,Germany,,"1,81m",right,"Jul 1, 2021",SC Freiburg II,€7.00m,,,€7.00m
+707,337036,Florent Muslija,Left Winger,"Jul 6, 1998",25,Kosovo,,"1,72m",right,"Jan 24, 2024",SC Paderborn 07,€2.50m,,"Joined as a winter arrival from: SC Paderborn 07; date: Jan 24, 2024; fee: €1.00m",€2.50m
+708,332798,Roland Sallai,Right Winger,"May 22, 1997",26,Hungary,,"1,83m",both,"Aug 31, 2018",APOEL Nicosia,€15.00m,,,€15.00m
+709,358504,Ritsu Doan,Right Winger,"Jun 16, 1998",25,Japan,,"1,72m",left,"Jul 5, 2022",PSV Eindhoven,€15.00m,,,€15.00m
+710,143891,Maximilian Philipp,Second Striker,"Mar 1, 1994",30,Germany,,"1,83m",right,"Aug 21, 2023",VfL Wolfsburg,€2.00m,,"On loan from VfL Wolfsburg until Jun 30, 2024",€2.00m
+711,120205,Michael Gregoritsch,Centre-Forward,"Apr 18, 1994",29,Austria,,"1,93m",left,"Jul 8, 2022",FC Augsburg,€8.00m,,,€8.00m
+712,248999,Lucas Höler,Centre-Forward,"Jul 10, 1994",29,Germany,,"1,84m",right,"Jan 1, 2018",: Ablöse €2.00m,€5.00m,,,€5.00m
+713,452477,Junior Adamu,Centre-Forward,"Jun 6, 2001",22,Austria,,"1,83m",right,"Jul 1, 2023",Red Bull Salzburg,€5.00m,,"Joined from Red Bull Salzburg; date: Jul 1, 2023; fee: €6.00m",€5.00m
+714,93651,Marcel Schuhen,Goalkeeper,"Jan 13, 1993",31,Germany,,"1,90m",both,"Jul 1, 2019",: Ablöse free transfer,€1.20m,,,€1.20m
+715,146693,Alexander Brunst,Goalkeeper,"Jul 7, 1995",28,Germany,,"1,95m",right,"Jul 1, 2022",Vejle Boldklub,€400k,,,€400k
+716,274039,Morten Behrens,Goalkeeper,"Apr 1, 1997",27,Germany,,"1,93m",right,"Jul 1, 2021",1.FC Magdeburg,€250k,,"Returned after loan spell with SV Waldhof Mannheim; date: Jun 30, 2023; fee: End of loan",€250k
+717,849390,Max Wendt,Goalkeeper,"Jun 13, 2005",18,Germany,,"1,80m",,"Jul 18, 2023",,,,,
+718,346849,Christoph Klarer,Centre-Back,"Jun 14, 2000",23,Austria,,"1,91m",right,"Jul 2, 2023",Fortuna Düsseldorf,€3.00m,,"Joined from Fortuna Düsseldorf; date: Jul 18, 2023; fee: €2.00m",€3.00m
+719,433388,Matej Maglica,Centre-Back,"Sep 25, 1998",25,Croatia,,"1,98m",left,"Jul 1, 2021",VfB Stuttgart,€2.00m,,"On loan from VfB Stuttgart until Jun 30, 2024",€2.00m
+720,692070,Clemens Riedel,Centre-Back,"Jul 19, 2003",20,Germany,,"1,86m",right,"Jul 20, 2022",SV Darmstadt 98 U19,€2.00m,,,€2.00m
+721,77812,Christoph Zimmermann,Centre-Back,"Jan 12, 1993",31,Germany,,"1,94m",right,"Jul 1, 2021",Norwich City,€1.00m,,,€1.00m
+722,119286,Jannik Müller,Centre-Back,"Jan 18, 1994",30,Germany,,"1,87m",right,"Jan 3, 2021",DAC Dunajska Streda,€800k,,,€800k
+723,322075,Thomas Isherwood,Centre-Back,"Jan 28, 1998",26,Sweden,,"1,95m",left,"Jul 1, 2021",Östersunds FK,€700k,,,€700k
+724,286596,Emir Karic,Left-Back,"Jun 9, 1997",26,Austria,,"1,84m",left,"Jul 5, 2015",SCR Altach,€1.00m,,,€1.00m
+725,54846,Fabian Holland,Left-Back,"Jul 11, 1990",33,Germany,,"1,72m",left,"Jan 31, 2020",: Ablöse €500k,€600k,Team captain,,€600k
+726,237162,Matthias Bader,Right-Back,"Jun 17, 1997",26,Germany,,"1,76m",right,"Aug 18, 2023",1.FC Köln,€2.20m,,,€2.20m
+727,370998,Bartol Franjic,Defensive Midfield,"Jan 14, 2000",24,Croatia,,"1,88m",left,"Jul 1, 2023",VfL Wolfsburg,€2.00m,,"On loan from VfL Wolfsburg until Jun 30, 2024",€2.00m
+728,438315,Andreas Müller,Defensive Midfield,"Jul 20, 2000",23,Germany,,"1,73m",right,"Aug 11, 2021",1.FC Magdeburg,€800k,,"Joined from 1.FC Magdeburg; date: Jul 1, 2023; fee: free transfer",€800k
+729,57598,Klaus Gjasula,Defensive Midfield,"Dec 14, 1989",34,Albania,,"1,90m",both,"Jul 1, 2023",Hamburger SV,€500k,"Yellow card suspension - until Apr 7, 2024 - Bundesliga - 1 matchday",,€500k
+730,349433,Fabian Nürnberger,Central Midfield,"Jul 28, 1999",24,Germany,,"1,81m",left,"Jul 1, 2019",1.FC Nuremberg,€2.50m,Ankle problems - Return unknown,"Joined from 1.FC Nuremberg; date: Jul 1, 2023; fee: free transfer",€2.50m
+731,94148,Fabian Schnellhardt,Central Midfield,"Jan 12, 1994",30,Germany,,"1,80m",left,"Jul 7, 2017",: Ablöse ?,€1.00m,,,€1.00m
+732,42072,Tobias Kempe,Central Midfield,"Jun 27, 1989",34,Germany,,"1,84m",right,"Jul 1, 2017",1.FC Nuremberg,€500k,,,€500k
+733,237226,Marvin Mehlem,Attacking Midfield,"Sep 11, 1997",26,Germany,,"1,74m",right,"Jan 19, 2024",Karlsruher SC,€3.00m,"Broken fibula - Return expected on May 19, 2024",,€3.00m
+734,324861,Julian Justvan,Attacking Midfield,"Apr 2, 1998",26,Germany,,"1,77m",left,"Jan 21, 2024",TSG 1899 Hoffenheim,€1.50m,,"On loan from TSG 1899 Hoffenheim until Jun 30, 2024",€1.50m
+735,190289,Gerrit Holtmann,Left Winger,"Mar 25, 1995",29,Philippines,,"1,85m",left,"Jul 5, 2019",VfL Bochum,€1.50m,,"On loan from VfL Bochum until Jun 30, 2024",€1.50m
+736,283497,Mathias Honsak,Left Winger,"Dec 20, 1996",27,Austria,,"1,88m",left,"Aug 31, 2023",Red Bull Salzburg,€1.20m,,,€1.20m
+737,287920,Tim Skarke,Right Winger,"Sep 7, 1996",27,Germany,,"1,81m",right,"Jul 12, 2022",1.FC Union Berlin,€3.00m,,"On loan from 1.FC Union Berlin until Jun 30, 2024",€3.00m
+738,673071,Oscar Vilhelmsson,Centre-Forward,"Oct 2, 2003",20,Sweden,,"1,88m",left,"Jul 5, 2023",IFK Göteborg,€2.00m,,,€2.00m
+739,388160,Fraser Hornby,Centre-Forward,"Sep 13, 1999",24,Scotland,,"1,95m",right,"Jul 1, 2019",Stade Reims,€1.80m,"Ankle injury - Return expected on Jun 30, 2024","Joined from Stade Reims; date: Jul 5, 2023; fee: €1.80m",€1.80m
+740,231590,Braydon Manu,Centre-Forward,"Mar 28, 1997",27,Ghana,,"1,70m",both,"Aug 17, 2023",Hallescher FC,€1.50m,,,€1.50m
+741,232463,Luca Pfeiffer,Centre-Forward,"Aug 20, 1996",27,Germany,,"1,96m",right,"Feb 1, 2024",VfB Stuttgart,€1.20m,,"On loan from VfB Stuttgart until Jun 30, 2024",€1.20m
+742,60957,Sebastian Polter,Centre-Forward,"Apr 1, 1991",33,Germany,,"1,92m",right,"Aug 6, 2020",FC Schalke 04,€700k,,"On loan from FC Schalke 04 until Jun 30, 2024",€700k
+743,187499,Aaron Seydel,Centre-Forward,"Feb 7, 1996",28,Germany,,"1,99m",left,"Dec 6, 2022",1.FSV Mainz 05,€500k,,,€500k
+744,550829,Matej Kovar,Goalkeeper,"May 17, 2000",23,Czech Republic,,"1,96m",right,"Aug 15, 2023",Manchester United,€5.00m,,"Joined from Manchester United; date: Aug 15, 2023; fee: €5.00m",€5.00m
+745,48015,Lukas Hradecky,Goalkeeper,"Nov 24, 1989",34,Finland,,"1,92m",right,"Jul 1, 2018",Eintracht Frankfurt,€2.50m,Team captain,,€2.50m
+746,85543,Niklas Lomb,Goalkeeper,"Jul 28, 1993",30,Germany,,"1,86m",right,"Jul 1, 2012",Bayer 04 Leverkusen U19,€250k,,,€250k
+747,564545,Edmond Tapsoba,Centre-Back,"Feb 2, 1999",25,Burkina Faso,,"1,92m",right,"Jan 31, 2020",Vitória Guimarães SC,€40.00m,,,€40.00m
+748,659813,Piero Hincapié,Centre-Back,"Jan 9, 2002",22,Ecuador,,"1,84m",left,"Aug 16, 2021",CA Talleres,€35.00m,,,€35.00m
+749,644771,Odilon Kossounou,Centre-Back,"Jan 4, 2001",23,Cote d'Ivoire,,"1,91m",right,"Jul 22, 2021",Club Brugge KV,€35.00m,,,€35.00m
+750,196357,Jonathan Tah,Centre-Back,"Feb 11, 1996",28,Germany,,"1,95m",right,"Jul 16, 2015",: Ablöse €9.00m,€30.00m,,,€30.00m
+751,483046,Josip Stanisic,Centre-Back,"Apr 2, 2000",24,Croatia,,"1,87m",both,"Aug 20, 2023",Bayern Munich,€18.00m,,"On loan from Bayern Munich until Jun 30, 2024",€18.00m
+752,937113,Madi Monamay,Centre-Back,"Apr 6, 2006",18,Belgium,,"1,85m",right,"Jul 1, 2023",,,,,
+753,193082,Alejandro Grimaldo,Left-Back,"Sep 20, 1995",28,Spain,,"1,71m",left,"Jul 1, 2023",SL Benfica,€45.00m,,"Joined from SL Benfica; date: Jul 1, 2023; fee: free transfer",€45.00m
+754,977464,Arthur,Right-Back,"Mar 17, 2003",21,Brazil,,"1,74m",right,"Jan 13, 2021",América Futebol Clube (MG),€5.00m,Muscle injury - Return unknown,"Joined from América Futebol Clube (MG); date: Jul 1, 2023; fee: €7.00m",€5.00m
+755,315131,Timothy Fosu-Mensah,Right-Back,"Jan 2, 1998",26,Netherlands,,"1,85m",right,"Jul 6, 2023",Manchester United,€1.50m,,,€1.50m
+756,111455,Granit Xhaka,Defensive Midfield,"Sep 27, 1992",31,Switzerland,,"1,86m",left,"Aug 16, 2021",Arsenal FC,€20.00m,,"Joined from Arsenal FC; date: Jul 6, 2023; fee: €15.00m",€20.00m
+757,159088,Robert Andrich,Defensive Midfield,"Sep 22, 1994",29,Germany,,"1,87m",right,"Jan 14, 2023",1.FC Union Berlin,€11.00m,,,€11.00m
+758,743395,Noah Mbamba,Defensive Midfield,"Jan 5, 2005",19,Belgium,,"1,87m",right,"Jan 1, 2020",Club Brugge KV,€3.00m,"No eligibility - until Jun 30, 2024 - UEFA Europa League",,€3.00m
+759,401578,Exequiel Palacios,Central Midfield,"Oct 5, 1998",25,Argentina,,"1,77m",right,"Jan 27, 2023",: Ablöse €17.00m,€40.00m,,,€40.00m
+760,936981,Gustavo Puerta,Central Midfield,"Jul 23, 2003",20,Colombia,,"1,73m",right,"Jan 27, 2021",Bogotá FC,€2.00m,,"Returned after loan spell with 1.FC Nuremberg; date: Jun 30, 2023; fee: End of loan",€2.00m
+761,484547,Jeremie Frimpong,Right Midfield,"Dec 10, 2000",23,Netherlands,,"1,71m",right,"Jul 1, 2020",Celtic FC,€50.00m,,,€50.00m
+762,598577,Florian Wirtz,Attacking Midfield,"May 3, 2003",20,Germany,,"1,77m",right,"Jul 5, 2023",Bayer 04 Leverkusen U19,€110.00m,,,€110.00m
+763,7161,Jonas Hofmann,Attacking Midfield,"Jul 14, 1992",31,Germany,,"1,76m",right,"Jul 1, 2023",Borussia Mönchengladbach,€13.00m,,"Joined from Borussia Mönchengladbach; date: Jul 5, 2023; fee: €10.00m",€13.00m
+764,696027,Ayman Aourir,Attacking Midfield,"Oct 6, 2004",19,Morocco,,"1,72m",both,"Aug 26, 2021",Bayer 04 Leverkusen U19,€300k,,"Internal transfer: Bayer 04 Leverkusen U19; date: Jul 1, 2023",€300k
+765,532776,Amine Adli,Left Winger,"May 10, 2000",23,Morocco,,"1,74m",left,"Aug 27, 2023",FC Toulouse,€25.00m,,,€25.00m
+766,340322,Nathan Tella,Right Winger,"Jul 5, 1999",24,Nigeria,,"1,73m",right,"Jul 22, 2023",Southampton FC,€23.00m,,"Joined from Southampton FC; date: Aug 27, 2023; fee: €23.30m",€23.00m
+767,656681,Victor Boniface,Centre-Forward,"Dec 23, 2000",23,Nigeria,,"1,90m",right,"Sep 8, 2020",Union Saint-Gilloise,€40.00m,,"Joined from Union Saint-Gilloise; date: Jul 22, 2023; fee: €20.50m",€40.00m
+768,242086,Patrik Schick,Centre-Forward,"Jan 24, 1996",28,Czech Republic,,"1,91m",left,"Jul 1, 2022",AS Roma,€22.00m,,,€22.00m
+769,552057,Adam Hlozek,Centre-Forward,"Jul 25, 2002",21,Czech Republic,,"1,88m",right,"Jan 27, 2024",AC Sparta Prague,€12.00m,,,€12.00m
+770,160929,Marvin Schwäbe,Goalkeeper,"Apr 25, 1995",28,Germany,,"1,90m",right,"Jul 1, 2021",Bröndby IF,€5.50m,,,€5.50m
+771,8246,Philipp Pentke,Goalkeeper,"May 1, 1985",38,Germany,,"1,91m",right,"Aug 1, 2023",TSG 1899 Hoffenheim,€300k,,"Joined from TSG 1899 Hoffenheim; date: Aug 1, 2023; fee: free transfer",€300k
+772,665971,Jonas Nickisch,Goalkeeper,"May 21, 2004",19,Germany,,"1,90m",both,"Jul 1, 2023",RasenBallsport Leipzig U19,€200k,,"Joined from RasenBallsport Leipzig U19; date: Jul 1, 2023; fee: free transfer",€200k
+773,227089,Matthias Köbbing,Goalkeeper,"May 28, 1997",26,Germany,,"1,96m",both,"Mar 8, 2022",1.FC Köln II,€100k,,,€100k
+774,303219,Jeff Chabot,Centre-Back,"Feb 12, 1998",26,Germany,,"1,95m",left,"Jul 1, 2023",UC Sampdoria,€9.00m,,"Joined from UC Sampdoria; date: Jul 1, 2023; fee: €2.50m",€9.00m
+775,236981,Timo Hübers,Centre-Back,"Jul 20, 1996",27,Germany,,"1,90m",right,"Jul 1, 2021",Hannover 96,€7.50m,,,€7.50m
+776,384553,Luca Kilian,Centre-Back,"Sep 1, 1999",24,Germany,,"1,92m",right,"Jul 1, 2022",1.FSV Mainz 05,€2.50m,"Cruciate ligament injury - Return expected on Jun 30, 2024",,€2.50m
+777,110036,Dominique Heintz,Centre-Back,"Aug 15, 1993",30,Germany,,"1,88m",left,"Aug 31, 2023",1.FC Union Berlin,€1.20m,,"Joined from 1.FC Union Berlin; date: Aug 31, 2023; fee: ?",€1.20m
+778,795762,Elias Bakatukanda,Centre-Back,"Apr 13, 2004",19,Germany,,"1,93m",both,"Jul 1, 2023",1.FC Köln U19,€250k,Ill - Return unknown,"Internal transfer: 1.FC Köln U19; date: Jul 1, 2023",€250k
+779,810649,Max Finkgräfe,Left-Back,"Mar 27, 2004",20,Germany,,"1,83m",left,"Jul 1, 2023",1.FC Köln U19,€5.00m,,"Internal transfer: 1.FC Köln U19; date: Jul 1, 2023",€5.00m
+780,107219,Leart Paçarada,Left-Back,"Oct 8, 1994",29,Kosovo,,"1,84m",left,"Jul 1, 2023",FC St. Pauli,€2.00m,,"Joined from FC St. Pauli; date: Jul 1, 2023; fee: free transfer",€2.00m
+781,542697,Rasmus Carstensen,Right-Back,"Nov 10, 2000",23,Denmark,,"1,83m",right,"Aug 4, 2023",KRC Genk,€3.00m,,"On loan from KRC Genk until Jun 30, 2024",€3.00m
+782,160968,Benno Schmitz,Right-Back,"Nov 17, 1994",29,Germany,,"1,82m",right,"Jul 1, 2018",: Ablöse €200k,€2.00m,,,€2.00m
+783,597000,Eric Martel,Defensive Midfield,"Apr 29, 2002",21,Germany,,"1,88m",right,"Jul 1, 2022",RB Leipzig,€9.00m,Indirect card suspension -  - DFB-Pokal - 1 matchday,,€9.00m
+784,287188,Dejan Ljubicic,Defensive Midfield,"Oct 8, 1997",26,Austria,,"1,87m",right,"Jul 1, 2021",Rapid Vienna,€8.00m,,,€8.00m
+785,515017,Jacob Christensen,Defensive Midfield,"Jun 25, 2001",22,Denmark,,"1,80m",right,"Jul 1, 2023",FC Nordsjaelland,€2.00m,,"Joined from FC Nordsjaelland; date: Jul 1, 2023; fee: free transfer",€2.00m
+786,678479,Denis Huseinbasic,Central Midfield,"Jul 3, 2001",22,Bosnia-Herzegovina,,"1,84m",right,"Jul 1, 2022",Kickers Offenbach,€4.50m,,,€4.50m
+787,106270,Florian Kainz,Attacking Midfield,"Oct 24, 1992",31,Austria,,"1,76m",both,"Jan 18, 2019",SV Werder Bremen,€3.50m,Team captain; Red card suspension -  - DFB-Pokal - 2 matchdays,,€3.50m
+788,456492,Faride Alidou,Left Winger,"Jul 18, 2001",22,Germany,,"1,86m",right,"Aug 21, 2023",Eintracht Frankfurt,€2.50m,,"On loan from Eintracht Frankfurt until Jun 30, 2024",€2.50m
+789,720162,Justin Diehl,Left Winger,"Nov 27, 2004",19,Germany,,"1,74m",right,"Jan 1, 2024",1.FC Köln II,€2.50m,Fitness - Return unknown,"Joining: Unknown; date: Jul 1, 2024; fee: -",€2.50m
+790,472249,Jan Thielmann,Right Winger,"May 26, 2002",21,Germany,,"1,78m",right,"Jan 17, 2020",1.FC Köln U19,€6.50m,,,€6.50m
+791,335103,Linton Maina,Right Winger,"Jun 23, 1999",24,Germany,,"1,80m",right,"Jul 1, 2022",Hannover 96,€5.00m,,,€5.00m
+792,178459,Davie Selke,Centre-Forward,"Jan 20, 1995",29,Germany,,"1,95m",right,"Jan 2, 2023",Hertha BSC,€3.50m,,,€3.50m
+793,196095,Luca Waldschmidt,Centre-Forward,"May 19, 1996",27,Germany,,"1,81m",left,"Jul 1, 2023",VfL Wolfsburg,€3.00m,,"On loan from VfL Wolfsburg until Jun 30, 2024",€3.00m
+794,296879,Steffen Tigges,Centre-Forward,"Jul 31, 1998",25,Germany,,"1,94m",left,"Jul 1, 2022",Borussia Dortmund,€1.50m,,,€1.50m
+795,112935,Mark Uth,Centre-Forward,"Aug 24, 1991",32,Germany,,"1,85m",left,"Jul 1, 2021",FC Schalke 04,€1.00m,Fitness - Return unknown,,€1.00m
+796,820241,Damion Downs,Centre-Forward,"Jul 6, 2004",19,United States,,"1,92m",right,"Jul 1, 2023",1.FC Köln U19,€1.00m,,"Internal transfer: 1.FC Köln U19; date: Jul 1, 2023",€1.00m
+797,283871,Florian Dietz,Centre-Forward,"Aug 3, 1998",25,Germany,,"1,90m",right,"Jul 1, 2022",1.FC Köln II,€800k,Fitness - Return unknown,,€800k
+798,125614,Sargis Adamyan,Centre-Forward,"May 23, 1993",30,Armenia,,"1,84m",right,"Jul 5, 2022",TSG 1899 Hoffenheim,€700k,,,€700k
+799,118161,Marius Müller,Goalkeeper,"Jul 12, 1993",30,Germany,,"1,92m",right,"Jul 1, 2023",FC Luzern,€800k,,"Joined from FC Luzern; date: Jul 1, 2023; fee: €350k",€800k
+800,39015,Ralf Fährmann,Goalkeeper,"Sep 27, 1988",35,Germany,,"1,97m",right,"Jul 1, 2011",Eintracht Frankfurt,€300k,,,€300k
+801,19114,Michael Langer,Goalkeeper,"Jan 6, 1985",39,Austria,,"1,95m",right,"Aug 4, 2017",IFK Norrköping,€50k,,,€50k
+802,148657,Tomas Kalas,Centre-Back,"May 15, 1993",30,Czech Republic,,"1,84m",right,"Aug 26, 2023",Bristol City,€1.00m,,"Joined from Bristol City; date: Aug 26, 2023; fee: free transfer",€1.00m
+803,187491,Timo Baumgartl,Centre-Back,"Mar 4, 1996",28,Germany,,"1,92m",right,"Jul 26, 2023",PSV Eindhoven,€800k,"Suspended - until Jun 30, 2024 - 2. Bundesliga - 8 matchdays","Joined from PSV Eindhoven; date: Jul 26, 2023; fee: free transfer",€800k
+804,434110,Leo Greiml,Centre-Back,"Jul 3, 2001",22,Austria,,"1,87m",right,"Jul 1, 2022",Rapid Vienna,€600k,Cruciate ligament tear - Return unknown,,€600k
+805,129358,Marcin Kaminski,Centre-Back,"Jan 15, 1992",32,Poland,,"1,92m",left,"Jul 1, 2021",VfB Stuttgart,€600k,,,€600k
+806,684340,Ibrahima Cissé,Centre-Back,"Feb 15, 2001",23,Mali,,"1,96m",right,"Jul 1, 2022",Jong KAA Gent,€200k,,,€200k
+807,241477,Thomas Ouwejan,Left-Back,"Sep 30, 1996",27,Netherlands,,"1,83m",left,"Jul 1, 2022",AZ Alkmaar,€1.50m,,,€1.50m
+808,457341,Derry Murkin,Left-Back,"Jul 27, 1999",24,England,,"1,83m",left,"Aug 30, 2023",FC Volendam,€1.50m,,"Joined from FC Volendam; date: Aug 30, 2023; fee: €800k",€1.50m
+809,546880,Brandon Soppy,Right-Back,"Feb 21, 2002",22,France,,"1,80m",right,"Feb 1, 2024",Atalanta BC,€3.00m,,"On loan from Atalanta BC until Jun 30, 2024",€3.00m
+810,570160,Henning Matriciani,Right-Back,"Mar 14, 2000",24,Germany,,"1,87m",right,"Sep 28, 2021",FC Schalke 04 II,€800k,,,€800k
+811,147038,Cédric Brunner,Right-Back,"Feb 17, 1994",30,Switzerland,,"1,81m",right,"Jul 7, 2022",Arminia Bielefeld,€700k,,,€700k
+812,332392,Ron Schallenberg,Defensive Midfield,"Oct 6, 1998",25,Germany,,"1,85m",right,"Jul 1, 2023",SC Paderborn 07,€2.00m,,"Joined from SC Paderborn 07; date: Jul 1, 2023; fee: €2.00m",€2.00m
+813,897424,Assan Ouedraogo,Central Midfield,"May 9, 2006",17,Germany,,"1,91m",right,"Jul 1, 2023",FC Schalke 04 U19,€8.00m,,"Internal transfer: FC Schalke 04 U19; date: Jul 1, 2023",€8.00m
+814,183780,Paul Seguin,Central Midfield,"Mar 29, 1995",29,Germany,,"1,86m",right,"Jul 1, 2023",1.FC Union Berlin,€1.50m,,"Joined from 1.FC Union Berlin; date: Jul 1, 2023; fee: €750k",€1.50m
+815,378883,Lino Tempelmann,Central Midfield,"Feb 2, 1999",25,Germany,,"1,75m",right,"Jul 14, 2023",SC Freiburg,€1.00m,,"Joined from SC Freiburg; date: Jul 14, 2023; fee: €700k",€1.00m
+816,39025,Danny Latza,Central Midfield,"Dec 7, 1989",34,Germany,,"1,79m",right,"Jul 1, 2021",1.FSV Mainz 05,€300k,,,€300k
+817,153661,Tobias Mohr,Left Midfield,"Aug 24, 1995",28,Germany,,"1,82m",left,"Jul 1, 2022",1.FC Heidenheim 1846,€700k,,,€700k
+818,283141,Blendi Idrizi,Attacking Midfield,"May 2, 1998",25,Kosovo,,"1,76m",right,"Jul 1, 2021",FC Schalke 04 II,€500k,,"Returned after loan spell with SSV Jahn Regensburg; date: Jun 30, 2023; fee: End of loan",€500k
+819,53400,Dominick Drexler,Attacking Midfield,"May 26, 1990",33,Germany,,"1,83m",right,"Jul 21, 2021",1.FC Köln,€400k,,,€400k
+820,386786,Darko Churlinov,Left Winger,"Jul 11, 2000",23,North Macedonia,,"1,80m",right,"Jan 23, 2024",Burnley FC,€2.00m,,"On loan from Burnley FC until Jun 30, 2024",€2.00m
+821,604359,Yusuf Kabadayi,Left Winger,"Feb 2, 2004",20,Germany,,"1,86m",right,"Aug 3, 2023",FC Bayern Munich II,€900k,,"On loan from FC Bayern Munich II until Jun 30, 2024",€900k
+822,119557,Kenan Karaman,Centre-Forward,"Mar 5, 1994",30,Türkiye,,"1,89m",right,"Sep 1, 2022",Besiktas JK,€1.50m,,,€1.50m
+823,701757,Keke Topp,Centre-Forward,"Mar 25, 2004",20,Germany,,"1,92m",right,"Jul 1, 2023",FC Schalke 04 U19,€1.50m,,"Internal transfer: FC Schalke 04 U19; date: Jul 1, 2023",€1.50m
+824,477109,Bryan Lasme,Centre-Forward,"Nov 14, 1998",25,France,,"1,94m",right,"Jul 1, 2023",Arminia Bielefeld,€900k,,"Joined from Arminia Bielefeld; date: Jul 1, 2023; fee: free transfer",€900k
+825,36284,Simon Terodde,Centre-Forward,"Mar 2, 1988",36,Germany,,"1,92m",right,"Jul 1, 2021",Hamburger SV,€500k,Team captain,,€500k
+826,43824,Kevin Müller,Goalkeeper,"Mar 15, 1991",33,Germany,,"1,90m",right,"Jul 1, 2015",VfB Stuttgart II,€1.20m,,,€1.20m
+827,57796,Vitus Eicher,Goalkeeper,"Nov 5, 1990",33,Germany,,"1,91m",left,"Jan 17, 2017",TSV 1860 Munich,€250k,,,€250k
+828,519035,Paul Tschernuth,Goalkeeper,"Jan 20, 2002",22,Austria,,"1,86m",left,"Jul 1, 2021",1.FC Heidenheim 1846 U19,€100k,,,€100k
+829,806948,Frank Feller,Goalkeeper,"Jan 7, 2004",20,Germany,,"1,83m",right,"Jul 1, 2023",1.FC Heidenheim 1846 U19,,,"Internal transfer: 1.FC Heidenheim 1846 U19; date: Jul 1, 2023",
+830,227084,Benedikt Gimber,Centre-Back,"Feb 19, 1997",27,Germany,,"1,87m",left,"Jul 1, 2023",SSV Jahn Regensburg,€2.80m,,"Joined from SSV Jahn Regensburg; date: Jul 1, 2023; fee: free transfer",€2.80m
+831,133731,Patrick Mainka,Centre-Back,"Nov 6, 1994",29,Germany,,"1,94m",right,"Jul 1, 2018",Borussia Dortmund II,€2.50m,Team captain,,€2.50m
+832,337092,Tim Siersleben,Centre-Back,"Mar 9, 2000",24,Germany,,"1,87m",left,"Jul 1, 2023",VfL Wolfsburg,€2.00m,,"Joined from VfL Wolfsburg; date: Jul 1, 2023; fee: €500k",€2.00m
+833,485747,Thomas Keller,Centre-Back,"Aug 5, 1999",24,Germany,,"1,86m",right,"Jul 1, 2022",FC Ingolstadt 04,€350k,"Cruciate ligament tear - Return expected on May 1, 2024",,€350k
+834,192169,Jonas Föhrenbach,Left-Back,"Jan 26, 1996",28,Germany,,"1,84m",left,"Jul 1, 2019",SC Freiburg,€2.00m,,,€2.00m
+835,31599,Norman Theuerkauf,Left-Back,"Jan 24, 1987",37,Germany,,"1,83m",left,"Jul 1, 2015",: Ablöse free transfer,€300k,,,€300k
+836,824353,Seedy Jarju,Left-Back,"Oct 28, 2004",19,The Gambia,,"1,80m",left,"Jul 1, 2023",1.FC Heidenheim 1846 U19,,,"Internal transfer: 1.FC Heidenheim 1846 U19; date: Jul 1, 2023",
+837,388294,Omar Traoré,Right-Back,"Feb 4, 1998",26,Germany,,"1,87m",right,"Jul 1, 2023",VfL Osnabrück,€2.00m,,"Joined from VfL Osnabrück; date: Jul 1, 2023; fee: free transfer",€2.00m
+838,117478,Marnon Busch,Right-Back,"Dec 8, 1994",29,Germany,,"1,82m",right,"Jul 1, 2017",SV Werder Bremen,€1.50m,,,€1.50m
+839,392710,Lennard Maloney,Defensive Midfield,"Oct 8, 1999",24,United States,,"1,88m",right,"Jul 1, 2022",Borussia Dortmund II,€5.00m,,,€5.00m
+840,825971,Luka Janes,Defensive Midfield,"Jan 19, 2004",20,Germany,,"1,83m",right,"Jul 1, 2023",1.FC Heidenheim 1846 U19,€200k,,"Internal transfer: 1.FC Heidenheim 1846 U19; date: Jul 1, 2023",€200k
+841,581357,Jan Schöppner,Central Midfield,"Jun 12, 1999",24,Germany,,"1,90m",right,"Aug 5, 2020",SC Verl,€2.50m,,,€2.50m
+842,448028,Kevin Sessa,Central Midfield,"Jul 6, 2000",23,Germany,,"1,75m",right,"Jul 1, 2018",1.FC Heidenheim 1846 U19,€1.00m,,,€1.00m
+843,273669,Adrian Beck,Attacking Midfield,"Jun 9, 1997",26,Germany,,"1,86m",right,"Jul 1, 2022",SSV Ulm 1846,€1.50m,,,€1.50m
+844,94030,Denis Thomalla,Attacking Midfield,"Aug 16, 1992",31,Germany,,"1,86m",right,"Jul 1, 2016",Lech Poznan,€750k,,,€750k
+845,342967,Jan-Niklas Beste,Left Winger,"Jan 4, 1999",25,Germany,,"1,75m",left,"Jul 1, 2022",SV Werder Bremen,€15.00m,,,€15.00m
+846,191359,Florian Pick,Left Winger,"Sep 8, 1995",28,Germany,,"1,76m",right,"Sep 1, 2020",1.FC Kaiserslautern,€900k,,,€900k
+847,645774,Eren Dinkçi,Right Winger,"Dec 13, 2001",22,Germany,,"1,88m",right,"Jul 1, 2023",SV Werder Bremen,€10.00m,,"On loan from SV Werder Bremen until Jun 30, 2024",€10.00m
+848,120189,Nikola Dovedan,Second Striker,"Jul 6, 1994",29,Austria,,"1,72m",right,"Jul 1, 2023",Austria Vienna,€600k,"Red card suspension - until Apr 14, 2024 - Bundesliga - 2 matchdays","Joined from Austria Vienna; date: Jul 1, 2023; fee: free transfer",€600k
+849,193033,Tim Kleindienst,Centre-Forward,"Aug 31, 1995",28,Germany,,"1,94m",right,"Jul 1, 2021",KAA Gent,€5.00m,,,€5.00m
+850,471055,Marvin Pieringer,Centre-Forward,"Oct 4, 1999",24,Germany,,"1,91m",right,"Jul 3, 2023",FC Schalke 04,€2.50m,,"Joined from FC Schalke 04; date: Jul 3, 2023; fee: €1.80m",€2.50m
+851,394033,Stefan Schimmer,Centre-Forward,"Apr 28, 1994",29,Germany,,"1,85m",right,"Aug 6, 2019",SpVgg Unterhaching,€500k,,,€500k
+852,184204,Christian Kühlwetter,Centre-Forward,"Apr 21, 1996",27,Germany,,"1,82m",both,"Sep 1, 2020",1.FC Kaiserslautern,€500k,,,€500k
+853,741149,Elidon Qenaj,Centre-Forward,"May 22, 2003",20,Kosovo,,"1,98m",both,"Jul 1, 2022",1.FC Heidenheim 1846 U19,€100k,Fitness - Return unknown,,€100k
+854,247915,Jonas Omlin,Goalkeeper,"Jan 10, 1994",30,Switzerland,,"1,90m",right,"Jan 19, 2023",Montpellier HSC,€7.00m,Team captain,,€7.00m
+855,284270,Moritz Nicolas,Goalkeeper,"Oct 21, 1997",26,Germany,,"1,93m",right,"Jul 1, 2016",Borussia Mönchengladbach II,€2.00m,,"Returned after loan spell with Roda JC Kerkrade; date: Jun 30, 2023; fee: End of loan",€2.00m
+856,455922,Jan Olschowsky,Goalkeeper,"Nov 18, 2001",22,Germany,,"1,85m",right,"Jul 13, 2020",Borussia Mönchengladbach II,€800k,,,€800k
+857,31653,Tobias Sippel,Goalkeeper,"Mar 22, 1988",36,Germany,,"1,83m",right,"Jul 1, 2015",1.FC Kaiserslautern,€300k,,,€300k
+858,596103,Maximilian Brüll,Goalkeeper,"Aug 26, 2002",21,Germany,,"1,87m",right,"Jul 2, 2022",,€75k,,,€75k
+859,355816,Ko Itakura,Centre-Back,"Jan 27, 1997",27,Japan,,"1,88m",right,"Jul 31, 2023",Manchester City,€15.00m,,,€15.00m
+860,263361,Maximilian Wöber,Centre-Back,"Feb 4, 1998",26,Austria,,"1,88m",left,"Jul 1, 2015",Leeds United,€14.00m,,"On loan from Leeds United until Jun 30, 2024",€14.00m
+861,192635,Nico Elvedi,Centre-Back,"Sep 30, 1996",27,Switzerland,,"1,89m",right,"Jan 11, 2022",: Ablöse €4.00m,€10.00m,,,€10.00m
+862,196231,Marvin Friedrich,Centre-Back,"Dec 13, 1995",28,Germany,,"1,93m",right,"Jul 1, 2023",1.FC Union Berlin,€3.50m,,,€3.50m
+863,724104,Fabio Chiarodia,Centre-Back,"Jun 5, 2005",18,Italy,,"1,86m",left,"Jul 1, 2009",SV Werder Bremen,€2.00m,,"Joined from SV Werder Bremen; date: Jul 1, 2023; fee: €2.00m",€2.00m
+864,47587,Tony Jantschke,Centre-Back,"Apr 7, 1990",33,Germany,,"1,77m",right,"Jul 1, 2016",Borussia Mönchengladbach U19,€400k,,,€400k
+865,340480,Mamadou Doucouré,Centre-Back,"May 21, 1998",25,France,,"1,83m",left,"Aug 6, 2021",Paris Saint-Germain B,€100k,muscular problems - Return unknown,"Joining: Without Club; date: Jul 1, 2024; fee: -",€100k
+866,524285,Luca Netz,Left-Back,"May 15, 2003",20,Germany,,"1,84m",left,"Jul 1, 2023",Hertha BSC,€10.00m,,,€10.00m
+867,787151,Lukas Ullrich,Left-Back,"Mar 16, 2004",20,Germany,,"1,80m",left,"Jan 1, 2021",Hertha BSC II,€750k,,"Joined from Hertha BSC II; date: Jul 1, 2023; fee: free transfer",€750k
+868,504153,Joe Scally,Right-Back,"Dec 31, 2002",21,United States,,"1,84m",right,"Jul 1, 2019",New York City FC,€12.00m,,,€12.00m
+869,85791,Stefan Lainer,Right-Back,"Aug 27, 1992",31,Austria,,"1,75m",right,"Jan 4, 2023",Red Bull Salzburg,€3.00m,,,€3.00m
+870,912455,Simon Walde,Right-Back,"Jan 4, 2005",19,Germany,,"1,85m",right,"Jul 1, 2023",Borussia Mönchengladbach U19,€500k,"Syndesmotic ligament tear - Return expected on Jun 30, 2024",,€500k
+871,196792,Julian Weigl,Defensive Midfield,"Sep 8, 1995",28,Germany,,"1,86m",right,"Jul 1, 2016",SL Benfica,€10.00m,,"Joined from SL Benfica; date: Jul 1, 2023; fee: €7.18m",€10.00m
+872,82097,Christoph Kramer,Defensive Midfield,"Feb 19, 1991",33,Germany,,"1,91m",right,"Jan 21, 2021",Bayer 04 Leverkusen,€2.00m,,,€2.00m
+873,624690,Manu Koné,Central Midfield,"May 17, 2001",22,France,,"1,85m",right,"Jul 1, 2020",FC Toulouse,€25.00m,"Torn muscle fiber - Return expected on Apr 22, 2024",,€25.00m
+874,467434,Rocco Reitz,Central Midfield,"May 29, 2002",21,Germany,,"1,76m",right,"Jul 1, 2017",Borussia Mönchengladbach U19,€10.00m,,"Returned after loan spell with Sint-Truidense VV; date: Jun 30, 2023; fee: End of loan",€10.00m
+875,278332,Florian Neuhaus,Central Midfield,"Mar 16, 1997",27,Germany,,"1,85m",right,"Jul 1, 2023",TSV 1860 Munich,€9.00m,,,€9.00m
+876,284010,Robin Hack,Left Winger,"Aug 27, 1998",25,Germany,,"1,78m",right,"Jul 11, 2023",Arminia Bielefeld,€4.50m,,"Joined from Arminia Bielefeld; date: Jul 1, 2023; fee: €1.10m",€4.50m
+877,229006,Franck Honorat,Right Winger,"Aug 11, 1996",27,France,,"1,80m",right,"Aug 30, 2022",Stade Brestois 29,€12.00m,,"Joined from Stade Brestois 29; date: Jul 11, 2023; fee: €8.00m",€12.00m
+878,629588,Nathan Ngoumou,Right Winger,"Mar 14, 2000",24,France,,"1,85m",right,"Jan 1, 2010",FC Toulouse,€5.00m,,,€5.00m
+879,32711,Patrick Herrmann,Right Winger,"Feb 12, 1991",33,Germany,,"1,79m",right,"Jul 14, 2023",Borussia Mönchengladbach U19,€1.00m,,,€1.00m
+880,544148,Tomas Cvancara,Centre-Forward,"Aug 13, 2000",23,Czech Republic,,"1,90m",right,"Jul 13, 2018",AC Sparta Prague,€10.00m,,"Joined from AC Sparta Prague; date: Jul 14, 2023; fee: €10.50m",€10.00m
+881,167329,Alassane Plea,Centre-Forward,"Mar 10, 1993",31,France,,"1,81m",right,"Aug 31, 2023",OGC Nice,€8.00m,,,€8.00m
+882,355369,Jordan,Centre-Forward,"Apr 26, 1996",27,United States,,"1,91m",right,"Jul 1, 2023",1.FC Union Berlin,€6.00m,,"On loan from 1.FC Union Berlin until Jun 30, 2024",€6.00m
+883,574201,Grant-Leon Ranos,Centre-Forward,"Jul 20, 2003",20,Armenia,,"1,80m",right,"Jan 15, 2024",FC Bayern Munich II,€1.00m,,"Joined from FC Bayern Munich II; date: Jul 1, 2023; fee: free transfer",€1.00m
+884,45672,Kevin Trapp,Goalkeeper,"Jul 8, 1990",33,Germany,,"1,89m",right,"Aug 7, 2019",Paris Saint-Germain,€5.00m,,,€5.00m
+885,997861,Kauã Santos,Goalkeeper,"Apr 11, 2003",20,Brazil,,"1,96m",right,"Aug 29, 2023",CR Flamengo U20,€1.50m,,"Joined from CR Flamengo U20; date: Aug 29, 2023; fee: €1.60m",€1.50m
+886,40034,Jens Grahl,Goalkeeper,"Sep 22, 1988",35,Germany,,"1,92m",right,"Jul 19, 2021",VfB Stuttgart,€200k,,,€200k
+887,726120,Simon Simoni,Goalkeeper,"Jul 14, 2004",19,Albania,,"1,95m",right,"Jan 1, 2023",: Ablöse €600k,€200k,,,€200k
+888,661171,Willian Pacho,Centre-Back,"Oct 16, 2001",22,Ecuador,,"1,87m",left,"Jul 1, 2023",Royal Antwerp FC,€30.00m,,"Joined from Royal Antwerp FC; date: Jul 1, 2023; fee: €9.00m",€30.00m
+889,328784,Robin Koch,Centre-Back,"Jul 17, 1996",27,Germany,,"1,91m",right,"Jul 6, 2023",Leeds United,€18.00m,,"On loan from Leeds United until Jun 30, 2024",€18.00m
+890,546213,Tuta,Centre-Back,"Jul 4, 1999",24,Brazil,,"1,85m",right,"Jan 31, 2019",São Paulo FC U20,€12.00m,Red card suspension -  - Bundesliga,,€12.00m
+891,571299,Hrvoje Smolcic,Centre-Back,"Aug 17, 2000",23,Croatia,,"1,85m",left,"Jul 1, 2022",HNK Rijeka,€4.00m,,,€4.00m
+892,684315,Nnamdi Collins,Centre-Back,"Jan 10, 2004",20,Germany,,"1,91m",right,"Aug 9, 2023",Borussia Dortmund II,€750k,,"Joined from Borussia Dortmund II; date: Aug 9, 2023; fee: €1.00m",€750k
+893,39259,Makoto Hasebe,Centre-Back,"Jan 18, 1984",40,Japan,,"1,80m",right,"Jul 1, 2014",1.FC Nuremberg,€500k,,,€500k
+894,666168,Dario Gebuhr,Centre-Back,"May 6, 2003",20,Germany,,"1,88m",both,"Jul 1, 2023",Eintracht Frankfurt II,€400k,,"Internal transfer: Eintracht Frankfurt II; date: Jul 1, 2023",€400k
+895,993870,Davis Bautista,Centre-Back,"Feb 16, 2005",19,Ecuador,,"1,84m",left,"Jul 1, 2023",SD Aucas U20,€250k,,"Joined from SD Aucas U20; date: Jul 1, 2023; fee: ?",€250k
+896,591193,Niels Nkounkou,Left-Back,"Nov 1, 2000",23,France,,"1,80m",left,"Sep 1, 2023",AS Saint-Étienne,€7.50m,,"Joined from AS Saint-Étienne; date: Sep 1, 2023; fee: €7.50m",€7.50m
+897,111275,Philipp Max,Left-Back,"Sep 30, 1993",30,Germany,,"1,77m",left,"Jul 1, 2023",PSV Eindhoven,€2.00m,,"Joined from PSV Eindhoven; date: Jul 1, 2023; fee: €2.00m",€2.00m
+898,258039,Aurélio Buta,Right-Back,"Feb 10, 1997",27,Portugal,,"1,72m",right,"Jul 1, 2022",Royal Antwerp FC,€6.00m,Ill - Return unknown,,€6.00m
+899,744857,Elias Baum,Right-Back,"Oct 26, 2005",18,Germany,,"1,80m",right,"Oct 26, 2023",Eintracht Frankfurt II,€1.00m,,"Internal transfer: Eintracht Frankfurt II; date: Oct 26, 2023",€1.00m
+900,49723,Timothy Chandler,Right-Back,"Mar 29, 1990",34,United States,,"1,86m",right,"Jul 1, 2014",1.FC Nuremberg,€500k,,,€500k
+901,290587,Ellyes Skhiri,Defensive Midfield,"May 10, 1995",28,Tunisia,,"1,85m",right,"Jul 5, 2023",1.FC Köln,€13.00m,"Calf problems - Return expected on Apr 8, 2024","Joined from 1.FC Köln; date: Jul 5, 2023; fee: free transfer",€13.00m
+902,931838,Hugo Larsson,Central Midfield,"Jun 27, 2004",19,Sweden,,"1,87m",right,"Jul 1, 2023",Malmö FF,€28.00m,,"Joined from Malmö FF; date: Jul 1, 2023; fee: €9.00m",€28.00m
+903,536482,Junior Dina Ebimbe,Central Midfield,"Nov 21, 2000",23,France,,"1,84m",right,"Jul 1, 2023",Paris Saint-Germain,€14.00m,"Yellow card suspension - until Apr 14, 2024 - Bundesliga - 1 matchday","Joined from Paris Saint-Germain; date: Jul 1, 2023; fee: €6.50m",€14.00m
+904,288255,Donny van de Beek,Central Midfield,"Apr 18, 1997",26,Netherlands,,"1,84m",right,"Jan 1, 2024",Manchester United,€7.00m,,"On loan from Manchester United until Jun 30, 2024",€7.00m
+905,44466,Sebastian Rode,Central Midfield,"Oct 11, 1990",33,Germany,,"1,79m",right,"Jul 27, 2019",Borussia Dortmund,€1.00m,Team captain; Knee problems - Return unknown,"Joining: Retired; date: Jul 1, 2024; fee: -",€1.00m
+906,717345,Sidney Raebiger,Central Midfield,"Apr 17, 2005",18,Germany,,"1,76m",right,"Sep 1, 2023",SpVgg Greuther Fürth,€750k,,"Joined from SpVgg Greuther Fürth; date: Sep 1, 2023; fee: €50k",€750k
+907,519869,Mehdi Loune,Central Midfield,"May 14, 2004",19,Germany,,"1,72m",,"Jul 1, 2022",Eintracht Frankfurt U19,€300k,Cruciate ligament tear - Return unknown,,€300k
+908,486456,Harpreet Ghotra,Central Midfield,"Jan 17, 2003",21,Germany,,"1,80m",right,"Jul 9, 2023",Eintracht Frankfurt II,€100k,,"Internal transfer: Eintracht Frankfurt II; date: Jul 9, 2023",€100k
+909,855015,Farès Chaïbi,Attacking Midfield,"Nov 28, 2002",21,Algeria,,"1,83m",right,"Aug 30, 2023",FC Toulouse,€18.00m,,"Joined from FC Toulouse; date: Aug 30, 2023; fee: €10.00m",€18.00m
+910,74842,Mario Götze,Attacking Midfield,"Jun 3, 1992",31,Germany,,"1,76m",right,"Jul 1, 2022",PSV Eindhoven,€7.00m,,,€7.00m
+911,939964,Jean-Mattéo Bahoya,Left Winger,"May 7, 2005",18,France,,"1,80m",right,"Jan 25, 2024",Angers SCO,€7.50m,,"Joined as a winter arrival from: Angers SCO; date: Jan 25, 2024; fee: €8.00m",€7.50m
+912,429874,Ansgar Knauff,Right Winger,"Jan 10, 2002",22,Germany,,"1,80m",right,"Jul 1, 2023",Borussia Dortmund,€10.00m,,"Joined from Borussia Dortmund; date: Jul 1, 2023; fee: €5.00m",€10.00m
+913,445939,Omar Marmoush,Centre-Forward,"Feb 7, 1999",25,Egypt,,"1,83m",right,"Jul 1, 2023",VfL Wolfsburg,€22.00m,,"Joined from VfL Wolfsburg; date: Jul 1, 2023; fee: free transfer",€22.00m
+914,709726,Hugo Ekitiké,Centre-Forward,"Jun 20, 2002",21,France,,"1,89m",right,"Feb 1, 2024",Paris Saint-Germain,€15.00m,muscular problems - Return unknown,"On loan from Paris Saint-Germain until Jun 30, 2024",€15.00m
+915,369567,Sasa Kalajdzic,Centre-Forward,"Jul 7, 1997",26,Austria,,"2,00m",right,"Jan 7, 2024",Wolverhampton Wanderers,€5.00m,Cruciate ligament tear - Return unknown,"On loan from Wolverhampton Wanderers until Jun 30, 2024",€5.00m
+916,867357,Nacho Ferri,Centre-Forward,"Oct 5, 2004",19,Spain,,"1,92m",right,"Oct 5, 2022",Eintracht Frankfurt II,€2.00m,,,€2.00m
+917,675535,Noel Futkeu,Centre-Forward,"Dec 6, 2002",21,Germany,,"1,83m",right,"Jul 1, 2023",Schwarz-Weiß Essen,€400k,Red card suspension -  - DFB-Pokal - 3 matchdays,"Joined from Schwarz-Weiß Essen; date: Jul 1, 2023; fee: free transfer",€400k
+918,257814,Gregor Kobel,Goalkeeper,"Dec 6, 1997",26,Switzerland,,"1,96m",right,"Jul 1, 2021",VfB Stuttgart,€40.00m,Stomach flu - Return unknown,,€40.00m
+919,453737,Marcel Lotka,Goalkeeper,"May 25, 2001",22,Germany,,"1,90m",right,"Jul 1, 2022",Hertha BSC,€1.30m,,,€1.30m
+920,76158,Alexander Meyer,Goalkeeper,"Apr 13, 1991",32,Germany,,"1,95m",right,"Jul 1, 2022",SSV Jahn Regensburg,€800k,,,€800k
+921,388198,Nico Schlotterbeck,Centre-Back,"Dec 1, 1999",24,Germany,,"1,91m",left,"Jul 1, 2022",SC Freiburg,€30.00m,,,€30.00m
+922,166601,Niklas Süle,Centre-Back,"Sep 3, 1995",28,Germany,,"1,95m",right,"Jul 1, 2022",Bayern Munich,€22.00m,,,€22.00m
+923,39728,Mats Hummels,Centre-Back,"Dec 16, 1988",35,Germany,,"1,91m",right,"Jul 1, 2019",Bayern Munich,€6.00m,,,€6.00m
+924,482573,Antonios Papadopoulos,Centre-Back,"Sep 10, 1999",24,Germany,,"1,86m",right,"Jan 12, 2024",,€800k,,,€800k
+925,485585,Ian Maatsen,Left-Back,"Mar 10, 2002",22,Netherlands,,"1,78m",left,"Jul 1, 2023",Chelsea FC,€30.00m,,"On loan from Chelsea FC until Jun 30, 2024",€30.00m
+926,284732,Ramy Bensebaini,Left-Back,"Apr 16, 1995",28,Algeria,,"1,87m",left,"Jan 17, 2023",Borussia Mönchengladbach,€9.00m,"Inner ligament injury - Return expected on May 31, 2024","Joined from Borussia Mönchengladbach; date: Jul 1, 2023; fee: free transfer",€9.00m
+927,370789,Julian Ryerson,Right-Back,"Nov 17, 1997",26,Norway,,"1,83m",right,"Jul 2, 2018",1.FC Union Berlin,€15.00m,,,€15.00m
+928,193900,Marius Wolf,Right-Back,"May 27, 1995",28,Germany,,"1,87m",right,"Jul 1, 2019",Eintracht Frankfurt,€5.00m,,,€5.00m
+929,388513,Mateu Morey,Right-Back,"Mar 2, 2000",24,Spain,,"1,73m",right,"Jul 1, 2022",FC Barcelona U19,€800k,,,€800k
+930,244940,Salih Özcan,Defensive Midfield,"Jan 11, 1998",26,Türkiye,,"1,83m",right,"Jul 1, 2020",1.FC Köln,€13.00m,,,€13.00m
+931,119296,Emre Can,Defensive Midfield,"Jan 12, 1994",30,Germany,,"1,86m",right,"Jul 3, 2023",Juventus FC,€12.00m,Team captain,,€12.00m
+932,718232,Abdoulaye Kamara,Defensive Midfield,"Nov 6, 2004",19,France,,"1,85m",right,"Jul 24, 2023",,€1.50m,unknown injury - Return unknown,,€1.50m
+933,406640,Felix Nmecha,Central Midfield,"Oct 10, 2000",23,Germany,,"1,90m",right,"Jul 1, 2023",VfL Wolfsburg,€25.00m,,"Joined from VfL Wolfsburg; date: Jul 3, 2023; fee: €30.00m",€25.00m
+934,106987,Marcel Sabitzer,Central Midfield,"Mar 17, 1994",30,Austria,,"1,78m",right,"Jul 1, 2019",Bayern Munich,€20.00m,,"Joined from Bayern Munich; date: Jul 24, 2023; fee: €19.00m",€20.00m
+935,405690,Ole Pohlmann,Central Midfield,"Apr 5, 2001",23,Germany,,"1,83m",right,"Jul 1, 2012",Borussia Dortmund II,€1.00m,,"Internal transfer: Borussia Dortmund II; date: Jul 1, 2023",€1.00m
+936,187492,Julian Brandt,Attacking Midfield,"May 2, 1996",27,Germany,,"1,85m",right,"Jul 1, 2022",Bayer 04 Leverkusen,€40.00m,,,€40.00m
+937,35207,Marco Reus,Attacking Midfield,"May 31, 1989",34,Germany,,"1,80m",right,"Jul 1, 2022",Borussia Mönchengladbach,€7.00m,,,€7.00m
+938,496094,Karim Adeyemi,Left Winger,"Jan 18, 2002",22,Germany,,"1,80m",left,"Jan 11, 2024",Red Bull Salzburg,€28.00m,,,€28.00m
+939,670882,Jamie Bynoe-Gittens,Left Winger,"Aug 8, 2004",19,England,,"1,77m",right,"Jul 27, 2021",Borussia Dortmund U19,€28.00m,,,€28.00m
+940,401173,Jadon Sancho,Left Winger,"Mar 25, 2000",24,England,,"1,80m",right,"Jan 27, 2023",Manchester United,€25.00m,,"On loan from Manchester United until Jun 30, 2024",€25.00m
+941,326029,Donyell Malen,Right Winger,"Jan 19, 1999",25,Netherlands,,"1,76m",right,"Jul 29, 2020",PSV Eindhoven,€40.00m,Thigh problems - Return unknown,,€40.00m
+942,819215,Julien Duranville,Right Winger,"May 5, 2006",17,Belgium,,"1,73m",right,"Aug 31, 2023",RSC Anderlecht,€8.50m,,,€8.50m
+943,467720,Youssoufa Moukoko,Centre-Forward,"Nov 20, 2004",19,Germany,,"1,79m",left,"Jul 6, 2022",Borussia Dortmund U19,€25.00m,,,€25.00m
+944,107775,Frederik Rönnow,Goalkeeper,"Aug 4, 1992",31,Denmark,,"1,88m",right,"Jul 20, 2021",Eintracht Frankfurt,€5.50m,,,€5.50m
+945,93763,Alexander Schwolow,Goalkeeper,"Jun 2, 1992",31,Germany,,"1,90m",right,"Jul 26, 2023",Hertha BSC,€900k,,"Joined from Hertha BSC; date: Jul 26, 2023; fee: free transfer",€900k
+946,203411,Jakob Busk,Goalkeeper,"Sep 12, 1993",30,Denmark,,"1,89m",right,"Jan 15, 2016",FC Copenhagen,€250k,,"Joining: Without Club; date: Jul 1, 2024; fee: -",€250k
+947,387047,Danilho Doekhi,Centre-Back,"Jun 30, 1998",25,Netherlands,,"1,90m",right,"Jul 1, 2022",Vitesse Arnhem,€17.00m,,,€17.00m
+948,357156,Diogo Leite,Centre-Back,"Jan 23, 1999",25,Portugal,,"1,90m",left,"Jul 1, 2023",FC Porto,€15.00m,,"Joined from FC Porto; date: Jul 1, 2023; fee: €7.50m",€15.00m
+949,94201,Robin Knoche,Centre-Back,"May 22, 1992",31,Germany,,"1,89m",right,"Aug 4, 2020",VfL Wolfsburg,€4.00m,,,€4.00m
+950,84435,Kevin Vogt,Centre-Back,"Sep 23, 1991",32,Germany,,"1,94m",right,"Jan 11, 2024",TSG 1899 Hoffenheim,€2.50m,,"Joined as a winter arrival from: TSG 1899 Hoffenheim; date: Jan 11, 2024; fee: ?",€2.50m
+951,284248,Paul Jaeckel,Centre-Back,"Jul 22, 1998",25,Germany,,"1,86m",right,"Jul 1, 2021",SpVgg Greuther Fürth,€2.50m,,,€2.50m
+952,127076,Jérôme Roussillon,Left-Back,"Jan 6, 1993",31,Guadeloupe,,"1,72m",left,"Jan 12, 2023",VfL Wolfsburg,€2.50m,,,€2.50m
+953,362977,Josip Juranovic,Right-Back,"Aug 16, 1995",28,Croatia,,"1,73m",right,"Jan 22, 2023",Celtic FC,€10.00m,,,€10.00m
+954,75921,Christopher Trimmel,Right-Back,"Feb 24, 1987",37,Austria,,"1,89m",right,"Jul 1, 2014",Rapid Vienna,€800k,Team captain,,€800k
+955,124410,Rani Khedira,Defensive Midfield,"Jan 27, 1994",30,Germany,,"1,89m",right,"Jul 1, 2021",FC Augsburg,€8.00m,,,€8.00m
+956,337333,Alex Král,Defensive Midfield,"May 19, 1998",25,Czech Republic,,"1,86m",right,"Jul 1, 2023",Spartak Moscow,€7.50m,,"On loan from Spartak Moscow until Jun 30, 2024",€7.50m
+957,353948,Lucas Tousart,Defensive Midfield,"Apr 29, 1997",26,France,,"1,84m",right,"Jul 19, 2023",Hertha BSC,€7.00m,,"Joined from Hertha BSC; date: Jul 19, 2023; fee: €2.80m",€7.00m
+958,908951,Noah Engelbreth,Defensive Midfield,"Jun 12, 2005",18,Germany,,,,"Jan 12, 2024",1.FC Union Berlin U19,,,"Internal winter transfer: 1.FC Union Berlin U19; Date: Jan 12, 2024",
+959,233782,Aïssa Laïdouni,Central Midfield,"Dec 13, 1996",27,Tunisia,,"1,84m",right,"Jan 27, 2023",Ferencvárosi TC,€8.00m,,,€8.00m
+960,454863,András Schäfer,Central Midfield,"Apr 13, 1999",24,Hungary,,"1,78m",right,"Jan 21, 2022",DAC Dunajska Streda,€5.00m,,,€5.00m
+961,177779,Janik Haberer,Central Midfield,"Apr 2, 1994",30,Germany,,"1,86m",right,"Jul 1, 2022",SC Freiburg,€4.00m,,,€4.00m
+962,273132,Robin Gosens,Left Midfield,"Jul 5, 1994",29,Germany,,"1,83m",left,"Aug 15, 2023",Inter Milan,€12.00m,,"Joined from Inter Milan; date: Aug 15, 2023; fee: €13.00m",€12.00m
+963,393323,Brenden Aaronson,Attacking Midfield,"Oct 22, 2000",23,United States,,"1,77m",right,"Jul 9, 2023",Leeds United,€14.00m,,"On loan from Leeds United until Jun 30, 2024",€14.00m
+964,409517,Yorbe Vertessen,Left Winger,"Jan 8, 2001",23,Belgium,,"1,74m",right,"Feb 1, 2024",PSV Eindhoven,€4.00m,,"Joined as a winter arrival from: PSV Eindhoven; date: Feb 1, 2024; fee: €4.75m",€4.00m
+965,82009,Kevin Volland,Centre-Forward,"Jul 30, 1992",31,Germany,,"1,79m",left,"Aug 17, 2023",AS Monaco,€5.00m,,"Joined from AS Monaco; date: Aug 17, 2023; fee: €4.00m",€5.00m
+966,453870,Benedict Hollerbach,Centre-Forward,"May 17, 2001",22,Germany,,"1,81m",right,"Jul 27, 2023",SV Wehen Wiesbaden,€3.50m,,"Joined from SV Wehen Wiesbaden; date: Jul 27, 2023; fee: €2.00m",€3.50m
+967,294791,Chris Bedia,Centre-Forward,"Mar 5, 1996",28,Cote d'Ivoire,,"1,90m",left,"Jan 18, 2024",Servette FC,€3.00m,,"Joined as a winter arrival from: Servette FC; date: Jan 18, 2024; fee: €2.00m",€3.00m
+968,545332,Mikkel Kaufmann,Centre-Forward,"Jan 3, 2001",23,Denmark,,"1,89m",right,"Jul 1, 2023",FC Copenhagen,€2.70m,,"Joined from FC Copenhagen; date: Jul 1, 2023; fee: €2.70m",€2.70m
+969,17259,Manuel Neuer,Goalkeeper,"Mar 27, 1986",38,Germany,,"1,93m",right,"Jul 1, 2011",FC Schalke 04,€5.00m,Team captain; Torn muscle fiber - Return unknown,,€5.00m
+970,468539,Daniel Peretz,Goalkeeper,"Jul 10, 2000",23,Israel,,"1,90m",right,"Aug 25, 2023",Maccabi Tel Aviv,€4.00m,,"Joined from Maccabi Tel Aviv; date: Aug 25, 2023; fee: €5.00m",€4.00m
+971,40680,Sven Ulreich,Goalkeeper,"Aug 3, 1988",35,Germany,,"1,92m",right,"Jul 1, 2021",Hamburger SV,€700k,,,€700k
+972,639582,Tom Hülsmann,Goalkeeper,"Apr 11, 2004",19,Germany,,"2,05m",right,"Jul 19, 2022",,€250k,,,€250k
+973,326031,Matthijs de Ligt,Centre-Back,"Aug 12, 1999",24,Netherlands,,"1,89m",right,"Jul 18, 2023",Juventus FC,€65.00m,,,€65.00m
+974,503482,Min-jae Kim,Centre-Back,"Nov 15, 1996",27,"Korea, South",,"1,90m",right,"Jul 5, 2021",SSC Napoli,€55.00m,,"Joined from SSC Napoli; date: Jul 18, 2023; fee: €50.00m",€55.00m
+975,344695,Dayot Upamecano,Centre-Back,"Oct 27, 1998",25,France,,"1,86m",right,"Jan 11, 2024",RB Leipzig,€50.00m,,,€50.00m
+976,175722,Eric Dier,Centre-Back,"Jan 15, 1994",30,England,,"1,91m",right,"Jul 1, 2023",Tottenham Hotspur,€12.00m,,"On loan from Tottenham Hotspur until Jun 30, 2024",€12.00m
+977,744729,Tarek Buchmann,Centre-Back,"Feb 28, 2005",19,Germany,,"1,88m",,"Jan 1, 2019",FC Bayern Munich U19 ,€500k,"Torn muscle bundle - Return expected on Jun 30, 2024","Internal transfer: FC Bayern Munich U19 ; date: Jul 1, 2023",€500k
+978,424204,Alphonso Davies,Left-Back,"Nov 2, 2000",23,Canada,,"1,85m",left,"Jul 1, 2023",Vancouver Whitecaps FC,€60.00m,,,€60.00m
+979,170986,Raphaël Guerreiro,Left-Back,"Dec 22, 1993",30,Portugal,,"1,70m",left,"Jul 1, 2022",Borussia Dortmund,€15.00m,,"Joined from Borussia Dortmund; date: Jul 1, 2023; fee: free transfer",€15.00m
+980,340456,Noussair Mazraoui,Right-Back,"Nov 14, 1997",26,Morocco,,"1,83m",right,"Jan 28, 2024",Ajax Amsterdam,€30.00m,,,€30.00m
+981,475413,Sacha Boey,Right-Back,"Sep 13, 2000",23,France,,"1,78m",right,"Oct 5, 2020",Galatasaray,€22.00m,Torn muscle bundle - Return unknown,"Joined as a winter arrival from: Galatasaray; date: Jan 28, 2024; fee: €30.00m",€22.00m
+982,190685,Bouna Sarr,Right-Back,"Jan 31, 1992",32,Senegal,,"1,78m",right,"Jul 2, 2015",Olympique Marseille,€2.00m,"Cruciate ligament tear - Return expected on May 31, 2024",,€2.00m
+983,161056,Joshua Kimmich,Defensive Midfield,"Feb 8, 1995",29,Germany,,"1,77m",right,"Nov 1, 2023",VfB Stuttgart,€60.00m,,,€60.00m
+984,792380,Aleksandar Pavlovic,Defensive Midfield,"May 3, 2004",19,Germany,,"1,88m",both,"Jul 1, 2018",FC Bayern Munich II,€25.00m,Ill - Return unknown,"Internal transfer: FC Bayern Munich II; date: Nov 1, 2023",€25.00m
+985,153084,Leon Goretzka,Central Midfield,"Feb 6, 1995",29,Germany,,"1,89m",right,"Jul 1, 2023",FC Schalke 04,€30.00m,,,€30.00m
+986,223967,Konrad Laimer,Central Midfield,"May 27, 1997",26,Austria,,"1,80m",right,"Jul 1, 2020",RB Leipzig,€28.00m,,"Joined from RB Leipzig; date: Jul 1, 2023; fee: free transfer",€28.00m
+987,580195,Jamal Musiala,Attacking Midfield,"Feb 26, 2003",21,Germany,,"1,84m",right,"Jul 1, 2017",FC Bayern Munich U19 ,€110.00m,,,€110.00m
+988,243714,Kingsley Coman,Left Winger,"Jun 13, 1996",27,France,,"1,81m",right,"Jul 26, 2022",: Ablöse €21.00m,€65.00m,,,€65.00m
+989,801734,Mathys Tel,Left Winger,"Apr 27, 2005",18,France,,"1,83m",right,"Feb 1, 2024",Stade Rennais FC,€40.00m,,,€40.00m
+990,713644,Bryan Zaragoza,Left Winger,"Sep 9, 2001",22,Spain,,"1,64m",right,"Jul 15, 2020",Granada CF,€12.00m,,"On loan from Granada CF until Jun 30, 2024",€12.00m
+991,192565,Leroy Sané,Right Winger,"Jan 11, 1996",28,Germany,,"1,83m",left,"Jul 1, 2017",Manchester City,€70.00m,,,€70.00m
+992,159471,Serge Gnabry,Right Winger,"Jul 14, 1995",28,Germany,,"1,76m",right,"Jul 1, 2009",SV Werder Bremen,€45.00m,,,€45.00m
+993,58358,Thomas Müller,Second Striker,"Sep 13, 1989",34,Germany,,"1,85m",right,"Aug 12, 2023",: Ablöse -,€10.00m,,,€10.00m
+994,132098,Harry Kane,Centre-Forward,"Jul 28, 1993",30,England,,"1,88m",right,"Oct 5, 2020",Tottenham Hotspur,€110.00m,,"Joined from Tottenham Hotspur; date: Aug 12, 2023; fee: €95.00m",€110.00m
+995,251299,Finn Dahmen,Goalkeeper,"Mar 27, 1998",26,Germany,,"1,86m",right,"Jul 1, 2023",1.FSV Mainz 05,€5.00m,,"Joined from 1.FSV Mainz 05; date: Jul 1, 2023; fee: free transfer",€5.00m
+996,146714,Tomas Koubek,Goalkeeper,"Aug 26, 1992",31,Czech Republic,,"1,97m",right,"Aug 6, 2019",Stade Rennais FC,€800k,,,€800k
+997,656250,Marcel Lubik,Goalkeeper,"May 19, 2004",19,Poland,,"1,90m",left,"Jul 1, 2023",FC Augsburg U19,€250k,,"Internal transfer: FC Augsburg U19; date: Jul 1, 2023",€250k
+998,278343,Felix Uduokhai,Centre-Back,"Sep 9, 1997",26,Germany,,"1,93m",left,"Jul 1, 2020",VfL Wolfsburg,€7.00m,,,€7.00m
+999,388363,Maximilian Bauer,Centre-Back,"Feb 9, 2000",24,Germany,,"1,89m",right,"Jul 1, 2022",SpVgg Greuther Fürth,€3.50m,,,€3.50m
+1000,106405,Jeffrey Gouweleeuw,Centre-Back,"Jul 10, 1991",32,Netherlands,,"1,88m",right,"Jan 9, 2016",AZ Alkmaar,€3.00m,,,€3.00m
+1001,391742,Patric Pfeiffer,Centre-Back,"Aug 20, 1999",24,Ghana,,"1,96m",right,"Jul 1, 2023",SV Darmstadt 98,€2.50m,,"Joined from SV Darmstadt 98; date: Jul 1, 2023; fee: free transfer",€2.50m
+1002,314295,Reece Oxford,Centre-Back,"Dec 16, 1998",25,England,,"1,90m",right,"Aug 2, 2019",West Ham United,€2.00m,muscular problems - Return unknown,,€2.00m
+1003,520468,Iago,Left-Back,"Mar 23, 1997",27,Brazil,,"1,81m",left,"Jul 1, 2019",Sport Club Internacional,€5.50m,,"Joining: Esporte Clube Bahia; date: Jul 1, 2024; fee: free transfer",€5.50m
+1004,288429,Mads Pedersen,Left-Back,"Sep 1, 1996",27,Denmark,,"1,78m",left,"Jul 1, 2019",FC Nordsjaelland,€2.50m,,,€2.50m
+1005,183321,Kevin Mbabu,Right-Back,"Apr 19, 1995",28,Switzerland,,"1,84m",right,"Sep 1, 2023",Fulham FC,€3.50m,,"On loan from Fulham FC until Jun 30, 2024",€3.50m
+1006,353826,Robert Gumny,Right-Back,"Jun 4, 1998",25,Poland,,"1,82m",right,"Sep 2, 2020",Lech Poznan,€2.50m,Cruciate ligament tear - Return unknown,,€2.50m
+1007,146163,Raphael Framberger,Right-Back,"Sep 6, 1995",28,Germany,,"1,79m",right,"Jan 1, 2015",FC Augsburg U19,€600k,Cruciate ligament tear - Return unknown,"Returned after loan spell with SV Sandhausen; date: Jun 30, 2023; fee: End of loan",€600k
+1008,374954,Kristijan Jakic,Defensive Midfield,"May 14, 1997",26,Croatia,,"1,84m",right,"Jan 19, 2024",Eintracht Frankfurt,€5.50m,,"On loan from Eintracht Frankfurt until Jun 30, 2024",€5.50m
+1009,251302,Niklas Dorsch,Defensive Midfield,"Jan 15, 1998",26,Germany,,"1,78m",right,"Jul 8, 2021",KAA Gent,€5.00m,Foot injury - Return unknown,,€5.00m
+1010,569457,Tim Breithaupt,Defensive Midfield,"Feb 7, 2002",22,Germany,,"1,92m",right,"Jul 1, 2023",Karlsruher SC,€3.00m,,"Joined from Karlsruher SC; date: Jul 1, 2023; fee: €2.50m",€3.00m
+1011,565435,Arne Engels,Central Midfield,"Sep 8, 2003",20,Belgium,,"1,85m",right,"Jan 3, 2023",Club NXT,€7.50m,,,€7.50m
+1012,296397,Arne Maier,Central Midfield,"Jan 8, 1999",25,Germany,,"1,86m",right,"Jul 1, 2022",Hertha BSC,€4.50m,,,€4.50m
+1013,280575,Elvis Rexhbecaj,Central Midfield,"Nov 1, 1997",26,Germany,,"1,82m",left,"Jul 27, 2022",VfL Wolfsburg,€3.50m,"Metatarsal fracture - Return expected on Jun 30, 2024",,€3.50m
+1014,263804,Pep Biel,Attacking Midfield,"Sep 5, 1996",27,Spain,,"1,72m",left,"Feb 1, 2024",Olympiacos Piraeus,€5.00m,,"On loan from Olympiacos Piraeus until Jun 30, 2024",€5.00m
+1015,249157,Fredrik Jensen,Attacking Midfield,"Sep 9, 1997",26,Finland,,"1,83m",right,"Jul 1, 2018",Twente Enschede FC,€3.50m,,,€3.50m
+1016,777005,Mert Kömür,Attacking Midfield,"Jul 17, 2005",18,Germany,,"1,83m",both,"Jul 1, 2023",FC Augsburg U19,€800k,,"Internal transfer: FC Augsburg U19; date: Jul 1, 2023",€800k
+1017,345886,Rubén Vargas,Right Winger,"Aug 5, 1998",25,Switzerland,,"1,79m",right,"Jul 1, 2019",FC Luzern,€6.50m,,,€6.50m
+1018,335457,Ermedin Demirovic,Centre-Forward,"Mar 25, 1998",26,Bosnia-Herzegovina,,"1,85m",right,"Jul 8, 2022",SC Freiburg,€28.00m,Team captain,,€28.00m
+1019,618350,Dion Beljo,Centre-Forward,"Mar 1, 2002",22,Croatia,,"1,95m",left,"Jan 13, 2023",NK Osijek,€5.00m,,,€5.00m
+1020,288340,Phillip Tietz,Centre-Forward,"Jul 9, 1997",26,Germany,,"1,90m",right,"Jul 12, 2023",SV Darmstadt 98,€5.00m,,"Joined from SV Darmstadt 98; date: Jul 12, 2023; fee: €2.20m",€5.00m
+1021,186988,Sven Michel,Centre-Forward,"Jul 15, 1990",33,Germany,,"1,77m",left,"Jul 1, 2023",1.FC Union Berlin,€900k,,"Joined from 1.FC Union Berlin; date: Jul 1, 2023; fee: €950k",€900k
+1022,553282,Tjark Ernst,Goalkeeper,"Mar 15, 2003",21,Germany,,"1,93m",both,"Jul 1, 2022",VfL Bochum U19,€2.50m,Pelvic injury - Return unknown,,€2.50m
+1023,196382,Marius Gersbeck,Goalkeeper,"Jun 20, 1995",28,Germany,,"1,87m",left,"Jul 1, 2023",Karlsruher SC,€500k,,"Joined from Karlsruher SC; date: Jul 1, 2023; fee: €300k",€500k
+1024,815180,Robert Kwasigroch,Goalkeeper,"Jun 26, 2004",19,Germany,,"1,92m",,"Jul 1, 2023",Hertha BSC II,€200k,,"Internal transfer: Hertha BSC II; date: Jul 1, 2023",€200k
+1025,822960,Tim Goller,Goalkeeper,"Jan 26, 2005",19,Germany,,"1,93m",right,"Jul 1, 2023",Hertha BSC II,€200k,,"Internal transfer: Hertha BSC II; date: Jul 1, 2023",€200k
+1026,432281,Márton Dárdai,Centre-Back,"Feb 12, 2002",22,Hungary,,"1,88m",left,"Jul 1, 2020",Hertha BSC II,€2.50m,,,€2.50m
+1027,160938,Marc Oliver Kempf,Centre-Back,"Jan 28, 1995",29,Germany,,"1,86m",left,"Jan 25, 2022",VfB Stuttgart,€2.00m,,,€2.00m
+1028,692734,Linus Gechter,Centre-Back,"Feb 27, 2004",20,Germany,,"1,91m",right,"Jan 1, 2022",Hertha BSC U19,€1.80m,,"Returned after loan spell with Eintracht Braunschweig; date: Jun 30, 2023; fee: End of loan",€1.80m
+1029,456535,Agustín Rogel,Centre-Back,"Oct 17, 1997",26,Uruguay,,"1,91m",right,"Aug 31, 2022",Club Estudiantes de La Plata,€800k,Knee surgery - Return unknown,,€800k
+1030,86916,Toni Leistner,Centre-Back,"Aug 19, 1990",33,Germany,,"1,90m",right,"Jul 7, 2023",Sint-Truidense VV,€500k,Team captain,"Joined from Sint-Truidense VV; date: Jul 7, 2023; fee: free transfer",€500k
+1031,914720,Tim Hoffmann,Centre-Back,"Feb 26, 2005",19,Germany,,"1,84m",left,"Aug 8, 2023",,€200k,,,€200k
+1032,401604,Michal Karbownik,Left-Back,"Mar 13, 2001",23,Poland,,"1,75m",right,"Jul 1, 2022",Brighton & Hove Albion,€3.50m,,"Joined from Brighton & Hove Albion; date: Aug 8, 2023; fee: €2.50m",€3.50m
+1033,258883,Jonjoe Kenny,Right-Back,"Mar 15, 1997",27,England,,"1,76m",right,"Aug 6, 2020",Everton FC,€2.50m,,,€2.50m
+1034,338032,Deyovaisio Zeefuik,Right-Back,"Mar 11, 1998",26,Netherlands,,"1,77m",right,"Aug 31, 2012",: Ablöse €4.00m,€800k,,"Returned after loan spell with Hellas Verona; date: Jun 30, 2023; fee: End of loan",€800k
+1035,51100,Peter Pekarík,Right-Back,"Oct 30, 1986",37,Slovakia,,"1,77m",right,"Jul 1, 2023",VfL Wolfsburg,€300k,,,€300k
+1036,820261,Pascal Klemens,Defensive Midfield,"Feb 23, 2005",19,Germany,,"1,86m",,"Feb 1, 2024",Hertha BSC U19,€5.00m,,"Internal transfer: Hertha BSC U19; date: Jul 1, 2023",€5.00m
+1037,871837,Bradley Ibrahim,Defensive Midfield,"Oct 21, 2004",19,England,,"1,85m",,"Jul 1, 2023",Arsenal FC U21,€400k,,"Joined as a winter arrival from: Arsenal FC U21; date: Feb 1, 2024; fee: free transfer",€400k
+1038,605227,Mesut Kesik,Defensive Midfield,"May 2, 2003",20,Germany,,"1,83m",right,"Aug 31, 2023",Hertha BSC II,€150k,Red card suspension -  - Regionalliga Northeast,"Internal transfer: Hertha BSC II; date: Jul 1, 2023",€150k
+1039,157535,Andreas Bouchalakis,Central Midfield,"Apr 5, 1993",31,Greece,,"1,86m",left,"Aug 30, 2023",Olympiacos Piraeus,€1.50m,,"Joined from Olympiacos Piraeus; date: Aug 31, 2023; fee: €400k",€1.50m
+1040,448266,Bilal Hussein,Central Midfield,"Apr 22, 2000",23,Sweden,,"1,73m",right,"Jul 1, 2023",AIK,€1.00m,,"Joined from AIK; date: Aug 30, 2023; fee: €675k",€1.00m
+1041,147359,Jeremy Dudziak,Central Midfield,"Aug 28, 1995",28,Germany,,"1,76m",left,"Jul 1, 2023",SpVgg Greuther Fürth,€750k,,"Joined from SpVgg Greuther Fürth; date: Jul 1, 2023; fee: free transfer",€750k
+1042,789252,Bence Dárdai,Attacking Midfield,"Jan 24, 2006",18,Germany,,"1,89m",right,"Jan 18, 2024",Hertha BSC U19,€2.00m,,"Internal transfer: Hertha BSC U19; date: Jul 1, 2023",€2.00m
+1043,315332,Aymen Barkok,Attacking Midfield,"May 21, 1998",25,Morocco,,"1,89m",right,"Jul 1, 2023",1.FSV Mainz 05,€1.70m,,"On loan from 1.FSV Mainz 05 until Jun 30, 2024",€1.70m
+1044,905011,Ibrahim Maza,Attacking Midfield,"Nov 24, 2005",18,Germany,,"1,80m",right,"Jul 1, 2023",Hertha BSC U19,€1.50m,,"Internal transfer: Hertha BSC U19; date: Jul 1, 2023",€1.50m
+1045,227102,Fabian Reese,Left Winger,"Nov 29, 1997",26,Germany,,"1,87m",right,"Jul 1, 2023",Holstein Kiel,€5.00m,,"Joined from Holstein Kiel; date: Jul 1, 2023; fee: free transfer",€5.00m
+1046,685680,Gustav Christensen,Left Winger,"Sep 7, 2004",19,Denmark,,"1,78m",right,"Jul 1, 2023",FC Midtjylland U19,€500k,,"Joined from FC Midtjylland U19; date: Jul 1, 2023; fee: free transfer",€500k
+1047,574569,Marten Winkler,Right Winger,"Oct 31, 2002",21,Germany,,"1,84m",left,"Jul 25, 2023",Hertha BSC II,€1.50m,"Yellow card suspension - until Apr 8, 2024 - 2. Bundesliga - 1 matchday","Internal transfer: Hertha BSC II; date: Jul 1, 2023",€1.50m
+1048,300508,Palkó Dárdai,Right Winger,"Apr 24, 1999",24,Hungary,,"1,80m",left,"Aug 1, 2023",Fehérvár FC,€800k,,"Joined from Fehérvár FC; date: Jul 25, 2023; fee: €300k",€800k
+1049,203123,Haris Tabakovic,Centre-Forward,"Jun 20, 1994",29,Bosnia-Herzegovina,,"1,94m",right,"Jul 18, 2023",Austria Vienna,€2.50m,,"Joined from Austria Vienna; date: Aug 1, 2023; fee: €500k",€2.50m
+1050,328264,Smail Prevljak,Centre-Forward,"May 10, 1995",28,Bosnia-Herzegovina,,"1,87m",right,"Jul 1, 2022",KAS Eupen,€1.20m,,"Joined from KAS Eupen; date: Jul 18, 2023; fee: free transfer",€1.20m
+1051,820957,Derry Scherhant,Centre-Forward,"Nov 10, 2002",21,Germany,,"1,85m",right,"Jan 18, 2023",Hertha BSC II,€800k,,,€800k
+1052,57071,Péter Gulácsi,Goalkeeper,"May 6, 1990",33,Hungary,,"1,90m",right,"Jul 1, 2015",: Ablöse €3.00m,€3.50m,,,€3.50m
+1053,81173,Janis Blaswich,Goalkeeper,"May 2, 1991",32,Germany,,"1,93m",right,"Jul 1, 2022",Heracles Almelo,€3.00m,,,€3.00m
+1054,897425,Timo Schlieck,Goalkeeper,"Mar 2, 2006",18,Germany,,"1,95m",right,"Jul 1, 2023",,€500k,,,€500k
+1055,160971,Leopold Zingerle,Goalkeeper,"Apr 10, 1994",29,Germany,,"1,85m",right,"Aug 11, 2023",SC Paderborn 07,€400k,,"Joined from SC Paderborn 07; date: Jul 1, 2023; fee: free transfer",€400k
+1056,618472,Castello Lukeba,Centre-Back,"Dec 17, 2002",21,France,,"1,84m",left,"Jul 1, 2021",Olympique Lyon,€40.00m,,"Joined from Olympique Lyon; date: Aug 11, 2023; fee: €30.00m",€40.00m
+1057,666234,Mohamed Simakan,Centre-Back,"May 3, 2000",23,France,,"1,87m",right,"Jul 18, 2023",RC Strasbourg Alsace,€35.00m,,,€35.00m
+1058,787912,El Chadaille Bitshiabu,Centre-Back,"May 16, 2005",18,France,,"1,96m",left,"Jul 1, 2015",Paris Saint-Germain,€12.00m,,"Joined from Paris Saint-Germain; date: Jul 18, 2023; fee: €15.00m",€12.00m
+1059,93740,Willi Orbán,Centre-Back,"Nov 3, 1992",31,Hungary,,"1,86m",right,"Aug 22, 2014",1.FC Kaiserslautern,€10.00m,Team captain,,€10.00m
+1060,215599,Lukas Klostermann,Centre-Back,"Jun 3, 1996",27,Germany,,"1,89m",right,"Jul 31, 2022",VfL Bochum,€8.00m,,,€8.00m
+1061,913429,Tim Köhler,Centre-Back,"May 2, 2005",18,Germany,,"1,91m",right,"Aug 30, 2023",,,,,
+1062,318204,David Raum,Left-Back,"Apr 22, 1998",25,Germany,,"1,80m",left,"Jul 1, 2021",TSG 1899 Hoffenheim,€17.00m,,,€17.00m
+1063,159844,Christopher Lenz,Left-Back,"Sep 22, 1994",29,Germany,,"1,80m",left,"Jul 1, 2022",Eintracht Frankfurt,€2.00m,,"Joined from Eintracht Frankfurt; date: Aug 30, 2023; fee: €1.00m",€2.00m
+1064,202591,Benjamin Henrichs,Right-Back,"Feb 23, 1997",27,Germany,,"1,85m",right,"Jan 1, 2019",AS Monaco,€20.00m,,,€20.00m
+1065,223979,Xaver Schlager,Central Midfield,"Sep 28, 1997",26,Austria,,"1,74m",left,"Jul 1, 2023",VfL Wolfsburg,€28.00m,,,€28.00m
+1066,402008,Amadou Haidara,Central Midfield,"Jan 31, 1998",26,Mali,,"1,75m",right,"Aug 31, 2017",: Ablöse €19.00m,€17.00m,,,€17.00m
+1067,404950,Nicolas Seiwald,Central Midfield,"May 4, 2001",22,Austria,,"1,79m",right,"Jul 19, 2023",Red Bull Salzburg,€16.00m,,"Joined from Red Bull Salzburg; date: Jul 1, 2023; fee: €20.00m",€16.00m
+1068,53418,Kevin Kampl,Central Midfield,"Oct 9, 1990",33,Slovenia,,"1,78m",right,"Jan 25, 2020",Bayer 04 Leverkusen,€3.50m,,,€3.50m
+1069,566931,Xavi Simons,Attacking Midfield,"Apr 21, 2003",20,Netherlands,,"1,79m",right,"Jan 1, 2024",Paris Saint-Germain,€80.00m,,"On loan from Paris Saint-Germain until Jun 30, 2024",€80.00m
+1070,293385,Dani Olmo,Attacking Midfield,"May 7, 1998",25,Spain,,"1,79m",right,"Jul 1, 2023",GNK Dinamo Zagreb,€50.00m,,,€50.00m
+1071,400489,Eljif Elmas,Attacking Midfield,"Sep 24, 1999",24,North Macedonia,,"1,84m",right,"Jul 14, 2023",SSC Napoli,€24.00m,,"Joined as a winter arrival from: SSC Napoli; date: Jan 1, 2024; fee: €24.00m",€24.00m
+1072,324278,Christoph Baumgartner,Attacking Midfield,"Aug 1, 1999",24,Austria,,"1,80m",right,"Jul 1, 2023",TSG 1899 Hoffenheim,€20.00m,,"Joined from TSG 1899 Hoffenheim; date: Jul 1, 2023; fee: €25.50m",€20.00m
+1073,368887,Loïs Openda,Centre-Forward,"Feb 16, 2000",24,Belgium,,"1,77m",right,"Jul 4, 2013",RC Lens,€60.00m,,"Joined from RC Lens; date: Jul 14, 2023; fee: €38.50m",€60.00m
+1074,160963,Robin Zentner,Goalkeeper,"Oct 28, 1994",29,Germany,,"1,95m",right,"Jul 1, 2014",: Ablöse -,€3.50m,,,€3.50m
+1075,90317,Daniel Batz,Goalkeeper,"Jan 12, 1991",33,Germany,,"1,91m",both,"Jul 1, 2023",1.FC Saarbrücken,€350k,,"Joined from 1.FC Saarbrücken; date: Jul 1, 2023; fee: ?",€350k
+1076,490609,Lasse Rieß,Goalkeeper,"Jul 27, 2001",22,Germany,,"1,91m",right,"Jul 1, 2021",1.FSV Mainz 05 II,€200k,,,€200k
+1077,370683,Andreas Hanche-Olsen,Centre-Back,"Jan 17, 1997",27,Norway,,"1,85m",right,"Jan 13, 2023",KAA Gent,€7.50m,,,€7.50m
+1078,541231,Sepp van den Berg,Centre-Back,"Dec 20, 2001",22,Netherlands,,"1,92m",right,"Jul 13, 2023",Liverpool FC,€7.00m,,"On loan from Liverpool FC until Jun 30, 2024",€7.00m
+1079,247555,Edimilson Fernandes,Centre-Back,"Apr 15, 1996",27,Switzerland,,"1,87m",right,"Jul 1, 2019",West Ham United,€4.50m,,,€4.50m
+1080,334207,Maxim Leitsch,Centre-Back,"May 18, 1998",25,Germany,,"1,89m",left,"Jul 1, 2022",VfL Bochum,€1.50m,,,€1.50m
+1081,82350,Stefan Bell,Centre-Back,"Aug 24, 1991",32,Germany,,"1,92m",right,"Jul 1, 2010",: Ablöse -,€1.00m,infection - Return unknown,,€1.00m
+1082,453016,Anthony Caci,Left-Back,"Jul 1, 1997",26,France,,"1,84m",right,"Jul 1, 2022",RC Strasbourg Alsace,€7.00m,,,€7.00m
+1083,168989,Silvan Widmer,Right-Back,"Mar 5, 1993",31,Switzerland,,"1,83m",right,"Jul 9, 2021",FC Basel 1893,€3.50m,Team captain,,€3.50m
+1084,127573,Phillipp Mwene,Right-Back,"Jan 29, 1994",30,Austria,,"1,70m",right,"Aug 23, 2023",PSV Eindhoven,€1.50m,,"Joined from PSV Eindhoven; date: Aug 23, 2023; fee: €1.00m",€1.50m
+1085,85906,Danny da Costa,Right-Back,"Jul 13, 1993",30,Germany,,"1,87m",right,"Jul 1, 2022",Eintracht Frankfurt,€1.50m,,,€1.50m
+1086,118847,Dominik Kohr,Defensive Midfield,"Jan 31, 1994",30,Germany,,"1,83m",right,"Jul 1, 2022",Eintracht Frankfurt,€3.50m,,,€3.50m
+1087,93704,Josuha Guilavogui,Defensive Midfield,"Sep 19, 1990",33,France,,"1,88m",right,"Sep 25, 2023",Without Club,€1.00m,,"Joined from Without Club; date: Sep 25, 2023; fee: -",€1.00m
+1088,357233,Leandro Barreiro,Central Midfield,"Jan 3, 2000",24,Luxembourg,,"1,74m",right,"Jul 1, 2018",: Ablöse -,€14.00m,,,€14.00m
+1089,405687,Tom Krauß,Central Midfield,"Jun 22, 2001",22,Germany,,"1,82m",right,"Jul 14, 2023",RB Leipzig,€5.50m,,"Joined from RB Leipzig; date: Jul 14, 2023; fee: €5.00m",€5.50m
+1090,232454,Nadiem Amiri,Central Midfield,"Oct 27, 1996",27,Germany,,"1,80m",right,"Jan 31, 2024",Bayer 04 Leverkusen,€4.00m,,"Joined as a winter arrival from: Bayer 04 Leverkusen; date: Jan 31, 2024; fee: €1.00m",€4.00m
+1091,405689,Merveille Papela,Central Midfield,"Jan 18, 2001",23,Germany,,"1,74m",right,"Sep 26, 2019",1.FSV Mainz 05 U19,€1.00m,,"Returned after loan spell with SV Sandhausen; date: Jun 30, 2023; fee: End of loan",€1.00m
+1092,314398,Jae-sung Lee,Attacking Midfield,"Aug 10, 1992",31,"Korea, South",,"1,80m",left,"Jul 8, 2021",Holstein Kiel,€3.00m,,,€3.00m
+1093,279009,Marco Richter,Attacking Midfield,"Nov 24, 1997",26,Germany,,"1,76m",right,"Aug 22, 2023",Hertha BSC,€2.50m,,"Joined from Hertha BSC; date: Aug 22, 2023; fee: €3.00m",€2.50m
+1094,700106,Brajan Gruda,Right Winger,"May 31, 2004",19,Germany,,"1,78m",left,"Nov 18, 2022",1.FSV Mainz 05 U19,€9.00m,,,€9.00m
+1095,361508,David Mamutovic,Right Winger,"Dec 5, 2000",23,Germany,,"1,89m",left,"Jul 1, 2018",,€300k,,,€300k
+1096,333647,Jonathan Burkardt,Centre-Forward,"Jul 11, 2000",23,Germany,,"1,83m",right,"Jul 1, 2022",: Ablöse -,€7.00m,,,€7.00m
+1097,796213,Nelson Weiper,Centre-Forward,"Mar 17, 2005",19,Germany,,"1,92m",right,"Jan 24, 2023",1.FSV Mainz 05 U19,€5.00m,,,€5.00m
+1098,283994,Ludovic Ajorque,Centre-Forward,"Feb 25, 1994",30,France,,"1,96m",left,"Jan 5, 2016",RC Strasbourg Alsace,€4.00m,,,€4.00m
+1099,119234,Karim Onisiwo,Centre-Forward,"Mar 17, 1992",32,Austria,,"1,88m",right,"Feb 1, 2024",SV Mattersburg,€2.00m,,,€2.00m
+1100,196813,Michael Zetterer,Goalkeeper,"Jul 12, 1995",28,Germany,,"1,87m",both,"Jan 27, 2015",SpVgg Unterhaching,€2.50m,,,€2.50m
+1101,260053,Jiri Pavlenka,Goalkeeper,"Apr 14, 1992",31,Czech Republic,,"1,96m",right,"Jul 1, 2017",: Ablöse €3.00m,€1.50m,,,€1.50m
+1102,369258,Dudu,Goalkeeper,"Feb 10, 1999",25,Germany,,"1,96m",right,"Jul 1, 2020",SV Werder Bremen II,€200k,,,€200k
+1103,156990,Marco Friedl,Centre-Back,"Mar 16, 1998",26,Austria,,"1,87m",left,"Jul 1, 2019",Bayern Munich,€6.50m,"Team captain; Yellow card suspension - until Apr 15, 2024 - Bundesliga - 1 matchday",,€6.50m
+1104,162434,Niklas Stark,Centre-Back,"Apr 14, 1995",28,Germany,,"1,90m",right,"Jul 1, 2022",Hertha BSC,€5.50m,"Inner ligament injury - Return expected on Apr 22, 2024",,€5.50m
+1105,334221,Amos Pieper,Centre-Back,"Jan 17, 1998",26,Germany,,"1,92m",right,"Jul 1, 2022",Arminia Bielefeld,€5.00m,Red card suspension -  - DFB-Pokal - 2 matchdays,,€5.00m
+1106,202228,Milos Veljkovic,Centre-Back,"Sep 26, 1995",28,Serbia,,"1,88m",right,"Feb 1, 2016",Tottenham Hotspur U21,€4.50m,,,€4.50m
+1107,830108,Julián Malatini,Centre-Back,"May 31, 2001",22,Argentina,,"1,91m",right,"Jan 16, 2024",Defensa y Justicia,€2.50m,,"Joined as a winter arrival from: Defensa y Justicia; date: Jan 16, 2024; fee: €2.00m",€2.50m
+1108,58995,Anthony Jung,Centre-Back,"Nov 3, 1991",32,Germany,,"1,86m",left,"Jul 1, 2021",Bröndby IF,€1.00m,"Red card suspension - until Apr 15, 2024 - Bundesliga - 2 matchdays",,€1.00m
+1109,119211,Mitchell Weiser,Right-Back,"Apr 21, 1994",29,Germany,,"1,77m",right,"Jul 15, 2022",Bayer 04 Leverkusen,€6.00m,,,€6.00m
+1110,393512,Felix Agu,Right-Back,"Sep 27, 1999",24,Germany,,"1,80m",right,"Jul 1, 2020",VfL Osnabrück,€2.50m,,,€2.50m
+1111,338668,Senne Lynen,Defensive Midfield,"Feb 19, 1999",25,Belgium,,"1,85m",right,"Aug 8, 2023",Union Saint-Gilloise,€5.00m,,"Joined from Union Saint-Gilloise; date: Aug 8, 2023; fee: €2.00m",€5.00m
+1112,58396,Christian Groß,Defensive Midfield,"Feb 8, 1989",35,Germany,,"1,82m",both,"Aug 1, 2020",SV Werder Bremen II,€300k,,"Joining: Retired; date: Jul 1, 2024; fee: -",€300k
+1113,289835,Jens Stage,Central Midfield,"Nov 8, 1996",27,Denmark,,"1,87m",right,"Jul 1, 2022",FC Copenhagen,€7.50m,Red card suspension -  - Bundesliga,,€7.50m
+1114,302215,Naby Keïta,Central Midfield,"Feb 10, 1995",29,Guinea,,"1,72m",right,"Jul 1, 2023",Liverpool FC,€4.00m,,"Joined from Liverpool FC; date: Jul 1, 2023; fee: free transfer",€4.00m
+1115,855134,Skelly Alvero,Central Midfield,"May 4, 2002",21,France,,"2,02m",right,"Jan 31, 2024",Olympique Lyon,€4.00m,Torn muscle fiber - Return unknown,"On loan from Olympique Lyon until Jun 30, 2024",€4.00m
+1116,621802,Olivier Deman,Left Midfield,"Apr 6, 2000",24,Belgium,,"1,81m",left,"Aug 31, 2023",Cercle Brugge ,€6.00m,,"Joined from Cercle Brugge ; date: Aug 31, 2023; fee: €4.00m",€6.00m
+1117,825073,Leon Opitz,Left Midfield,"Apr 11, 2005",18,Germany,,"1,83m",left,"Sep 6, 2023",SV Werder Bremen U19,€600k,,"Internal transfer: SV Werder Bremen U19; date: Sep 6, 2023",€600k
+1118,346853,Romano Schmid,Attacking Midfield,"Jan 27, 2000",24,Austria,,"1,68m",right,"Jan 3, 2019",: Ablöse €1.00m,€6.50m,,,€6.50m
+1119,93844,Leonardo Bittencourt,Attacking Midfield,"Dec 19, 1993",30,Germany,,"1,71m",right,"Jul 15, 2020",TSG 1899 Hoffenheim,€2.50m,,,€2.50m
+1120,670116,Isak Hansen-Aarøen,Attacking Midfield,"Aug 22, 2004",19,Norway,,"1,73m",right,"Feb 1, 2024",Manchester United U21,€1.50m,,"Joined as a winter arrival from: Manchester United U21; date: Feb 1, 2024; fee: €250k",€1.50m
+1121,596153,Justin Njinmah,Right Winger,"Nov 15, 2000",23,Germany,,"1,85m",right,"Jan 5, 2022",SV Werder Bremen II,€9.00m,Ankle injury - Return unknown,"Returned after loan spell with Borussia Dortmund II; date: Jun 30, 2023; fee: End of loan",€9.00m
+1122,125103,Marvin Ducksch,Centre-Forward,"Mar 7, 1994",30,Germany,,"1,88m",right,"Aug 25, 2021",Hannover 96,€9.00m,,,€9.00m
+1123,208167,Dawid Kownacki,Centre-Forward,"Mar 14, 1997",27,Poland,,"1,86m",right,"Jul 1, 2023",Fortuna Düsseldorf,€2.00m,,"Joined from Fortuna Düsseldorf; date: Jul 1, 2023; fee: free transfer",€2.00m
+1124,455661,Nick Woltemade,Centre-Forward,"Feb 14, 2002",22,Germany,,"1,98m",right,"Jul 1, 2020",SV Werder Bremen U19,€2.00m,,"Joining: Without Club; date: Jul 1, 2024; fee: -",€2.00m
+1125,108880,Koen Casteels,Goalkeeper,"Jun 25, 1992",31,Belgium,,"1,97m",left,"Jan 21, 2015",TSG 1899 Hoffenheim,€8.00m,,"Joining: Without Club; date: Jul 1, 2024; fee: -",€8.00m
+1126,51977,Pavao Pervan,Goalkeeper,"Nov 13, 1987",36,Austria,,"1,94m",both,"Jul 1, 2018",: Ablöse €500k,€400k,,,€400k
+1127,192268,Niklas Klinger,Goalkeeper,"Oct 13, 1995",28,Germany,,"1,87m",right,"Jul 1, 2019",VfL Wolfsburg II,€100k,,,€100k
+1128,434224,Maxence Lacroix,Centre-Back,"Apr 6, 2000",24,France,,"1,90m",right,"Aug 25, 2020",FC Sochaux-Montbéliard,€20.00m,"Red card suspension - until Apr 14, 2024 - Bundesliga - 2 matchdays",,€20.00m
+1129,460245,Moritz Jenz,Centre-Back,"Apr 30, 1999",24,Germany,,"1,90m",right,"Jul 1, 2023",FC Lorient,€7.50m,,"Joined from FC Lorient; date: Jul 1, 2023; fee: €8.00m",€7.50m
+1130,338629,Sebastiaan Bornauw,Centre-Back,"Mar 22, 1999",25,Belgium,,"1,91m",right,"Jul 16, 2021",1.FC Köln,€7.00m,,,€7.00m
+1131,382478,Cédric Zesiger,Centre-Back,"Jun 24, 1998",25,Switzerland,,"1,94m",left,"Jul 1, 2023",BSC Young Boys,€6.00m,"Yellow card suspension - until Apr 8, 2024 - Bundesliga - 1 matchday","Joined from BSC Young Boys; date: Jul 1, 2023; fee: €5.00m",€6.00m
+1132,401527,Rogério,Left-Back,"Jan 13, 1998",26,Brazil,,"1,78m",left,"Aug 5, 2023",US Sassuolo,€7.50m,,"Joined from US Sassuolo; date: Aug 5, 2023; fee: €5.50m",€7.50m
+1133,369674,Joakim Maehle,Right-Back,"May 20, 1997",26,Denmark,,"1,85m",right,"Aug 12, 2023",Atalanta BC,€14.00m,,"Joined from Atalanta BC; date: Aug 12, 2023; fee: €12.20m",€14.00m
+1134,327251,Ridle Baku,Right-Back,"Apr 8, 1998",25,Germany,,"1,76m",right,"Oct 1, 2020",1.FSV Mainz 05,€8.00m,,,€8.00m
+1135,435796,Kilian Fischer,Right-Back,"Oct 12, 2000",23,Germany,,"1,82m",both,"Jul 1, 2022",1.FC Nuremberg,€1.50m,,,€1.50m
+1136,814950,Kofi Amoako,Defensive Midfield,"May 6, 2005",18,Germany,,"1,86m",,"Jul 16, 2022",,,,,
+1137,342405,Mattias Svanberg,Central Midfield,"Jan 5, 1999",25,Sweden,,"1,85m",right,"Jul 1, 2021",Bologna FC 1909,€15.00m,,,€15.00m
+1138,503881,Aster Vranckx,Central Midfield,"Oct 4, 2002",21,Belgium,,"1,83m",right,"Jan 1, 2012",KV Mechelen,€12.00m,,"Returned after loan spell with AC Milan; date: Jun 30, 2023; fee: End of loan",€12.00m
+1139,117674,Maximilian Arnold,Central Midfield,"May 27, 1994",29,Germany,,"1,84m",left,"Jul 1, 2016",VfL Wolfsburg U19,€10.00m,Team captain,,€10.00m
+1140,119277,Yannick Gerhardt,Central Midfield,"Mar 13, 1994",30,Germany,,"1,84m",left,"Jan 28, 2022",1.FC Köln,€5.00m,,,€5.00m
+1141,711517,Kevin Paredes,Left Midfield,"May 7, 2003",20,United States,,"1,75m",left,"Aug 16, 2023",D.C. United,€5.00m,,,€5.00m
+1142,387106,Lovro Majer,Attacking Midfield,"Jan 17, 1998",26,Croatia,,"1,78m",left,"Jul 1, 2022",Stade Rennais FC,€25.00m,,"Joined from Stade Rennais FC; date: Aug 16, 2023; fee: €25.00m",€25.00m
+1143,407098,Jakub Kaminski,Left Winger,"Jun 5, 2002",21,Poland,,"1,79m",right,"Jul 1, 2021",Lech Poznan,€7.00m,,,€7.00m
+1144,469858,Ulysses Llanez,Left Winger,"Apr 2, 2001",23,United States,,"1,70m",right,"Jul 1, 2022",VfL Wolfsburg II (- 2021),€200k,traffic accident - Return unknown,"Returned after loan spell with SKN St. Pölten; date: Jun 30, 2023; fee: End of loan",€200k
+1145,533295,Patrick Wimmer,Right Winger,"May 30, 2001",22,Austria,,"1,82m",right,"Jul 1, 2023",Arminia Bielefeld,€18.00m,,,€18.00m
+1146,242063,Vaclav Cerny,Right Winger,"Oct 17, 1997",26,Czech Republic,,"1,82m",left,"Jan 31, 2022",Twente Enschede FC,€8.00m,,"Joined from Twente Enschede FC; date: Jul 1, 2023; fee: €8.00m",€8.00m
+1147,391004,Jonas Wind,Centre-Forward,"Feb 7, 1999",25,Denmark,,"1,90m",right,"Jul 16, 2021",FC Copenhagen,€20.00m,,,€20.00m
+1148,314288,Lukas Nmecha,Centre-Forward,"Dec 14, 1998",25,Germany,,"1,85m",right,"Jul 5, 2023",Manchester City,€7.00m,Hamstring injury - Return unknown,,€7.00m
+1149,616344,Tiago Tomás,Centre-Forward,"Jun 16, 2002",21,Portugal,,"1,80m",right,"Aug 31, 2023",Sporting CP,€6.00m,,"Joined from Sporting CP; date: Jul 5, 2023; fee: €8.00m",€6.00m
+1150,748382,Amin Sarr,Centre-Forward,"Mar 11, 2001",23,Sweden,,"1,88m",right,"Jan 31, 2024",Olympique Lyon,€4.00m,,"On loan from Olympique Lyon until Jun 30, 2024",€4.00m
+1151,117432,Kevin Behrens,Centre-Forward,"Feb 3, 1991",33,Germany,,"1,85m",both,"Jul 14, 2022",1.FC Union Berlin,€3.00m,,"Joined as a winter arrival from: 1.FC Union Berlin; date: Jan 31, 2024; fee: €2.00m",€3.00m
+1152,195778,Alexander Nübel,Goalkeeper,"Sep 30, 1996",27,Germany,,"1,93m",right,"Jul 25, 2023",Bayern Munich,€10.00m,,"On loan from Bayern Munich until Jun 30, 2024",€10.00m
+1153,187624,Fabian Bredlow,Goalkeeper,"Mar 2, 1995",29,Germany,,"1,90m",both,"Jul 1, 2019",1.FC Nuremberg,€1.00m,,,€1.00m
+1154,800946,Dennis Seimen,Goalkeeper,"Dec 1, 2005",18,Germany,,"1,92m",left,"Jul 1, 2023",VfB Stuttgart U19,€1.00m,,"Internal transfer: VfB Stuttgart U19; date: Jul 1, 2023",€1.00m
+1155,470816,Florian Schock,Goalkeeper,"May 22, 2001",22,Germany,,"2,00m",right,"Sep 7, 2021",VfB Stuttgart II,€200k,,,€200k
+1156,353892,Hiroki Ito,Centre-Back,"May 12, 1999",24,Japan,,"1,88m",left,"Jul 1, 2022",Júbilo Iwata,€25.00m,,,€25.00m
+1157,193004,Waldemar Anton,Centre-Back,"Jul 20, 1996",27,Germany,,"1,89m",right,"Jul 28, 2020",: Ablöse €4.00m,€18.00m,"Team captain; Yellow card suspension - until Apr 7, 2024 - Bundesliga - 1 matchday",,€18.00m
+1158,344598,Dan-Axel Zagadou,Centre-Back,"Jun 3, 1999",24,France,,"1,96m",left,"Sep 19, 2022",Without Club,€10.00m,"Cruciate ligament tear - Return expected on Jun 30, 2024",,€10.00m
+1159,690799,Anthony Rouault,Centre-Back,"May 29, 2001",22,France,,"1,86m",right,"Sep 1, 2023",FC Toulouse,€7.00m,Broken jaw - Return unknown,"On loan from FC Toulouse until Jun 30, 2024",€7.00m
+1160,507345,Leonidas Stergiou,Centre-Back,"Mar 3, 2002",22,Switzerland,,"1,81m",right,"Aug 22, 2023",FC St. Gallen 1879,€2.00m,,"On loan from FC St. Gallen 1879 until Jun 30, 2024",€2.00m
+1161,282660,Maximilian Mittelstädt,Left-Back,"Mar 18, 1997",27,Germany,,"1,80m",left,"Jul 1, 2023",Hertha BSC,€14.00m,,"Joined from Hertha BSC; date: Jul 1, 2023; fee: €500k",€14.00m
+1162,448258,Josha Vagnoman,Right-Back,"Dec 11, 2000",23,Germany,,"1,90m",right,"Jul 9, 2022",Hamburger SV,€10.00m,,,€10.00m
+1163,195246,Pascal Stenzel,Right-Back,"Mar 20, 1996",28,Germany,,"1,83m",right,"Jul 1, 2020",SC Freiburg,€2.50m,,,€2.50m
+1164,443710,Angelo Stiller,Defensive Midfield,"Apr 4, 2001",23,Germany,,"1,83m",left,"Aug 25, 2023",TSG 1899 Hoffenheim,€18.00m,,"Joined from TSG 1899 Hoffenheim; date: Aug 25, 2023; fee: €5.50m",€18.00m
+1165,232320,Atakan Karazor,Defensive Midfield,"Oct 13, 1996",27,Germany,,"1,91m",right,"Jul 1, 2019",Holstein Kiel,€10.00m,,,€10.00m
+1166,191422,Mahmoud Dahoud,Central Midfield,"Jan 1, 1996",28,Syria,,"1,78m",right,"Feb 1, 2024",Brighton & Hove Albion,€8.00m,,"On loan from Brighton & Hove Albion until Jun 30, 2024",€8.00m
+1167,400546,Nikolas Nartey,Central Midfield,"Feb 22, 2000",24,Denmark,,"1,85m",left,"Aug 29, 2019",1.FC Köln,€800k,Fitness - Return unknown,,€800k
+1168,431561,Roberto Massimo,Right Midfield,"Oct 12, 2000",23,Germany,,"1,83m",right,"Jul 1, 2018",: Ablöse €2.50m,€1.00m,"Ill - Return expected on Apr 7, 2024","Returned after loan spell with Académico Viseu FC; date: Jun 30, 2023; fee: End of loan",€1.00m
+1169,569366,Enzo Millot,Attacking Midfield,"Jul 17, 2002",21,France,,"1,74m",left,"Aug 14, 2021",AS Monaco,€30.00m,,,€30.00m
+1170,297583,Woo-yeong Jeong,Attacking Midfield,"Sep 20, 1999",24,"Korea, South",,"1,79m",right,"Jul 11, 2023",SC Freiburg,€3.50m,,"Joined from SC Freiburg; date: Jul 11, 2023; fee: €3.80m",€3.50m
+1171,472243,Lilian Egloff,Attacking Midfield,"Aug 20, 2002",21,Germany,,"1,82m",right,"Jul 1, 2020",VfB Stuttgart U19,€1.20m,,,€1.20m
+1172,79377,Genki Haraguchi,Attacking Midfield,"May 9, 1991",32,Japan,,"1,78m",right,"Jan 30, 2023",1.FC Union Berlin,€700k,,,€700k
+1173,717465,Laurin Ulrich,Attacking Midfield,"Jan 31, 2005",19,Germany,,"1,80m",right,"Jul 1, 2022",VfB Stuttgart U17,€500k,,,€500k
+1174,272278,Chris Führich,Left Winger,"Jan 9, 1998",26,Germany,,"1,81m",right,"Jul 19, 2021",SC Paderborn 07,€25.00m,,,€25.00m
+1175,612826,Silas,Right Winger,"Oct 6, 1998",25,DR Congo,,"1,89m",right,"Aug 13, 2019",Paris FC,€10.00m,"Ill - Return expected on Apr 8, 2024",,€10.00m
+1176,518505,Jamie Leweling,Right Winger,"Feb 26, 2001",23,Germany,,"1,85m",both,"Jul 13, 2023",1.FC Union Berlin,€6.00m,,"On loan from 1.FC Union Berlin until Jun 30, 2024",€6.00m
+1177,907489,Luca Raimund,Right Winger,"Apr 9, 2005",18,Germany,,"1,88m",left,"Jul 1, 2023",,€500k,,,€500k
+1178,270541,Serhou Guirassy,Centre-Forward,"Mar 12, 1996",28,Guinea,,"1,87m",right,"Aug 2, 2023",Stade Rennais FC,€40.00m,,"Joined from Stade Rennais FC; date: Jul 1, 2023; fee: €9.00m",€40.00m
+1179,55089,Oliver Baumann,Goalkeeper,"Jun 2, 1990",33,Germany,,"1,87m",right,"Jul 1, 2014",SC Freiburg,€4.00m,Team captain,,€4.00m
+1180,432671,Luca Philipp,Goalkeeper,"Nov 28, 2000",23,Germany,,"1,92m",,"Jul 31, 2020",TSG 1899 Hoffenheim II,€300k,,,€300k
+1181,600942,Nahuel Noll,Goalkeeper,"Mar 17, 2003",21,Germany,,"1,91m",both,"Jul 1, 2021",TSG 1899 Hoffenheim U19,€250k,,,€250k
+1182,361260,Ozan Kabak,Centre-Back,"Mar 25, 2000",24,Türkiye,,"1,87m",right,"Jul 23, 2022",FC Schalke 04,€10.00m,,,€10.00m
+1183,160241,Kevin Akpoguma,Centre-Back,"Apr 19, 1995",28,Nigeria,,"1,92m",right,"Jul 1, 2013",: Ablöse €1.00m,€3.50m,,,€3.50m
+1184,371141,Stanley Nsoki,Centre-Back,"Apr 9, 1999",24,France,,"1,84m",left,"Aug 3, 2022",Club Brugge KV,€3.00m,,,€3.00m
+1185,124732,John Brooks,Centre-Back,"Jan 28, 1993",31,United States,,"1,94m",left,"Jan 26, 2023",SL Benfica,€2.00m,,,€2.00m
+1186,263801,Kasim Adams,Centre-Back,"Jun 22, 1995",28,Ghana,,"1,90m",right,"Jul 25, 2018",BSC Young Boys,€700k,,"Returned after loan spell with FC Basel 1893; date: Jun 30, 2023; fee: End of loan",€700k
+1187,822958,Tim Drexler,Centre-Back,"Mar 6, 2005",19,Germany,,"1,86m",,"Mar 20, 2024",TSG 1899 Hoffenheim II,€400k,,"Internal transfer: TSG 1899 Hoffenheim II; date: Mar 20, 2024",€400k
+1188,500054,David Jurásek,Left-Back,"Aug 7, 2000",23,Czech Republic,,"1,83m",left,"Jan 22, 2024",SL Benfica,€8.00m,,"On loan from SL Benfica until Jun 30, 2024",€8.00m
+1189,450234,Marco John,Left-Back,"Apr 2, 2002",22,Germany,,"1,84m",left,"Jul 1, 2020",TSG 1899 Hoffenheim U19,€2.00m,Cruciate ligament tear - Return unknown,"Returned after loan spell with SpVgg Greuther Fürth; date: Jun 30, 2023; fee: End of loan",€2.00m
+1190,143798,Pavel Kaderabek,Right-Back,"Apr 25, 1992",31,Czech Republic,,"1,82m",right,"Jul 1, 2015",: Ablöse €3.50m,€3.00m,,,€3.00m
+1191,195736,Florian Grillitsch,Defensive Midfield,"Aug 7, 1995",28,Austria,,"1,87m",right,"Jul 1, 2023",Ajax Amsterdam,€6.50m,,"Joined from Ajax Amsterdam; date: Jul 1, 2023; fee: free transfer",€6.50m
+1192,344069,Anton Stach,Central Midfield,"Nov 15, 1998",25,Germany,,"1,94m",both,"Sep 1, 2023",1.FSV Mainz 05,€15.00m,,"Joined from 1.FSV Mainz 05; date: Sep 1, 2023; fee: €11.00m",€15.00m
+1193,234029,Grischa Prömel,Central Midfield,"Jan 9, 1995",29,Germany,,"1,84m",right,"Jul 1, 2022",1.FC Union Berlin,€7.00m,,,€7.00m
+1194,569031,Umut Tohumcu,Central Midfield,"Aug 11, 2004",19,Germany,,"1,75m",both,"Jan 18, 2023",TSG 1899 Hoffenheim II,€5.00m,,,€5.00m
+1195,251309,Dennis Geiger,Central Midfield,"Jun 10, 1998",25,Germany,,"1,73m",right,"Jul 1, 2016",TSG 1899 Hoffenheim U19,€4.00m,,,€4.00m
+1196,334999,Finn Becker,Central Midfield,"Jun 8, 2000",23,Germany,,"1,77m",left,"Jul 1, 2022",FC St. Pauli,€3.00m,,,€3.00m
+1197,270393,Robert Skov,Left Midfield,"May 20, 1996",27,Denmark,,"1,85m",left,"Jul 29, 2019",FC Copenhagen,€6.50m,,,€6.50m
+1198,822959,Tom Bischof,Attacking Midfield,"Jun 28, 2005",18,Germany,,"1,76m",left,"Jul 1, 2021",TSG 1899 Hoffenheim U17,€3.50m,,,€3.50m
+1199,116088,Marius Bülter,Left Winger,"Mar 29, 1993",31,Germany,,"1,88m",right,"Jul 6, 2023",FC Schalke 04,€3.00m,,"Joined from FC Schalke 04; date: Jul 6, 2023; fee: €3.00m",€3.00m
+1200,574193,Bambasé Conté,Left Winger,"Jul 7, 2003",20,Germany,,"1,80m",,"Aug 16, 2023",TSG 1899 Hoffenheim II,€700k,,"Internal transfer: TSG 1899 Hoffenheim II; date: Aug 16, 2023",€700k
+1201,578392,Maximilian Beier,Centre-Forward,"Oct 17, 2002",21,Germany,,"1,85m",right,"Jul 1, 2020",TSG 1899 Hoffenheim U19,€24.00m,,"Returned after loan spell with Hannover 96; date: Jun 30, 2023; fee: End of loan",€24.00m
+1202,307924,Mergim Berisha,Centre-Forward,"May 11, 1998",25,Germany,,"1,88m",right,"Aug 30, 2023",FC Augsburg,€12.00m,Cruciate ligament tear - Return unknown,"Joined from FC Augsburg; date: Aug 30, 2023; fee: €14.00m",€12.00m
+1203,228645,Wout Weghorst,Centre-Forward,"Aug 7, 1992",31,Netherlands,,"1,97m",right,"Aug 9, 2023",Burnley FC,€7.00m,,"On loan from Burnley FC until Jun 30, 2024",€7.00m
+1204,46580,Andrej Kramaric,Centre-Forward,"Jun 19, 1991",32,Croatia,,"1,77m",right,"Jul 1, 2016",Leicester City,€6.00m,,,€6.00m
+1205,237164,Ihlas Bebou,Centre-Forward,"Apr 23, 1994",29,Togo,,"1,85m",right,"Jul 1, 2019",: Ablöse €9.00m,€4.00m,,,€4.00m
+1206,923595,Max Moerstedt,Centre-Forward,"Jan 15, 2006",18,Germany,,"1,94m",right,"Jan 1, 2024",TSG 1899 Hoffenheim U19,,,"Internal winter transfer: TSG 1899 Hoffenheim U19; Date: Jan 1, 2024",

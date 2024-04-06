@@ -1,0 +1,1249 @@
+,id,name,position,dateOfBirth,age,nationality,currentClub,height,foot,joinedOn,signedFrom,marketValue,status,joined,contract
+0,74857,Marc-André ter Stegen,Goalkeeper,"Apr 30, 1992",31,Germany,FC Barcelona,"1,87m",right,"Jul 1, 2014",Borussia Mönchengladbach,€35.00m,,,
+1,283170,Iñaki Peña,Goalkeeper,"Mar 2, 1999",24,Spain,FC Barcelona,"1,84m",right,"Jan 30, 2022",FC Barcelona B,€4.00m,,,
+2,466783,Arnau Tenas,Goalkeeper,"May 30, 2001",22,Spain,Paris Saint-Germain,"1,85m",right,"Oct 5, 2020",,€2.00m,,,
+3,709955,Ander Astralaga,Goalkeeper,"Mar 3, 2004",19,Spain,FC Barcelona Atlètic,"1,90m",right,"Jul 28, 2022",,,,,
+4,480267,Ronald Araujo,Centre-Back,"Mar 7, 1999",24,Uruguay,FC Barcelona,"1,92m",right,"Jul 4, 2022",FC Barcelona B,€70.00m,,,
+5,411975,Jules Koundé,Centre-Back,"Nov 12, 1998",24,France,FC Barcelona,"1,80m",right,"Jul 1, 2021",Sevilla FC,€60.00m,,,
+6,196948,Andreas Christensen,Centre-Back,"Apr 10, 1996",27,Denmark,FC Barcelona,"1,87m",right,"Jul 1, 2023",Chelsea FC,€40.00m,"Achilles tendon irritation - Return expected on Apr 8, 2024",,
+7,466794,Eric García,Centre-Back,"Jan 9, 2001",22,Spain,Girona FC,"1,82m",right,"Jul 1, 2008",Manchester City,€10.00m,,,
+8,689637,Chadi Riad,Centre-Back,"Jun 17, 2003",20,Morocco,Real Betis Balompié,"1,87m",left,"Jul 1, 2022",FC Barcelona Atlètic,€500k,,,
+9,18944,Gerard Piqué,Centre-Back,"Feb 2, 1987",36,Spain,Retired,"1,94m",right,"Sep 1, 2022",Manchester United,,,,
+10,636688,Alejandro Balde,Left-Back,"Oct 18, 2003",19,Spain,FC Barcelona,"1,75m",left,"Jul 1, 2012",FC Barcelona Atlètic,€50.00m,"Tendon rupture - Return expected on May 31, 2024",,
+11,112515,Marcos Alonso,Left-Back,"Dec 28, 1990",32,Spain,FC Barcelona,"1,88m",left,"Jul 1, 2023",Chelsea FC,€5.00m,,,
+12,69751,Jordi Alba,Left-Back,"Mar 21, 1989",34,Spain,Inter Miami CF,"1,70m",left,"Sep 1, 2022",Valencia CF,€5.00m,,,
+13,709957,Álex Valle,Left-Back,"Apr 25, 2004",19,Spain,Levante UD,"1,78m",left,"Jul 1, 2008",FC Barcelona Atlètic,€500k,,,
+14,191217,Héctor Bellerín,Right-Back,"Mar 19, 1995",28,Spain,Real Betis Balompié,"1,78m",right,"Sep 2, 2019",Arsenal FC,€8.00m,,,
+15,65230,Sergio Busquets,Defensive Midfield,"Jul 16, 1988",34,Spain,Inter Miami CF,"1,89m",right,"Jul 1, 2021",FC Barcelona Atlètic,€5.00m,,,
+16,466806,Álvaro Sanz,Defensive Midfield,"Feb 14, 2001",22,Spain,CD Mirandés,"1,70m",right,"Jul 1, 2019",,€700k,,,
+17,636695,Marc Casadó,Defensive Midfield,"Sep 14, 2003",19,Spain,FC Barcelona Atlètic,"1,72m",right,"Jul 4, 2022",,€300k,,,
+18,937956,Pau Prim,Defensive Midfield,"Feb 22, 2006",17,Spain,FC Barcelona U19,"1,79m",right,"Sep 1, 2020",,,,,
+19,683840,Pedri,Central Midfield,"Nov 25, 2002",20,Spain,FC Barcelona,"1,74m",right,"Jul 1, 2013",UD Las Palmas,€100.00m,"Hamstring injury - Return expected on Apr 9, 2024",,
+20,646740,Gavi,Central Midfield,"Aug 5, 2004",18,Spain,FC Barcelona,"1,73m",right,"Jul 1, 2022",FC Barcelona U19,€90.00m,"Cruciate ligament tear - Return expected on Jun 30, 2024",,
+21,326330,Frenkie de Jong,Central Midfield,"May 12, 1997",26,Netherlands,FC Barcelona,"1,81m",right,"Sep 23, 2020",Ajax Amsterdam,€75.00m,"Ankle injury - Return expected on Apr 8, 2024",,
+22,294808,Franck Kessié,Central Midfield,"Dec 19, 1996",26,Cote d'Ivoire,Al-Ahli SFC,"1,83m",right,"Jan 1, 2022",AC Milan,€25.00m,,,
+23,44162,Miralem Pjanic,Central Midfield,"Apr 2, 1990",33,Bosnia-Herzegovina,Sharjah FC,"1,78m",right,"Jul 1, 2023",Juventus FC,€6.00m,,,
+24,85370,Sergi Roberto,Central Midfield,"Feb 7, 1992",31,Spain,FC Barcelona,"1,78m",right,"Aug 25, 2017",FC Barcelona B,€5.00m,Team captain,,
+25,720038,Pablo Torre,Central Midfield,"Apr 3, 2003",20,Spain,Girona FC,"1,73m",right,"Jul 13, 2022",Racing Santander,€3.00m,,,
+26,709966,Aleix Garrido,Central Midfield,"Feb 22, 2004",19,Spain,FC Barcelona Atlètic,"1,70m",right,"Jul 1, 2023",,€300k,"Metatarsal fracture - Return expected on Apr 26, 2024",,
+27,970633,Unai Hernández,Central Midfield,"Dec 14, 2004",18,Spain,FC Barcelona Atlètic,"1,71m",right,"Jul 19, 2022",,,,,
+28,466810,Ansu Fati,Left Winger,"Oct 31, 2002",20,Spain,Brighton & Hove Albion,"1,78m",right,"Jul 1, 2021",FC Barcelona B,€35.00m,,,
+29,398184,Ferran Torres,Left Winger,"Feb 29, 2000",23,Spain,FC Barcelona,"1,84m",right,"Jan 31, 2022",Manchester City,€30.00m,,,
+30,127181,Benjamin Lecomte,Goalkeeper,"Apr 26, 1991",32,France,Montpellier HSC,"1,86m",left,"Jul 13, 2022",AS Monaco,€4.00m,,,
+31,172015,Fernando Pacheco,Goalkeeper,"May 18, 1992",31,Spain,RCD Espanyol Barcelona,"1,87m",left,"Jan 31, 2023",UD Almería,€2.50m,,,
+32,453704,Álvaro Fernández,Goalkeeper,"Apr 13, 1998",25,Spain,SD Huesca,"1,85m",right,"Aug 31, 2022",SD Huesca,€2.50m,,,
+33,561613,Joan García,Goalkeeper,"May 4, 2001",22,Spain,RCD Espanyol Barcelona,"1,91m",right,"Jul 1, 2021",RCD Espanyol B,€400k,,,
+34,628487,Ángel Fortuño,Goalkeeper,"Oct 5, 2001",21,Spain,RCD Espanyol B,"1,83m",right,"Jan 1, 2023",,€300k,,,
+35,387687,César Montes,Centre-Back,"Feb 24, 1997",26,Mexico,UD Almería,"1,95m",right,"Jan 20, 2020",CF Monterrey,€8.00m,,,
+36,102423,Leandro Cabrera,Centre-Back,"Jun 17, 1991",32,Uruguay,RCD Espanyol Barcelona,"1,90m",left,"Aug 9, 2019",Getafe CF,€2.50m,,,
+37,357884,Fernando Calero,Centre-Back,"Sep 14, 1995",27,Spain,RCD Espanyol Barcelona,"1,84m",right,"Jul 28, 2021",: Ablöse €8.00m,€2.00m,,,
+38,92947,Sergi Gómez,Centre-Back,"Mar 28, 1992",31,Spain,RCD Espanyol Barcelona,"1,85m",right,"Jul 1, 2022",Sevilla FC,€2.00m,Team captain,,
+39,945496,Simo Keddari,Centre-Back,"Feb 3, 2005",18,Spain,Al-Arabi SC,"1,83m",right,"Jul 1, 2022",RCD Espanyol B,€500k,,,
+40,166677,Brian Oliván,Left-Back,"Apr 1, 1994",29,Spain,RCD Espanyol Barcelona,"1,75m",left,"Jul 1, 2019",RCD Mallorca,€6.00m,,,
+41,501418,Adrià Pedrosa,Left-Back,"May 13, 1998",25,Spain,Sevilla FC,"1,72m",left,"Jan 18, 2023",RCD Espanyol B,€5.00m,,,
+42,410185,Ronaël Pierre-Gabriel,Right-Back,"Jun 13, 1998",25,France,GNK Dinamo Zagreb,"1,77m",right,"Sep 7, 2020",1.FSV Mainz 05,€3.50m,,,
+43,544106,Óscar Gil,Right-Back,"Apr 26, 1998",25,Spain,RCD Espanyol Barcelona,"1,75m",both,"Jul 1, 2022",Elche CF,€3.00m,,,
+44,705813,Rubén Sánchez,Right-Back,"Feb 4, 2001",22,Spain,RCD Espanyol Barcelona,"1,85m",right,"Jan 1, 2023",RCD Espanyol B,€700k,,"Returned after loan spell with CD Mirandés; date: Jan 31, 2024; fee: End of loan",
+45,822331,Omar El Hilali,Right-Back,"Sep 12, 2003",19,Morocco,RCD Espanyol Barcelona,"1,83m",right,"Jul 8, 2022",RCD Espanyol B,€500k,,,
+46,663581,Vini Souza,Defensive Midfield,"Jun 17, 1999",24,Brazil,Sheffield United,"1,87m",right,"Jul 1, 2018",Lommel SK,€6.00m,,,
+47,142021,Sergi Darder,Central Midfield,"Dec 22, 1993",29,Spain,RCD Mallorca,"1,80m",right,"Aug 8, 2022",: Ablöse €8.00m,€16.00m,,,
+48,506248,Edu Expósito,Central Midfield,"Aug 1, 1996",26,Spain,RCD Espanyol Barcelona,"1,78m",right,"Sep 22, 2020",SD Eibar,€4.00m,,,
+49,295622,Keidi Bare,Central Midfield,"Aug 28, 1997",25,Albania,RCD Espanyol Barcelona,"1,74m",right,"Jan 31, 2023",Málaga CF,€3.00m,,,
+50,557147,José Gragera,Central Midfield,"May 14, 2000",23,Spain,RCD Espanyol Barcelona,"1,86m",right,"Jul 1, 2020",Sporting Gijón,€2.50m,,,
+51,412045,Pol Lozano,Central Midfield,"Oct 6, 1999",23,Spain,RCD Espanyol Barcelona,"1,76m",right,"Aug 1, 2020",RCD Espanyol B,€1.50m,,"Returned after loan spell with Granada CF; date: Jun 30, 2023; fee: End of loan",
+52,646746,Roger Martínez,Central Midfield,"Apr 5, 2004",19,Spain,RCD Espanyol B,"1,77m",right,"Jan 31, 2023",,€400k,,,
+53,628496,Dani Villahermosa,Central Midfield,"Jan 2, 2001",22,Spain,CD Castellón,"1,72m",right,"Jul 1, 2018",,€250k,,,
+54,570421,Nico Melamed,Attacking Midfield,"Apr 11, 2001",22,Spain,RCD Espanyol Barcelona,"1,73m",right,"Aug 24, 2022",RCD Espanyol B,€6.00m,,,
+55,165007,Denis Suárez,Attacking Midfield,"Jan 6, 1994",29,Spain,Villarreal CF,"1,76m",right,"Jan 23, 2020",Celta de Vigo,€5.00m,"Tendon rupture - Return expected on Jun 30, 2024",,
+56,408471,Javi Puado,Left Winger,"May 25, 1998",25,Spain,RCD Espanyol Barcelona,"1,77m",right,"Aug 18, 2021",RCD Espanyol B,€8.00m,,,
+57,282410,José Carlos Lazo,Left Winger,"Feb 16, 1996",27,Spain,RCD Espanyol Barcelona,"1,78m",both,"Jul 1, 2022",UD Almería,€2.50m,,,
+58,745461,Luca Koleosho,Left Winger,"Sep 15, 2004",18,Italy,Burnley FC,"1,75m",right,"Sep 1, 2022",,€1.00m,Knee injury - Return unknown,,
+59,628499,Kenneth Soler,Left Winger,"Feb 16, 2001",22,Spain,RCD Espanyol B,"1,75m",left,"Aug 22, 2022",,€100k,,,
+60,65263,Jordi Masip,Goalkeeper,"Jan 3, 1989",34,Spain,Real Valladolid CF,"1,80m",right,"Jul 17, 2017",FC Barcelona,€1.00m,Team captain,,
+61,51710,Sergio Asenjo,Goalkeeper,"Jun 28, 1989",34,Spain,Without Club,"1,89m",right,"Jul 7, 2022",Villarreal CF,€1.00m,,,
+62,710474,Álvaro Aceves,Goalkeeper,"Jul 26, 2003",19,Spain,CD Eldense,"1,90m",right,"Jul 1, 2023",Real Valladolid Promesas,€200k,,,
+63,340853,Javi Sánchez,Centre-Back,"Mar 14, 1997",26,Spain,Real Valladolid CF,"1,89m",right,"Jul 1, 2020",Real Madrid,€3.00m,,,
+64,221321,Joaquín Fernández,Centre-Back,"May 31, 1996",27,Spain,Trabzonspor,"1,90m",left,"Aug 31, 2018",UD Almería,€3.00m,,,
+65,235412,Jawad El Yamiq,Centre-Back,"Feb 29, 1992",31,Morocco,Al-Wehda FC,"1,93m",right,"Sep 24, 2020",: Ablöse €250k,€2.00m,,,
+66,129386,Zouhair Feddal,Centre-Back,"Dec 23, 1989",33,Morocco,Without Club,"1,91m",left,"Aug 24, 2022",Sporting CP,€1.30m,,,
+67,709999,Víctor Rofino,Centre-Back,"Jul 28, 2002",20,Spain,Real Murcia CF,"1,85m",right,"Jul 1, 2023",,€100k,,,
+68,857832,David Torres,Centre-Back,"Mar 5, 2003",20,Spain,Real Valladolid CF,"1,82m",left,"Jul 1, 2021",Real Valladolid Promesas,€50k,,"Internal transfer: Real Valladolid Promesas; date: Jul 1, 2023",
+69,216240,Lucas Olaza,Left-Back,"Jul 21, 1994",28,Uruguay,FK Krasnodar,"1,76m",left,"Jul 13, 2022",CA Boca Juniors,€2.50m,,,
+70,93935,Sergio Escudero,Left-Back,"Sep 2, 1989",33,Spain,Real Valladolid CF,"1,76m",left,"Jul 1, 2022",Granada CF,€1.50m,,,
+71,635346,Diego Moreno,Left-Back,"Jan 18, 2002",21,Spain,Valencia Mestalla,"1,75m",left,"Aug 4, 2020",,€100k,,,
+72,946883,Iván Fresneda,Right-Back,"Sep 28, 2004",18,Spain,Sporting CP,"1,83m",right,"Oct 1, 2022",Real Valladolid Promesas,€15.00m,,,
+73,358115,Luis Pérez,Right-Back,"Feb 4, 1995",28,Spain,Real Valladolid CF,"1,73m",right,"Jan 31, 2023",CD Tenerife,€1.50m,,,
+74,468309,Lucas Rosa,Right-Back,"Apr 3, 2000",23,Brazil,Real Valladolid CF,"1,77m",right,"Aug 12, 2022",Real Valladolid Promesas,€1.00m,,,
+75,398808,Martin Hongla,Defensive Midfield,"Mar 16, 1998",25,Cameroon,Granada CF,"1,82m",right,"Jul 1, 2022",Hellas Verona,€3.00m,,,
+76,205569,Mickaël Malsa,Defensive Midfield,"Oct 12, 1995",27,Martinique,Without Club,"1,79m",right,"Aug 12, 2020",Levante UD,€1.50m,,"Returned after loan spell with Kasimpasa; date: Jun 30, 2023; fee: End of loan",
+77,282727,Monchu,Central Midfield,"Sep 13, 1999",23,Spain,Real Valladolid CF,"1,73m",right,"Jan 25, 2019",Granada CF,€5.00m,,,
+78,527698,Kike Pérez,Central Midfield,"Feb 14, 1997",26,Spain,Rayo Vallecano,"1,84m",left,"Oct 5, 2020",: Ablöse -,€4.50m,,,
+79,449496,Álvaro Aguado,Central Midfield,"May 1, 1996",27,Spain,RCD Espanyol Barcelona,"1,75m",right,"Jul 1, 2017",Córdoba CF,€3.00m,,,
+80,202984,Roque Mesa,Central Midfield,"Jun 7, 1989",34,Spain,Sporting Gijón,"1,72m",right,"Jul 1, 2023",Sevilla FC,€2.50m,,,
+81,327126,Anuar,Central Midfield,"Jan 15, 1995",28,Morocco,Real Valladolid CF,"1,73m",right,"Jan 31, 2023",: Ablöse -,€900k,,,
+82,710484,Mario Maroto,Central Midfield,"Nov 28, 2003",19,Spain,Atlético de Madrid B,"1,76m",left,"Jan 19, 2023",,€150k,,,
+83,631055,Alberto Quintana,Central Midfield,"Oct 5, 2001",21,Spain,Real Valladolid CF,"1,86m",right,"Jul 1, 2017",Real Valladolid Promesas,€100k,,"Internal transfer: Real Valladolid Promesas; date: Jul 1, 2023",
+84,377219,Selim Amallah,Attacking Midfield,"Nov 15, 1996",26,Morocco,Valencia CF,"1,85m",right,"Sep 1, 2022",: Ablöse €1.00m,€3.00m,,,
+85,211251,Darwin Machís,Left Winger,"Feb 7, 1993",30,Venezuela,Cádiz CF,"1,71m",right,"Jul 1, 2023",FC Juárez,€3.00m,,,
+86,337066,Toni Villa,Left Winger,"Jan 7, 1995",28,Spain,Girona FC,"1,72m",right,"Jul 11, 2022",Cultural Leonesa,€2.50m,,,
+87,281404,Kenedy,Left Winger,"Feb 8, 1996",27,Brazil,Real Valladolid CF,"1,80m",left,"Jul 1, 2017",Chelsea FC,€1.50m,,,
+88,924447,Tunde Akinsola,Left Winger,"Mar 10, 2003",20,Nigeria,Avs Futebol SAD,"1,75m",both,"Jul 1, 2022",Real Valladolid Promesas,€50k,,,
+89,592735,Gonzalo Plata,Right Winger,"Nov 1, 2000",22,Ecuador,Al-Sadd SC,"1,78m",left,"Jul 1, 2023",Sporting CP,€5.00m,,,
+90,221309,Óscar Plano,Right Winger,"Feb 11, 1991",32,Spain,Elche CF,"1,79m",both,"Aug 31, 2020",AD Alcorcón,€3.00m,,,
+91,221311,Iván Sánchez,Right Winger,"Sep 23, 1992",30,Spain,Real Valladolid CF,"1,69m",left,"Jan 25, 2019",Birmingham City,€800k,,,
+92,635881,Manuel Pozo,Right Winger,"Dec 12, 2001",21,Spain,Real Valladolid Promesas,"1,68m",left,"Aug 31, 2021",,€300k,,,
+93,343463,Cyle Larin,Centre-Forward,"Apr 17, 1995",28,Canada,RCD Mallorca,"1,88m",right,"Sep 2, 2022",Club Brugge KV,€8.00m,,"Joined from Club Brugge KV; date: Jul 1, 2023; fee: €1.50m",
+94,247652,Shon Weissman,Centre-Forward,"Feb 14, 1996",27,Israel,US Salernitana 1919,"1,74m",right,"Jan 27, 2020",Wolfsberger AC,€4.00m,,"Returned after loan spell with Granada CF; date: Jun 30, 2023; fee: End of loan",
+95,256429,Sergi Guardiola,Centre-Forward,"May 29, 1991",32,Spain,Cádiz CF,"1,85m",left,"Jul 1, 2023",Córdoba CF,€2.00m,,"Returned after loan spell with Cádiz CF; date: Jun 30, 2023; fee: End of loan",
+96,108390,Thibaut Courtois,Goalkeeper,"May 11, 1992",31,Belgium,Real Madrid,"2,00m",left,"Aug 9, 2018",Chelsea FC,€45.00m,"Meniscus tear - Return expected on May 8, 2024",,
+97,404839,Andriy Lunin,Goalkeeper,"Feb 11, 1999",24,Ukraine,Real Madrid,"1,91m",right,"Jul 1, 2018",: Ablöse €8.50m,€5.00m,,,
+98,717952,Mario de Luis,Goalkeeper,"May 6, 2002",21,Spain,Real Madrid Castilla,"1,85m",left,"Jul 1, 2019",,€500k,,,
+99,623525,Luis López,Goalkeeper,"May 8, 2001",22,Spain,CD Mirandés,"1,93m",left,"Jul 1, 2021",,€300k,,,
+100,568154,Lucas Cañizares,Goalkeeper,"May 10, 2002",21,Spain,Real Madrid Castilla,"1,88m",right,"Jul 1, 2022",,€200k,,,
+101,926850,Diego Piñeiro,Goalkeeper,"Feb 13, 2004",19,Spain,Real Madrid Castilla,"1,85m",,"Sep 1, 2012",,,,,
+102,1055220,Fran González,Goalkeeper,"Jun 24, 2005",18,Spain,Real Madrid U19,"1,99m",right,"Jul 31, 2015",,,,,
+103,401530,Éder Militão,Centre-Back,"Jan 18, 1998",25,Brazil,Real Madrid,"1,86m",right,"Jul 1, 2019",FC Porto,€70.00m,,,
+104,59016,David Alaba,Centre-Back,"Jun 24, 1992",31,Austria,Real Madrid,"1,80m",left,"Jul 1, 2013",Bayern Munich,€40.00m,"Cruciate ligament tear - Return expected on Jul 31, 2024",,
+105,86202,Antonio Rüdiger,Centre-Back,"Mar 3, 1993",30,Germany,Real Madrid,"1,90m",right,"Jul 2, 2015",Chelsea FC,€32.00m,,,
+106,58884,Nacho Fernández,Centre-Back,"Jan 18, 1990",33,Spain,Real Madrid,"1,80m",right,"Jul 5, 2018",Real Madrid Castilla,€6.00m,Team captain,,
+107,251896,Jesús Vallejo,Centre-Back,"Jan 5, 1997",26,Spain,Granada CF,"1,84m",right,"Jul 1, 2022",Real Zaragoza,€2.00m,,,
+108,935229,Marvel,Centre-Back,"Jan 7, 2003",20,Spain,Real Madrid Castilla,"1,84m",left,"Jul 2, 2015",,€1.00m,,,
+109,291417,Ferland Mendy,Left-Back,"Jun 8, 1995",28,France,Real Madrid,"1,80m",left,"Jul 1, 2018",: Ablöse €48.00m,€25.00m,,,
+110,138927,Daniel Carvajal,Right-Back,"Jan 11, 1992",31,Spain,Real Madrid,"1,73m",right,"Aug 31, 2021",Bayer 04 Leverkusen,€12.00m,,,
+111,221316,Lucas Vázquez,Right-Back,"Jul 1, 1991",31,Spain,Real Madrid,"1,73m",right,"Jul 17, 2014",RCD Espanyol Barcelona,€8.00m,,,
+112,280730,Álvaro Odriozola,Right-Back,"Dec 14, 1995",27,Spain,Real Sociedad,"1,76m",right,"Jul 14, 2017",Real Sociedad,€5.00m,,,
+113,743587,Vinícius Tobias,Right-Back,"Feb 23, 2004",19,Brazil,Real Madrid Castilla,"1,77m",right,"Aug 27, 2012",,€3.00m,,,
+114,413112,Aurélien Tchouaméni,Defensive Midfield,"Jan 27, 2000",23,France,Real Madrid,"1,88m",right,"Jul 12, 2018",AS Monaco,€85.00m,,,
+115,16306,Casemiro,Defensive Midfield,"Feb 23, 1992",31,Brazil,Manchester United,"1,85m",right,"Jul 1, 2019",FC Porto,€40.00m,,,
+116,948273,Mario Martín,Defensive Midfield,"Mar 5, 2004",19,Spain,Real Madrid Castilla,"1,77m",right,"Jul 1, 2019",,€250k,,,
+117,369081,Federico Valverde,Central Midfield,"Jul 22, 1998",24,Uruguay,Real Madrid,"1,82m",right,"Jul 1, 2015",Real Madrid Castilla,€100.00m,,,
+118,640428,Eduardo Camavinga,Central Midfield,"Nov 10, 2002",20,France,Real Madrid,"1,82m",left,"Jul 9, 2009",Stade Rennais FC,€85.00m,,,
+119,31909,Toni Kroos,Central Midfield,"Jan 4, 1990",33,Germany,Real Madrid,"1,83m",right,"Aug 29, 2018",: Ablöse €25.00m,€15.00m,,,
+120,234811,Rui Silva,Goalkeeper,"Feb 7, 1994",29,Portugal,Real Betis Balompié,"1,91m",left,"Jul 1, 2021",Granada CF,€15.00m,,,
+121,335221,Dani Martín,Goalkeeper,"Jul 8, 1998",24,Spain,FC Andorra,"1,87m",right,"Jul 18, 2019",Sporting Gijón,€1.50m,,,
+122,40423,Claudio Bravo,Goalkeeper,"Apr 13, 1983",40,Chile,Real Betis Balompié,"1,84m",right,"Aug 30, 2020",Manchester City,€1.00m,,,
+123,551182,Fran Vieites,Goalkeeper,"May 7, 1999",24,Spain,Betis Deportivo Balompié,"1,96m",left,"Jul 4, 2022",,€200k,,,
+124,1061277,Germán García,Goalkeeper,"Feb 1, 2004",19,Spain,Betis Deportivo Balompié,,,"Jul 21, 2020",,,,,
+125,457931,Luiz Felipe,Centre-Back,"Mar 22, 1997",26,Italy,Al-Ittihad Club,"1,87m",right,"Aug 19, 2021",SS Lazio,€15.00m,,,
+126,401624,Edgar González,Centre-Back,"Apr 1, 1997",26,Spain,UD Almería,"1,92m",right,"Aug 31, 2020",: Ablöse -,€9.00m,,,
+127,113133,Germán Pezzella,Centre-Back,"Jun 27, 1991",32,Argentina,Real Betis Balompié,"1,87m",right,"Jul 1, 2023",: Ablöse €3.25m,€5.00m,,,
+128,62920,Víctor Ruiz,Centre-Back,"Jan 25, 1989",34,Spain,RCD Espanyol Barcelona,"1,84m",left,"Aug 21, 2019",Besiktas JK,€1.20m,,,
+129,961945,Félix Garreta,Centre-Back,"Apr 21, 2004",19,Spain,SD Amorebieta,"1,83m",left,"Jan 15, 2023",Betis Deportivo Balompié,€200k,,,
+130,630989,Ricardo Visus,Centre-Back,"Apr 24, 2001",22,Spain,Betis Deportivo Balompié,"1,92m",right,"Jul 1, 2021",,€150k,,,
+131,193098,Álex Moreno,Left-Back,"Jun 8, 1993",30,Spain,Aston Villa,"1,79m",left,"Jul 1, 2021",: Ablöse €9.70m,€15.00m,,,
+132,646402,Abner,Left-Back,"May 27, 2000",23,Brazil,Real Betis Balompié,"1,81m",left,"Aug 25, 2020",Club Athletico Paranaense,€7.00m,,,
+133,341227,Juan Miranda,Left-Back,"Jan 19, 2000",23,Spain,Real Betis Balompié,"1,85m",left,"Jan 14, 2020",FC Barcelona,€7.00m,,,
+134,135492,Youssouf Sabaly,Right-Back,"Mar 5, 1993",30,Senegal,Real Betis Balompié,"1,73m",right,"Jul 13, 2018",FC Girondins Bordeaux,€5.00m,,,
+135,68645,Martín Montoya,Right-Back,"Apr 14, 1991",32,Spain,Aris Thessaloniki,"1,75m",right,"Sep 10, 2020",Brighton & Hove Albion,€1.20m,,,
+136,711638,Fran Delgado,Right-Back,"Jul 11, 2001",21,Spain,SC Farense,"1,81m",right,"Jul 7, 2017",,€350k,,,
+137,342385,Guido Rodríguez,Defensive Midfield,"Apr 12, 1994",29,Argentina,Real Betis Balompié,"1,85m",right,"Jul 1, 2017",CF América,€28.00m,,,
+138,100131,William Carvalho,Defensive Midfield,"Apr 7, 1992",31,Portugal,Real Betis Balompié,"1,87m",right,"Jul 23, 2019",Sporting CP,€14.00m,,,
+139,429901,Paul Akouokou,Defensive Midfield,"Dec 20, 1997",25,Cote d'Ivoire,Olympique Lyon,"1,81m",right,"Jul 3, 2018",: Ablöse -,€3.50m,,,
+140,20506,Andrés Guardado,Central Midfield,"Sep 28, 1986",36,Mexico,Club León FC,"1,67m",left,"Jul 1, 2021",: Ablöse €2.50m,€1.50m,,,
+141,263856,Víctor Camarasa,Central Midfield,"May 28, 1994",29,Spain,Real Oviedo,"1,83m",right,"Jul 1, 2019",Levante UD,€800k,,,
+142,668184,Quique Fernández,Central Midfield,"Sep 16, 2003",19,Spain,Betis Deportivo Balompié,"1,77m",left,"Jul 6, 2023",,€150k,,,
+143,203496,Nabil Fekir,Attacking Midfield,"Jul 18, 1993",29,France,Real Betis Balompié,"1,73m",left,"Jul 1, 2022",: Ablöse €19.75m,€20.00m,Team captain,,
+144,66106,Sergio Canales,Attacking Midfield,"Feb 16, 1991",32,Spain,CF Monterrey,"1,78m",left,"Jul 1, 2019",Real Sociedad,€15.00m,,,
+145,630995,Rodri Sánchez,Attacking Midfield,"May 16, 2000",23,Spain,Real Betis Balompié,"1,75m",left,"Aug 1, 2020",: Ablöse -,€8.00m,,,
+146,895331,Dani Pérez,Attacking Midfield,"Jul 26, 2005",17,Spain,Betis Deportivo Balompié,"1,73m",right,"Aug 31, 2015",,€300k,"Cruciate ligament tear - Return expected on May 24, 2024",,
+147,126737,Juanmi,Left Winger,"May 20, 1993",30,Spain,Cádiz CF,"1,72m",right,"Jul 1, 2023",Real Sociedad,€12.00m,,,
+148,246968,Ayoze Pérez,Left Winger,"Jul 29, 1993",29,Spain,Real Betis Balompié,"1,78m",right,"Aug 14, 2019",Leicester City,€6.00m,,"Joined from Leicester City; date: Jul 6, 2023; fee: free transfer",
+149,461858,José Alonso Lara,Left Winger,"Mar 7, 2000",23,Spain,CD Alcoyano,"1,62m",right,"Jul 1, 2022",,€350k,,,
+150,800175,Luiz Henrique,Right Winger,"Jan 2, 2001",22,Brazil,Botafogo de Futebol e Regatas,"1,82m",left,"Jan 30, 2018",Fluminense Football Club,€15.00m,,,
+151,248738,Sergio Herrera,Goalkeeper,"Jun 5, 1993",30,Spain,CA Osasuna,"1,92m",right,"Jul 12, 2017",SD Huesca,€8.00m,,,
+152,118997,Aitor Fernández,Goalkeeper,"May 3, 1991",32,Spain,CA Osasuna,"1,82m",right,"Jul 2, 2022",Levante UD,€3.00m,,,
+153,298613,Juan Pérez,Goalkeeper,"Jul 15, 1996",26,Spain,SD Huesca,"1,91m",right,"Jul 1, 2019",CA Osasuna Promesas,€600k,,,
+154,341266,Darío Ramos,Goalkeeper,"Oct 19, 1999",23,Spain,CA Osasuna Promesas,"1,91m",,"Jan 1, 2015",,€200k,,,
+155,634117,Pablo Valencia,Goalkeeper,"Mar 16, 2001",22,Spain,CA Osasuna Promesas,,,"Jul 1, 2015",,€200k,,,
+156,634116,Yoel Ramírez,Goalkeeper,"Feb 5, 2002",21,Spain,SD Tarazona,"1,84m",left,"Jul 17, 2017",,€50k,,,
+157,298589,David García,Centre-Back,"Feb 14, 1994",29,Spain,CA Osasuna,"1,86m",both,"Jul 1, 2023",CA Osasuna Promesas,€20.00m,Team captain,,
+158,197122,Unai García,Centre-Back,"Feb 3, 1992",31,Spain,CA Osasuna,"1,86m",right,"Jul 27, 2022",CA Osasuna Promesas,€2.50m,Hamstring injury - Return unknown,,
+159,82503,Aridane Hernández,Centre-Back,"Mar 23, 1989",34,Spain,Rayo Vallecano,"1,88m",right,"Aug 30, 2020",Cádiz CF,€1.00m,,,
+160,555500,Jorge Herrando,Centre-Back,"Feb 28, 2001",22,Spain,CA Osasuna,"1,92m",left,"Jul 13, 2018",CA Osasuna Promesas,€400k,,"Internal transfer: CA Osasuna Promesas; date: Jul 1, 2023",
+161,618809,Manu Sánchez,Left-Back,"Aug 24, 2000",22,Spain,Celta de Vigo,"1,71m",left,"Jul 1, 2022",Atlético de Madrid,€10.00m,,,
+162,169497,Juan Cruz,Left-Back,"Jul 28, 1992",30,Spain,CA Osasuna,"1,82m",left,"Jul 1, 2023",Elche CF,€2.50m,,,
+163,216870,Nacho Vidal,Right-Back,"Jan 24, 1995",28,Spain,RCD Mallorca,"1,80m",right,"Aug 4, 2020",Valencia CF,€5.00m,,,
+164,238868,Rubén Peña,Right-Back,"Jul 18, 1991",31,Spain,CA Osasuna,"1,70m",right,"Jul 1, 2023",Villarreal CF,€2.50m,,,
+165,634122,Diego Moreno,Right-Back,"Jun 21, 2001",22,Spain,FC Cartagena,"1,77m",right,"Jul 1, 2019",CA Osasuna Promesas,€800k,,,
+166,213670,Lucas Torró,Defensive Midfield,"Jul 19, 1994",28,Spain,CA Osasuna,"1,90m",right,"Jul 22, 2019",Eintracht Frankfurt,€8.00m,,,
+167,710677,Iker Muñoz,Defensive Midfield,"Sep 5, 2002",20,Spain,CA Osasuna,"1,80m",right,"Jul 1, 2022",CA Osasuna Promesas,€500k,,"Internal transfer: CA Osasuna Promesas; date: Jul 1, 2023",
+168,552425,Jon Moncayola,Central Midfield,"May 13, 1998",25,Spain,CA Osasuna,"1,82m",right,"Jul 1, 2022",CA Osasuna Promesas,€12.00m,,,
+169,95641,Darko Brasanac,Central Midfield,"Feb 12, 1992",31,Serbia,CD Leganés,"1,78m",right,"Jul 1, 2012",Real Betis Balompié,€2.00m,,,
+170,785353,Pablo Ibáñez,Central Midfield,"Sep 20, 1998",24,Spain,CA Osasuna,"1,79m",right,"Jul 1, 2021",CA Osasuna Promesas,€1.50m,,,
+171,634131,Aimar Oroz,Attacking Midfield,"Nov 27, 2001",21,Spain,CA Osasuna,"1,77m",right,"Sep 1, 2022",CA Osasuna Promesas,€15.00m,,,
+172,63056,Roberto Torres,Attacking Midfield,"Mar 7, 1989",34,Spain,Gol Gohar Sirjan FC,"1,78m",right,"Jul 28, 2022",CA Osasuna Promesas,€1.20m,,,
+173,471474,Javi Martínez,Attacking Midfield,"Dec 22, 1999",23,Spain,SD Huesca,"1,81m",right,"Jul 1, 2019",CA Osasuna Promesas,€1.00m,,,
+174,724520,Abde Ezzalzouli,Left Winger,"Dec 17, 2001",21,Morocco,Real Betis Balompié,"1,77m",right,"Jan 1, 2018",FC Barcelona,€15.00m,,,
+175,175449,Moi Gómez,Left Winger,"Jun 23, 1994",29,Spain,CA Osasuna,"1,76m",right,"Jul 1, 2023",Villarreal CF,€10.00m,,,
+176,213260,Rubén García,Left Winger,"Jul 14, 1993",29,Spain,CA Osasuna,"1,72m",left,"Jul 1, 2019",Levante UD,€6.00m,,,
+177,298575,Kike Barja,Right Winger,"Apr 1, 1997",26,Spain,CA Osasuna,"1,79m",right,"Jul 1, 2021",CA Osasuna Promesas,€4.00m,Cruciate ligament tear - Return unknown,,
+178,710679,Iker Benito,Right Winger,"Aug 10, 2002",20,Spain,FC Andorra,"1,76m",right,"Jul 1, 2021",CA Osasuna Promesas,€300k,,,
+179,298197,Antonio Sivera,Goalkeeper,"Aug 11, 1996",26,Spain,Deportivo Alavés,"1,85m",right,"Jul 19, 2017",Valencia Mestalla,€1.20m,,,
+180,631693,Jesús Owono,Goalkeeper,"Mar 1, 2001",22,Equatorial Guinea,Deportivo Alavés,"1,81m",both,"Jul 1, 2022",Deportivo Alavés B,€200k,,,
+181,608382,Adrián Rodríguez,Goalkeeper,"Dec 12, 2000",22,Argentina,Deportivo Alavés B,"1,95m",right,"Jul 1, 2022",,€150k,,,
+182,634448,Asier Gago,Goalkeeper,"Jan 1, 2000",23,Spain,Without Club,,,"Jul 1, 2023",,,,,
+183,559979,Abdel Abqar,Centre-Back,"Mar 10, 1999",24,Morocco,Deportivo Alavés,"1,88m",right,"Jul 11, 2014",Deportivo Alavés B,€1.40m,,,
+184,258475,Nikola Maras,Centre-Back,"Dec 19, 1995",27,Serbia,Levante UD,"1,89m",right,"Jul 5, 2022",UD Almería,€1.20m,,,
+185,67080,Víctor Laguardia,Centre-Back,"Nov 5, 1989",33,Spain,Retired,"1,83m",right,"Jul 1, 2017",Real Zaragoza,€800k,,,
+186,237499,Aleksandar Sedlar,Centre-Back,"Dec 13, 1991",31,Serbia,Deportivo Alavés,"1,80m",right,"Aug 4, 2020",RCD Mallorca,€500k,"Cruciate ligament tear - Return expected on Jun 30, 2024",,
+187,634457,Imanol Baz,Centre-Back,"Jan 27, 2001",22,Spain,Real Unión Club,"1,84m",right,"Aug 20, 2023",,€200k,,,
+188,718025,Adrián Pérez,Centre-Back,"Mar 4, 2003",20,Spain,Deportivo Alavés B,,left,"Jul 9, 2022",,€100k,,,
+189,177046,Rubén Duarte,Left-Back,"Oct 18, 1995",27,Spain,Deportivo Alavés,"1,79m",left,"Jul 25, 2023",RCD Espanyol Barcelona,€2.50m,,,
+190,568158,Javi López,Left-Back,"Mar 25, 2002",21,Spain,Deportivo Alavés,"1,83m",left,"Jul 1, 2022",Deportivo Alavés B,€700k,,,
+191,533568,Nahuel Tenaglia,Right-Back,"Feb 21, 1996",27,Argentina,Deportivo Alavés,"1,81m",right,"Jul 11, 2022",CA Talleres,€3.00m,,"Joined from CA Talleres; date: Aug 20, 2023; fee: €1.00m",
+192,426326,Anderson Arroyo,Right-Back,"Sep 27, 1999",23,Colombia,Burgos CF,"1,76m",right,"Jul 1, 2021",Liverpool FC U21,€800k,,,
+193,718177,Joseda Álvarez,Right-Back,"Jan 22, 2001",22,Spain,Deportivo Alavés B,"1,83m",right,"Jul 1, 2022",,€100k,,,
+194,495621,Antonio Blanco,Defensive Midfield,"Jul 23, 2000",22,Spain,Deportivo Alavés,"1,76m",right,"Jul 1, 2022",Real Madrid,€2.50m,,"Joined from Real Madrid; date: Jul 25, 2023; fee: €4.00m",
+195,431190,Carlos Benavidez,Defensive Midfield,"Mar 30, 1998",25,Uruguay,Deportivo Alavés,"1,85m",right,"Jul 1, 2023",CA Independiente,€500k,,,
+196,289257,Jon Guridi,Central Midfield,"Feb 28, 1995",28,Spain,Deportivo Alavés,"1,79m",left,"Jul 1, 2019",Real Sociedad,€1.60m,,,
+197,295065,Toni Moya,Central Midfield,"Mar 20, 1998",25,Spain,Real Zaragoza,"1,85m",right,"Jul 1, 2022",Atlético de Madrid B,€1.50m,,,
+198,615636,Abdallahi Mahmoud,Central Midfield,"May 4, 2000",23,Mauritania,AC Bellinzona,"1,89m",right,"Jan 3, 2022",Deportivo Alavés B,€500k,,,
+199,58799,Salva Sevilla,Central Midfield,"Mar 18, 1984",39,Spain,Deportivo de La Coruña,"1,78m",right,"Sep 1, 2022",RCD Mallorca,€300k,,,
+200,634460,Álex Balboa,Central Midfield,"Mar 6, 2001",22,Equatorial Guinea,SD Huesca,"1,81m",right,"Jul 1, 2022",Deportivo Alavés B,€150k,,,
+201,646734,Tomás Mendes,Central Midfield,"Nov 21, 2004",18,Spain,Deportivo Alavés B,,,"Jan 30, 2023",,€100k,,,
+202,278837,Luis Rioja,Left Winger,"Oct 16, 1993",29,Spain,Deportivo Alavés,"1,76m",left,"Aug 23, 2021",UD Almería,€3.00m,,,
+203,718034,Abde Rebbach,Left Winger,"Aug 11, 1998",24,Algeria,Deportivo Alavés,"1,76m",right,"Aug 20, 2021",Deportivo Alavés B,€500k,,,
+204,867611,José de León,Left Winger,"Mar 2, 2004",19,Dominican Republic,Deportivo Alavés B,"1,85m",right,"Jul 8, 2021",,€150k,,,
+205,417913,Álvaro Valles,Goalkeeper,"Jul 25, 1997",25,Spain,UD Las Palmas,"1,91m",right,"Jul 1, 2019",Las Palmas Atlético,€1.00m,,,
+206,524937,Álex Domínguez,Goalkeeper,"Jul 30, 1998",24,Spain,FC Toulouse,"1,87m",left,"Aug 1, 2020",Las Palmas Atlético,€300k,,,
+207,495602,Moha Ramos,Goalkeeper,"Apr 13, 2000",23,Spain,CD Tenerife B,"1,89m",right,"Jan 2, 2019",,,,,
+208,627281,Javier Cendón,Goalkeeper,"Jun 2, 2001",22,Spain,Hércules CF,"1,91m",right,"Jul 1, 2021",,,,,
+209,749978,Ale Gorrin,Goalkeeper,"Aug 8, 2002",20,Spain,Las Palmas Atlético,,,"Jul 1, 2019",,,,,
+210,390823,Eric Curbelo,Centre-Back,"Jan 14, 1994",29,Spain,UD Las Palmas,"1,80m",right,"Jul 7, 2022",Las Palmas Atlético,€1.20m,,,
+211,588426,Saúl Coco,Centre-Back,"Feb 9, 1999",24,Equatorial Guinea,UD Las Palmas,"1,87m",right,"Aug 27, 2022",Las Palmas Atlético,€1.00m,,,
+212,510396,Alex Suárez,Centre-Back,"Mar 18, 1993",30,Spain,UD Las Palmas,"1,80m",right,"Jul 1, 2021",Las Palmas Atlético,€600k,,,
+213,27374,Sidnei,Centre-Back,"Aug 23, 1989",33,Brazil,Without Club,"1,84m",right,"Jul 1, 2018",Goiás EC,€600k,,,
+214,487951,Enrique Clemente,Centre-Back,"Mar 4, 1999",24,Spain,Racing Ferrol,"1,82m",left,"Aug 2, 2021",Real Zaragoza,€300k,,,
+215,678406,Sergi Cardona,Left-Back,"Jul 8, 1999",23,Spain,UD Las Palmas,"1,86m",both,"Aug 18, 2020",Las Palmas Atlético,€1.20m,,,
+216,1008594,Álvaro Santana,Left-Back,"Feb 24, 2002",21,Spain,Without Club,,,"Jan 13, 2023",,,,,
+217,230222,Álvaro Lemos,Right-Back,"Mar 30, 1993",30,Spain,UD Las Palmas,"1,77m",right,"Jul 1, 2019",Celta de Vigo,€800k,,,
+218,1045638,Palanca,Right-Back,"Jan 26, 2003",20,Spain,Las Palmas Atlético,"1,75m",right,"Jul 1, 2021",,,,,
+219,203516,Nuke Mfulu,Defensive Midfield,"Mar 20, 1994",29,DR Congo,UD Las Palmas,"1,83m",right,"Aug 23, 2021",Elche CF,€800k,,,
+220,581781,Enzo Loiodice,Central Midfield,"Nov 27, 2000",22,France,UD Las Palmas,"1,77m",left,"Jul 1, 2019",Dijon FCO,€2.00m,,,
+221,256120,Wilfrid Kaptoum,Central Midfield,"Jul 7, 1996",26,Cameroon,AEK Larnaca,"1,74m",right,"Aug 19, 2020",New England Revolution,€1.00m,,,
+222,531062,Fabio González,Central Midfield,"Feb 12, 1997",26,Spain,UD Las Palmas,"1,76m",right,"Aug 27, 2020",Las Palmas Atlético,€600k,,,
+223,845512,Joaquín González,Central Midfield,"Oct 14, 2000",22,Spain,Atlético Sanluqueño,,,"Jul 1, 2018",,,,,
+224,733576,Alberto Moleiro,Attacking Midfield,"Sep 30, 2003",19,Spain,UD Las Palmas,"1,71m",right,"Jul 21, 2022",UD Las Palmas U19,€5.00m,,,
+225,153238,Jonathan Viera,Attacking Midfield,"Oct 21, 1989",33,Spain,UD Almería,"1,71m",right,"Sep 1, 2022",Beijing Guoan,€1.50m,,,
+226,566574,Kirian Rodríguez,Attacking Midfield,"Mar 5, 1996",27,Spain,UD Las Palmas,"1,78m",right,"Jul 20, 2022",Las Palmas Atlético,€800k,Team captain,,
+227,396340,Óscar Clemente,Attacking Midfield,"Mar 26, 1999",24,Spain,Levante UD,"1,76m",left,"Aug 18, 2023",Atlético de Madrid B,€600k,,,
+228,890018,Julen Pérez,Attacking Midfield,"Jun 28, 2000",23,Spain,Inter Kashi,"1,82m",right,"Jul 1, 2021",,€25k,,,
+229,534379,Pejiño,Left Winger,"Jul 29, 1996",26,Spain,UD Las Palmas,"1,78m",left,"Jul 1, 2023",Sevilla Atlético,€1.80m,,,
+230,282672,Benito Ramírez,Left Winger,"Jul 11, 1995",27,Spain,UD Las Palmas,"1,79m",left,"Jan 31, 2023",Las Palmas Atlético,€600k,,,
+231,67082,Vitolo,Left Winger,"Nov 2, 1989",33,Spain,Atlético de Madrid,"1,84m",right,"Jul 7, 2022",Atlético de Madrid,€500k,Knee injury - Return unknown,,
+232,535304,Joel del Pino,Left Winger,"Nov 22, 1997",25,Spain,Real Avilés Industrial,"1,70m",,"Sep 1, 2022",Las Palmas Atlético,€200k,,,
+233,190263,Predrag Rajkovic,Goalkeeper,"Oct 31, 1995",27,Serbia,RCD Mallorca,"1,91m",right,"Jul 22, 2022",Stade Reims,€10.00m,,,
+234,316884,Dominik Greif,Goalkeeper,"Apr 6, 1997",26,Slovakia,RCD Mallorca,"1,97m",right,"Jul 6, 2021",Slovan Bratislava,€1.50m,,,
+235,562742,Leo Román,Goalkeeper,"Jul 6, 2000",22,Spain,Real Oviedo,"1,89m",right,"Jul 1, 2022",RCD Mallorca B,€300k,,,
+236,632913,Pere García,Goalkeeper,"Mar 22, 2002",21,Spain,Sestao River,"1,93m",right,"Jul 1, 2019",,€25k,,,
+237,277384,Martin Valjent,Centre-Back,"Dec 11, 1995",27,Slovakia,RCD Mallorca,"1,87m",right,"Jul 1, 2016",Chievo Verona,€4.50m,,,
+238,278296,Antonio Raíllo,Centre-Back,"Oct 8, 1991",31,Spain,RCD Mallorca,"1,87m",,"Jul 1, 2022",RCD Espanyol Barcelona,€4.00m,Team captain,,
+239,520840,José Copete,Centre-Back,"Oct 10, 1999",23,Spain,RCD Mallorca,"1,90m",left,"Jan 18, 2023",SD Ponferradina,€3.50m,,,
+240,322065,Dennis Hadzikadunic,Centre-Back,"Jul 9, 1998",24,Bosnia-Herzegovina,Hamburger SV,"1,91m",right,"Sep 1, 2022",FK Rostov,€3.00m,,,
+241,143559,Matija Nastasic,Centre-Back,"Mar 28, 1993",30,Serbia,RCD Mallorca,"1,88m",left,"Jul 9, 2018",ACF Fiorentina,€1.50m,,,
+242,378463,Franco Russo,Centre-Back,"Oct 25, 1994",28,Argentina,Oud-Heverlee Leuven,"1,86m",right,"Jul 1, 2023",: Ablöse free transfer,€800k,,,
+243,537760,Benjamín Garay,Centre-Back,"Apr 19, 2000",23,Argentina,Pontevedra CF,"1,83m",right,"Jan 30, 2023",,€100k,,,
+244,632495,Josep Gayá,Centre-Back,"Jul 7, 2000",22,Spain,SD Amorebieta,,right,"Sep 28, 2020",RCD Mallorca B,€100k,,,
+245,170646,Ludwig Augustinsson,Left-Back,"Apr 21, 1994",29,Sweden,RSC Anderlecht,"1,81m",left,"Jul 7, 2021",Sevilla FC,€2.50m,,,
+246,401521,Braian Cufré,Left-Back,"Dec 15, 1996",26,Argentina,Career break,"1,78m",left,"Jul 1, 2022",CA Vélez Sarsfield,€1.20m,,"Returned after loan spell with New York City FC; date: Dec 31, 2023; fee: End of loan",
+247,65318,Jaume Costa,Left-Back,"Mar 18, 1988",35,Spain,RCD Mallorca,"1,71m",left,"Jan 29, 2022",Villarreal CF,€1.20m,,,
+248,947432,Marcos Fernández,Left-Back,"Jul 17, 2003",19,Spain,RCD Mallorca B,,,"Jul 29, 2022",,€25k,,,
+249,251876,Pablo Maffeo,Right-Back,"Jul 12, 1997",25,Argentina,RCD Mallorca,"1,72m",right,"Jul 1, 2023",VfB Stuttgart,€8.00m,,,
+250,339699,Giovanni González,Right-Back,"Sep 20, 1994",28,Uruguay,RCD Mallorca,"1,78m",right,"Sep 1, 2019",CA Peñarol,€2.00m,,,
+251,632498,Miguelito,Right-Back,"Jan 12, 2001",22,Spain,RCD Mallorca B,,,"Jul 1, 2018",,€50k,,,
+252,89297,Rodrigo Battaglia,Defensive Midfield,"Jul 12, 1991",31,Argentina,Clube Atlético Mineiro,"1,87m",right,"Jul 1, 2018",Sporting CP,€1.50m,,,
+253,335225,Manu Morlanes,Central Midfield,"Jan 12, 1999",24,Spain,RCD Mallorca,"1,78m",right,"Mar 3, 2022",Villarreal CF,€4.00m,,"Joined from Villarreal CF; date: Jul 1, 2023; fee: €2.50m",
+254,126751,Iñigo Ruiz de Galarreta,Central Midfield,"Aug 6, 1993",29,Spain,Athletic Bilbao,"1,75m",right,"Aug 30, 2021",UD Las Palmas,€3.00m,,,
+255,442805,Iddrisu Baba,Central Midfield,"Jan 22, 1996",27,Ghana,UD Almería,"1,82m",right,"Jul 1, 2018",RCD Mallorca B,€3.00m,,,
+256,513031,Antonio Sánchez,Central Midfield,"Apr 22, 1997",26,Spain,RCD Mallorca,"1,79m",right,"Jul 1, 2021",RCD Mallorca B,€2.50m,,,
+257,72479,Clément Grenier,Central Midfield,"Jan 7, 1991",32,France,Racing Santander,"1,86m",right,"Jan 27, 2016",Without Club,€800k,,,
+258,632497,Miquel Llabrés,Central Midfield,"Jan 28, 2000",23,Spain,CE Andratx,,,"Jul 1, 2022",,€100k,,,
+259,947439,Luis Montiel,Central Midfield,"Jan 19, 2004",19,Spain,RCD Mallorca B,,,"Jul 22, 2022",,€25k,,,
+260,1056655,Rubén Quintanilla,Central Midfield,"Apr 3, 2002",21,Spain,RCD Mallorca B,,,"Aug 29, 2022",,€25k,,,
+261,557149,Kang-in Lee,Attacking Midfield,"Feb 19, 2001",22,"Korea, South",Paris Saint-Germain,"1,73m",left,"Jul 4, 2017",Valencia CF,€22.00m,,,
+262,139435,Dani Rodríguez,Attacking Midfield,"Jun 6, 1988",35,Spain,RCD Mallorca,"1,78m",right,"Jul 2, 2021",Albacete Balompié,€1.20m,,,
+263,502676,Giorgi Mamardashvili,Goalkeeper,"Sep 29, 2000",22,Georgia,Valencia CF,"1,97m",left,"Jan 1, 2022",Dinamo Tbilisi,€25.00m,,,
+264,227805,Jaume Doménech,Goalkeeper,"Nov 5, 1990",32,Spain,Valencia CF,"1,85m",right,"Jul 1, 2015",Valencia Mestalla,€1.00m,,,
+265,71570,Iago Herrerín,Goalkeeper,"Jan 25, 1988",35,Spain,AEK Larnaca,"1,87m",right,"Sep 28, 2022",Without Club,€500k,,,
+266,480966,Emilio Bernad,Goalkeeper,"Sep 22, 1999",23,Spain,Racing Ferrol,"1,84m",left,"Aug 1, 2020",,€300k,,,
+267,398131,Cristian Rivero,Goalkeeper,"Mar 21, 1998",25,Spain,Valencia CF,"1,88m",right,"Jul 1, 2018",Valencia Mestalla,€200k,,,
+268,707271,Charlie Pérez,Goalkeeper,"Jun 7, 2002",21,Spain,Real Unión Club,,,"Jul 1, 2023",,€25k,,,
+269,346289,Mouctar Diakhaby,Centre-Back,"Dec 19, 1996",26,Guinea,Valencia CF,"1,92m",right,"Jan 25, 2022",: Ablöse €15.00m,€6.00m,"Knee injury - Return expected on Mar 1, 2025",,
+270,615350,Cenk Özkacar,Centre-Back,"Oct 6, 2000",22,Türkiye,Valencia CF,"1,90m",left,"Aug 18, 2017",Olympique Lyon,€5.00m,,"Joined from Olympique Lyon; date: Jul 1, 2023; fee: €5.00m",
+271,298583,Eray Cömert,Centre-Back,"Feb 4, 1998",25,Switzerland,FC Nantes,"1,83m",right,"Jan 1, 2023",FC Basel 1893,€3.50m,,,
+272,149498,Gabriel Paulista,Centre-Back,"Nov 26, 1990",32,Brazil,Atlético de Madrid,"1,87m",right,"Jul 1, 2014",Arsenal FC,€2.50m,,,
+273,646750,Cristhian Mosquera,Centre-Back,"Jun 27, 2004",19,Spain,Valencia CF,"1,91m",right,"Jan 1, 2022",Valencia Mestalla,€1.00m,,,
+274,668212,Rubén Iranzo,Centre-Back,"Mar 14, 2003",20,Spain,Valencia Mestalla,"1,82m",right,"Jul 1, 2017",,€200k,,,
+275,221322,José Gayà,Left-Back,"May 25, 1995",28,Spain,Valencia CF,"1,72m",left,"Sep 2, 2019",Valencia Mestalla,€30.00m,Team captain,,
+276,623024,Jesús Vázquez,Left-Back,"Jan 2, 2003",20,Spain,Valencia CF,"1,82m",left,"Aug 30, 2021",Valencia Mestalla,€3.00m,,,
+277,320271,Toni Lato,Left-Back,"Nov 21, 1997",25,Spain,RCD Mallorca,"1,71m",left,"Jul 1, 2020",Valencia Mestalla,€2.50m,,,
+278,367466,Thierry Correia,Right-Back,"Mar 9, 1999",24,Portugal,Valencia CF,"1,76m",right,"Jul 1, 2018",Sporting CP,€8.00m,,,
+279,170472,Dimitri Foulquier,Right-Back,"Mar 23, 1993",30,Guadeloupe,Valencia CF,"1,83m",right,"Jan 1, 2017",Granada CF,€2.50m,,,
+280,495629,Hugo Guillamón,Defensive Midfield,"Jan 31, 2000",23,Spain,Valencia CF,"1,78m",right,"Aug 25, 2022",Valencia Mestalla,€14.00m,,,
+281,417575,Uroš Račić,Defensive Midfield,"Mar 17, 1998",25,Serbia,US Sassuolo,"1,93m",both,"Aug 1, 2020",Red Star Belgrade,€6.50m,,"Returned after loan spell with SC Braga; date: Jun 30, 2023; fee: End of loan",
+282,372246,Carlos Soler,Central Midfield,"Jan 2, 1997",26,Spain,Paris Saint-Germain,"1,80m",right,"Aug 13, 2022",Valencia Mestalla,€25.00m,,,
+283,375382,André Almeida,Central Midfield,"May 30, 2000",23,Portugal,Valencia CF,"1,76m",right,"Sep 1, 2022",Vitória Guimarães SC,€20.00m,,,
+284,503991,Yunus Musah,Central Midfield,"Nov 29, 2002",20,United States,AC Milan,"1,78m",right,"Jul 1, 2023",Valencia Mestalla,€18.00m,,,
+285,466805,Nico González,Central Midfield,"Jan 3, 2002",21,Spain,FC Porto,"1,88m",right,"Jan 31, 2022",FC Barcelona,€10.00m,,,
+286,617074,Ilaix Moriba,Central Midfield,"Jan 19, 2003",20,Guinea,Getafe CF,"1,85m",right,"Jul 28, 2022",RB Leipzig,€4.00m,,,
+287,834764,Javi Guerra,Central Midfield,"May 13, 2003",20,Spain,Valencia CF,"1,87m",right,"Sep 1, 2022",Valencia Mestalla,€2.00m,,"Internal transfer: Valencia Mestalla; date: Jul 1, 2023",
+288,569375,Koba Koindredi,Central Midfield,"Oct 27, 2001",21,France,Sporting CP,"1,84m",left,"Jul 1, 2023",Valencia Mestalla,€1.00m,,"Returned after loan spell with GD Estoril Praia; date: Jan 29, 2024; fee: End of loan",
+289,504084,Tiago Ribeiro,Central Midfield,"Mar 14, 2002",21,Portugal,FC Paços de Ferreira,"1,83m",left,"Jul 12, 2022",,€200k,,,
+290,941869,Yellu Santiago,Central Midfield,"May 25, 2004",19,Spain,Getafe CF,"1,92m",right,"Jul 1, 2023",,€100k,,,
+291,694928,Samuel Lino,Left Winger,"Dec 23, 1999",23,Brazil,Atlético de Madrid,"1,70m",right,"Jul 1, 2019",Atlético de Madrid,€16.00m,,,
+292,330659,Justin Kluivert,Left Winger,"May 5, 1999",24,Netherlands,AFC Bournemouth,"1,72m",both,"Jul 14, 2019",AS Roma,€14.00m,,,
+293,617081,Diego López,Left Winger,"May 13, 2002",21,Spain,Valencia CF,"1,72m",right,"Jul 1, 2022",Valencia Mestalla,€1.50m,,"Internal transfer: Valencia Mestalla; date: Jul 1, 2023",
+294,195171,Samu Castillejo,Right Winger,"Jan 18, 1995",28,Spain,US Sassuolo,"1,82m",left,"Aug 29, 2022",AC Milan,€6.00m,,,
+295,622988,Fran Pérez,Right Winger,"Sep 9, 2002",20,Spain,Valencia CF,"1,76m",right,"Aug 25, 2021",Valencia Mestalla,€500k,,"Internal transfer: Valencia Mestalla; date: Jul 1, 2023",
+296,527350,Manu Vallejo,Second Striker,"Feb 14, 1997",26,Spain,Real Zaragoza,"1,67m",right,"Jul 26, 2023",Cádiz CF,€2.40m,,,
+297,102146,Edgar Badia,Goalkeeper,"Feb 12, 1992",31,Spain,Real Zaragoza,"1,80m",right,"Jan 5, 2019",CF Reus Deportiu,€3.00m,,,
+298,236734,Axel Werner,Goalkeeper,"Feb 28, 1996",27,Argentina,CA Rosario Central,"1,91m",right,"Sep 1, 2021",Without Club,€800k,,,
+299,810205,Juanpe Navarro,Goalkeeper,"Aug 21, 1998",24,Spain,UE Santa Coloma,,right,"Jan 5, 2023",,,,,
+300,1004295,Jesús López,Goalkeeper,"Aug 1, 2002",20,Spain,Elche Ilicitano,"1,87m",right,"Jul 9, 2021",,,,,
+301,1064499,Luismi Quirant,Goalkeeper,"Jan 1, 2004",19,Spain,CD Eldense B,,,"Oct 9, 2020",,,,,
+302,66736,Lisandro Magallán,Centre-Back,"Sep 27, 1993",29,Argentina,UNAM Pumas,"1,85m",right,"Jul 7, 2021",Ajax Amsterdam,€1.80m,,,
+303,186862,Enzo Roco,Centre-Back,"Aug 16, 1992",30,Chile,Al-Tai FC,"1,92m",right,"Jul 1, 2022",Fatih Karagümrük,€1.50m,,,
+304,349836,Diego González,Centre-Back,"Jan 28, 1995",28,Spain,Elche CF,"1,85m",left,"Sep 1, 2022",Málaga CF,€1.50m,,,
+305,203043,Pedro Bigas,Centre-Back,"May 15, 1990",33,Spain,Elche CF,"1,81m",left,"Jul 1, 2017",SD Eibar,€1.00m,,,
+306,627290,John Donald,Centre-Back,"Sep 25, 2000",22,Spain,Elche CF,"1,82m",right,"Aug 8, 2021",Elche Ilicitano,€1.00m,,,
+307,85475,Federico Fernández,Centre-Back,"Feb 21, 1989",34,Argentina,Club Estudiantes de La Plata,"1,90m",right,"Aug 5, 2022",Newcastle United,€700k,,,
+308,184779,Gonzalo Verdú,Centre-Back,"Oct 21, 1988",34,Spain,FC Cartagena,"1,88m",right,"Sep 1, 2022",FC Cartagena,€700k,,,
+309,720530,Javi Pamies,Centre-Back,"Mar 17, 2003",20,Spain,Elche Ilicitano,,,"Jul 21, 2022",,,,,
+310,1004297,Manuel Cocca,Centre-Back,"Nov 8, 2002",20,Argentina,Orlando City B,"1,80m",left,"Jan 11, 2023",,,,,
+311,262939,Johan Mojica,Left-Back,"Aug 21, 1992",30,Colombia,CA Osasuna,"1,85m",left,"Aug 12, 2022",Girona FC,€3.00m,,,
+312,831161,Lautaro Blanco,Left-Back,"Feb 19, 1999",24,Argentina,CA Boca Juniors,"1,76m",left,"Feb 4, 2021",CA Rosario Central,€2.80m,,,
+313,739315,Nicolás Fernández Mercau,Left-Back,"Jan 11, 2000",23,Argentina,Elche CF,"1,72m",left,"Aug 31, 2021",CA San Lorenzo de Almagro,€2.00m,,,
+314,193784,Carlos Clerc,Left-Back,"Feb 21, 1992",31,Spain,Elche CF,"1,81m",left,"Aug 23, 2021",Levante UD,€1.50m,,,
+315,711625,José Ángel Carmona,Right-Back,"Jan 29, 2002",21,Spain,Getafe CF,"1,84m",right,"Sep 20, 2020",Sevilla FC,€4.00m,,,
+316,298975,Pol Lirola,Right-Back,"Aug 13, 1997",25,Spain,Frosinone Calcio,"1,83m",right,"Aug 16, 2022",Olympique Marseille,€2.00m,,,
+317,211389,Helibelton Palacios,Right-Back,"Jun 11, 1993",30,Colombia,Cruzeiro Esporte Clube,"1,81m",right,"Feb 14, 2023",Without Club,€1.20m,,,
+318,623023,Carles Marco,Right-Back,"Apr 5, 2000",23,Spain,Atlético Saguntino,"1,83m",right,"Jul 1, 2023",,,,,
+319,268670,Gerard Gumbau,Defensive Midfield,"Dec 18, 1994",28,Spain,Granada CF,"1,88m",left,"Jan 31, 2023",Girona FC,€3.50m,,,
+320,142031,Omar Mascarell,Defensive Midfield,"Feb 2, 1993",30,Spain,RCD Mallorca,"1,81m",right,"Sep 4, 2021",FC Schalke 04,€3.00m,,,
+321,330352,Raúl Guti,Central Midfield,"Dec 30, 1996",26,Spain,Real Zaragoza,"1,78m",right,"Jul 1, 2019",Real Zaragoza,€2.50m,"Partial patellar tendon tear - Return expected on Jul 5, 2024",,
+322,391719,Domingos Quina,Central Midfield,"Nov 18, 1999",23,Portugal,FC Vizela,"1,73m",right,"Sep 16, 2020",Watford FC,€1.80m,,,
+323,336828,Pape Cheikh,Central Midfield,"Aug 8, 1997",25,Senegal,DAC Dunajska Streda,"1,80m",right,"Jul 1, 2019",Without Club,€900k,,,
+324,726525,Branislav Knezevic,Central Midfield,"Jul 21, 2002",20,Serbia,Zeleznicar Pancevo,"1,88m",right,"Aug 15, 2022",,,,,
+325,720488,Alejandro Alfaro,Central Midfield,"Jun 15, 2002",21,Spain,RC Deportivo Fabril,"1,83m",right,"Jan 1, 2018",,,,,
+326,961297,Rodrigo Mendoza,Central Midfield,"Mar 15, 2005",18,Spain,Elche CF,"1,82m",right,"Jul 1, 2021",Elche CF U19,,,"Internal transfer: Elche CF U19; date: Jul 1, 2023",
+327,560483,Randy Nteka,Attacking Midfield,"Dec 6, 1997",25,France,Rayo Vallecano,"1,89m",left,"Jul 1, 2022",Rayo Vallecano,€1.80m,,,
+328,55215,Javier Pastore,Attacking Midfield,"Jun 20, 1989",34,Argentina,Without Club,"1,87m",right,"Aug 4, 2022",Without Club,€500k,,,
+329,284342,Conan Ledesma,Goalkeeper,"Feb 13, 1993",30,Argentina,Cádiz CF,"1,86m",right,"Jul 1, 2021",CA Rosario Central,€8.00m,,,
+330,162027,David Gil,Goalkeeper,"Jan 11, 1994",29,Spain,Cádiz CF,"1,86m",right,"Jul 1, 2018",: Ablöse -,€700k,,,
+331,706797,Victor Aznar,Goalkeeper,"Oct 17, 2002",20,Brazil,Cádiz CF Mirandilla,"1,92m",right,"Jul 1, 2019",,€50k,,,
+332,930096,Nando Almodóvar,Goalkeeper,"Nov 3, 2003",19,Spain,Cádiz CF Mirandilla,"1,92m",,"Jul 6, 2022",,€50k,,,
+333,252667,Fali,Centre-Back,"Aug 12, 1993",29,Spain,Cádiz CF,"1,86m",right,"Jul 31, 2023",Gimnàstic de Tarragona,€2.50m,,,
+334,495625,Víctor Chust,Centre-Back,"Mar 5, 2000",23,Spain,Cádiz CF,"1,84m",both,"Jan 31, 2022",Real Madrid,€2.50m,,,
+335,286779,Jorge Meré,Centre-Back,"Apr 17, 1997",26,Spain,Cádiz CF,"1,82m",right,"Aug 9, 2022",CF América,€1.20m,,"On loan from CF América until Jun 30, 2024",
+336,62945,Luis Hernández,Centre-Back,"Apr 14, 1989",34,Spain,Cádiz CF,"1,82m",right,"Jul 17, 2019",Maccabi Tel Aviv,€1.00m,"Knee injury - Return expected on Jun 19, 2024",,
+337,490421,Momo Mbaye,Centre-Back,"Jun 28, 1998",25,Senegal,Cádiz CF,"1,92m",left,"Jan 28, 2019",Cádiz CF Mirandilla,€700k,,,
+338,67089,Juan Cala,Centre-Back,"Nov 26, 1989",33,Spain,Retired,"1,86m",right,"Jul 8, 2021",UD Las Palmas,€600k,,,
+339,628494,Carlos García,Centre-Back,"Jul 7, 2000",22,Spain,Córdoba CF,"1,88m",right,"Jul 11, 2022",,€200k,,,
+340,631099,Lautaro Spatz,Centre-Back,"Oct 19, 2001",21,Argentina,Antequera CF,"1,84m",right,"Jul 1, 2019",,€150k,,,
+341,311044,Alfonso Espino,Left-Back,"Jan 5, 1992",31,Uruguay,Rayo Vallecano,"1,72m",left,"Jul 1, 2022",Club Nacional,€3.50m,,,
+342,520947,Santiago Arzamendia,Left-Back,"May 5, 1998",25,Paraguay,Club Cerro Porteño,"1,72m",left,"Aug 18, 2022",Club Cerro Porteño,€1.20m,,,
+343,197135,Joseba Zaldua,Right-Back,"Jun 24, 1992",31,Spain,Cádiz CF,"1,74m",right,"Jul 1, 2021",Real Sociedad,€2.50m,,,
+344,254037,Iza Carcelén,Right-Back,"Apr 23, 1993",30,Spain,Cádiz CF,"1,70m",right,"Aug 16, 2016",CF Rayo Majadahonda,€1.50m,,,
+345,784719,Raúl Parra,Right-Back,"Nov 26, 1999",23,Spain,GD Estoril Praia,"1,87m",right,"Jul 21, 2014",Cádiz CF Mirandilla,€300k,,,
+346,971775,Kikín,Right-Back,"Jan 20, 2003",20,Spain,Cádiz CF Mirandilla,,,"Jul 1, 2022",,€50k,,,
+347,495621,Antonio Blanco,Defensive Midfield,"Jul 23, 2000",22,Spain,Deportivo Alavés,"1,76m",right,"Jul 1, 2023",Real Madrid,€2.50m,,,
+348,454238,Tomás Alarcón,Defensive Midfield,"Jan 19, 1999",24,Chile,FC Cartagena,"1,76m",right,"Aug 7, 2022",CD O'Higgins,€1.50m,,,
+349,225462,José Mari,Defensive Midfield,"Dec 6, 1987",35,Spain,Cádiz CF,"1,82m",right,"Jan 1, 2023",Levante UD,€400k,"Team captain; Knee injury - Return expected on Jul 1, 2024",,
+350,158704,Jon Ander Garrido,Defensive Midfield,"Oct 9, 1989",33,Spain,Retired,"1,85m",right,"Aug 7, 2017",Granada CF,€300k,Patellar tendon problems - Return unknown,,
+351,247250,Rubén Alcaraz,Central Midfield,"May 1, 1991",32,Spain,Cádiz CF,"1,80m",right,"Aug 28, 2022",Real Valladolid CF,€2.00m,,,
+352,266795,Gonzalo Escalante,Central Midfield,"Mar 27, 1993",30,Argentina,Cádiz CF,"1,82m",right,"Jul 1, 2022",SS Lazio,€2.00m,,"Joined from SS Lazio; date: Jul 1, 2023; fee: €2.50m",
+353,307519,Fede San Emeterio,Central Midfield,"Mar 16, 1997",26,Spain,Cádiz CF,"1,76m",right,"Jul 17, 2017",Real Valladolid CF,€2.00m,"Cruciate ligament tear - Return expected on Jul 16, 2024",,
+354,564451,Youba Diarra,Central Midfield,"Mar 24, 1998",25,Mali,Cádiz CF Mirandilla,"1,78m",right,"Aug 26, 2022",Red Bull Salzburg,€900k,,"Returned after loan spell with Asteras Tripolis; date: Jan 18, 2024; fee: End of loan",
+355,882772,Álvaro Bastida,Central Midfield,"May 12, 2004",19,Spain,Atlético Sanluqueño,"1,70m",,"Aug 4, 2020",,€600k,,,
+356,961954,Curro Muñoz,Central Midfield,"Jan 7, 2003",20,Spain,SD Logroñés,"1,85m",right,"Aug 4, 2020",,€50k,,,
+357,979235,Moussa Diakité,Central Midfield,"Nov 4, 2003",19,Mali,Cádiz CF Mirandilla,"1,89m",,"Aug 30, 2021",,€50k,,,
+358,89733,Álex Fernández,Attacking Midfield,"Oct 15, 1992",30,Spain,Cádiz CF,"1,83m",right,"Jan 26, 2023",Elche CF,€4.00m,,,
+359,598765,Brian Ocampo,Left Winger,"Jun 25, 1999",24,Uruguay,Cádiz CF,"1,72m",right,"Jul 1, 2023",Club Nacional,€2.00m,,,
+360,255729,Awer Mabil,Left Winger,"Sep 15, 1995",27,Australia,Grasshopper Club Zurich,"1,78m",right,"Jan 31, 2023",FC Midtjylland,€1.20m,unknown injury - Return unknown,"Returned after loan spell with AC Sparta Prague; date: Jun 30, 2023; fee: End of loan",
+361,99559,Alberto Perea,Left Winger,"Dec 19, 1990",32,Spain,Anorthosis Famagusta,"1,75m",right,"Aug 4, 2020",FC Barcelona B,€1.00m,,,
+362,1027993,José Antonio de la Rosa,Left Winger,"Jul 28, 2004",18,Spain,Recreativo Huelva,"1,74m",right,"Jan 31, 2022",,€300k,,,
+363,280701,Théo Bongonda,Right Winger,"Nov 20, 1995",27,DR Congo,Spartak Moscow,"1,75m",left,"Aug 4, 2020",KRC Genk,€4.00m,,,
+364,281755,Iván Alejo,Right Winger,"Feb 10, 1995",28,Spain,Cádiz CF,"1,86m",right,"Jul 1, 2023",Getafe CF,€1.20m,,,
+365,121483,Jan Oblak,Goalkeeper,"Jan 7, 1993",30,Slovenia,Atlético de Madrid,"1,88m",right,"Jul 16, 2014",SL Benfica,€35.00m,,,
+366,226073,Ivo Grbic,Goalkeeper,"Jan 18, 1996",27,Croatia,Sheffield United,"1,95m",right,"Aug 20, 2020",NK Lokomotiva Zagreb,€3.50m,,,
+367,618801,Alejandro Iturbe,Goalkeeper,"Sep 2, 2003",19,Spain,Atlético de Madrid B,"1,86m",right,"Apr 25, 2013",,€150k,,,
+368,930415,Antonio Gomis,Goalkeeper,"May 20, 2003",20,Spain,Atlético de Madrid B,"1,91m",left,"Jul 18, 2019",,€150k,,,
+369,973314,Sergio Mestre,Goalkeeper,"Feb 13, 2005",18,Spain,Atlético de Madrid B,"1,93m",right,"Jul 20, 2015",,,,,
+370,250845,José María Giménez,Centre-Back,"Jan 20, 1995",28,Uruguay,Atlético de Madrid,"1,85m",right,"Jul 6, 2022",: Ablöse €995k,€35.00m,Muscle injury - Return unknown,,
+371,281769,Mario Hermoso,Centre-Back,"Jun 18, 1995",28,Spain,Atlético de Madrid,"1,84m",left,"Jul 1, 2019",RCD Espanyol Barcelona,€20.00m,Muscle injury - Return unknown,,
+372,107010,Stefan Savic,Centre-Back,"Jan 8, 1991",32,Montenegro,Atlético de Madrid,"1,87m",right,"Jan 31, 2022",: Ablöse €12.00m,€6.00m,,,
+373,35047,Axel Witsel,Centre-Back,"Jan 12, 1989",34,Belgium,Atlético de Madrid,"1,86m",right,"Jul 7, 2019",Borussia Dortmund,€5.00m,,,
+374,156501,Felipe,Centre-Back,"May 16, 1989",34,Brazil,Nottingham Forest,"1,90m",right,"Aug 30, 2022",FC Porto,€2.00m,,,
+375,534376,Marco Moreno,Centre-Back,"Feb 20, 2001",22,Spain,Atlético de Madrid B,"1,91m",right,"Jul 28, 2022",,€200k,,,
+376,614988,Ilias Kostis,Centre-Back,"Feb 27, 2003",20,Greece,Atlético de Madrid B,"1,88m",left,"Jan 31, 2023",,€100k,"Muscle injury - Return expected on May 8, 2024",,
+377,240692,Reinildo Mandava,Left-Back,"Jan 21, 1994",29,Mozambique,Atlético de Madrid,"1,80m",left,"Nov 3, 2020",LOSC Lille,€25.00m,,,
+378,476352,Renan Lodi,Left-Back,"Apr 8, 1998",25,Brazil,Al-Hilal SFC,"1,73m",left,"Jul 12, 2021",Club Athletico Paranaense,€20.00m,,"Returned after loan spell with Nottingham Forest; date: Jun 30, 2023; fee: End of loan",
+379,282429,Sergio Reguilón,Left-Back,"Dec 16, 1996",26,Spain,Brentford FC,"1,78m",left,"Jul 1, 2019",Tottenham Hotspur,€10.00m,,,
+380,708388,Adrián Corral,Left-Back,"Jan 5, 2003",20,Spain,Rayo Cantabria,"1,83m",left,"Jan 1, 2011",,€50k,,,
+381,424042,Nahuel Molina,Right-Back,"Apr 6, 1998",25,Argentina,Atlético de Madrid,"1,75m",right,"Jul 1, 2013",Udinese Calcio,€35.00m,,,
+382,171679,Matt Doherty,Right-Back,"Jan 16, 1992",31,Ireland,Wolverhampton Wanderers,"1,85m",right,"Jan 23, 2023",Tottenham Hotspur,€5.00m,,,
+383,935456,Sergio Diez,Right-Back,"Jul 28, 2003",19,Spain,Recreativo Huelva,"1,78m",right,"Jul 1, 2018",,€200k,,,
+384,127189,Geoffrey Kondogbia,Defensive Midfield,"Feb 15, 1993",30,Central African Republic,Olympique Marseille,"1,88m",left,"Jul 3, 2019",Valencia CF,€14.00m,,,
+385,255901,Rodrigo de Paul,Central Midfield,"May 24, 1994",29,Argentina,Atlético de Madrid,"1,80m",right,"Sep 8, 2020",Udinese Calcio,€40.00m,,,
+386,282411,Marcos Llorente,Central Midfield,"Jan 30, 1995",28,Spain,Atlético de Madrid,"1,84m",right,"Jan 1, 2015",Real Madrid,€35.00m,,,
+387,74229,Koke,Central Midfield,"Jan 8, 1992",31,Spain,Atlético de Madrid,"1,76m",right,"Aug 25, 2021",: Ablöse -,€16.00m,Team captain,,
+388,148928,Saúl Ñíguez,Central Midfield,"Nov 21, 1994",28,Spain,Atlético de Madrid,"1,84m",left,"Jul 1, 2023",: Ablöse -,€10.00m,,,
+389,775605,Pablo Barrios,Central Midfield,"Jun 15, 2003",20,Spain,Atlético de Madrid,"1,81m",right,"Jul 1, 2020",Atlético de Madrid B,€5.00m,,,
+390,568149,Alberto Moreno,Central Midfield,"Apr 19, 2002",21,Spain,Linares Deportivo,"1,75m",right,"Jan 20, 2023",,€150k,,,
+391,646735,Aitor Gismera,Central Midfield,"Feb 21, 2004",19,Spain,Atlético de Madrid B,,,"Jul 1, 2023",,€150k,,,
+392,226012,David Soria,Goalkeeper,"Apr 4, 1993",30,Spain,Getafe CF,"1,92m",right,"Jul 13, 2018",Sevilla FC,€8.00m,,,
+393,341713,Diego Conde,Goalkeeper,"Oct 28, 1998",24,Spain,CD Leganés,"1,88m",right,"Jul 28, 2021",Atlético de Madrid B,€300k,,,
+394,27486,Kiko Casilla,Goalkeeper,"Oct 2, 1986",36,Spain,Without Club,"1,91m",right,"Aug 10, 2022",Leeds United,€300k,,,
+395,399782,Vicente Bellmunt,Goalkeeper,"Jan 28, 2000",23,Spain,Getafe CF B,,,"Jul 24, 2017",,,,,
+396,221150,Djené,Centre-Back,"Dec 31, 1991",31,Togo,Getafe CF,"1,78m",right,"Jul 1, 2023",Sint-Truidense VV,€5.00m,Team captain,,
+397,577486,Gastón Álvarez,Centre-Back,"Mar 24, 2000",23,Uruguay,Getafe CF,"1,84m",left,"Jul 11, 2022",CA Boston River,€5.00m,,"Joined from CA Boston River; date: Jul 1, 2023; fee: €3.50m",
+398,257376,Domingos Duarte,Centre-Back,"Mar 10, 1995",28,Portugal,Getafe CF,"1,92m",right,"Jul 1, 2023",Granada CF,€5.00m,,,
+399,353032,Omar Alderete,Centre-Back,"Dec 26, 1996",26,Paraguay,Getafe CF,"1,88m",left,"Jul 6, 2021",Hertha BSC,€4.00m,,"Joined from Hertha BSC; date: Jul 1, 2023; fee: €4.00m",
+400,143029,Stefan Mitrovic,Centre-Back,"May 22, 1990",33,Serbia,KAA Gent,"1,89m",right,"Jul 14, 2022",RC Strasbourg Alsace,€2.00m,,,
+401,631093,Álex Revuelta,Centre-Back,"Apr 16, 2000",23,Spain,SE Penya Independent,"1,91m",left,"Sep 1, 2022",,,,,
+402,979355,Pablo Ramirez,Centre-Back,"Mar 18, 2003",20,Spain,CD Leganés B,,,"Jul 1, 2021",,,,,
+403,268506,Fabrizio Angileri,Left-Back,"Mar 15, 1994",29,Argentina,Getafe CF,"1,85m",left,"Jul 8, 2015",CA River Plate,€2.00m,,,
+404,241229,Jordan Amavi,Left-Back,"Mar 9, 1994",29,France,Stade Brestois 29,"1,76m",left,"Aug 11, 2022",Olympique Marseille,€2.00m,,,
+405,809639,Koffi,Left-Back,"Nov 20, 2001",21,Ghana,UD Melilla,,,"Jul 10, 2021",,€200k,,,
+406,1000136,Gorka Rivera,Left-Back,"Aug 1, 2004",18,Spain,Getafe CF B,,,"Jul 1, 2018",,,"Cruciate ligament tear - Return expected on May 5, 2024",,
+407,390688,Juan Iglesias,Right-Back,"Jul 3, 1998",24,Spain,Getafe CF,"1,87m",right,"Jul 16, 2018",Getafe CF B,€3.50m,,,
+408,76746,Damián Suárez,Right-Back,"Apr 27, 1988",35,Uruguay,Botafogo de Futebol e Regatas,"1,73m",right,"Jul 25, 2022",Elche CF,€1.00m,,,
+409,715635,Alex Rodríguez,Right-Back,"Mar 21, 2002",21,Spain,Atlético Sanluqueño,"1,78m",right,"Jan 13, 2023",,€50k,,,
+410,638589,Ángel Algobia,Defensive Midfield,"Jun 23, 1999",24,Spain,Levante UD,"1,80m",right,"Jul 1, 2022",Getafe CF B,€1.50m,Hamstring injury - Return unknown,,
+411,284854,Carles Aleñá,Central Midfield,"Jan 5, 1998",25,Spain,Getafe CF,"1,80m",left,"Jul 1, 2023",FC Barcelona,€9.00m,,,
+412,290249,Mauro Arambarri,Central Midfield,"Sep 30, 1995",27,Uruguay,Getafe CF,"1,75m",right,"Aug 31, 2022",CA Boston River,€9.00m,"Cruciate ligament surgery - Return expected on May 21, 2024",,
+413,273152,Nemanja Maksimovic,Central Midfield,"Jan 26, 1995",28,Serbia,Getafe CF,"1,89m",right,"Aug 12, 2020",Valencia CF,€6.00m,,"Joining: Panathinaikos FC; date: Jul 1, 2024; fee: free transfer",
+414,281989,Luis Milla,Central Midfield,"Oct 7, 1994",28,Spain,Getafe CF,"1,75m",right,"Aug 1, 2022",Granada CF,€4.00m,,,
+415,398163,Gonzalo Villar,Central Midfield,"Mar 23, 1998",25,Spain,Granada CF,"1,81m",right,"Aug 26, 2022",AS Roma,€2.80m,,,
+416,340867,Jaime Seoane,Central Midfield,"Jan 22, 1997",26,Spain,Real Oviedo,"1,77m",right,"Jul 1, 2018",SD Huesca,€2.50m,,,
+417,165467,Stole Dimitrievski,Goalkeeper,"Dec 25, 1993",29,North Macedonia,Rayo Vallecano,"1,88m",right,"Jan 31, 2019",Gimnàstic de Tarragona,€4.00m,,,
+418,607780,Miguel Ángel Morro,Goalkeeper,"Sep 11, 2000",22,Spain,Villarreal CF B,"1,95m",left,"Aug 1, 2020",Rayo Vallecano B,€600k,,,
+419,34370,Diego López,Goalkeeper,"Nov 3, 1981",41,Spain,Retired,"1,96m",right,"Jul 2, 2022",RCD Espanyol Barcelona,€300k,,,
+420,449796,Alejandro Catena,Centre-Back,"Oct 28, 1994",28,Spain,CA Osasuna,"1,94m",right,"Jan 31, 2019",CF Reus Deportiu,€8.00m,,,
+421,127108,Florian Lejeune,Centre-Back,"May 20, 1991",32,France,Rayo Vallecano,"1,90m",right,"Jul 28, 2023",Deportivo Alavés,€4.00m,,"Joined from Deportivo Alavés; date: Jul 28, 2023; fee: €2.50m",
+422,451801,Abdul Mumin,Centre-Back,"Jun 6, 1998",25,Ghana,Rayo Vallecano,"1,88m",right,"Sep 1, 2022",Vitória Guimarães SC,€1.50m,,,
+423,240360,Esteban Saveljich,Centre-Back,"May 20, 1991",32,Montenegro,Burgos CF,"1,87m",right,"Jul 26, 2019",Levante UD,€500k,,,
+424,341264,Fran García,Left-Back,"Aug 14, 1999",23,Spain,Real Madrid,"1,69m",left,"Jul 13, 2021",Real Madrid Castilla,€12.00m,,,
+425,596122,Pep Chavarría,Left-Back,"Apr 10, 1998",25,Spain,Rayo Vallecano,"1,74m",left,"Aug 31, 2022",Real Zaragoza,€1.50m,,,
+426,85295,Iván Balliu,Right-Back,"Jan 1, 1992",31,Albania,Rayo Vallecano,"1,72m",right,"Jul 14, 2021",UD Almería,€4.00m,,,
+427,608531,Mario Hernández,Right-Back,"Jan 25, 1999",24,Spain,Real Oviedo,"1,77m",right,"Jan 1, 2019",Rayo Vallecano B,€600k,,,
+428,37337,Mario Suárez,Defensive Midfield,"Feb 24, 1987",36,Spain,Retired,"1,89m",right,"Jan 31, 2019",Guizhou Hengfeng,€300k,,,
+429,380598,Santi Comesaña,Central Midfield,"Oct 5, 1996",26,Spain,Villarreal CF,"1,88m",both,"Jul 16, 2016",Coruxo FC,€7.50m,,,
+430,517753,Óscar Valentín,Central Midfield,"Aug 20, 1994",28,Spain,Rayo Vallecano,"1,77m",right,"Jul 1, 2019",CF Rayo Majadahonda,€5.00m,Team captain,,
+431,192009,Unai López,Central Midfield,"Oct 30, 1995",27,Spain,Rayo Vallecano,"1,70m",right,"Jul 1, 2022",Athletic Bilbao,€3.50m,,,
+432,525578,Pathé Ciss,Central Midfield,"Mar 16, 1994",29,Senegal,Rayo Vallecano,"1,86m",right,"Jul 28, 2021",CF Fuenlabrada,€3.00m,,,
+433,932349,Diego Méndez,Central Midfield,"Aug 29, 2003",19,Spain,Rayo Vallecano B,"1,82m",right,"Jul 1, 2017",,,,,
+434,30321,Óscar Trejo,Attacking Midfield,"Apr 26, 1988",35,Argentina,Rayo Vallecano,"1,80m",right,"Jul 28, 2021",: Ablöse free transfer,€3.00m,,,
+435,560483,Randy Nteka,Attacking Midfield,"Dec 6, 1997",25,France,Rayo Vallecano,"1,89m",left,"Jul 27, 2018",CF Fuenlabrada,€1.80m,,"Returned after loan spell with Elche CF; date: Jun 30, 2023; fee: End of loan",
+436,195605,José Pozo,Attacking Midfield,"Mar 15, 1996",27,Spain,Rayo Vallecano,"1,71m",left,"Aug 23, 2018",UD Almería,€1.00m,,,
+437,1045767,Pablo Muñoz,Attacking Midfield,"Sep 4, 2003",19,Spain,CD Atlético Baleares,"1,70m",right,"Aug 31, 2018",,,,,
+438,257062,Álvaro García,Left Winger,"Oct 27, 1992",30,Spain,Rayo Vallecano,"1,67m",both,"Jan 23, 2020",Cádiz CF,€6.00m,,,
+439,153427,Bebé,Left Winger,"Jul 12, 1990",32,Cape Verde,Rayo Vallecano,"1,90m",right,"Jul 1, 2022",SD Eibar,€800k,,"Returned after loan spell with Real Zaragoza; date: Jun 30, 2023; fee: End of loan",
+440,362086,Isi Palazón,Right Winger,"Dec 27, 1994",28,Spain,Rayo Vallecano,"1,69m",left,"Aug 17, 2023",SD Ponferradina,€12.00m,,,
+441,246204,Salvi Sánchez,Right Winger,"Mar 30, 1991",32,Spain,RCD Espanyol Barcelona,"1,70m",right,"Sep 13, 2022",Cádiz CF,€1.50m,,,
+442,505674,Sergio Camello,Centre-Forward,"Feb 10, 2001",22,Spain,Rayo Vallecano,"1,82m",right,"Sep 4, 2021",Atlético de Madrid,€10.00m,,"Joined from Atlético de Madrid; date: Aug 17, 2023; fee: €5.00m",
+443,162038,Raúl de Tomás,Centre-Forward,"Oct 17, 1994",28,Spain,Rayo Vallecano,"1,80m",right,"Jul 1, 2019",RCD Espanyol Barcelona,€8.00m,,,
+444,207834,Bono,Goalkeeper,"Apr 5, 1991",32,Morocco,Al-Hilal SFC,"1,92m",left,"Sep 4, 2020",Girona FC,€12.00m,,,
+445,94308,Marko Dmitrovic,Goalkeeper,"Jan 24, 1992",31,Serbia,Sevilla FC,"1,89m",left,"Jul 4, 2021",SD Eibar,€4.00m,,,
+446,766552,Alberto Flores,Goalkeeper,"Nov 10, 2003",19,Spain,Sevilla Atlético,"1,87m",left,"Jul 1, 2023",,€200k,,,
+447,767255,Matías Árbol,Goalkeeper,"Sep 12, 2002",20,Spain,Sevilla Atlético,"1,84m",,"Aug 17, 2022",,€50k,,,
+448,443900,Marius Herzig,Goalkeeper,"Dec 17, 1999",23,Germany,Without Club,"1,88m",,"Jul 8, 2022",,,,,
+449,730581,Loïc Badé,Centre-Back,"Apr 11, 2000",23,France,Sevilla FC,"1,91m",right,"Oct 5, 2020",Stade Rennais FC,€12.00m,Muscle injury - Return unknown,"Joined from Stade Rennais FC; date: Jul 1, 2023; fee: €12.00m",
+450,538996,Tanguy Nianzou,Centre-Back,"Jun 7, 2002",21,France,Sevilla FC,"1,91m",right,"Jul 23, 2019",Bayern Munich,€7.50m,,,
+451,439022,Marcão,Centre-Back,"Jun 5, 1996",27,Brazil,Sevilla FC,"1,85m",left,"Jan 1, 2023",Galatasaray,€7.50m,,,
+452,182579,Karim Rekik,Centre-Back,"Dec 2, 1994",28,Netherlands,Al-Jazira (Abu Dhabi),"1,86m",left,"Sep 14, 2020",Hertha BSC,€4.00m,,,
+453,74294,Nemanja Gudelj,Centre-Back,"Nov 16, 1991",31,Serbia,Sevilla FC,"1,87m",right,"Aug 4, 2022",Guangzhou Evergrande Taobao,€4.00m,,,
+454,766583,Kike Salas,Centre-Back,"Apr 23, 2002",21,Spain,Sevilla FC,"1,88m",left,"Aug 13, 2021",Sevilla Atlético,€1.00m,,"Returned after loan spell with CD Tenerife; date: Jun 30, 2023; fee: End of loan",
+455,60410,Marcos Acuña,Left-Back,"Oct 28, 1991",31,Argentina,Sevilla FC,"1,72m",left,"Jul 1, 2022",Sporting CP,€10.00m,,,
+456,255755,Alex Telles,Left-Back,"Dec 15, 1992",30,Brazil,Al-Nassr FC,"1,81m",left,"Aug 1, 2017",Manchester United,€7.50m,,,
+457,711628,Pablo Pérez,Left-Back,"Aug 18, 2001",21,Spain,Atlético de Madrid B,"1,74m",left,"Jan 30, 2023",,€200k,,,
+458,767229,Diego Hormigo,Left-Back,"Apr 16, 2003",20,Spain,Sevilla Atlético,"1,82m",left,"Jul 12, 2019",,€100k,,,
+459,402733,Gonzalo Montiel,Right-Back,"Jan 1, 1997",26,Argentina,Nottingham Forest,"1,75m",right,"Jul 1, 2019",: Ablöse €11.00m,€12.00m,,,
+460,711625,José Ángel Carmona,Right-Back,"Jan 29, 2002",21,Spain,Getafe CF,"1,84m",right,"Jul 15, 2019",Sevilla Atlético,€4.00m,,,
+461,15956,Jesús Navas,Right-Back,"Nov 21, 1985",37,Spain,Sevilla FC,"1,70m",right,"Sep 1, 2020",Manchester City,€3.00m,Team captain,,
+462,485963,Pape Gueye,Defensive Midfield,"Jan 24, 1999",24,Senegal,Olympique Marseille,"1,89m",left,"Aug 25, 2021",Olympique Marseille,€10.00m,No eligibility -  - UEFA Europa League,,
+463,51174,Fernando,Defensive Midfield,"Jul 25, 1987",35,Brazil,Sport Club Internacional,"1,83m",right,"Aug 7, 2022",Galatasaray,€3.00m,,,
+464,610238,Pedro Ortiz,Defensive Midfield,"Aug 19, 2000",22,Spain,FC Vizela,"1,84m",left,"Jul 3, 2019",,€200k,,,
+465,263727,Joan Jordán,Central Midfield,"Jul 6, 1994",28,Spain,Sevilla FC,"1,85m",right,"Jan 26, 2021",SD Eibar,€9.00m,,,
+466,214775,Óliver Torres,Central Midfield,"Nov 10, 1994",28,Spain,Sevilla FC,"1,75m",right,"Jan 30, 2023",FC Porto,€9.00m,,,
+467,32467,Ivan Rakitic,Central Midfield,"Mar 10, 1988",35,Croatia,Al-Shabab FC,"1,84m",right,"Jul 26, 2021",FC Barcelona,€4.00m,,,
+468,91849,Thomas Delaney,Central Midfield,"Sep 3, 1991",31,Denmark,RSC Anderlecht,"1,82m",left,"Jan 14, 2022",Borussia Dortmund,€2.00m,,,
+469,766723,Manu Bueno,Central Midfield,"Jul 27, 2004",18,Spain,Sevilla Atlético,"1,78m",left,"Aug 31, 2022",,€300k,,,
+470,569876,Xavi Sintes,Central Midfield,"Aug 5, 2001",21,Spain,Sevilla Atlético,"1,90m",right,"Jul 21, 2020",,€150k,,,
+471,85288,Isco,Attacking Midfield,"Apr 21, 1992",31,Spain,Real Betis Balompié,"1,76m",right,"Jan 11, 2019",Real Madrid,€5.00m,,,
+472,668179,Carlos Álvarez,Attacking Midfield,"Aug 6, 2003",19,Spain,Levante UD,"1,68m",left,"Jan 16, 2020",,€400k,,,
+473,536826,Nacho Quintana,Attacking Midfield,"Feb 23, 2001",22,Spain,CD Lugo,"1,78m",right,"Aug 20, 2021",,€200k,,,
+474,189441,Lucas Ocampos,Left Winger,"Jul 11, 1994",28,Argentina,Sevilla FC,"1,87m",both,"Sep 1, 2022",Olympique Marseille,€12.00m,,,
+475,20005,Papu Gómez,Left Winger,"Feb 15, 1988",35,Argentina,AC Monza,"1,67m",right,"Jul 1, 2022",Atalanta BC,€3.00m,"Doping ban - until Oct 19, 2025 - cross-competition",,
+476,195488,Paulo Gazzaniga,Goalkeeper,"Jan 2, 1992",31,Argentina,Girona FC,"1,95m",right,"Jul 1, 2023",Fulham FC,€3.00m,,"Joined from Fulham FC; date: Jul 1, 2023; fee: free transfer",
+477,120705,Juan Carlos,Goalkeeper,"Jan 20, 1988",35,Spain,Girona FC,"1,87m",,"Jul 1, 2019",CD Lugo,€300k,,,
+478,623526,Toni Fuidias,Goalkeeper,"Apr 15, 2001",22,Spain,Girona FC,"1,95m",right,"Sep 1, 2022",Real Madrid Castilla,€300k,,,
+479,1006551,Lluc Matas,Goalkeeper,"Jul 5, 2003",19,Spain,UD Ibiza,,,"Aug 19, 2019",,,,,
+480,438001,Santiago Bueno,Centre-Back,"Nov 9, 1998",24,Uruguay,Wolverhampton Wanderers,"1,90m",right,"Jul 25, 2022",FC Barcelona B,€8.00m,,,
+481,129444,David López,Centre-Back,"Oct 9, 1989",33,Spain,Girona FC,"1,85m",right,"Jan 23, 2023",RCD Espanyol Barcelona,€2.00m,,,
+482,147462,Alexander Callens,Centre-Back,"May 4, 1992",31,Peru,AEK Athens,"1,86m",left,"Jul 7, 2017",New York City FC,€1.80m,,,
+483,64598,Bernardo Espinosa,Centre-Back,"Jul 11, 1989",33,Colombia,Atlético Nacional,"1,92m",right,"Jul 7, 2016",Middlesbrough FC,€1.50m,,,
+484,115333,Juanpe,Centre-Back,"Apr 30, 1991",32,Spain,Girona FC,"1,90m",right,"Aug 5, 2022",Granada CF,€1.50m,,,
+485,787154,Eric Monjonell,Centre-Back,"Dec 6, 2001",21,Spain,UD Ibiza,"1,87m",right,"Aug 19, 2022",,€300k,,,
+486,633167,Biel Farrés,Centre-Back,"May 1, 2002",21,Spain,Girona FC B,"1,80m",right,"Apr 1, 2021",,,,,
+487,525299,Miguel Gutiérrez,Left-Back,"Jul 27, 2001",21,Spain,Girona FC,"1,80m",left,"Jul 25, 2022",Real Madrid,€10.00m,,,
+488,422466,Javi Hernández,Left-Back,"May 2, 1998",25,Spain,Cádiz CF,"1,85m",left,"Sep 1, 2022",CD Leganés,€2.50m,,,
+489,826224,Arnau Martínez,Right-Back,"Apr 25, 2003",20,Spain,Girona FC,"1,82m",right,"Nov 1, 2020",Girona FC B,€15.00m,,,
+490,627228,Yan Couto,Right-Back,"Jun 3, 2002",21,Brazil,Girona FC,"1,68m",right,"Jul 1, 2020",Manchester City,€4.00m,,"On loan from Manchester City until Jun 30, 2024",
+491,66100,Oriol Romeu,Defensive Midfield,"Sep 24, 1991",31,Spain,FC Barcelona,"1,83m",right,"Jul 23, 2021",Southampton FC,€5.00m,,,
+492,783396,Ramón Terrats,Defensive Midfield,"Oct 18, 2000",22,Spain,Villarreal CF,"1,81m",left,"Jul 14, 2023",Girona FC B,€4.00m,"Meniscus injury - Return expected on Apr 17, 2024","Returned after loan spell with Villarreal CF; date: Jun 30, 2023; fee: End of loan",
+493,785967,Ibrahima Kébé,Defensive Midfield,"Aug 2, 2000",22,Mali,CD Mirandés,"1,86m",right,"Jul 11, 2022",Girona FC B,€500k,,,
+494,261504,Aleix García,Central Midfield,"Jun 28, 1997",26,Spain,Girona FC,"1,73m",right,"Jul 22, 2023",SD Eibar,€10.00m,,,
+495,378293,Yangel Herrera,Central Midfield,"Jan 7, 1998",25,Venezuela,Girona FC,"1,84m",right,"Aug 19, 2022",Manchester City,€5.00m,unknown injury - Return unknown,"Joined from Manchester City; date: Jul 14, 2023; fee: €5.00m",
+496,582664,Álex Sala,Central Midfield,"Apr 9, 2001",22,Spain,Córdoba CF,"1,85m",right,"Sep 3, 2021",Girona FC B,€200k,,,
+497,341278,Iván Martín,Attacking Midfield,"Feb 14, 1999",24,Spain,Girona FC,"1,78m",left,"Jul 18, 2019",Villarreal CF,€3.00m,,"Joined from Villarreal CF; date: Jul 22, 2023; fee: €2.00m",
+498,627226,Reinier,Attacking Midfield,"Jan 19, 2002",21,Brazil,Frosinone Calcio,"1,85m",right,"Aug 1, 2022",Real Madrid,€2.00m,,,
+499,67808,Borja García,Attacking Midfield,"Nov 2, 1990",32,Spain,Girona FC,"1,75m",right,"Sep 1, 2022",SD Huesca,€1.00m,,,
+500,131506,Samu Saiz,Attacking Midfield,"Jan 22, 1991",32,Spain,Eyüpspor,"1,74m",right,"Jul 1, 2022",Leeds United,€900k,,,
+501,906025,Ricard Artero,Attacking Midfield,"Feb 5, 2003",20,Spain,Girona FC B,"1,81m",right,"Jan 17, 2023",,,,,
+502,461617,Rodrigo Riquelme,Left Winger,"Apr 2, 2000",23,Spain,Atlético de Madrid,"1,74m",right,"Jan 1, 2019",Atlético de Madrid,€12.00m,,,
+503,337066,Toni Villa,Left Winger,"Jan 7, 1995",28,Spain,Girona FC,"1,72m",right,"Sep 1, 2022",Real Valladolid CF,€2.50m,,,
+504,921734,Óscar Ureña,Left Winger,"May 31, 2003",20,Dominican Republic,CD Leganés,"1,71m",right,"Jul 25, 2022",Girona FC B,€400k,,,
+505,895326,Joel Roca,Left Winger,"Jun 7, 2005",18,Spain,Girona FC B,"1,76m",right,"Jul 21, 2017",,,,,
+506,264372,Viktor Tsygankov,Right Winger,"Nov 15, 1997",25,Ukraine,Girona FC,"1,78m",left,"Jul 1, 2022",Dynamo Kyiv,€22.00m,,,
+507,212862,Álex Remiro,Goalkeeper,"Mar 24, 1995",28,Spain,Real Sociedad,"1,91m",right,"Jul 1, 2019",Athletic Bilbao,€25.00m,,,
+508,428948,Andoni Zubiaurre,Goalkeeper,"Dec 4, 1996",26,Spain,CD Mirandés,"1,89m",left,"Jul 1, 2022",Real Sociedad B,€300k,,,
+509,625657,Unai Marrero,Goalkeeper,"Oct 9, 2001",21,Spain,Real Sociedad,"1,89m",right,"Jul 1, 2023",Real Sociedad B,€250k,,"Internal transfer: Real Sociedad B; date: Jul 1, 2023",
+510,711367,Egoitz Arana,Goalkeeper,"Feb 19, 2002",21,Spain,San Fernando CD,"1,97m",left,"Jul 1, 2019",,€50k,,,
+511,351809,Robin Le Normand,Centre-Back,"Nov 11, 1996",26,Spain,Real Sociedad,"1,87m",right,"Jul 1, 2017",Real Sociedad B,€35.00m,,,
+512,355628,Igor Zubeldia,Centre-Back,"Mar 30, 1997",26,Spain,Real Sociedad,"1,81m",right,"Jan 4, 2016",Real Sociedad B,€15.00m,,,
+513,229804,Aritz Elustondo,Centre-Back,"Mar 28, 1994",29,Spain,Real Sociedad,"1,80m",right,"Jul 1, 2022",Real Sociedad B,€14.00m,,,
+514,580560,Jon Pacheco,Centre-Back,"Jan 8, 2001",22,Spain,Real Sociedad,"1,84m",left,"Jul 1, 2019",Real Sociedad B,€6.00m,,,
+515,434602,Aritz Arambarri,Centre-Back,"Jan 31, 1998",25,Spain,CD Leganés,"1,86m",right,"Jul 26, 2021",,€500k,,,
+516,517842,Aihen Muñoz,Left-Back,"Aug 16, 1997",25,Spain,Real Sociedad,"1,75m",left,"Jul 1, 2018",Real Sociedad B,€6.00m,"Cruciate ligament tear - Return expected on Aug 21, 2024",,
+517,249513,Diego Rico,Left-Back,"Feb 23, 1993",30,Spain,Getafe CF,"1,83m",left,"Sep 10, 2020",AFC Bournemouth,€3.00m,,,
+518,674501,Jonathan Gómez,Left-Back,"Sep 1, 2003",19,United States,CD Mirandés,"1,78m",left,"Aug 26, 2015",,€500k,,,
+519,289255,Andoni Gorosabel,Right-Back,"Aug 4, 1996",26,Spain,Deportivo Alavés,"1,74m",right,"Jul 1, 2023",Real Sociedad B,€9.00m,,,
+520,423440,Martín Zubimendi,Defensive Midfield,"Feb 2, 1999",24,Spain,Real Sociedad,"1,81m",right,"Jul 12, 2018",Real Sociedad B,€40.00m,,,
+521,59344,Asier Illarramendi,Defensive Midfield,"Mar 8, 1990",33,Spain,FC Dallas,"1,79m",right,"Jul 1, 2019",Real Madrid,€2.00m,,,
+522,625651,Urko González de Zarate,Defensive Midfield,"Mar 20, 2001",22,Spain,Real Sociedad,"1,89m",right,"Aug 7, 2022",Real Sociedad B,€700k,,"Internal transfer: Real Sociedad B; date: Jul 1, 2023",
+523,338424,Mikel Merino,Central Midfield,"Jun 22, 1996",27,Spain,Real Sociedad,"1,89m",left,"Jul 1, 2023",Newcastle United,€50.00m,,,
+524,465967,Ander Guevara,Central Midfield,"Jul 7, 1997",25,Spain,Deportivo Alavés,"1,80m",right,"Jul 6, 2022",Real Sociedad B,€2.50m,,,
+525,634431,Beñat Turrientes,Central Midfield,"Jan 31, 2002",21,Spain,Real Sociedad,"1,81m",right,"Aug 17, 2020",Real Sociedad B,€2.00m,,,
+526,625660,Jon Ander Olasagasti,Central Midfield,"Aug 16, 2000",22,Spain,Real Sociedad,"1,76m",left,"Aug 7, 2022",Real Sociedad B,€1.00m,,"Internal transfer: Real Sociedad B; date: Jul 1, 2023",
+527,309110,Brais Méndez,Attacking Midfield,"Jan 7, 1997",26,Spain,Real Sociedad,"1,84m",left,"Jan 1, 2016",Celta de Vigo,€25.00m,"Metatarsal fracture - Return expected on Jun 30, 2024",,
+528,35518,David Silva,Attacking Midfield,"Jan 8, 1986",37,Spain,Retired,"1,70m",left,"Jul 1, 2022",Manchester City,€4.00m,,,
+529,563137,Robert Navarro,Attacking Midfield,"Apr 12, 2002",21,Spain,Cádiz CF,"1,78m",right,"Jul 1, 2019",Real Sociedad B,€3.00m,,,
+530,907813,Pablo Marín,Attacking Midfield,"Jul 3, 2003",19,Spain,Real Sociedad B,"1,78m",right,"Aug 14, 2018",,€1.00m,,,
+531,625655,Jon Magunazelaia,Attacking Midfield,"Jul 13, 2001",21,Spain,Real Sociedad B,"1,80m",right,"Jul 19, 2022",,€700k,,,
+532,351478,Mikel Oyarzabal,Left Winger,"Apr 21, 1997",26,Spain,Real Sociedad,"1,81m",left,"Jul 1, 2022",Real Sociedad B,€40.00m,Team captain,,
+533,670847,Mohamed-Ali Cho,Left Winger,"Jan 19, 2004",19,France,OGC Nice,"1,82m",left,"Jul 1, 2019",Angers SCO,€12.00m,,,
+534,616369,Ander Barrenetxea,Left Winger,"Dec 27, 2001",21,Spain,Real Sociedad,"1,75m",right,"Sep 1, 2022",Real Sociedad B,€6.00m,,,
+535,289272,Martín Merquelanz,Left Winger,"Jun 12, 1995",28,Spain,Real Sociedad,"1,76m",left,"Aug 29, 2022",Real Sociedad B,€800k,"No eligibility - until Jun 30, 2024 - cross-competition",,
+536,405398,Takefusa Kubo,Right Winger,"Jun 4, 2001",22,Japan,Real Sociedad,"1,73m",left,"Jul 1, 2022",Real Madrid,€25.00m,,,
+537,434990,Álex Sola,Right Winger,"Jun 9, 1999",24,Spain,Deportivo Alavés,"1,78m",right,"Jan 24, 2021",Real Sociedad B,€3.00m,,,
+538,172015,Fernando Pacheco,Goalkeeper,"May 18, 1992",31,Spain,RCD Espanyol Barcelona,"1,87m",left,"Aug 10, 2022",Deportivo Alavés,€2.50m,,,
+539,81997,Fernando Martínez,Goalkeeper,"Jun 10, 1990",33,Spain,UD Almería,"1,83m",right,"Jul 5, 2017",UCAM Murcia CF,€2.00m,,,
+540,59349,Diego Mariño,Goalkeeper,"May 9, 1990",33,Spain,UD Almería,"1,85m",right,"Jan 26, 2023",Sporting Gijón,€300k,,,
+541,531274,Diego Fuoli,Goalkeeper,"Oct 20, 1997",25,Spain,San Fernando CD,"1,88m",right,"Jul 1, 2022",UD Almería B,€200k,,,
+542,222805,Srdjan Babic,Centre-Back,"Apr 22, 1996",27,Serbia,Spartak Moscow,"1,94m",left,"Jul 1, 2022",Red Star Belgrade,€3.50m,,,
+543,743589,Kaiky,Centre-Back,"Jan 12, 2004",19,Brazil,Albacete Balompié,"1,82m",right,"Jul 19, 2022",Santos FC,€3.00m,,,
+544,176140,Rodrigo Ely,Centre-Back,"Nov 3, 1993",29,Brazil,Grêmio Foot-Ball Porto Alegrense,"1,88m",right,"Mar 7, 2022",Without Club,€3.00m,,,
+545,333361,Chumi,Centre-Back,"Mar 2, 1999",24,Spain,UD Almería,"1,83m",right,"Sep 10, 2020",FC Barcelona B,€2.00m,,,
+546,355627,Sergio Akieme,Left-Back,"Dec 16, 1997",25,Spain,Stade Reims,"1,75m",left,"Jul 7, 2021",FC Barcelona B,€7.50m,,,
+547,423443,Álex Centelles,Left-Back,"Aug 30, 1999",23,Spain,UD Almería,"1,85m",left,"Oct 2, 2020",Valencia CF,€1.50m,,,
+548,341272,Alejandro Pozo,Right-Back,"Feb 22, 1999",24,Spain,UD Almería,"1,72m",right,"Jul 1, 2022",Sevilla FC,€3.00m,,,
+549,442552,Houboulang Mendes,Right-Back,"May 4, 1998",25,Guinea-Bissau,CD Mirandés,"1,85m",right,"Jul 6, 2022",FC Lorient,€2.00m,,,
+550,657430,Samú Costa,Defensive Midfield,"Nov 27, 2000",22,Portugal,RCD Mallorca,"1,85m",left,"Jul 1, 2021",SC Braga,€5.00m,,,
+551,89731,Iñigo Eguaras,Defensive Midfield,"Mar 7, 1992",31,Spain,Without Club,"1,81m",right,"Jan 21, 2022",Real Zaragoza,€1.20m,,,
+552,457221,Lucas Robertone,Central Midfield,"Mar 18, 1997",26,Argentina,UD Almería,"1,69m",right,"Oct 1, 2020",CA Vélez Sarsfield,€7.00m,,,
+553,162056,Gonzalo Melero,Central Midfield,"Jan 2, 1994",29,Spain,UD Almería,"1,83m",right,"Sep 1, 2022",Levante UD,€4.00m,,,
+554,536030,Arnau Puigmal,Central Midfield,"Jan 10, 2001",22,Spain,Elche CF,"1,73m",right,"Jul 9, 2021",Manchester United U23,€2.00m,,,
+555,696506,Gui Guedes,Central Midfield,"Apr 17, 2002",21,Portugal,FC Porto B,"1,84m",right,"Jul 1, 2022",Vitória Guimarães SC,€1.20m,,,
+556,226261,César de la Hoz,Central Midfield,"Mar 30, 1992",31,Spain,Real Valladolid CF,"1,79m",right,"Jul 4, 2018",: Ablöse free transfer,€1.20m,,,
+557,630523,Martin Svidersky,Central Midfield,"Oct 4, 2002",20,Slovakia,Real Murcia CF,"1,81m",left,"Aug 24, 2020",,€500k,,,
+558,1064121,Marcos Peña,Central Midfield,"Jan 22, 2005",18,Spain,UD Almería B,,,"Sep 1, 2022",,,,,
+559,518644,Largie Ramazani,Left Winger,"Feb 27, 2001",22,Belgium,UD Almería,"1,68m",right,"Jul 1, 2020",Manchester United U23,€6.00m,,,
+560,574772,Lázaro,Left Winger,"Mar 12, 2002",21,Brazil,Sociedade Esportiva Palmeiras,"1,81m",right,"Aug 24, 2022",CR Flamengo,€6.00m,,,
+561,282410,José Carlos Lazo,Left Winger,"Feb 16, 1996",27,Spain,RCD Espanyol Barcelona,"1,78m",both,"Jul 22, 2021",Getafe CF,€2.50m,,,
+562,288318,Adrián Embarba,Right Winger,"May 7, 1992",31,Spain,UD Almería,"1,73m",right,"Jul 10, 2021",RCD Espanyol Barcelona,€2.50m,,,
+563,138803,Francisco Portillo,Right Winger,"Jun 13, 1990",33,Spain,CD Leganés,"1,69m",right,"Sep 2, 2019",Getafe CF,€1.50m,,,
+564,208116,Curro Sánchez,Right Winger,"Jan 3, 1996",27,Spain,Burgos CF,"1,76m",left,"Oct 5, 2020",SD Ponferradina,€1.00m,,,
+565,433257,Arvin Appiah,Right Winger,"Jan 5, 2001",22,England,Rotherham United,"1,77m",left,"Sep 1, 2022",Nottingham Forest,€500k,,,
+566,628473,Carlos Rojas,Right Winger,"Apr 18, 2002",21,Spain,Real Murcia CF,"1,76m",right,"Jul 1, 2023",,,,,
+567,337715,Umar Sadiq,Centre-Forward,"Feb 2, 1997",26,Nigeria,Real Sociedad,"1,91m",right,"Aug 11, 2022",FK Partizan Belgrade,€18.00m,,,
+568,649016,El Bilal Touré,Centre-Forward,"Oct 3, 2001",21,Mali,Atalanta BC,"1,85m",both,"Jul 11, 2022",Stade Reims,€12.00m,,,
+569,424784,Luis Suárez,Centre-Forward,"Dec 2, 1997",25,Colombia,UD Almería,"1,81m",right,"Aug 31, 2021",Olympique Marseille,€8.00m,,"Joined from Olympique Marseille; date: Jul 1, 2023; fee: €8.00m",
+570,221899,Léo Baptistão,Centre-Forward,"Aug 26, 1992",30,Brazil,UD Almería,"1,83m",right,"Oct 1, 2023",Santos FC,€1.80m,,,
+571,262396,Unai Simón,Goalkeeper,"Jun 11, 1997",26,Spain,Athletic Bilbao,"1,90m",right,"Jul 1, 2018",Bilbao Athletic,€25.00m,,,
+572,625014,Julen Agirrezabala,Goalkeeper,"Dec 26, 2000",22,Spain,Athletic Bilbao,"1,87m",left,"Jul 1, 2022",Bilbao Athletic,€5.00m,,,
+573,668278,Ibon Ispizua,Goalkeeper,"Apr 8, 2003",20,Spain,CD Vitoria,"1,85m",right,"Jul 1, 2022",,€100k,,,
+574,480958,Ander Iru,Goalkeeper,"Aug 22, 1998",24,Spain,SD Logroñés,"1,88m",left,"Jul 1, 2016",Bilbao Athletic,€100k,,,
+575,255488,Yeray Álvarez,Centre-Back,"Jan 24, 1995",28,Spain,Athletic Bilbao,"1,82m",right,"Aug 1, 2020",Bilbao Athletic,€15.00m,,,
+576,524000,Dani Vivian,Centre-Back,"Jul 5, 1999",23,Spain,Athletic Bilbao,"1,84m",right,"Jan 30, 2018",Bilbao Athletic,€14.00m,,,
+577,158863,Iñigo Martínez,Centre-Back,"May 17, 1991",32,Spain,FC Barcelona,"1,82m",left,"Jul 1, 2022",Real Sociedad,€10.00m,"Yellow card suspension - until Apr 14, 2024 - LaLiga - 1 matchday",,
+578,591916,Aitor Paredes,Centre-Back,"Apr 29, 2000",23,Spain,Athletic Bilbao,"1,85m",right,"Jul 2, 2018",Bilbao Athletic,€1.00m,,,
+579,61812,Yuri Berchiche,Left-Back,"Feb 10, 1990",33,Spain,Athletic Bilbao,"1,81m",left,"Jul 1, 2013",Paris Saint-Germain,€2.00m,,,
+580,85258,Mikel Balenziaga,Left-Back,"Feb 29, 1988",35,Spain,Deportivo de La Coruña,"1,77m",left,"Jul 1, 2016",: Ablöse €500k,€500k,,,
+581,255501,Iñigo Lekue,Right-Back,"May 4, 1993",30,Spain,Athletic Bilbao,"1,80m",right,"Jul 1, 2009",Bilbao Athletic,€3.00m,,,
+582,96718,Óscar de Marcos,Right-Back,"Apr 14, 1989",34,Spain,Athletic Bilbao,"1,82m",right,"Jul 1, 2018",Deportivo Alavés,€1.80m,,,
+583,197545,Ander Capa,Right-Back,"Feb 8, 1992",31,Spain,Levante UD,"1,75m",right,"Jul 1, 2016",SD Eibar,€1.80m,,,
+584,300168,Mikel Vesga,Defensive Midfield,"Apr 8, 1993",30,Spain,Athletic Bilbao,"1,91m",left,"Jul 1, 2019",Bilbao Athletic,€6.00m,,,
+585,447052,Peru Nolaskoain,Defensive Midfield,"Oct 25, 1998",24,Spain,SD Eibar,"1,86m",right,"Aug 1, 2020",Bilbao Athletic,€1.00m,,"Returned after loan spell with SD Eibar; date: Jun 30, 2023; fee: End of loan",
+586,610083,Unai Vencedor,Central Midfield,"Nov 15, 2000",22,Spain,SD Eibar,"1,76m",right,"Feb 1, 2021",Bilbao Athletic,€9.00m,,,
+587,524010,Oier Zarraga,Central Midfield,"Jan 4, 1999",24,Spain,Udinese Calcio,"1,75m",right,"Jan 31, 2023",Bilbao Athletic,€3.00m,,,
+588,99343,Ander Herrera,Central Midfield,"Aug 14, 1989",33,Spain,Athletic Bilbao,"1,82m",right,"Jul 1, 2018",Paris Saint-Germain,€2.50m,,,
+589,178425,Dani García,Central Midfield,"May 24, 1990",33,Spain,Athletic Bilbao,"1,79m",right,"Aug 4, 2020",SD Eibar,€2.00m,,,
+590,938734,Junior Bita,Central Midfield,"Jun 8, 2005",18,Spain,Bilbao Athletic,"1,82m",right,"Jul 1, 2009",,€50k,,,
+591,571020,Oihan Sancet,Attacking Midfield,"Apr 25, 2000",23,Spain,Athletic Bilbao,"1,88m",right,"Jul 1, 2023",Bilbao Athletic,€30.00m,,,
+592,54235,Iker Muniain,Attacking Midfield,"Dec 19, 1992",30,Spain,Athletic Bilbao,"1,69m",right,"Jul 1, 2021",Bilbao Athletic,€9.00m,Team captain,,
+593,834752,Unai Gómez,Attacking Midfield,"May 25, 2003",20,Spain,Athletic Bilbao,"1,83m",left,"Oct 2, 2020",Bilbao Athletic,€100k,,"Internal transfer: Bilbao Athletic; date: Jul 1, 2023",
+594,709187,Nico Williams,Left Winger,"Jul 12, 2002",20,Spain,Athletic Bilbao,"1,81m",right,"Aug 1, 2020",Bilbao Athletic,€30.00m,,,
+595,338425,Álex Berenguer,Left Winger,"Jul 4, 1995",27,Spain,Athletic Bilbao,"1,75m",right,"Jul 1, 2023",Torino FC,€15.00m,,,
+596,455349,Jon Morcillo,Left Winger,"Sep 15, 1998",24,Spain,SD Amorebieta,"1,83m",left,"Jul 1, 2015",Bilbao Athletic,€3.00m,,,
+597,895480,Adu Ares,Left Winger,"Oct 12, 2001",21,Spain,Athletic Bilbao,"1,83m",right,"Jul 1, 2019",Bilbao Athletic,€500k,,"Internal transfer: Bilbao Athletic; date: Jul 1, 2023",
+598,255508,Iñaki Williams,Right Winger,"Jun 15, 1994",29,Ghana,Athletic Bilbao,"1,86m",right,"Aug 30, 2015",Bilbao Athletic,€25.00m,,,
+599,251897,Asier Villalibre,Centre-Forward,"Sep 30, 1997",25,Spain,Athletic Bilbao,"1,82m",left,"Jul 3, 2022",Bilbao Athletic,€2.50m,,"Returned after loan spell with Deportivo Alavés; date: Jun 30, 2023; fee: End of loan",
+600,54534,Agustín Marchesín,Goalkeeper,"Mar 16, 1988",35,Argentina,Grêmio Foot-Ball Porto Alegrense,"1,88m",right,"Aug 1, 2022",FC Porto,€2.00m,,,
+601,297194,Iván Villar,Goalkeeper,"Jul 9, 1997",25,Spain,Celta de Vigo,"1,86m",right,"Jul 1, 2019",Celta Vigo B,€2.00m,,,
+602,531373,Christian Joel,Goalkeeper,"Jul 9, 1999",23,Cuba,Sporting Gijón,"1,93m",left,"Feb 8, 2023",,€500k,,,
+603,42373,Diego Alves,Goalkeeper,"Jun 24, 1985",38,Brazil,Without Club,"1,87m",left,"Jul 11, 2019",Without Club,€300k,Knee problems - Return unknown,,
+604,581640,Coke Carrillo,Goalkeeper,"Jan 7, 2002",21,Spain,RC Celta Fortuna,"1,88m",right,"Jul 20, 2022",,€100k,,,
+605,577869,Ruly García,Goalkeeper,"Jan 27, 2000",23,Spain,RC Celta Fortuna,"1,88m",left,"Jan 1, 2023",,€50k,,,
+606,358250,Joseph Aidoo,Centre-Back,"Sep 29, 1995",27,Ghana,Celta de Vigo,"1,81m",right,"Jul 31, 2021",KRC Genk,€8.00m,"Achilles tendon surgery - Return expected on May 1, 2024",,
+607,338285,Unai Núñez,Centre-Back,"Jan 30, 1997",26,Spain,Celta de Vigo,"1,86m",right,"Jul 1, 2009",Athletic Bilbao,€6.00m,,"On loan from Athletic Bilbao until Jun 30, 2024",
+608,636093,Carlos Domínguez,Centre-Back,"Feb 11, 2001",22,Spain,Celta de Vigo,"1,87m",left,"Jul 30, 2022",Celta Vigo B,€800k,,,
+609,562058,Sergio Barcia,Centre-Back,"Dec 31, 2000",22,Spain,CD Mirandés,"1,86m",right,"Jul 1, 2018",,€300k,,,
+610,625882,Javi Domínguez,Centre-Back,"Mar 26, 2001",22,Spain,RC Celta Fortuna,"1,95m",,"Aug 4, 2020",,€200k,,,
+611,448628,Javi Galán,Left-Back,"Nov 19, 1994",28,Spain,Real Sociedad,"1,72m",left,"Jul 1, 2022",SD Huesca,€12.00m,,,
+612,461619,Fernando Medrano,Left-Back,"Mar 26, 2000",23,Spain,CD Tenerife,"1,72m",left,"Aug 1, 2018",,€200k,,,
+613,933350,Martín Conde,Left-Back,"Mar 25, 2003",20,Spain,RC Celta Fortuna,,,"Jul 8, 2022",,€150k,,,
+614,119905,Hugo Mallo,Right-Back,"Jun 22, 1991",32,Spain,Sport Club Internacional,"1,73m",right,"Jul 1, 2023",Celta de Vigo U19,€3.00m,,,
+615,331505,Óscar Mingueza,Right-Back,"May 13, 1999",24,Spain,Celta de Vigo,"1,84m",right,"Jul 8, 2022",FC Barcelona,€2.50m,,,
+616,221315,Kevin Vázquez,Right-Back,"Mar 23, 1993",30,Spain,Celta de Vigo,"1,75m",right,"Jul 1, 2022",Celta Vigo B,€1.00m,,,
+617,277137,Renato Tapia,Defensive Midfield,"Jul 28, 1995",27,Peru,Celta de Vigo,"1,85m",right,"Aug 15, 2020",Feyenoord Rotterdam,€6.00m,Thigh problems - Return unknown,,
+618,699704,Gabri Veiga,Central Midfield,"May 27, 2002",21,Spain,Al-Ahli SFC,"1,85m",right,"Jul 5, 2021",Celta Vigo B,€30.00m,Injury to the ankle - Return unknown,,
+619,423444,Fran Beltrán,Central Midfield,"Feb 3, 1999",24,Spain,Celta de Vigo,"1,65m",right,"Jul 1, 2023",: Ablöse €8.00m,€15.00m,,,
+620,315762,Luca de la Torre,Central Midfield,"May 23, 1998",25,United States,Celta de Vigo,"1,77m",right,"Jan 23, 2021",Heracles Almelo,€3.00m,,,
+621,892221,Hugo Sotelo,Central Midfield,"Dec 19, 2003",19,Spain,Celta de Vigo,"1,80m",,"Jan 1, 2023",RC Celta Fortuna,€150k,,"Internal transfer: RC Celta Fortuna; date: Jul 1, 2023",
+622,284884,Óscar Rodríguez,Attacking Midfield,"Jun 28, 1998",25,Spain,Getafe CF,"1,74m",right,"Sep 1, 2022",Sevilla FC,€8.00m,,,
+623,764859,Williot Swedberg,Attacking Midfield,"Feb 1, 2004",19,Sweden,Celta de Vigo,"1,87m",right,"Jul 7, 2015",Hammarby IF,€3.00m,Foot injury - Return unknown,,
+624,523977,Miguel Baeza,Attacking Midfield,"Mar 27, 2000",23,Spain,CD Mirandés,"1,77m",left,"Jan 31, 2023",Real Madrid Castilla,€900k,"Cruciate ligament tear - Return expected on May 21, 2024",,
+625,341110,Franco Cervi,Left Winger,"May 26, 1994",29,Argentina,Celta de Vigo,"1,66m",left,"Aug 6, 2022",SL Benfica,€3.00m,,,
+626,229604,Gerónimo Rulli,Goalkeeper,"May 20, 1992",31,Argentina,Ajax Amsterdam,"1,89m",right,"Sep 4, 2020",Real Sociedad,€10.00m,,,
+627,585323,Filip Jørgensen,Goalkeeper,"Apr 16, 2002",21,Denmark,Villarreal CF,"1,90m",right,"Jan 5, 2023",Villarreal CF B,€1.50m,,,
+628,7825,Pepe Reina,Goalkeeper,"Aug 31, 1982",40,Spain,Villarreal CF,"1,88m",right,"Jul 8, 2022",SS Lazio,€700k,,,
+629,547248,Iker Álvarez,Goalkeeper,"Jul 25, 2001",21,Andorra,Villarreal CF B,"1,90m",right,"Jul 1, 2018",,€500k,,,
+630,335247,Gianni Cassaro,Goalkeeper,"Apr 10, 1992",31,Spain,Real Murcia CF,"1,92m",right,"Sep 21, 2020",,€100k,,,
+631,399776,Pau Torres,Centre-Back,"Jan 16, 1997",26,Spain,Aston Villa,"1,92m",left,"Jul 1, 2021",Villarreal CF B,€45.00m,,,
+632,494880,Jorge Cuenca,Centre-Back,"Nov 17, 1999",23,Spain,Villarreal CF,"1,90m",left,"Jul 4, 2019",FC Barcelona B,€5.00m,,,
+633,80293,Aïssa Mandi,Centre-Back,"Oct 22, 1991",31,Algeria,Villarreal CF,"1,84m",right,"Sep 16, 2020",Real Betis Balompié,€3.00m,,,
+634,898751,Mamadou Mbacke,Centre-Back,"Nov 21, 2002",20,Senegal,FC Barcelona Atlètic,"1,89m",right,"Jul 1, 2016",,€2.80m,,,
+635,15452,Raúl Albiol,Centre-Back,"Sep 4, 1985",37,Spain,Villarreal CF,"1,90m",right,"Sep 1, 2022",SSC Napoli,€2.50m,Team captain,,
+636,341263,Adrián de la Fuente,Centre-Back,"Feb 26, 1999",24,Spain,Levante UD,"1,79m",right,"Jul 9, 2019",,€800k,,,
+637,349599,Pervis Estupiñán,Left-Back,"Jan 21, 1998",25,Ecuador,Brighton & Hove Albion,"1,75m",left,"Jul 1, 2021",Watford FC,€32.00m,,,
+638,356197,Alfonso Pedraza,Left-Back,"Apr 9, 1996",27,Spain,Villarreal CF,"1,84m",left,"Jul 28, 2022",Villarreal CF B,€15.00m,,,
+639,262939,Johan Mojica,Left-Back,"Aug 21, 1992",30,Colombia,CA Osasuna,"1,85m",left,"Jul 1, 2023",Elche CF,€3.00m,,,
+640,207917,Alberto Moreno,Left-Back,"Jul 5, 1992",30,Spain,Villarreal CF,"1,71m",left,"Jan 4, 2021",Liverpool FC,€3.00m,,,
+641,627282,Dani Tasende,Left-Back,"Jul 6, 2000",22,Spain,Villarreal CF B,"1,72m",left,"Aug 12, 2020",,€700k,,,
+642,709372,Carlos Romero,Left-Back,"Oct 29, 2001",21,Spain,Villarreal CF B,,left,"Aug 12, 2020",,€100k,,,
+643,480763,Juan Foyth,Right-Back,"Jan 12, 1998",25,Argentina,Villarreal CF,"1,87m",right,"Jul 7, 2021",Tottenham Hotspur,€25.00m,,,
+644,76467,Kiko Femenía,Right-Back,"Feb 2, 1991",32,Spain,Villarreal CF,"1,74m",right,"Jul 1, 2012",Watford FC,€2.50m,,,
+645,545647,Sergio Carreira,Right-Back,"Oct 13, 2000",22,Spain,Elche CF,"1,70m",both,"Aug 1, 2020",,€1.50m,,,
+646,668211,Marcos Sánchez,Right-Back,"Oct 26, 2003",19,Spain,Villarreal CF B,"1,78m",right,"Aug 14, 2022",,,,,
+647,783396,Ramón Terrats,Defensive Midfield,"Oct 18, 2000",22,Spain,Villarreal CF,"1,81m",left,"Aug 19, 2021",Girona FC,€4.00m,"Meniscus injury - Return expected on Apr 17, 2024","Joined from Girona FC; date: Jul 1, 2023; fee: €2.50m",
+648,63494,Étienne Capoue,Defensive Midfield,"Jul 11, 1988",34,France,Villarreal CF,"1,89m",right,"Aug 1, 2020",Watford FC,€3.00m,,,
+649,74869,Francis Coquelin,Defensive Midfield,"May 13, 1991",32,France,Villarreal CF,"1,77m",right,"Nov 1, 2018",Valencia CF,€3.00m,,,
+650,59561,Dani Parejo,Central Midfield,"Apr 16, 1989",34,Spain,Villarreal CF,"1,82m",right,"Jul 1, 2022",Valencia CF,€6.00m,,,
+651,335225,Manu Morlanes,Central Midfield,"Jan 12, 1999",24,Spain,RCD Mallorca,"1,78m",right,"Jul 1, 2018",UD Almería,€4.00m,,"Returned after loan spell with RCD Mallorca; date: Jun 30, 2023; fee: End of loan",
+652,188854,Manu Trigueros,Central Midfield,"Oct 17, 1991",31,Spain,Villarreal CF,"1,78m",right,"Aug 1, 2020",Villarreal CF B,€4.00m,,,
+653,635347,Alberto del Moral,Central Midfield,"Jul 20, 2000",22,Spain,Villarreal CF B,"1,85m",right,"Jul 1, 2022",,€1.00m,,,
+654,290346,André Ferreira,Goalkeeper,"May 29, 1996",27,Portugal,Real Valladolid CF,"1,93m",right,"Jul 20, 2022",FC Paços de Ferreira,€800k,,,
+655,412042,Adri López,Goalkeeper,"Jan 9, 1999",24,Spain,Recreativo Granada,"1,88m",right,"Jul 18, 2022",,€300k,,,
+656,54217,Raúl Fernández,Goalkeeper,"Mar 13, 1988",35,Spain,Granada CF,"1,95m",right,"Jul 26, 2022",UD Las Palmas,€300k,,,
+657,713632,Ángel Jiménez,Goalkeeper,"Jun 22, 2002",21,Spain,SD Ponferradina,"1,94m",,"Jul 26, 2022",,€150k,,,
+658,833884,Rafael Romero,Goalkeeper,"Aug 7, 2003",19,Spain,Sevilla FC C,"1,90m",left,"Jul 26, 2022",,€50k,,,
+659,70245,Ignasi Miquel,Centre-Back,"Sep 28, 1992",30,Spain,Granada CF,"1,89m",left,"Jan 1, 2022",Getafe CF,€1.40m,,,
+660,583510,Miguel Rubio,Centre-Back,"Mar 11, 1998",25,Spain,Granada CF,"1,91m",right,"Jul 1, 2022",Getafe CF,€1.20m,,,
+661,302991,Erick Cabaco,Centre-Back,"Apr 19, 1995",28,Uruguay,GD Estoril Praia,"1,85m",right,"Aug 15, 2019",Getafe CF,€1.00m,Knee injury - Return unknown,,
+662,631222,Raúl Torrente,Centre-Back,"Sep 11, 2001",21,Spain,Granada CF,"1,93m",left,"Jul 26, 2022",Recreativo Granada,€1.00m,,,
+663,500191,Pepe Sánchez,Centre-Back,"Mar 2, 2000",23,Spain,UD Ibiza,"1,85m",right,"Aug 30, 2021",Recreativo Granada,€250k,,"Returned after loan spell with Deportivo de La Coruña; date: Jun 30, 2023; fee: End of loan",
+664,707276,Miki Bosch,Centre-Back,"Jun 9, 2001",22,Spain,Recreativo Granada,"1,90m",right,"Jul 4, 2017",,€100k,,,
+665,448844,Carlos Neva,Left-Back,"Jun 12, 1996",27,Spain,Granada CF,"1,74m",left,"Jul 1, 2017",Recreativo Granada,€2.00m,,,
+666,189453,Jonathan Silva,Left-Back,"Jun 29, 1994",29,Argentina,Albacete Balompié,"1,78m",left,"Jan 29, 2022",Getafe CF,€800k,,,
+667,635933,Eu Gutiérrez,Left-Back,"Aug 27, 2001",21,Spain,Recreativo Granada,"1,75m",left,"Jul 1, 2022",,€100k,,,
+668,388545,Ricard Sánchez,Right-Back,"Feb 22, 2000",23,Spain,Granada CF,"1,75m",right,"Jan 30, 2023",Atlético de Madrid B,€2.20m,,,
+669,58330,Víctor Díaz,Right-Back,"Jun 12, 1988",35,Spain,Granada CF,"1,83m",right,"Aug 10, 2022",CD Leganés,€700k,Team captain,,
+670,223053,Quini,Right-Back,"Sep 24, 1989",33,Spain,Olympiacos Piraeus,"1,78m",right,"Aug 9, 2022",: Ablöse free transfer,€400k,,,
+671,713633,Raúl Castro,Right-Back,"Feb 1, 2001",22,Spain,Recreativo Granada,"1,77m",right,"Aug 6, 2022",,€150k,,,
+672,376588,Njegos Petrovic,Defensive Midfield,"Jul 18, 1999",23,Serbia,FK Vojvodina Novi Sad,"1,85m",right,"Jan 31, 2022",Red Star Belgrade,€2.20m,,,
+673,290533,Yann Bodiger,Defensive Midfield,"Feb 9, 1995",28,France,CD Tenerife,"1,88m",left,"Jul 1, 2022",FC Cartagena,€1.60m,,,
+674,412045,Pol Lozano,Central Midfield,"Oct 6, 1999",23,Spain,RCD Espanyol Barcelona,"1,76m",right,"Sep 1, 2022",RCD Espanyol Barcelona,€1.50m,,,
+675,658269,Víctor Meseguer,Central Midfield,"Jun 9, 1999",24,Spain,Real Valladolid CF,"1,84m",right,"Jul 1, 2017",CD Mirandés,€1.20m,,,
+676,394694,Sergio Ruiz,Central Midfield,"Dec 16, 1994",28,Spain,Granada CF,"1,76m",right,"Sep 1, 2020",Charlotte FC,€1.00m,,,
+677,636118,Martín Solar,Central Midfield,"Jan 30, 2000",23,Spain,Cultural Leonesa,"1,75m",right,"Jul 25, 2022",,€150k,,,
+678,448344,Óscar Melendo,Attacking Midfield,"Aug 23, 1997",25,Spain,Granada CF,"1,67m",left,"Aug 21, 2021",RCD Espanyol Barcelona,€2.00m,,,
+679,315289,Myrto Uzuni,Left Winger,"May 31, 1995",28,Albania,Granada CF,"1,78m",right,"Jan 31, 2022",Ferencvárosi TC,€9.00m,,,
+680,713644,Bryan Zaragoza,Left Winger,"Sep 9, 2001",21,Spain,Bayern Munich,"1,64m",right,"Jul 1, 2023",Recreativo Granada,€1.50m,,"Joining: Bayern Munich; date: Jul 1, 2024; fee: €13.00m",
+681,99559,Alberto Perea,Left Winger,"Dec 19, 1990",32,Spain,Anorthosis Famagusta,"1,75m",right,"Jul 1, 2023",Cádiz CF,€1.00m,,,
+682,635943,Mario da Costa,Left Winger,"May 14, 2001",22,Spain,CD Lugo,"1,82m",right,"Aug 25, 2020",,€150k,,,
+683,262365,Antonio Puertas,Right Winger,"Feb 21, 1992",31,Spain,Granada CF,"1,83m",right,"Jan 28, 2022",UD Almería,€4.00m,,,
+684,74857,Marc-André ter Stegen,Goalkeeper,"Apr 30, 1992",31,Germany,,"1,87m",right,"Jul 1, 2014",Borussia Mönchengladbach,€30.00m,,,€30.00m
+685,283170,Iñaki Peña,Goalkeeper,"Mar 2, 1999",25,Spain,,"1,84m",right,"Jan 30, 2022",FC Barcelona B,€8.00m,,,€8.00m
+686,709955,Ander Astralaga,Goalkeeper,"Mar 3, 2004",20,Spain,,"1,90m",right,"Oct 5, 2020",,€500k,,,€500k
+687,480267,Ronald Araujo,Centre-Back,"Mar 7, 1999",25,Uruguay,,"1,92m",right,"Jul 28, 2022",FC Barcelona B,€70.00m,,,€70.00m
+688,411975,Jules Koundé,Centre-Back,"Nov 12, 1998",25,France,,"1,80m",right,"Jul 4, 2022",Sevilla FC,€50.00m,,,€50.00m
+689,196948,Andreas Christensen,Centre-Back,"Apr 10, 1996",27,Denmark,,"1,87m",right,"Jan 1, 2024",Chelsea FC,€40.00m,"Achilles tendon irritation - Return expected on Apr 8, 2024",,€40.00m
+690,962110,Pau Cubarsí,Centre-Back,"Jan 22, 2007",17,Spain,,"1,84m",right,"Jul 5, 2023",FC Barcelona Atlètic,€25.00m,,"Internal winter transfer: FC Barcelona Atlètic; Date: Jan 1, 2024",€25.00m
+691,158863,Iñigo Martínez,Centre-Back,"May 17, 1991",32,Spain,,"1,82m",left,"Jul 1, 2022",Athletic Bilbao,€6.00m,"Yellow card suspension - until Apr 14, 2024 - LaLiga - 1 matchday","Joined from Athletic Bilbao; date: Jul 5, 2023; fee: free transfer",€6.00m
+692,636688,Alejandro Balde,Left-Back,"Oct 18, 2003",20,Spain,,"1,75m",left,"Sep 1, 2022",FC Barcelona Atlètic,€40.00m,"Tendon rupture - Return expected on May 31, 2024",,€40.00m
+693,112515,Marcos Alonso,Left-Back,"Dec 28, 1990",33,Spain,,"1,88m",left,"Sep 1, 2023",Chelsea FC,€3.00m,,,€3.00m
+694,182712,João Cancelo,Right-Back,"May 27, 1994",29,Portugal,,"1,82m",right,"Jul 19, 2023",Manchester City,€30.00m,"Yellow card suspension - until Apr 14, 2024 - LaLiga - 1 matchday","On loan from Manchester City until Jun 30, 2024",€30.00m
+695,937955,Héctor Fort,Right-Back,"Aug 2, 2006",17,Spain,,"1,85m",right,"Jul 1, 2021",,€7.50m,,,€7.50m
+696,66100,Oriol Romeu,Defensive Midfield,"Sep 24, 1991",32,Spain,,"1,83m",right,"Sep 2, 2019",Girona FC,€3.00m,,"Joined from Girona FC; date: Jul 19, 2023; fee: €3.40m",€3.00m
+697,646740,Gavi,Central Midfield,"Aug 5, 2004",19,Spain,,"1,73m",right,"Jul 1, 2019",FC Barcelona U19,€90.00m,"Cruciate ligament tear - Return expected on Jun 30, 2024",,€90.00m
+698,683840,Pedri,Central Midfield,"Nov 25, 2002",21,Spain,,"1,74m",right,"Jul 1, 2023",UD Las Palmas,€80.00m,"Hamstring injury - Return expected on Apr 9, 2024",,€80.00m
+699,326330,Frenkie de Jong,Central Midfield,"May 12, 1997",26,Netherlands,,"1,81m",right,"Jul 1, 2023",Ajax Amsterdam,€70.00m,"Ankle injury - Return expected on Apr 8, 2024",,€70.00m
+700,53622,İlkay Gündoğan,Central Midfield,"Oct 24, 1990",33,Germany,,"1,80m",right,"Jul 1, 2013",Manchester City,€16.00m,,"Joined from Manchester City; date: Jul 1, 2023; fee: free transfer",€16.00m
+701,636703,Fermín López,Central Midfield,"May 11, 2003",20,Spain,,"1,74m",right,"Jan 1, 2022",FC Barcelona Atlètic,€15.00m,,"Internal transfer: FC Barcelona Atlètic; date: Jul 1, 2023",€15.00m
+702,85370,Sergi Roberto,Central Midfield,"Feb 7, 1992",32,Spain,,"1,78m",right,"Sep 1, 2023",FC Barcelona B,€3.00m,Team captain,,€3.00m
+703,398184,Ferran Torres,Left Winger,"Feb 29, 2000",24,Spain,,"1,84m",right,"Jul 1, 2023",Manchester City,€35.00m,,,€35.00m
+704,462250,João Félix,Left Winger,"Nov 10, 1999",24,Portugal,,"1,81m",right,"Jul 13, 2022",Atlético de Madrid,€30.00m,,"On loan from Atlético de Madrid until Jun 30, 2024",€30.00m
+705,937958,Lamine Yamal,Right Winger,"Jul 13, 2007",16,Spain,,"1,78m",left,"Jan 1, 2024",FC Barcelona U19,€75.00m,,"Internal transfer: FC Barcelona U19; date: Jul 1, 2023",€75.00m
+706,411295,Raphinha,Right Winger,"Dec 14, 1996",27,Brazil,,"1,76m",left,"Jul 19, 2022",Leeds United,€50.00m,,,€50.00m
+707,172015,Fernando Pacheco,Goalkeeper,"May 18, 1992",31,Spain,,"1,87m",left,"Jan 31, 2023",UD Almería,€2.50m,,,€2.50m
+708,561613,Joan García,Goalkeeper,"May 4, 2001",22,Spain,,"1,91m",right,"Jul 1, 2021",RCD Espanyol B,€400k,,,€400k
+709,357884,Fernando Calero,Centre-Back,"Sep 14, 1995",28,Spain,,"1,84m",right,"Aug 9, 2019",: Ablöse €8.00m,€2.00m,,,€2.00m
+710,102423,Leandro Cabrera,Centre-Back,"Jun 17, 1991",32,Uruguay,,"1,90m",left,"Jan 20, 2020",Getafe CF,€1.50m,,,€1.50m
+711,92947,Sergi Gómez,Centre-Back,"Mar 28, 1992",32,Spain,,"1,85m",right,"Jul 28, 2021",Sevilla FC,€1.20m,Team captain,,€1.20m
+712,62920,Víctor Ruiz,Centre-Back,"Jan 25, 1989",35,Spain,,"1,84m",left,"Sep 20, 2023",Without Club,€800k,,"Joined from Without Club; date: Sep 20, 2023; fee: -",€800k
+713,166677,Brian Oliván,Left-Back,"Apr 1, 1994",30,Spain,,"1,75m",left,"Jul 1, 2022",RCD Mallorca,€3.00m,,,€3.00m
+714,822331,Omar El Hilali,Right-Back,"Sep 12, 2003",20,Morocco,,"1,83m",right,"Jan 1, 2023",RCD Espanyol B,€1.50m,,,€1.50m
+715,544106,Óscar Gil,Right-Back,"Apr 26, 1998",25,Spain,,"1,75m",both,"Sep 7, 2020",Elche CF,€1.00m,,,€1.00m
+716,705813,Rubén Sánchez,Right-Back,"Feb 4, 2001",23,Spain,,"1,85m",right,"Jul 1, 2022",RCD Espanyol B,€700k,,"Returned after loan spell with CD Mirandés; date: Jan 31, 2024; fee: End of loan",€700k
+717,506248,Edu Expósito,Central Midfield,"Aug 1, 1996",27,Spain,,"1,78m",right,"Aug 8, 2022",SD Eibar,€3.50m,,,€3.50m
+718,295622,Keidi Bare,Central Midfield,"Aug 28, 1997",26,Albania,,"1,74m",right,"Sep 22, 2020",Málaga CF,€3.00m,,,€3.00m
+719,449496,Álvaro Aguado,Central Midfield,"May 1, 1996",27,Spain,,"1,75m",right,"Sep 11, 2023",Without Club,€3.00m,,"Joined from Without Club; date: Sep 11, 2023; fee: -",€3.00m
+720,557147,José Gragera,Central Midfield,"May 14, 2000",23,Spain,,"1,86m",right,"Jan 31, 2023",Sporting Gijón,€2.50m,,,€2.50m
+721,412045,Pol Lozano,Central Midfield,"Oct 6, 1999",24,Spain,,"1,76m",right,"Jul 1, 2020",RCD Espanyol B,€2.00m,,"Returned after loan spell with Granada CF; date: Jun 30, 2023; fee: End of loan",€2.00m
+722,570421,Nico Melamed,Attacking Midfield,"Apr 11, 2001",22,Spain,,"1,73m",right,"Aug 1, 2020",RCD Espanyol B,€5.00m,,,€5.00m
+723,408471,Javi Puado,Left Winger,"May 25, 1998",25,Spain,,"1,77m",right,"Jul 1, 2018",RCD Espanyol B,€8.00m,,,€8.00m
+724,225593,Pere Milla,Left Winger,"Sep 23, 1992",31,Spain,,"1,80m",left,"Aug 15, 2023",Elche CF,€2.60m,,"Joined from Elche CF; date: Aug 15, 2023; fee: €2.50m",€2.60m
+725,282410,José Carlos Lazo,Left Winger,"Feb 16, 1996",28,Spain,,"1,78m",both,"Aug 24, 2022",UD Almería,€2.00m,,,€2.00m
+726,628498,Jofre Carreras,Right Winger,"Jun 17, 2001",22,Spain,,"1,75m",right,"Jul 1, 2022",RCD Espanyol B,€1.50m,,"Returned after loan spell with CD Mirandés; date: Jun 30, 2023; fee: End of loan",€1.50m
+727,246204,Salvi Sánchez,Right Winger,"Mar 30, 1991",33,Spain,,"1,70m",right,"Aug 19, 2023",Rayo Vallecano,€1.50m,,"Joined from Rayo Vallecano; date: Aug 19, 2023; fee: €700k",€1.50m
+728,95732,Martin Braithwaite,Centre-Forward,"Jun 5, 1991",32,Denmark,,"1,77m",right,"Sep 1, 2022",FC Barcelona,€3.50m,,,€3.50m
+729,238752,Keita Baldé,Centre-Forward,"Mar 8, 1995",29,Senegal,,"1,78m",both,"Sep 1, 2023",Spartak Moscow,€1.50m,,"On loan from Spartak Moscow until Jun 30, 2024",€1.50m
+730,65263,Jordi Masip,Goalkeeper,"Jan 3, 1989",35,Spain,,"1,80m",right,"Jul 17, 2017",FC Barcelona,€800k,Team captain,,€800k
+731,290346,André Ferreira,Goalkeeper,"May 29, 1996",27,Portugal,,"1,93m",right,"Jan 29, 2024",Granada CF,€800k,,"On loan from Granada CF until Jun 30, 2024",€800k
+732,541555,Enzo Boyomo,Centre-Back,"Oct 7, 2001",22,Cameroon,,"1,84m",right,"Jul 7, 2023",Albacete Balompié,€2.20m,,"Joined from Albacete Balompié; date: Jul 7, 2023; fee: €1.20m",€2.20m
+733,592373,Lucas Oliveira,Centre-Back,"Feb 2, 1996",28,Brazil,,"1,87m",right,"Feb 1, 2024",Cruzeiro Esporte Clube,€2.00m,,"On loan from Cruzeiro Esporte Clube until Jun 30, 2024",€2.00m
+734,340853,Javi Sánchez,Centre-Back,"Mar 14, 1997",27,Spain,,"1,89m",right,"Jul 1, 2020",Real Madrid,€1.50m,,,€1.50m
+735,857832,David Torres,Centre-Back,"Mar 5, 2003",21,Spain,,"1,82m",left,"Jul 1, 2023",Real Valladolid Promesas,€1.00m,,"Internal transfer: Real Valladolid Promesas; date: Jul 1, 2023",€1.00m
+736,707274,César Tárrega,Centre-Back,"Feb 26, 2002",22,Spain,,"1,94m",right,"Jan 19, 2024",Valencia Mestalla,€1.00m,,"On loan from Valencia Mestalla until Jun 30, 2024",€1.00m
+737,93935,Sergio Escudero,Left-Back,"Sep 2, 1989",34,Spain,,"1,76m",left,"Jul 13, 2022",Granada CF,€1.00m,,,€1.00m
+738,358115,Luis Pérez,Right-Back,"Feb 4, 1995",29,Spain,,"1,73m",right,"Aug 4, 2020",CD Tenerife,€1.50m,,,€1.50m
+739,468309,Lucas Rosa,Right-Back,"Apr 3, 2000",24,Brazil,,"1,77m",right,"Oct 1, 2022",Real Valladolid Promesas,€1.20m,,,€1.20m
+740,388125,Stanko Juric,Defensive Midfield,"Aug 16, 1996",27,Croatia,,"1,88m",right,"Aug 20, 2023",Parma Calcio 1913,€2.00m,,"On loan from Parma Calcio 1913 until Jun 30, 2024",€2.00m
+741,282727,Monchu,Central Midfield,"Sep 13, 1999",24,Spain,,"1,73m",right,"Jul 1, 2022",Granada CF,€5.00m,,,€5.00m
+742,658269,Víctor Meseguer,Central Midfield,"Jun 9, 1999",24,Spain,,"1,84m",right,"Aug 16, 2023",Granada CF,€1.20m,,"On loan from Granada CF until Jun 30, 2024",€1.20m
+743,226261,César de la Hoz,Central Midfield,"Mar 30, 1992",32,Spain,,"1,79m",right,"Jul 21, 2023",UD Almería,€1.20m,,"Joined from UD Almería; date: Jul 21, 2023; fee: free transfer",€1.20m
+744,327126,Anuar,Central Midfield,"Jan 15, 1995",29,Morocco,,"1,73m",right,"Jul 1, 2017",: Ablöse -,€800k,,,€800k
+745,631055,Alberto Quintana,Central Midfield,"Oct 5, 2001",22,Spain,,"1,86m",right,"Jul 1, 2023",Real Valladolid Promesas,€200k,,"Internal transfer: Real Valladolid Promesas; date: Jul 1, 2023",€200k
+746,587520,Stipe Biuk,Left Winger,"Dec 26, 2002",21,Croatia,,"1,84m",right,"Jan 25, 2024",Los Angeles FC,€6.50m,,"On loan from Los Angeles FC until Jun 30, 2024",€6.50m
+747,624942,Raúl Moro,Left Winger,"Dec 5, 2002",21,Spain,,"1,69m",right,"Jul 17, 2023",SS Lazio,€2.50m,,"On loan from SS Lazio until Jun 30, 2024",€2.50m
+748,281404,Kenedy,Left Winger,"Feb 8, 1996",28,Brazil,,"1,80m",left,"Sep 1, 2022",Chelsea FC,€2.00m,,,€2.00m
+749,339820,Amath Ndiaye,Left Winger,"Jul 16, 1996",27,Senegal,,"1,73m",right,"Feb 1, 2024",RCD Mallorca,€1.50m,,"On loan from RCD Mallorca until Jun 30, 2024",€1.50m
+750,221311,Iván Sánchez,Right Winger,"Sep 23, 1992",31,Spain,,"1,69m",left,"Jul 1, 2022",Birmingham City,€1.00m,,,€1.00m
+751,481084,Marcos André,Centre-Forward,"Oct 20, 1996",27,Brazil,,"1,85m",right,"Aug 29, 2023",Valencia CF,€2.00m,,"Joined from Valencia CF; date: Aug 29, 2023; fee: €1.80m",€2.00m
+752,166683,Mamadou Sylla,Centre-Forward,"Mar 20, 1994",30,Senegal,,"1,80m",right,"Sep 1, 2023",Deportivo Alavés,€1.50m,,"Joined from Deportivo Alavés; date: Sep 1, 2023; fee: ?",€1.50m
+753,18644,Álvaro Negredo,Centre-Forward,"Aug 20, 1985",38,Spain,,"1,86m",left,"Feb 8, 2024",Without Club,€500k,,"Joined as a winter arrival from: Without Club; date: Feb 8, 2024; fee: -",€500k
+754,716163,Iván Cédric,Centre-Forward,"Dec 22, 2001",22,Cameroon,,"1,87m",right,"Jul 1, 2023",Real Valladolid Promesas,€400k,,"Internal transfer: Real Valladolid Promesas; date: Jul 1, 2023",€400k
+755,108390,Thibaut Courtois,Goalkeeper,"May 11, 1992",31,Belgium,,"2,00m",left,"Aug 9, 2018",Chelsea FC,€30.00m,"Meniscus tear - Return expected on May 8, 2024",,€30.00m
+756,404839,Andriy Lunin,Goalkeeper,"Feb 11, 1999",25,Ukraine,,"1,91m",right,"Jul 1, 2018",: Ablöse €8.50m,€16.00m,,,€16.00m
+757,192279,Kepa Arrizabalaga,Goalkeeper,"Oct 3, 1994",29,Spain,,"1,88m",right,"Aug 14, 2023",Chelsea FC,€12.00m,,"On loan from Chelsea FC until Jun 30, 2024",€12.00m
+758,401530,Éder Militão,Centre-Back,"Jan 18, 1998",26,Brazil,,"1,86m",right,"Jul 1, 2019",FC Porto,€70.00m,,,€70.00m
+759,59016,David Alaba,Centre-Back,"Jun 24, 1992",31,Austria,,"1,80m",left,"Jul 1, 2021",Bayern Munich,€25.00m,"Cruciate ligament tear - Return expected on Jul 31, 2024",,€25.00m
+760,86202,Antonio Rüdiger,Centre-Back,"Mar 3, 1993",31,Germany,,"1,90m",right,"Jul 1, 2022",Chelsea FC,€25.00m,,,€25.00m
+761,58884,Nacho Fernández,Centre-Back,"Jan 18, 1990",34,Spain,,"1,80m",right,"Sep 1, 2012",Real Madrid Castilla,€4.00m,Team captain,,€4.00m
+762,291417,Ferland Mendy,Left-Back,"Jun 8, 1995",28,France,,"1,80m",left,"Jul 1, 2019",: Ablöse €48.00m,€20.00m,,,€20.00m
+763,341264,Fran García,Left-Back,"Aug 14, 1999",24,Spain,,"1,69m",left,"Jul 1, 2023",Rayo Vallecano,€15.00m,,"Joined from Rayo Vallecano; date: Jul 1, 2023; fee: €5.00m",€15.00m
+764,138927,Daniel Carvajal,Right-Back,"Jan 11, 1992",32,Spain,,"1,73m",right,"Jul 1, 2013",Bayer 04 Leverkusen,€12.00m,,,€12.00m
+765,221316,Lucas Vázquez,Right-Back,"Jul 1, 1991",32,Spain,,"1,73m",right,"Jul 2, 2015",RCD Espanyol Barcelona,€5.00m,,,€5.00m
+766,413112,Aurélien Tchouaméni,Defensive Midfield,"Jan 27, 2000",24,France,,"1,88m",right,"Jul 1, 2022",AS Monaco,€90.00m,,,€90.00m
+767,369081,Federico Valverde,Central Midfield,"Jul 22, 1998",25,Uruguay,,"1,82m",right,"Jul 1, 2018",Real Madrid Castilla,€100.00m,,,€100.00m
+768,640428,Eduardo Camavinga,Central Midfield,"Nov 10, 2002",21,France,,"1,82m",left,"Aug 31, 2021",Stade Rennais FC,€90.00m,,,€90.00m
+769,31909,Toni Kroos,Central Midfield,"Jan 4, 1990",34,Germany,,"1,83m",right,"Jul 17, 2014",: Ablöse €25.00m,€12.00m,,,€12.00m
+770,27992,Luka Modric,Central Midfield,"Sep 9, 1985",38,Croatia,,"1,72m",right,"Aug 27, 2012",Tottenham Hotspur,€8.00m,,,€8.00m
+771,319745,Dani Ceballos,Central Midfield,"Aug 7, 1996",27,Spain,,"1,79m",right,"Jul 14, 2017",Real Betis Balompié,€8.00m,,,€8.00m
+772,581678,Jude Bellingham,Attacking Midfield,"Jun 29, 2003",20,England,,"1,86m",right,"Jul 1, 2023",Borussia Dortmund,€180.00m,,"Joined from Borussia Dortmund; date: Jul 1, 2023; fee: €103.00m",€180.00m
+773,314678,Brahim Díaz,Attacking Midfield,"Aug 3, 1999",24,Morocco,,"1,70m",both,"Jan 6, 2019",Manchester City,€35.00m,,"Returned after loan spell with AC Milan; date: Jun 30, 2023; fee: End of loan",€35.00m
+774,861410,Arda Güler,Attacking Midfield,"Feb 25, 2005",19,Türkiye,,"1,75m",left,"Jul 6, 2023",Fenerbahce,€15.00m,,"Joined from Fenerbahce; date: Jul 6, 2023; fee: €20.00m",€15.00m
+775,948294,Nico Paz,Attacking Midfield,"Sep 8, 2004",19,Argentina,,"1,86m",left,"Jul 12, 2018",,€10.00m,,,€10.00m
+776,371998,Vinicius Junior,Left Winger,"Jul 12, 2000",23,Brazil,,"1,76m",right,"Jul 1, 2019",CR Flamengo,€150.00m,,,€150.00m
+777,412363,Rodrygo,Right Winger,"Jan 9, 2001",23,Brazil,,"1,74m",right,"Jul 1, 2023",Santos FC,€100.00m,,,€100.00m
+778,234811,Rui Silva,Goalkeeper,"Feb 7, 1994",30,Portugal,,"1,91m",left,"Jul 1, 2021",Granada CF,€15.00m,,,€15.00m
+779,40423,Claudio Bravo,Goalkeeper,"Apr 13, 1983",40,Chile,,"1,84m",right,"Aug 30, 2020",Manchester City,€900k,,,€900k
+780,689637,Chadi Riad,Centre-Back,"Jun 17, 2003",20,Morocco,,"1,87m",left,"Jul 27, 2023",FC Barcelona,€6.00m,,"On loan from FC Barcelona until Jun 30, 2024",€6.00m
+781,113133,Germán Pezzella,Centre-Back,"Jun 27, 1991",32,Argentina,,"1,87m",right,"Aug 19, 2021",: Ablöse €3.25m,€5.00m,,,€5.00m
+782,99922,Marc Bartra,Centre-Back,"Jan 15, 1991",33,Spain,,"1,84m",right,"Jul 24, 2023",Trabzonspor,€2.00m,,"Joined from Trabzonspor; date: Jul 24, 2023; fee: free transfer",€2.00m
+783,34322,Sokratis Papastathopoulos,Centre-Back,"Jun 9, 1988",35,Greece,,"1,86m",right,"Oct 26, 2023",Without Club,€800k,,"Joined from Without Club; date: Oct 26, 2023; fee: -",€800k
+784,341227,Juan Miranda,Left-Back,"Jan 19, 2000",24,Spain,,"1,85m",left,"Jul 1, 2021",FC Barcelona,€7.50m,,,€7.50m
+785,646402,Abner,Left-Back,"May 27, 2000",23,Brazil,,"1,81m",left,"Jan 15, 2023",Club Athletico Paranaense,€7.00m,,,€7.00m
+786,191217,Héctor Bellerín,Right-Back,"Mar 19, 1995",29,Spain,,"1,78m",right,"Jul 18, 2023",Sporting CP,€5.00m,,"Joined from Sporting CP; date: Jul 18, 2023; fee: free transfer",€5.00m
+787,135492,Youssouf Sabaly,Right-Back,"Mar 5, 1993",31,Senegal,,"1,73m",right,"Jul 1, 2021",FC Girondins Bordeaux,€3.00m,,,€3.00m
+788,342385,Guido Rodríguez,Defensive Midfield,"Apr 12, 1994",29,Argentina,,"1,85m",right,"Jan 14, 2020",CF América,€24.00m,,,€24.00m
+789,689505,Johnny Cardoso,Defensive Midfield,"Sep 20, 2001",22,United States,,"1,86m",right,"Jan 1, 2024",Sport Club Internacional,€10.00m,,"Joined as a winter arrival from: Sport Club Internacional; date: Jan 1, 2024; fee: €6.00m",€10.00m
+790,336869,Marc Roca,Defensive Midfield,"Nov 26, 1996",27,Spain,,"1,84m",left,"Jul 17, 2023",Leeds United,€10.00m,,"On loan from Leeds United until Jun 30, 2024",€10.00m
+791,100131,William Carvalho,Defensive Midfield,"Apr 7, 1992",31,Portugal,,"1,87m",right,"Jul 13, 2018",Sporting CP,€5.00m,,,€5.00m
+792,466801,Sergi Altimira,Central Midfield,"Aug 25, 2001",22,Spain,,"1,88m",right,"Aug 11, 2023",Getafe CF,€3.00m,,"Joined from Getafe CF; date: Aug 11, 2023; fee: €2.00m",€3.00m
+793,357885,Pablo Fornals,Attacking Midfield,"Feb 22, 1996",28,Spain,,"1,78m",right,"Feb 1, 2024",West Ham United,€17.00m,,"Joined as a winter arrival from: West Ham United; date: Feb 1, 2024; fee: €8.00m",€17.00m
+794,203496,Nabil Fekir,Attacking Midfield,"Jul 18, 1993",30,France,,"1,73m",left,"Jul 23, 2019",: Ablöse €19.75m,€12.00m,Team captain,,€12.00m
+795,85288,Isco,Attacking Midfield,"Apr 21, 1992",31,Spain,,"1,76m",right,"Jul 26, 2023",Without Club,€8.00m,,"Joined from Without Club; date: Jul 26, 2023; fee: -",€8.00m
+796,630995,Rodri Sánchez,Attacking Midfield,"May 16, 2000",23,Spain,,"1,75m",left,"Jul 1, 2021",: Ablöse -,€6.00m,,,€6.00m
+797,1061282,Assane Diao,Left Winger,"Sep 7, 2005",18,Spain,,"1,85m",right,"Oct 1, 2023",Betis Deportivo Balompié,€15.00m,,"Internal transfer: Betis Deportivo Balompié; date: Oct 1, 2023",€15.00m
+798,724520,Abde Ezzalzouli,Left Winger,"Dec 17, 2001",22,Morocco,,"1,77m",right,"Sep 1, 2023",FC Barcelona,€12.00m,,"Joined from FC Barcelona; date: Sep 1, 2023; fee: €7.50m",€12.00m
+799,246968,Ayoze Pérez,Left Winger,"Jul 29, 1993",30,Spain,,"1,78m",right,"Jul 6, 2023",Leicester City,€7.00m,,"Joined from Leicester City; date: Jul 6, 2023; fee: free transfer",€7.00m
+800,378139,Aitor Ruibal,Right Winger,"Mar 22, 1996",28,Spain,,"1,76m",right,"Jul 1, 2019",: Ablöse -,€5.00m,,,€5.00m
+801,122155,Willian José,Centre-Forward,"Nov 23, 1991",32,Brazil,,"1,89m",right,"Jul 1, 2022",Real Sociedad,€6.00m,,,€6.00m
+802,167721,Chimy Ávila,Centre-Forward,"Feb 6, 1994",30,Argentina,,"1,72m",right,"Feb 1, 2024",CA Osasuna,€3.50m,,"Joined as a winter arrival from: CA Osasuna; date: Feb 1, 2024; fee: €4.00m",€3.50m
+803,127048,Cédric Bakambu,Centre-Forward,"Apr 11, 1991",32,DR Congo,,"1,82m",right,"Feb 1, 2024",Galatasaray,€2.80m,,"Joined as a winter arrival from: Galatasaray; date: Feb 1, 2024; fee: €5.00m",€2.80m
+804,248738,Sergio Herrera,Goalkeeper,"Jun 5, 1993",30,Spain,,"1,92m",right,"Jul 12, 2017",SD Huesca,€6.00m,,,€6.00m
+805,118997,Aitor Fernández,Goalkeeper,"May 3, 1991",32,Spain,,"1,82m",right,"Jul 2, 2022",Levante UD,€2.00m,,,€2.00m
+806,298589,David García,Centre-Back,"Feb 14, 1994",30,Spain,,"1,86m",both,"Jan 1, 2015",CA Osasuna Promesas,€14.00m,Team captain,,€14.00m
+807,449796,Alejandro Catena,Centre-Back,"Oct 28, 1994",29,Spain,,"1,94m",right,"Jul 1, 2023",Rayo Vallecano,€5.00m,,"Joined from Rayo Vallecano; date: Jul 1, 2023; fee: free transfer",€5.00m
+808,197122,Unai García,Centre-Back,"Feb 3, 1992",32,Spain,,"1,86m",right,"Jul 1, 2015",CA Osasuna Promesas,€1.50m,Hamstring injury - Return unknown,,€1.50m
+809,555500,Jorge Herrando,Centre-Back,"Feb 28, 2001",23,Spain,,"1,92m",left,"Jul 1, 2023",CA Osasuna Promesas,€800k,,"Internal transfer: CA Osasuna Promesas; date: Jul 1, 2023",€800k
+810,169497,Juan Cruz,Left-Back,"Jul 28, 1992",31,Spain,,"1,82m",left,"Aug 30, 2020",Elche CF,€2.50m,,,€2.50m
+811,262939,Johan Mojica,Left-Back,"Aug 21, 1992",31,Colombia,,"1,85m",left,"Jul 26, 2023",Villarreal CF,€2.50m,,"On loan from Villarreal CF until Jun 30, 2024",€2.50m
+812,488626,Jesús Areso,Right-Back,"Jul 2, 1999",24,Spain,,"1,82m",right,"Jul 1, 2021",Bilbao Athletic,€5.00m,,"Returned after loan spell with Burgos CF; date: Jun 30, 2023; fee: End of loan",€5.00m
+813,238868,Rubén Peña,Right-Back,"Jul 18, 1991",32,Spain,,"1,70m",right,"Jul 1, 2022",Villarreal CF,€2.50m,,,€2.50m
+814,213670,Lucas Torró,Defensive Midfield,"Jul 19, 1994",29,Spain,,"1,90m",right,"Aug 4, 2020",Eintracht Frankfurt,€6.00m,,,€6.00m
+815,710677,Iker Muñoz,Defensive Midfield,"Sep 5, 2002",21,Spain,,"1,80m",right,"Jul 1, 2023",CA Osasuna Promesas,€4.00m,,"Internal transfer: CA Osasuna Promesas; date: Jul 1, 2023",€4.00m
+816,552425,Jon Moncayola,Central Midfield,"May 13, 1998",25,Spain,,"1,82m",right,"Jul 1, 2019",CA Osasuna Promesas,€9.00m,,,€9.00m
+817,785353,Pablo Ibáñez,Central Midfield,"Sep 20, 1998",25,Spain,,"1,79m",right,"Jul 1, 2022",CA Osasuna Promesas,€2.50m,,,€2.50m
+818,634131,Aimar Oroz,Attacking Midfield,"Nov 27, 2001",22,Spain,,"1,77m",right,"Jul 1, 2022",CA Osasuna Promesas,€15.00m,,,€15.00m
+819,175449,Moi Gómez,Left Winger,"Jun 23, 1994",29,Spain,,"1,76m",right,"Jul 28, 2022",Villarreal CF,€5.00m,,,€5.00m
+820,213260,Rubén García,Left Winger,"Jul 14, 1993",30,Spain,,"1,72m",left,"Jul 1, 2019",Levante UD,€3.00m,,,€3.00m
+821,364603,José Manuel Arnáiz,Left Winger,"Apr 15, 1995",28,Spain,,"1,73m",right,"Jul 1, 2023",CD Leganés,€2.50m,,"Joined from CD Leganés; date: Jul 1, 2023; fee: free transfer",€2.50m
+822,298575,Kike Barja,Right Winger,"Apr 1, 1997",27,Spain,,"1,79m",right,"Jan 1, 2018",CA Osasuna Promesas,€2.50m,Cruciate ligament tear - Return unknown,,€2.50m
+823,46413,Ante Budimir,Centre-Forward,"Jul 22, 1991",32,Croatia,,"1,90m",left,"Jul 1, 2021",RCD Mallorca,€5.00m,,,€5.00m
+824,631002,Raúl García,Centre-Forward,"Nov 3, 2000",23,Spain,,"1,92m",right,"Aug 10, 2023",Real Betis Balompié,€3.00m,,"Joined from Real Betis Balompié; date: Aug 10, 2023; fee: €6.50m",€3.00m
+825,298197,Antonio Sivera,Goalkeeper,"Aug 11, 1996",27,Spain,,"1,85m",right,"Jul 19, 2017",Valencia Mestalla,€5.00m,,,€5.00m
+826,631693,Jesús Owono,Goalkeeper,"Mar 1, 2001",23,Equatorial Guinea,,"1,81m",both,"Jul 1, 2022",Deportivo Alavés B,€400k,,,€400k
+827,662261,Rafa Marín,Centre-Back,"May 19, 2002",21,Spain,,"1,91m",right,"Jul 28, 2023",Real Madrid,€5.00m,,"On loan from Real Madrid until Jun 30, 2024",€5.00m
+828,559979,Abdel Abqar,Centre-Back,"Mar 10, 1999",25,Morocco,,"1,88m",right,"Jul 1, 2022",Deportivo Alavés B,€3.00m,,,€3.00m
+829,237499,Aleksandar Sedlar,Centre-Back,"Dec 13, 1991",32,Serbia,,"1,80m",right,"Jul 5, 2022",RCD Mallorca,€500k,"Cruciate ligament tear - Return expected on Jun 30, 2024",,€500k
+830,568158,Javi López,Left-Back,"Mar 25, 2002",22,Spain,,"1,83m",left,"Aug 4, 2020",Deportivo Alavés B,€5.00m,,,€5.00m
+831,177046,Rubén Duarte,Left-Back,"Oct 18, 1995",28,Spain,,"1,79m",left,"Jul 1, 2017",RCD Espanyol Barcelona,€2.50m,,,€2.50m
+832,289255,Andoni Gorosabel,Right-Back,"Aug 4, 1996",27,Spain,,"1,74m",right,"Aug 11, 2023",Real Sociedad,€2.50m,,"Joined from Real Sociedad; date: Aug 11, 2023; fee: €500k",€2.50m
+833,533568,Nahuel Tenaglia,Right-Back,"Feb 21, 1996",28,Argentina,,"1,81m",right,"Aug 20, 2023",CA Talleres,€1.80m,,"Joined from CA Talleres; date: Aug 20, 2023; fee: €1.00m",€1.80m
+834,495621,Antonio Blanco,Defensive Midfield,"Jul 23, 2000",23,Spain,,"1,76m",right,"Jul 25, 2023",Real Madrid,€5.00m,,"Joined from Real Madrid; date: Jul 25, 2023; fee: €4.00m",€5.00m
+835,431190,Carlos Benavidez,Defensive Midfield,"Mar 30, 1998",26,Uruguay,,"1,85m",right,"Jul 1, 2022",CA Independiente,€1.00m,,,€1.00m
+836,465967,Ander Guevara,Central Midfield,"Jul 7, 1997",26,Spain,,"1,80m",right,"Jul 9, 2023",Real Sociedad,€5.00m,,"Joined from Real Sociedad; date: Jul 9, 2023; fee: €1.80m",€5.00m
+837,289257,Jon Guridi,Central Midfield,"Feb 28, 1995",29,Spain,,"1,79m",left,"Jul 11, 2022",Real Sociedad,€4.00m,,,€4.00m
+838,282076,Ianis Hagi,Attacking Midfield,"Oct 22, 1998",25,Romania,,"1,82m",both,"Aug 27, 2023",Rangers FC,€2.50m,,"On loan from Rangers FC until Jun 30, 2024",€2.50m
+839,278837,Luis Rioja,Left Winger,"Oct 16, 1993",30,Spain,,"1,76m",left,"Jul 1, 2019",UD Almería,€4.00m,,,€4.00m
+840,718034,Abde Rebbach,Left Winger,"Aug 11, 1998",25,Algeria,,"1,76m",right,"Jul 1, 2022",Deportivo Alavés B,€800k,,,€800k
+841,434990,Álex Sola,Right Winger,"Jun 9, 1999",24,Spain,,"1,78m",right,"Sep 1, 2023",Real Sociedad,€3.00m,,"On loan from Real Sociedad until Jun 30, 2024",€3.00m
+842,540536,Carlos Vicente,Right Winger,"Apr 23, 1999",24,Spain,,"1,79m",right,"Jan 1, 2024",Racing Ferrol,€2.00m,,"Joined as a winter arrival from: Racing Ferrol; date: Jan 1, 2024; fee: €600k",€2.00m
+843,572271,Xeber Alkain,Right Winger,"Jun 26, 1997",26,Spain,,"1,74m",right,"Jul 1, 2022",Real Sociedad B,€1.50m,,,€1.50m
+844,991268,Samu Omorodion,Centre-Forward,"May 5, 2004",19,Spain,,"1,93m",right,"Aug 26, 2023",Atlético de Madrid,€40.00m,,"On loan from Atlético de Madrid until Jun 30, 2024",€40.00m
+845,742201,Giuliano Simeone,Centre-Forward,"Dec 18, 2002",21,Argentina,,"1,73m",right,"Jul 21, 2023",Atlético de Madrid,€1.50m,,"On loan from Atlético de Madrid until Jun 30, 2024",€1.50m
+846,93936,Kike García,Centre-Forward,"Nov 25, 1989",34,Spain,,"1,86m",right,"Aug 13, 2023",CA Osasuna,€1.20m,,"Joined from CA Osasuna; date: Aug 13, 2023; fee: free transfer",€1.20m
+847,417913,Álvaro Valles,Goalkeeper,"Jul 25, 1997",26,Spain,,"1,91m",right,"Jul 1, 2019",Las Palmas Atlético,€15.00m,,,€15.00m
+848,284430,Aarón Escandell,Goalkeeper,"Sep 27, 1995",28,Spain,,"1,84m",right,"Jul 24, 2023",FC Cartagena,€1.00m,,"Joined from FC Cartagena; date: Jul 24, 2023; fee: €400k",€1.00m
+849,617060,Mika Mármol,Centre-Back,"Jul 1, 2001",22,Spain,,"1,81m",left,"Aug 11, 2023",FC Andorra,€8.00m,,"Joined from FC Andorra; date: Aug 11, 2023; fee: €1.90m",€8.00m
+850,588426,Saúl Coco,Centre-Back,"Feb 9, 1999",25,Equatorial Guinea,,"1,87m",right,"Jul 1, 2021",Las Palmas Atlético,€4.00m,,,€4.00m
+851,510396,Alex Suárez,Centre-Back,"Mar 18, 1993",31,Spain,,"1,80m",right,"Jul 1, 2019",Las Palmas Atlético,€1.20m,,,€1.20m
+852,1146029,Juanma Herzog,Centre-Back,"May 13, 2004",19,Spain,,"1,86m",right,"Jan 2, 2019",,€1.00m,,,€1.00m
+853,390823,Eric Curbelo,Centre-Back,"Jan 14, 1994",30,Spain,,"1,80m",right,"Jul 1, 2021",Las Palmas Atlético,€900k,,,€900k
+854,678406,Sergi Cardona,Left-Back,"Jul 8, 1999",24,Spain,,"1,86m",both,"Jul 11, 2023",Las Palmas Atlético,€6.00m,,,€6.00m
+855,215099,Daley Sinkgraven,Left-Back,"Jul 4, 1995",28,Netherlands,,"1,79m",left,"Aug 1, 2023",Bayer 04 Leverkusen,€1.20m,,"Joined from Bayer 04 Leverkusen; date: Jul 11, 2023; fee: free transfer",€1.20m
+856,513970,Julián Araujo,Right-Back,"Aug 13, 2001",22,Mexico,,"1,76m",right,"Jul 1, 2018",FC Barcelona,€8.00m,,"On loan from FC Barcelona until Jun 30, 2024",€8.00m
+857,230222,Álvaro Lemos,Right-Back,"Mar 30, 1993",31,Spain,,"1,77m",right,"Aug 23, 2023",Celta de Vigo,€800k,,,€800k
+858,668547,Máximo Perrone,Defensive Midfield,"Jan 7, 2003",21,Argentina,,"1,77m",left,"Aug 2, 2021",Manchester City,€7.50m,,"On loan from Manchester City until Jun 30, 2024",€7.50m
+859,203516,Nuke Mfulu,Defensive Midfield,"Mar 20, 1994",30,DR Congo,,"1,83m",right,"Aug 18, 2020",Elche CF,€800k,,,€800k
+860,581781,Enzo Loiodice,Central Midfield,"Nov 27, 2000",23,France,,"1,77m",left,"Jul 1, 2023",Dijon FCO,€3.00m,,,€3.00m
+861,282421,Javi Muñoz,Central Midfield,"Feb 28, 1995",29,Spain,,"1,77m",right,"Feb 14, 2024",SD Eibar,€2.50m,,"Joined from SD Eibar; date: Jul 1, 2023; fee: free transfer",€2.50m
+862,120095,José Campaña,Central Midfield,"May 31, 1993",30,Spain,,"1,79m",right,"Jul 1, 2019",Without Club,€2.00m,,"Joined as a winter arrival from: Without Club; date: Feb 14, 2024; fee: -",€2.00m
+863,531062,Fabio González,Central Midfield,"Feb 12, 1997",27,Spain,,"1,76m",right,"Jul 1, 2019",Las Palmas Atlético,€600k,,,€600k
+864,566574,Kirian Rodríguez,Attacking Midfield,"Mar 5, 1996",28,Spain,,"1,78m",right,"Jul 1, 2021",Las Palmas Atlético,€12.00m,Team captain,,€12.00m
+865,733576,Alberto Moleiro,Attacking Midfield,"Sep 30, 2003",20,Spain,,"1,71m",right,"Aug 27, 2020",UD Las Palmas U19,€10.00m,,,€10.00m
+866,534379,Pejiño,Left Winger,"Jul 29, 1996",27,Spain,,"1,78m",left,"Jul 1, 2018",Sevilla Atlético,€1.50m,,,€1.50m
+867,282672,Benito Ramírez,Left Winger,"Jul 11, 1995",28,Spain,,"1,79m",left,"Aug 18, 2023",Las Palmas Atlético,€500k,,,€500k
+868,603940,Marvin Park,Right Winger,"Jul 3, 2000",23,Spain,,"1,77m",right,"Jul 30, 2023",Real Madrid Castilla,€2.00m,,"On loan from Real Madrid Castilla until Jun 30, 2024",€2.00m
+869,223725,Munir El Haddadi,Right Winger,"Sep 1, 1995",28,Morocco,,"1,77m",left,"Aug 17, 2023",Getafe CF,€2.00m,,"Joined from Getafe CF; date: Jul 30, 2023; fee: free transfer",€2.00m
+870,355689,Sory Kaba,Centre-Forward,"Jul 28, 1995",28,Guinea,,"1,89m",right,"Jul 1, 2023",FC Midtjylland,€1.80m,,"Joined from FC Midtjylland; date: Aug 17, 2023; fee: €1.50m",€1.80m
+871,199369,Sandro Ramírez,Centre-Forward,"Jul 9, 1995",28,Spain,,"1,74m",right,"Jul 7, 2022",SD Huesca,€1.50m,,"Joined from SD Huesca; date: Jul 1, 2023; fee: €1.00m",€1.50m
+872,443222,Marc Cardona,Centre-Forward,"Jul 8, 1995",28,Spain,,"1,82m",right,"Jul 1, 2023",CA Osasuna,€1.40m,,,€1.40m
+873,190263,Predrag Rajkovic,Goalkeeper,"Oct 31, 1995",28,Serbia,,"1,91m",right,"Jul 22, 2022",Stade Reims,€10.00m,,,€10.00m
+874,316884,Dominik Greif,Goalkeeper,"Apr 6, 1997",27,Slovakia,,"1,97m",right,"Jul 6, 2021",Slovan Bratislava,€2.00m,,,€2.00m
+875,27493,Iván Cuéllar,Goalkeeper,"May 27, 1984",39,Spain,,"1,87m",left,"Aug 28, 2023",Sporting Gijón,€100k,,"Joined from Sporting Gijón; date: Aug 28, 2023; fee: free transfer",€100k
+876,277384,Martin Valjent,Centre-Back,"Dec 11, 1995",28,Slovakia,,"1,87m",right,"Jul 1, 2019",Chievo Verona,€4.50m,,,€4.50m
+877,400131,Siebe Van der Heyden,Centre-Back,"May 30, 1998",25,Belgium,,"1,85m",left,"Jul 18, 2023",Union Saint-Gilloise,€3.00m,,"Joined from Union Saint-Gilloise; date: Jul 18, 2023; fee: €2.70m",€3.00m
+878,520840,José Copete,Centre-Back,"Oct 10, 1999",24,Spain,,"1,90m",left,"Jul 1, 2022",SD Ponferradina,€2.50m,,,€2.50m
+879,278296,Antonio Raíllo,Centre-Back,"Oct 8, 1991",32,Spain,,"1,87m",,"Jul 1, 2016",RCD Espanyol Barcelona,€2.00m,Team captain,,€2.00m
+880,143559,Matija Nastasic,Centre-Back,"Mar 28, 1993",31,Serbia,,"1,88m",left,"Sep 1, 2022",ACF Fiorentina,€1.50m,,,€1.50m
+881,320271,Toni Lato,Left-Back,"Nov 21, 1997",26,Spain,,"1,71m",left,"Jul 1, 2023",Valencia CF,€2.50m,,"Joined from Valencia CF; date: Jul 1, 2023; fee: free transfer",€2.50m
+882,65318,Jaume Costa,Left-Back,"Mar 18, 1988",36,Spain,,"1,71m",left,"Jul 7, 2021",Villarreal CF,€1.00m,,,€1.00m
+883,251876,Pablo Maffeo,Right-Back,"Jul 12, 1997",26,Argentina,,"1,72m",right,"Jul 1, 2022",VfB Stuttgart,€6.00m,,,€6.00m
+884,339699,Giovanni González,Right-Back,"Sep 20, 1994",29,Uruguay,,"1,78m",right,"Jan 29, 2022",CA Peñarol,€2.50m,,,€2.50m
+885,216870,Nacho Vidal,Right-Back,"Jan 24, 1995",29,Spain,,"1,80m",right,"Jan 26, 2024",CA Osasuna,€2.50m,,"On loan from CA Osasuna until Jun 30, 2024",€2.50m
+886,657430,Samú Costa,Defensive Midfield,"Nov 27, 2000",23,Portugal,,"1,85m",left,"Aug 10, 2023",UD Almería,€8.00m,,"Joined from UD Almería; date: Aug 10, 2023; fee: €3.00m",€8.00m
+887,142031,Omar Mascarell,Defensive Midfield,"Feb 2, 1993",31,Spain,,"1,81m",right,"Jul 1, 2023",Elche CF,€1.00m,,"Joined from Elche CF; date: Jul 1, 2023; fee: €600k",€1.00m
+888,142021,Sergi Darder,Central Midfield,"Dec 22, 1993",30,Spain,,"1,80m",right,"Aug 11, 2023",RCD Espanyol Barcelona,€6.00m,,"Joined from RCD Espanyol Barcelona; date: Aug 11, 2023; fee: €8.00m",€6.00m
+889,335225,Manu Morlanes,Central Midfield,"Jan 12, 1999",25,Spain,,"1,78m",right,"Jul 1, 2023",Villarreal CF,€2.50m,,"Joined from Villarreal CF; date: Jul 1, 2023; fee: €2.50m",€2.50m
+890,513031,Antonio Sánchez,Central Midfield,"Apr 22, 1997",26,Spain,,"1,79m",right,"Jul 1, 2018",RCD Mallorca B,€2.50m,,,€2.50m
+891,139435,Dani Rodríguez,Attacking Midfield,"Jun 6, 1988",35,Spain,,"1,78m",right,"Jul 1, 2018",Albacete Balompié,€1.20m,,,€1.20m
+892,245078,Nemanja Radonjic,Left Winger,"Feb 15, 1996",28,Serbia,,"1,85m",both,"Jan 31, 2024",Torino FC,€3.00m,,"On loan from Torino FC until Jun 30, 2024",€3.00m
+893,706138,Javi Llabrés,Left Winger,"Sep 11, 2002",21,Spain,,"1,74m",both,"Jul 1, 2022",RCD Mallorca B,€800k,,"Returned after loan spell with CD Mirandés; date: Jun 30, 2023; fee: End of loan",€800k
+894,256267,Vedat Muriqi,Centre-Forward,"Apr 24, 1994",29,Kosovo,,"1,94m",left,"Jul 22, 2022",SS Lazio,€15.00m,,,€15.00m
+895,343463,Cyle Larin,Centre-Forward,"Apr 17, 1995",28,Canada,,"1,88m",right,"Aug 3, 2023",Real Valladolid CF,€5.00m,,"Joined from Real Valladolid CF; date: Aug 3, 2023; fee: €7.50m",€5.00m
+896,177452,Abdón Prats,Centre-Forward,"Dec 7, 1992",31,Spain,,"1,81m",left,"Jul 4, 2017",Racing Santander,€2.00m,,,€2.00m
+897,502676,Giorgi Mamardashvili,Goalkeeper,"Sep 29, 2000",23,Georgia,,"1,97m",left,"Jan 1, 2022",Dinamo Tbilisi,€35.00m,,,€35.00m
+898,227805,Jaume Doménech,Goalkeeper,"Nov 5, 1990",33,Spain,,"1,85m",right,"Jul 1, 2015",Valencia Mestalla,€900k,,,€900k
+899,398131,Cristian Rivero,Goalkeeper,"Mar 21, 1998",26,Spain,,"1,88m",right,"Aug 1, 2020",Valencia Mestalla,€200k,,,€200k
+900,646750,Cristhian Mosquera,Centre-Back,"Jun 27, 2004",19,Spain,,"1,91m",right,"Jan 1, 2023",Valencia Mestalla,€15.00m,,,€15.00m
+901,895334,Yarek Gasiorowski,Centre-Back,"Jan 12, 2005",19,Spain,,"1,92m",left,"Oct 1, 2023",Valencia Mestalla,€10.00m,,"Internal transfer: Valencia Mestalla; date: Oct 1, 2023",€10.00m
+902,346289,Mouctar Diakhaby,Centre-Back,"Dec 19, 1996",27,Guinea,,"1,92m",right,"Jul 1, 2018",: Ablöse €15.00m,€4.00m,"Knee injury - Return expected on Mar 1, 2025",,€4.00m
+903,615350,Cenk Özkacar,Centre-Back,"Oct 6, 2000",23,Türkiye,,"1,90m",left,"Jul 1, 2023",Olympique Lyon,€2.00m,,"Joined from Olympique Lyon; date: Jul 1, 2023; fee: €5.00m",€2.00m
+904,221322,José Gayà,Left-Back,"May 25, 1995",28,Spain,,"1,72m",left,"Jul 1, 2014",Valencia Mestalla,€30.00m,Team captain,,€30.00m
+905,623024,Jesús Vázquez,Left-Back,"Jan 2, 2003",21,Spain,,"1,82m",left,"Jan 1, 2022",Valencia Mestalla,€2.00m,,,€2.00m
+906,367466,Thierry Correia,Right-Back,"Mar 9, 1999",25,Portugal,,"1,76m",right,"Sep 2, 2019",Sporting CP,€6.00m,,,€6.00m
+907,170472,Dimitri Foulquier,Right-Back,"Mar 23, 1993",31,Guadeloupe,,"1,83m",right,"Aug 30, 2021",Granada CF,€2.50m,,,€2.50m
+908,328480,Pepelu,Defensive Midfield,"Aug 11, 1998",25,Spain,,"1,86m",right,"Jul 8, 2023",Levante UD,€16.00m,,"Joined from Levante UD; date: Jul 8, 2023; fee: €5.00m",€16.00m
+909,495629,Hugo Guillamón,Defensive Midfield,"Jan 31, 2000",24,Spain,,"1,78m",right,"Jul 1, 2020",Valencia Mestalla,€8.00m,,,€8.00m
+910,834764,Javi Guerra,Central Midfield,"May 13, 2003",20,Spain,,"1,87m",right,"Jul 1, 2023",Valencia Mestalla,€20.00m,,"Internal transfer: Valencia Mestalla; date: Jul 1, 2023",€20.00m
+911,375382,André Almeida,Central Midfield,"May 30, 2000",23,Portugal,,"1,76m",right,"Aug 25, 2022",Vitória Guimarães SC,€15.00m,,,€15.00m
+912,377219,Selim Amallah,Attacking Midfield,"Nov 15, 1996",27,Morocco,,"1,85m",right,"Aug 29, 2023",Real Valladolid CF,€2.00m,,"On loan from Real Valladolid CF until Jun 30, 2024",€2.00m
+913,622992,Pablo Gozálbez,Attacking Midfield,"Apr 30, 2001",22,Spain,,,,"Jul 1, 2023",,€800k,,,€800k
+914,617081,Diego López,Left Winger,"May 13, 2002",21,Spain,,"1,72m",right,"Jul 1, 2023",Valencia Mestalla,€12.00m,,"Internal transfer: Valencia Mestalla; date: Jul 1, 2023",€12.00m
+915,622988,Fran Pérez,Right Winger,"Sep 9, 2002",21,Spain,,"1,76m",right,"Jan 31, 2024",Valencia Mestalla,€8.00m,,"Internal transfer: Valencia Mestalla; date: Jul 1, 2023",€8.00m
+916,710004,Peter Federico,Right Winger,"Jul 25, 2002",21,Dominican Republic,,"1,80m",left,"Aug 20, 2023",Real Madrid Castilla,€3.00m,,"On loan from Real Madrid Castilla until Jun 30, 2024",€3.00m
+917,251845,Sergi Canós,Right Winger,"Feb 2, 1997",27,Spain,,"1,77m",right,"Jul 1, 2022",Brentford FC,€2.50m,,"Joined from Brentford FC; date: Aug 20, 2023; fee: €250k",€2.50m
+918,707279,Hugo González,Right Winger,"Feb 7, 2003",21,Spain,,,,"Sep 1, 2023",,€250k,,,€250k
+919,573775,Hugo Duro,Centre-Forward,"Nov 10, 1999",24,Spain,,"1,83m",left,"Jul 26, 2023",Getafe CF,€16.00m,,,€16.00m
+920,396337,Miguel San Román,Goalkeeper,"Jul 14, 1997",26,Spain,,"1,87m",right,"Jul 11, 2023",SD Ponferradina,€1.00m,,"Joined from SD Ponferradina; date: Jul 11, 2023; fee: free transfer",€1.00m
+921,144128,Matías Dituro,Goalkeeper,"May 8, 1987",36,Argentina,,"1,91m",right,"Jan 8, 2024",Fatih Karagümrük,€500k,,"Joined as a winter arrival from: Fatih Karagümrük; date: Jan 8, 2024; fee: ?",€500k
+922,627290,John Donald,Centre-Back,"Sep 25, 2000",23,Spain,,"1,82m",right,"Jul 1, 2022",Elche Ilicitano,€1.20m,,,€1.20m
+923,73250,Mario Gaspar,Centre-Back,"Nov 24, 1990",33,Spain,,"1,80m",right,"Jul 31, 2023",Watford FC,€1.00m,,"Joined from Watford FC; date: Jul 31, 2023; fee: free transfer",€1.00m
+924,349836,Diego González,Centre-Back,"Jan 28, 1995",29,Spain,,"1,85m",left,"Oct 9, 2020",Málaga CF,€1.00m,,,€1.00m
+925,203043,Pedro Bigas,Centre-Back,"May 15, 1990",33,Spain,,"1,81m",left,"Jul 7, 2021",SD Eibar,€1.00m,,,€1.00m
+926,947431,David López,Centre-Back,"Feb 3, 2003",21,Spain,,"1,95m",,"Feb 1, 2024",RCD Mallorca,€100k,,"On loan from RCD Mallorca until Jun 30, 2024",€100k
+927,739315,Nicolás Fernández Mercau,Left-Back,"Jan 11, 2000",24,Argentina,,"1,72m",left,"Sep 1, 2022",CA San Lorenzo de Almagro,€2.40m,,,€2.40m
+928,193784,Carlos Clerc,Left-Back,"Feb 21, 1992",32,Spain,,"1,81m",left,"Jul 21, 2022",Levante UD,€1.50m,,,€1.50m
+929,819590,José Salinas,Left-Back,"Sep 30, 2000",23,Spain,,"1,78m",left,"Jul 1, 2021",Elche Ilicitano,€1.00m,,"Returned after loan spell with CD Mirandés; date: Jun 30, 2023; fee: End of loan",€1.00m
+930,545647,Sergio Carreira,Right-Back,"Oct 13, 2000",23,Spain,,"1,70m",both,"Sep 1, 2023",Celta de Vigo,€1.20m,,"On loan from Celta de Vigo until Jun 30, 2024",€1.20m
+931,330682,Jhegson Méndez,Defensive Midfield,"Apr 26, 1997",26,Ecuador,,"1,80m",right,"Feb 1, 2024",São Paulo Futebol Clube,€2.00m,,"On loan from São Paulo Futebol Clube until Jun 30, 2024",€2.00m
+932,224774,Cristian Salvador,Defensive Midfield,"Nov 20, 1994",29,Spain,,"1,84m",right,"Jul 31, 2023",SD Huesca,€800k,,"Joined from SD Huesca; date: Jul 31, 2023; fee: €250k",€800k
+933,217144,Aleix Febas,Central Midfield,"Feb 2, 1996",28,Spain,,"1,72m",right,"Jul 6, 2023",Málaga CF,€2.20m,,"Joined from Málaga CF; date: Jul 6, 2023; fee: free transfer",€2.20m
+934,536030,Arnau Puigmal,Central Midfield,"Jan 10, 2001",23,Spain,,"1,73m",right,"Jan 31, 2024",UD Almería,€2.00m,,"On loan from UD Almería until Jun 30, 2024",€2.00m
+935,961297,Rodrigo Mendoza,Central Midfield,"Mar 15, 2005",19,Spain,,"1,82m",right,"Jul 1, 2023",Elche CF U19,€1.00m,,"Internal transfer: Elche CF U19; date: Jul 1, 2023",€1.00m
+936,565899,Nicolás Castro,Attacking Midfield,"Nov 1, 2000",23,Argentina,,"1,82m",right,"Aug 7, 2023",KRC Genk,€3.00m,,"On loan from KRC Genk until Jun 30, 2024",€3.00m
+937,339816,Tete Morente,Left Winger,"Dec 4, 1996",27,Spain,,"1,84m",right,"Sep 16, 2020",Málaga CF,€2.50m,,,€2.50m
+938,221309,Óscar Plano,Right Winger,"Feb 11, 1991",33,Spain,,"1,79m",both,"Aug 4, 2023",Real Valladolid CF,€1.50m,,"Joined from Real Valladolid CF; date: Aug 4, 2023; fee: free transfer",€1.50m
+939,372051,Sergio Bermejo,Right Winger,"Aug 17, 1997",26,Spain,,"1,70m",left,"Feb 1, 2024",Real Zaragoza,€900k,,"On loan from Real Zaragoza until Jun 30, 2024",€900k
+940,277533,Josan,Right Winger,"Dec 3, 1989",34,Spain,,"1,76m",right,"Jan 1, 2018",Albacete Balompié,€800k,,,€800k
+941,566036,Borja Garcés,Centre-Forward,"Aug 6, 1999",24,Spain,,"1,83m",right,"Sep 1, 2023",Atlético de Madrid,€2.00m,,"On loan from Atlético de Madrid until Jun 30, 2024",€2.00m
+942,527972,Mourad El Ghezouani,Centre-Forward,"May 27, 1998",25,Morocco,,"1,89m",right,"Jul 1, 2020",Elche Ilicitano,€800k,,"Returned after loan spell with Burgos CF; date: Jun 30, 2023; fee: End of loan",€800k
+943,399357,Manu Nieto,Centre-Forward,"Mar 29, 1998",26,Spain,,"1,83m",right,"Jan 7, 2024",FC Andorra,€500k,,"On loan from FC Andorra until Jun 30, 2024",€500k
+944,284342,Conan Ledesma,Goalkeeper,"Feb 13, 1993",31,Argentina,,"1,86m",right,"Jul 1, 2021",CA Rosario Central,€6.00m,,,€6.00m
+945,162027,David Gil,Goalkeeper,"Jan 11, 1994",30,Spain,,"1,86m",right,"Jul 1, 2018",: Ablöse -,€700k,,,€700k
+946,252667,Fali,Centre-Back,"Aug 12, 1993",30,Spain,,"1,86m",right,"Jul 1, 2019",Gimnàstic de Tarragona,€2.50m,,,€2.50m
+947,585068,Aiham Ousou,Centre-Back,"Jan 9, 2000",24,Syria,,"1,86m",right,"Feb 1, 2024",SK Slavia Prague,€2.00m,,"On loan from SK Slavia Prague until Jun 30, 2024",€2.00m
+948,495625,Víctor Chust,Centre-Back,"Mar 5, 2000",24,Spain,,"1,84m",both,"Jul 6, 2022",Real Madrid,€1.50m,,,€1.50m
+949,286779,Jorge Meré,Centre-Back,"Apr 17, 1997",26,Spain,,"1,82m",right,"Jul 31, 2023",CF América,€1.00m,,"On loan from CF América until Jun 30, 2024",€1.00m
+950,62945,Luis Hernández,Centre-Back,"Apr 14, 1989",34,Spain,,"1,82m",right,"Jan 31, 2022",Maccabi Tel Aviv,€700k,"Knee injury - Return expected on Jun 19, 2024",,€700k
+951,490421,Momo Mbaye,Centre-Back,"Jun 28, 1998",25,Senegal,,"1,92m",left,"Aug 9, 2022",Cádiz CF Mirandilla,€500k,,,€500k
+952,422466,Javi Hernández,Left-Back,"May 2, 1998",25,Spain,,"1,85m",left,"Jul 5, 2023",CD Leganés,€3.00m,,"On loan from CD Leganés until Jun 30, 2024",€3.00m
+953,927768,Lucas Pires,Left-Back,"Mar 24, 2001",23,Brazil,,"1,82m",left,"Jul 25, 2023",Santos FC,€2.00m,,"On loan from Santos FC until Jun 30, 2024",€2.00m
+954,254037,Iza Carcelén,Right-Back,"Apr 23, 1993",30,Spain,,"1,70m",right,"Jul 1, 2019",CF Rayo Majadahonda,€2.00m,,,€2.00m
+955,197135,Joseba Zaldua,Right-Back,"Jun 24, 1992",31,Spain,,"1,74m",right,"Jul 11, 2022",Real Sociedad,€1.00m,,,€1.00m
+956,315604,Diadié Samassékou,Defensive Midfield,"Jan 11, 1996",28,Mali,,"1,77m",right,"Feb 1, 2024",TSG 1899 Hoffenheim,€2.50m,,"On loan from TSG 1899 Hoffenheim until Jun 30, 2024",€2.50m
+957,225462,José Mari,Defensive Midfield,"Dec 6, 1987",36,Spain,,"1,82m",right,"Aug 16, 2016",Levante UD,€300k,"Team captain; Knee injury - Return expected on Jul 1, 2024",,€300k
+958,277635,Rominigue Kouamé,Central Midfield,"Dec 17, 1996",27,Mali,,"1,77m",left,"Sep 1, 2023",ESTAC Troyes,€2.50m,,"Joined from ESTAC Troyes; date: Sep 1, 2023; fee: €2.50m",€2.50m
+959,247250,Rubén Alcaraz,Central Midfield,"May 1, 1991",32,Spain,,"1,80m",right,"Jul 1, 2022",Real Valladolid CF,€2.00m,,,€2.00m
+960,266795,Gonzalo Escalante,Central Midfield,"Mar 27, 1993",31,Argentina,,"1,82m",right,"Jul 1, 2023",SS Lazio,€2.00m,,"Joined from SS Lazio; date: Jul 1, 2023; fee: €2.50m",€2.00m
+961,307519,Fede San Emeterio,Central Midfield,"Mar 16, 1997",27,Spain,,"1,76m",right,"Aug 7, 2022",Real Valladolid CF,€1.50m,"Cruciate ligament tear - Return expected on Jul 16, 2024",,€1.50m
+962,563137,Robert Navarro,Attacking Midfield,"Apr 12, 2002",21,Spain,,"1,78m",right,"Sep 1, 2023",Real Sociedad,€3.50m,,"On loan from Real Sociedad until Jun 30, 2024",€3.50m
+963,89733,Álex Fernández,Attacking Midfield,"Oct 15, 1992",31,Spain,,"1,83m",right,"Aug 7, 2017",Elche CF,€2.00m,,,€2.00m
+964,126737,Juanmi,Left Winger,"May 20, 1993",30,Spain,,"1,72m",right,"Feb 1, 2024",Real Betis Balompié,€8.00m,,"On loan from Real Betis Balompié until Jun 30, 2024",€8.00m
+965,211251,Darwin Machís,Left Winger,"Feb 7, 1993",31,Venezuela,,"1,71m",right,"Jul 1, 2023",Real Valladolid CF,€2.00m,,"On loan from Real Valladolid CF until Jun 30, 2024",€2.00m
+966,598765,Brian Ocampo,Left Winger,"Jun 25, 1999",24,Uruguay,,"1,72m",right,"Aug 28, 2022",Club Nacional,€1.00m,,,€1.00m
+967,281755,Iván Alejo,Right Winger,"Feb 10, 1995",29,Spain,,"1,86m",right,"Aug 4, 2020",Getafe CF,€1.50m,,,€1.50m
+968,538810,Chris Ramos,Centre-Forward,"Jan 18, 1997",27,Spain,,"1,90m",right,"Jan 31, 2023",CD Lugo,€4.00m,,,€4.00m
+969,396894,Maxi Gómez,Centre-Forward,"Aug 14, 1996",27,Uruguay,,"1,86m",right,"Aug 22, 2023",Trabzonspor,€2.50m,Calf injury - Return unknown,"On loan from Trabzonspor until Jun 30, 2024",€2.50m
+970,85383,Rubén Sobrino,Centre-Forward,"Jun 1, 1992",31,Spain,,"1,85m",right,"Aug 30, 2021",Valencia CF,€1.50m,,,€1.50m
+971,212391,Roger Martí,Centre-Forward,"Jan 3, 1991",33,Spain,,"1,79m",right,"Jan 26, 2023",Elche CF,€1.50m,,,€1.50m
+972,256429,Sergi Guardiola,Centre-Forward,"May 29, 1991",32,Spain,,"1,85m",left,"Jul 1, 2023",Real Valladolid CF,€900k,,"Joined from Real Valladolid CF; date: Jul 1, 2023; fee: €1.00m",€900k
+973,121483,Jan Oblak,Goalkeeper,"Jan 7, 1993",31,Slovenia,,"1,88m",right,"Jul 16, 2014",SL Benfica,€30.00m,,,€30.00m
+974,525438,Horaţiu Moldovan,Goalkeeper,"Jan 20, 1998",26,Romania,,"1,83m",right,"Jan 24, 2024",FC Rapid Bucharest,€2.50m,,"Joined as a winter arrival from: FC Rapid Bucharest; date: Jan 24, 2024; fee: €800k",€2.50m
+975,250845,José María Giménez,Centre-Back,"Jan 20, 1995",29,Uruguay,,"1,85m",right,"Apr 25, 2013",: Ablöse €995k,€25.00m,Muscle injury - Return unknown,,€25.00m
+976,281769,Mario Hermoso,Centre-Back,"Jun 18, 1995",28,Spain,,"1,84m",left,"Jul 18, 2019",RCD Espanyol Barcelona,€25.00m,Muscle injury - Return unknown,,€25.00m
+977,35047,Axel Witsel,Centre-Back,"Jan 12, 1989",35,Belgium,,"1,86m",right,"Jul 6, 2022",Borussia Dortmund,€4.00m,,,€4.00m
+978,107010,Stefan Savic,Centre-Back,"Jan 8, 1991",33,Montenegro,,"1,87m",right,"Jul 20, 2015",: Ablöse €12.00m,€3.00m,,,€3.00m
+979,149498,Gabriel Paulista,Centre-Back,"Nov 26, 1990",33,Brazil,,"1,87m",right,"Jan 31, 2024",Valencia CF,€2.50m,,"Joined as a winter arrival from: Valencia CF; date: Jan 31, 2024; fee: free transfer",€2.50m
+980,240692,Reinildo Mandava,Left-Back,"Jan 21, 1994",30,Mozambique,,"1,80m",left,"Jan 31, 2022",LOSC Lille,€12.00m,,,€12.00m
+981,424042,Nahuel Molina,Right-Back,"Apr 6, 1998",26,Argentina,,"1,75m",right,"Jul 28, 2022",Udinese Calcio,€35.00m,,,€35.00m
+982,57500,César Azpilicueta,Right-Back,"Aug 28, 1989",34,Spain,,"1,78m",right,"Jul 6, 2023",Chelsea FC,€3.00m,,"Joined from Chelsea FC; date: Jul 6, 2023; fee: free transfer",€3.00m
+983,255901,Rodrigo de Paul,Central Midfield,"May 24, 1994",29,Argentina,,"1,80m",right,"Jul 12, 2021",Udinese Calcio,€30.00m,,,€30.00m
+984,282411,Marcos Llorente,Central Midfield,"Jan 30, 1995",29,Spain,,"1,84m",right,"Jul 1, 2019",Real Madrid,€30.00m,,,€30.00m
+985,926694,Arthur Vermeeren,Central Midfield,"Feb 7, 2005",19,Belgium,,"1,80m",right,"Jan 26, 2024",Royal Antwerp FC,€30.00m,,"Joined as a winter arrival from: Royal Antwerp FC; date: Jan 26, 2024; fee: €18.00m",€30.00m
+986,775605,Pablo Barrios,Central Midfield,"Jun 15, 2003",20,Spain,,"1,81m",right,"Jan 23, 2023",Atlético de Madrid B,€25.00m,,,€25.00m
+987,74229,Koke,Central Midfield,"Jan 8, 1992",32,Spain,,"1,76m",right,"Jan 1, 2011",: Ablöse -,€12.00m,Team captain,,€12.00m
+988,148928,Saúl Ñíguez,Central Midfield,"Nov 21, 1994",29,Spain,,"1,84m",left,"Jul 1, 2013",: Ablöse -,€7.50m,,,€7.50m
+989,205562,Thomas Lemar,Attacking Midfield,"Nov 12, 1995",28,France,,"1,71m",left,"Jul 1, 2018",AS Monaco,€12.00m,Achilles tendon rupture - Return unknown,,€12.00m
+990,694928,Samuel Lino,Left Winger,"Dec 23, 1999",24,Brazil,,"1,70m",right,"Jul 8, 2022",Gil Vicente FC,€25.00m,,"Returned after loan spell with Valencia CF; date: Jun 30, 2023; fee: End of loan",€25.00m
+991,461617,Rodrigo Riquelme,Left Winger,"Apr 2, 2000",24,Spain,,"1,74m",right,"Jul 1, 2020",Atlético de Madrid B,€25.00m,,"Returned after loan spell with Girona FC; date: Jun 30, 2023; fee: End of loan",€25.00m
+992,612496,Marcos Paulo,Left Winger,"Feb 1, 2001",23,Portugal,,"1,86m",right,"Jul 1, 2021",Fluminense Football Club,€4.00m,,"Returned after loan spell with São Paulo Futebol Clube; date: Dec 31, 2023; fee: End of loan",€4.00m
+993,67082,Vitolo,Left Winger,"Nov 2, 1989",34,Spain,,"1,84m",right,"Jul 12, 2017",Sevilla FC,€300k,Knee injury - Return unknown,"Returned after loan spell with UD Las Palmas; date: Jun 30, 2023; fee: End of loan",€300k
+994,266807,Ángel Correa,Right Winger,"Mar 9, 1995",29,Argentina,,"1,71m",right,"Jan 1, 2015",CA San Lorenzo de Almagro,€18.00m,,,€18.00m
+995,125781,Antoine Griezmann,Centre-Forward,"Mar 21, 1991",33,France,,"1,76m",left,"Jul 1, 2023",FC Barcelona,€25.00m,,"Joined from FC Barcelona; date: Jul 1, 2023; fee: €22.00m",€25.00m
+996,128223,Álvaro Morata,Centre-Forward,"Oct 23, 1992",31,Spain,,"1,89m",right,"Jul 1, 2020",Chelsea FC,€20.00m,,,€20.00m
+997,167850,Memphis Depay,Centre-Forward,"Feb 13, 1994",30,Netherlands,,"1,78m",right,"Jan 20, 2023",FC Barcelona,€12.00m,,,€12.00m
+998,226012,David Soria,Goalkeeper,"Apr 4, 1993",31,Spain,,"1,92m",right,"Jul 13, 2018",Sevilla FC,€6.00m,,,€6.00m
+999,438682,Daniel Fuzato,Goalkeeper,"Jul 4, 1997",26,Brazil,,"1,90m",right,"Jul 5, 2023",UD Ibiza,€1.00m,,"On loan from UD Ibiza until Jun 30, 2024",€1.00m
+1000,577486,Gastón Álvarez,Centre-Back,"Mar 24, 2000",24,Uruguay,,"1,84m",left,"Jul 1, 2023",CA Boston River,€10.00m,,"Joined from CA Boston River; date: Jul 1, 2023; fee: €3.50m",€10.00m
+1001,221150,Djené,Centre-Back,"Dec 31, 1991",32,Togo,,"1,78m",right,"Jul 24, 2017",Sint-Truidense VV,€3.00m,Team captain,,€3.00m
+1002,257376,Domingos Duarte,Centre-Back,"Mar 10, 1995",29,Portugal,,"1,92m",right,"Jul 11, 2022",Granada CF,€3.00m,,,€3.00m
+1003,353032,Omar Alderete,Centre-Back,"Dec 26, 1996",27,Paraguay,,"1,88m",left,"Jul 1, 2023",Hertha BSC,€3.00m,,"Joined from Hertha BSC; date: Jul 1, 2023; fee: €4.00m",€3.00m
+1004,249513,Diego Rico,Left-Back,"Feb 23, 1993",31,Spain,,"1,83m",left,"Sep 1, 2023",Real Sociedad,€3.00m,,"On loan from Real Sociedad until Jun 30, 2024",€3.00m
+1005,268506,Fabrizio Angileri,Left-Back,"Mar 15, 1994",30,Argentina,,"1,85m",left,"Jul 14, 2022",CA River Plate,€1.50m,,,€1.50m
+1006,711625,José Ángel Carmona,Right-Back,"Jan 29, 2002",22,Spain,,"1,84m",right,"Jul 20, 2023",Sevilla FC,€3.50m,,"On loan from Sevilla FC until Jun 30, 2024",€3.50m
+1007,390688,Juan Iglesias,Right-Back,"Jul 3, 1998",25,Spain,,"1,87m",right,"Jul 1, 2021",Getafe CF B,€2.50m,,,€2.50m
+1008,290249,Mauro Arambarri,Central Midfield,"Sep 30, 1995",28,Uruguay,,"1,75m",right,"Jul 1, 2018",CA Boston River,€6.00m,"Cruciate ligament surgery - Return expected on May 21, 2024",,€6.00m
+1009,273152,Nemanja Maksimovic,Central Midfield,"Jan 26, 1995",29,Serbia,,"1,89m",right,"Jul 16, 2018",Valencia CF,€6.00m,,"Joining: Panathinaikos FC; date: Jul 1, 2024; fee: free transfer",€6.00m
+1010,281989,Luis Milla,Central Midfield,"Oct 7, 1994",29,Spain,,"1,75m",right,"Jul 25, 2022",Granada CF,€3.50m,,,€3.50m
+1011,284854,Carles Aleñá,Central Midfield,"Jan 5, 1998",26,Spain,,"1,80m",left,"Jul 10, 2021",FC Barcelona,€3.00m,,,€3.00m
+1012,617074,Ilaix Moriba,Central Midfield,"Jan 19, 2003",21,Guinea,,"1,85m",right,"Jan 8, 2024",RB Leipzig,€3.00m,,"On loan from RB Leipzig until Jun 30, 2024",€3.00m
+1013,941869,Yellu Santiago,Central Midfield,"May 25, 2004",19,Spain,,"1,92m",right,"Jan 10, 2024",Valencia Mestalla,€500k,,"Joined as a winter arrival from: Valencia Mestalla; date: Jan 10, 2024; fee: ?",€500k
+1014,284884,Óscar Rodríguez,Attacking Midfield,"Jun 28, 1998",25,Spain,,"1,74m",right,"Sep 1, 2023",Sevilla FC,€2.50m,,"On loan from Sevilla FC until Jun 30, 2024",€2.50m
+1015,537763,Jordi Martín,Left Winger,"Jan 5, 2001",23,Spain,,"1,76m",left,"Sep 1, 2023",,€600k,,,€600k
+1016,532826,Mason Greenwood,Right Winger,"Oct 1, 2001",22,England,,"1,81m",both,"Aug 1, 2022",Manchester United,€15.00m,,"On loan from Manchester United until Jun 30, 2024",€15.00m
+1017,298976,Borja Mayoral,Centre-Forward,"Apr 5, 1997",27,Spain,,"1,82m",right,"Aug 26, 2022",Real Madrid,€15.00m,Meniscus injury - Return unknown,,€15.00m
+1018,623521,Juanmi Latasa,Centre-Forward,"Mar 23, 2001",23,Spain,,"1,92m",left,"Jul 1, 2018",Real Madrid,€3.00m,,"On loan from Real Madrid until Jun 30, 2024",€3.00m
+1019,165467,Stole Dimitrievski,Goalkeeper,"Dec 25, 1993",30,North Macedonia,,"1,88m",right,"Jan 31, 2019",Gimnàstic de Tarragona,€4.00m,,,€4.00m
+1020,397676,Dani Cárdenas,Goalkeeper,"Mar 28, 1997",27,Spain,,"1,86m",right,"Aug 18, 2023",Levante UD,€1.80m,,"Joined from Levante UD; date: Aug 18, 2023; fee: €1.30m",€1.80m
+1021,127108,Florian Lejeune,Centre-Back,"May 20, 1991",32,France,,"1,90m",right,"Jul 28, 2023",Deportivo Alavés,€3.50m,,"Joined from Deportivo Alavés; date: Jul 28, 2023; fee: €2.50m",€3.50m
+1022,451801,Abdul Mumin,Centre-Back,"Jun 6, 1998",25,Ghana,,"1,88m",right,"Sep 1, 2022",Vitória Guimarães SC,€2.00m,,,€2.00m
+1023,82503,Aridane Hernández,Centre-Back,"Mar 23, 1989",35,Spain,,"1,88m",right,"Jul 5, 2023",CA Osasuna,€900k,,"Joined from CA Osasuna; date: Jul 5, 2023; fee: free transfer",€900k
+1024,638588,Martín Pascual,Centre-Back,"Aug 4, 1999",24,Spain,,"1,90m",right,"Aug 1, 2020",Rayo Vallecano B,€300k,,"Returned after loan spell with UD Ibiza; date: Jun 30, 2023; fee: End of loan",€300k
+1025,311044,Alfonso Espino,Left-Back,"Jan 5, 1992",32,Uruguay,,"1,72m",left,"Jul 17, 2023",Cádiz CF,€2.50m,,"Joined from Cádiz CF; date: Jul 17, 2023; fee: free transfer",€2.50m
+1026,596122,Pep Chavarría,Left-Back,"Apr 10, 1998",25,Spain,,"1,74m",left,"Aug 31, 2022",Real Zaragoza,€1.00m,,,€1.00m
+1027,85295,Iván Balliu,Right-Back,"Jan 1, 1992",32,Albania,,"1,72m",right,"Jul 14, 2021",UD Almería,€2.50m,,,€2.50m
+1028,527966,Andrei Rațiu,Right-Back,"Jun 20, 1998",25,Romania,,"1,83m",right,"Aug 26, 2023",SD Huesca,€1.50m,,"Joined from SD Huesca; date: Aug 26, 2023; fee: €500k",€1.50m
+1029,498529,Miguel Crespo,Central Midfield,"Sep 11, 1996",27,Portugal,,"1,86m",right,"Jan 31, 2024",Fenerbahce,€5.00m,,"On loan from Fenerbahce until Jun 30, 2024",€5.00m
+1030,517753,Óscar Valentín,Central Midfield,"Aug 20, 1994",29,Spain,,"1,77m",right,"Jul 1, 2019",CF Rayo Majadahonda,€5.00m,Team captain,,€5.00m
+1031,192009,Unai López,Central Midfield,"Oct 30, 1995",28,Spain,,"1,70m",right,"Jul 1, 2022",Athletic Bilbao,€3.50m,,,€3.50m
+1032,527698,Kike Pérez,Central Midfield,"Feb 14, 1997",27,Spain,,"1,84m",left,"Aug 10, 2023",Real Valladolid CF,€3.00m,,"On loan from Real Valladolid CF until Jun 30, 2024",€3.00m
+1033,525578,Pathé Ciss,Central Midfield,"Mar 16, 1994",30,Senegal,,"1,86m",right,"Jul 28, 2021",CF Fuenlabrada,€2.50m,,,€2.50m
+1034,30321,Óscar Trejo,Attacking Midfield,"Apr 26, 1988",35,Argentina,,"1,80m",right,"Jul 1, 2017",: Ablöse free transfer,€1.50m,,,€1.50m
+1035,560483,Randy Nteka,Attacking Midfield,"Dec 6, 1997",26,France,,"1,89m",left,"Jul 28, 2021",CF Fuenlabrada,€1.50m,,"Returned after loan spell with Elche CF; date: Jun 30, 2023; fee: End of loan",€1.50m
+1036,195605,José Pozo,Attacking Midfield,"Mar 15, 1996",28,Spain,,"1,71m",left,"Jul 27, 2018",UD Almería,€1.00m,,,€1.00m
+1037,257062,Álvaro García,Left Winger,"Oct 27, 1992",31,Spain,,"1,67m",both,"Aug 23, 2018",Cádiz CF,€4.00m,,,€4.00m
+1038,153427,Bebé,Left Winger,"Jul 12, 1990",33,Cape Verde,,"1,90m",right,"Aug 31, 2018",SD Eibar,€700k,,"Returned after loan spell with Real Zaragoza; date: Jun 30, 2023; fee: End of loan",€700k
+1039,362086,Isi Palazón,Right Winger,"Dec 27, 1994",29,Spain,,"1,69m",left,"Jan 23, 2020",SD Ponferradina,€10.00m,,,€10.00m
+1040,455181,Jorge de Frutos,Right Winger,"Feb 20, 1997",27,Spain,,"1,73m",right,"Aug 17, 2023",Levante UD,€4.00m,,"Joined from Levante UD; date: Aug 17, 2023; fee: €8.00m",€4.00m
+1041,162038,Raúl de Tomás,Centre-Forward,"Oct 17, 1994",29,Spain,,"1,80m",right,"Sep 13, 2022",RCD Espanyol Barcelona,€3.00m,,,€3.00m
+1042,505674,Sergio Camello,Centre-Forward,"Feb 10, 2001",23,Spain,,"1,82m",right,"Aug 17, 2023",Atlético de Madrid,€3.00m,,"Joined from Atlético de Madrid; date: Aug 17, 2023; fee: €5.00m",€3.00m
+1043,39152,Radamel Falcao,Centre-Forward,"Feb 10, 1986",38,Colombia,,"1,77m",right,"Sep 4, 2021",Galatasaray,€900k,,,€900k
+1044,73517,Ørjan Nyland,Goalkeeper,"Sep 10, 1990",33,Norway,,"1,92m",right,"Aug 20, 2023",RB Leipzig,€1.50m,,"Joined from RB Leipzig; date: Aug 20, 2023; fee: free transfer",€1.50m
+1045,94308,Marko Dmitrovic,Goalkeeper,"Jan 24, 1992",32,Serbia,,"1,89m",left,"Jul 4, 2021",SD Eibar,€1.00m,,,€1.00m
+1046,730581,Loïc Badé,Centre-Back,"Apr 11, 2000",23,France,,"1,91m",right,"Jul 1, 2023",Stade Rennais FC,€14.00m,Muscle injury - Return unknown,"Joined from Stade Rennais FC; date: Jul 1, 2023; fee: €12.00m",€14.00m
+1047,766583,Kike Salas,Centre-Back,"Apr 23, 2002",21,Spain,,"1,88m",left,"Jan 1, 2023",Sevilla Atlético,€8.00m,,"Returned after loan spell with CD Tenerife; date: Jun 30, 2023; fee: End of loan",€8.00m
+1048,439022,Marcão,Centre-Back,"Jun 5, 1996",27,Brazil,,"1,85m",left,"Jul 8, 2022",Galatasaray,€5.00m,,,€5.00m
+1049,74294,Nemanja Gudelj,Centre-Back,"Nov 16, 1991",32,Serbia,,"1,87m",right,"Jul 23, 2019",Guangzhou Evergrande Taobao,€4.00m,,,€4.00m
+1050,538996,Tanguy Nianzou,Centre-Back,"Jun 7, 2002",21,France,,"1,91m",right,"Aug 17, 2022",Bayern Munich,€4.00m,,,€4.00m
+1051,25557,Sergio Ramos,Centre-Back,"Mar 30, 1986",38,Spain,,"1,84m",right,"Sep 4, 2023",Paris Saint-Germain,€3.00m,,"Joined from Paris Saint-Germain; date: Sep 4, 2023; fee: free transfer",€3.00m
+1052,501418,Adrià Pedrosa,Left-Back,"May 13, 1998",25,Spain,,"1,72m",left,"Jul 1, 2023",RCD Espanyol Barcelona,€7.00m,,"Joined from RCD Espanyol Barcelona; date: Jul 1, 2023; fee: free transfer",€7.00m
+1053,60410,Marcos Acuña,Left-Back,"Oct 28, 1991",32,Argentina,,"1,72m",left,"Sep 14, 2020",Sporting CP,€5.00m,,,€5.00m
+1054,676042,Juanlu Sánchez,Right-Back,"Aug 15, 2003",20,Spain,,"1,86m",right,"Jul 1, 2022",Sevilla Atlético,€15.00m,,"Returned after loan spell with CD Mirandés; date: Jun 30, 2023; fee: End of loan",€15.00m
+1055,15956,Jesús Navas,Right-Back,"Nov 21, 1985",38,Spain,,"1,70m",right,"Aug 1, 2017",Manchester City,€3.00m,Team captain,,€3.00m
+1056,344605,Boubakary Soumaré,Defensive Midfield,"Feb 27, 1999",25,France,,"1,88m",right,"Sep 1, 2023",Leicester City,€14.00m,,"On loan from Leicester City until Jun 30, 2024",€14.00m
+1057,569384,Lucien Agoumé,Defensive Midfield,"Feb 9, 2002",22,France,,"1,85m",right,"Jan 10, 2024",Inter Milan,€6.00m,,"On loan from Inter Milan until Jun 30, 2024",€6.00m
+1058,212723,Djibril Sow,Central Midfield,"Feb 6, 1997",27,Switzerland,,"1,84m",right,"Aug 4, 2023",Eintracht Frankfurt,€12.00m,,"Joined from Eintracht Frankfurt; date: Aug 4, 2023; fee: €10.00m",€12.00m
+1059,214775,Óliver Torres,Central Midfield,"Nov 10, 1994",29,Spain,,"1,75m",right,"Jul 15, 2019",FC Porto,€6.00m,,,€6.00m
+1060,263727,Joan Jordán,Central Midfield,"Jul 6, 1994",29,Spain,,"1,85m",right,"Jul 1, 2019",SD Eibar,€4.00m,,,€4.00m
+1061,607224,Hannibal,Attacking Midfield,"Jan 21, 2003",21,Tunisia,,"1,83m",right,"Jan 15, 2024",Manchester United,€12.00m,,"On loan from Manchester United until Jun 30, 2024",€12.00m
+1062,189441,Lucas Ocampos,Left Winger,"Jul 11, 1994",29,Argentina,,"1,87m",both,"Jul 3, 2019",Olympique Marseille,€12.00m,,,€12.00m
+1063,303259,Dodi Lukébakio,Right Winger,"Sep 24, 1997",26,Belgium,,"1,87m",left,"Aug 24, 2023",Hertha BSC,€15.00m,,"Joined from Hertha BSC; date: Aug 24, 2023; fee: €10.00m",€15.00m
+1064,111961,Suso,Right Winger,"Nov 19, 1993",30,Spain,,"1,77m",left,"Jul 21, 2020",AC Milan,€5.00m,,,€5.00m
+1065,111630,Erik Lamela,Right Winger,"Mar 4, 1992",32,Argentina,,"1,84m",left,"Jul 26, 2021",Tottenham Hotspur,€3.00m,,,€3.00m
+1066,177847,Adnan Januzaj,Right Winger,"Feb 5, 1995",29,Belgium,,"1,86m",left,"Aug 31, 2022",Real Sociedad,€3.00m,,"Returned after loan spell with Basaksehir FK; date: Jun 30, 2023; fee: End of loan",€3.00m
+1067,433049,Youssef En-Nesyri,Centre-Forward,"Jun 1, 1997",26,Morocco,,"1,92m",left,"Jan 16, 2020",CD Leganés,€18.00m,,,€18.00m
+1068,687609,Isaac Romero,Centre-Forward,"May 18, 2000",23,Spain,,"1,84m",left,"Jan 11, 2024",Sevilla Atlético,€15.00m,,"Internal winter transfer: Sevilla Atlético; Date: Jan 11, 2024",€15.00m
+1069,888493,Alejo Véliz,Centre-Forward,"Sep 19, 2003",20,Argentina,,"1,86m",right,"Feb 1, 2024",Tottenham Hotspur,€11.00m,,"On loan from Tottenham Hotspur until Jun 30, 2024",€11.00m
+1070,361254,Rafa Mir,Centre-Forward,"Jun 18, 1997",26,Spain,,"1,91m",right,"Aug 20, 2021",Wolverhampton Wanderers,€3.50m,,,€3.50m
+1071,225020,Mariano Díaz,Centre-Forward,"Aug 1, 1993",30,Dominican Republic,,"1,80m",right,"Sep 1, 2023",Real Madrid,€2.00m,,"Joined from Real Madrid; date: Sep 1, 2023; fee: free transfer",€2.00m
+1072,195488,Paulo Gazzaniga,Goalkeeper,"Jan 2, 1992",32,Argentina,,"1,95m",right,"Jul 1, 2023",Fulham FC,€4.00m,,"Joined from Fulham FC; date: Jul 1, 2023; fee: free transfer",€4.00m
+1073,120705,Juan Carlos,Goalkeeper,"Jan 20, 1988",36,Spain,,"1,87m",,"Jul 1, 2019",CD Lugo,€300k,,,€300k
+1074,623526,Toni Fuidias,Goalkeeper,"Apr 15, 2001",22,Spain,,"1,95m",right,"Sep 1, 2022",Real Madrid Castilla,€300k,,,€300k
+1075,466794,Eric García,Centre-Back,"Jan 9, 2001",23,Spain,,"1,82m",right,"Sep 1, 2023",FC Barcelona,€15.00m,,"On loan from FC Barcelona until Jun 30, 2024",€15.00m
+1076,129444,David López,Centre-Back,"Oct 9, 1989",34,Spain,,"1,85m",right,"Jul 25, 2022",RCD Espanyol Barcelona,€3.00m,,,€3.00m
+1077,12282,Daley Blind,Centre-Back,"Mar 9, 1990",34,Netherlands,,"1,80m",left,"Jul 7, 2023",Bayern Munich,€3.00m,,"Joined from Bayern Munich; date: Jul 7, 2023; fee: free transfer",€3.00m
+1078,115333,Juanpe,Centre-Back,"Apr 30, 1991",32,Spain,,"1,90m",right,"Jul 7, 2016",Granada CF,€1.20m,,,€1.20m
+1079,525299,Miguel Gutiérrez,Left-Back,"Jul 27, 2001",22,Spain,,"1,80m",left,"Aug 5, 2022",Real Madrid,€20.00m,,,€20.00m
+1080,627228,Yan Couto,Right-Back,"Jun 3, 2002",21,Brazil,,"1,68m",right,"Jul 25, 2022",Manchester City,€15.00m,,"On loan from Manchester City until Jun 30, 2024",€15.00m
+1081,826224,Arnau Martínez,Right-Back,"Apr 25, 2003",20,Spain,,"1,82m",right,"Apr 1, 2021",Girona FC B,€10.00m,,,€10.00m
+1082,261504,Aleix García,Central Midfield,"Jun 28, 1997",26,Spain,,"1,73m",right,"Jul 23, 2021",SD Eibar,€25.00m,,,€25.00m
+1083,378293,Yangel Herrera,Central Midfield,"Jan 7, 1998",26,Venezuela,,"1,84m",right,"Jul 14, 2023",Manchester City,€20.00m,unknown injury - Return unknown,"Joined from Manchester City; date: Jul 14, 2023; fee: €5.00m",€20.00m
+1084,720038,Pablo Torre,Central Midfield,"Apr 3, 2003",21,Spain,,"1,73m",right,"Jul 18, 2023",FC Barcelona,€3.00m,,"On loan from FC Barcelona until Jun 30, 2024",€3.00m
+1085,742521,Jhon Solís,Central Midfield,"Oct 3, 2004",19,Colombia,,"1,86m",right,"Sep 1, 2023",Atlético Nacional,€3.00m,,"Joined from Atlético Nacional; date: Sep 1, 2023; fee: €6.00m",€3.00m
+1086,341278,Iván Martín,Attacking Midfield,"Feb 14, 1999",25,Spain,,"1,78m",left,"Jul 22, 2023",Villarreal CF,€15.00m,,"Joined from Villarreal CF; date: Jul 22, 2023; fee: €2.00m",€15.00m
+1087,67808,Borja García,Attacking Midfield,"Nov 2, 1990",33,Spain,,"1,75m",right,"Sep 3, 2021",SD Huesca,€1.00m,,,€1.00m
+1088,743591,Sávio,Left Winger,"Apr 10, 2004",19,Brazil,,"1,76m",left,"Jul 13, 2023",ESTAC Troyes,€40.00m,,"On loan from ESTAC Troyes until Jun 30, 2024",€40.00m
+1089,337066,Toni Villa,Left Winger,"Jan 7, 1995",29,Spain,,"1,72m",right,"Sep 1, 2022",Real Valladolid CF,€2.00m,,,€2.00m
+1090,264372,Viktor Tsygankov,Right Winger,"Nov 15, 1997",26,Ukraine,,"1,78m",left,"Jan 17, 2023",Dynamo Kyiv,€28.00m,,,€28.00m
+1091,99353,Portu,Right Winger,"May 21, 1992",31,Spain,,"1,67m",right,"Sep 1, 2023",Getafe CF,€3.50m,,"Joined from Getafe CF; date: Sep 1, 2023; fee: €1.50m",€3.50m
+1092,331496,Valery Fernández,Right Winger,"Nov 23, 1999",24,Spain,,"1,82m",right,"Jan 1, 2019",CF Peralada,€2.50m,,,€2.50m
+1093,343537,Artem Dovbyk,Centre-Forward,"Jun 21, 1997",26,Ukraine,,"1,89m",left,"Aug 6, 2023",SK Dnipro-1,€30.00m,,"Joined from SK Dnipro-1; date: Aug 6, 2023; fee: €7.75m",€30.00m
+1094,59323,Cristhian Stuani,Centre-Forward,"Oct 12, 1986",37,Uruguay,,"1,84m",right,"Jul 21, 2017",Middlesbrough FC,€2.00m,Team captain,,€2.00m
+1095,212862,Álex Remiro,Goalkeeper,"Mar 24, 1995",29,Spain,,"1,91m",right,"Jul 1, 2019",Athletic Bilbao,€25.00m,,,€25.00m
+1096,625657,Unai Marrero,Goalkeeper,"Oct 9, 2001",22,Spain,,"1,89m",right,"Jul 1, 2023",Real Sociedad B,€300k,,"Internal transfer: Real Sociedad B; date: Jul 1, 2023",€300k
+1097,351809,Robin Le Normand,Centre-Back,"Nov 11, 1996",27,Spain,,"1,87m",right,"Jul 1, 2019",Real Sociedad B,€40.00m,,,€40.00m
+1098,355628,Igor Zubeldia,Centre-Back,"Mar 30, 1997",27,Spain,,"1,81m",right,"Jul 1, 2017",Real Sociedad B,€22.00m,,,€22.00m
+1099,229804,Aritz Elustondo,Centre-Back,"Mar 28, 1994",30,Spain,,"1,80m",right,"Jan 4, 2016",Real Sociedad B,€9.00m,,,€9.00m
+1100,580560,Jon Pacheco,Centre-Back,"Jan 8, 2001",23,Spain,,"1,84m",left,"Jul 1, 2022",Real Sociedad B,€8.00m,,,€8.00m
+1101,300716,Kieran Tierney,Left-Back,"Jun 5, 1997",26,Scotland,,"1,80m",left,"Aug 27, 2023",Arsenal FC,€12.00m,,"On loan from Arsenal FC until Jun 30, 2024",€12.00m
+1102,517842,Aihen Muñoz,Left-Back,"Aug 16, 1997",26,Spain,,"1,75m",left,"Jul 1, 2019",Real Sociedad B,€8.00m,"Cruciate ligament tear - Return expected on Aug 21, 2024",,€8.00m
+1103,448628,Javi Galán,Left-Back,"Nov 19, 1994",29,Spain,,"1,72m",left,"Jan 24, 2024",Atlético de Madrid,€7.00m,,"On loan from Atlético de Madrid until Jun 30, 2024",€7.00m
+1104,297070,Hamari Traoré,Right-Back,"Jan 27, 1992",32,Mali,,"1,75m",right,"Jul 1, 2023",Stade Rennais FC,€7.50m,,"Joined from Stade Rennais FC; date: Jul 1, 2023; fee: free transfer",€7.50m
+1105,280730,Álvaro Odriozola,Right-Back,"Dec 14, 1995",28,Spain,,"1,76m",right,"Sep 1, 2023",Real Madrid,€3.00m,,"Joined from Real Madrid; date: Sep 1, 2023; fee: €3.00m",€3.00m
+1106,661145,Jon Aramburu,Right-Back,"Jul 23, 2002",21,Venezuela,,"1,76m",right,"Sep 10, 2020",,€2.00m,,,€2.00m
+1107,423440,Martín Zubimendi,Defensive Midfield,"Feb 2, 1999",25,Spain,,"1,81m",right,"Jul 1, 2023",Real Sociedad B,€50.00m,,,€50.00m
+1108,625651,Urko González de Zarate,Defensive Midfield,"Mar 20, 2001",23,Spain,,"1,89m",right,"Jul 12, 2018",Real Sociedad B,€1.50m,,"Internal transfer: Real Sociedad B; date: Jul 1, 2023",€1.50m
+1109,338424,Mikel Merino,Central Midfield,"Jun 22, 1996",27,Spain,,"1,89m",left,"Aug 7, 2022",Newcastle United,€50.00m,,,€50.00m
+1110,634431,Beñat Turrientes,Central Midfield,"Jan 31, 2002",22,Spain,,"1,81m",right,"Jul 1, 2023",Real Sociedad B,€12.00m,,,€12.00m
+1111,625660,Jon Ander Olasagasti,Central Midfield,"Aug 16, 2000",23,Spain,,"1,76m",left,"Jul 6, 2022",Real Sociedad B,€2.00m,,"Internal transfer: Real Sociedad B; date: Jul 1, 2023",€2.00m
+1112,309110,Brais Méndez,Attacking Midfield,"Jan 7, 1997",27,Spain,,"1,84m",left,"Aug 19, 2023",Celta de Vigo,€40.00m,"Metatarsal fracture - Return expected on Jun 30, 2024",,€40.00m
+1113,555143,Arsen Zakharyan,Attacking Midfield,"May 26, 2003",20,Russia,,"1,83m",right,"Jan 1, 2016",Dynamo Moscow,€15.00m,,"Joined from Dynamo Moscow; date: Aug 19, 2023; fee: €13.00m",€15.00m
+1114,625655,Jon Magunazelaia,Attacking Midfield,"Jul 13, 2001",22,Spain,,"1,80m",right,"Jul 1, 2019",,€1.00m,,,€1.00m
+1115,351478,Mikel Oyarzabal,Left Winger,"Apr 21, 1997",26,Spain,,"1,81m",left,"Aug 14, 2018",Real Sociedad B,€50.00m,Team captain,,€50.00m
+1116,616369,Ander Barrenetxea,Left Winger,"Dec 27, 2001",22,Spain,,"1,75m",right,"Jul 19, 2022",Real Sociedad B,€20.00m,,,€20.00m
+1117,289272,Martín Merquelanz,Left Winger,"Jun 12, 1995",28,Spain,,"1,76m",left,"Sep 1, 2022",Real Sociedad B,€800k,"No eligibility - until Jun 30, 2024 - cross-competition",,€800k
+1118,405398,Takefusa Kubo,Right Winger,"Jun 4, 2001",22,Japan,,"1,73m",left,"Jan 18, 2024",Real Madrid,€60.00m,,,€60.00m
+1119,337715,Umar Sadiq,Centre-Forward,"Feb 2, 1997",27,Nigeria,,"1,91m",right,"Aug 2, 2023",UD Almería,€14.00m,,,€14.00m
+1120,188888,Sheraldo Becker,Centre-Forward,"Feb 9, 1995",29,Suriname,,"1,80m",right,"Jan 24, 2021",1.FC Union Berlin,€10.00m,,"Joined as a winter arrival from: 1.FC Union Berlin; date: Jan 18, 2024; fee: €3.00m",€10.00m
+1121,367464,Luís Maximiano,Goalkeeper,"Jan 5, 1999",25,Portugal,,"1,90m",both,"Aug 16, 2023",SS Lazio,€5.00m,,"On loan from SS Lazio until Jun 30, 2024",€5.00m
+1122,81997,Fernando Martínez,Goalkeeper,"Jun 10, 1990",33,Spain,,"1,83m",right,"Jul 5, 2017",UCAM Murcia CF,€800k,,,€800k
+1123,59349,Diego Mariño,Goalkeeper,"May 9, 1990",33,Spain,,"1,85m",right,"Jan 26, 2023",Sporting Gijón,€300k,,,€300k
+1124,401624,Edgar González,Centre-Back,"Apr 1, 1997",27,Spain,,"1,92m",right,"Jul 6, 2023",Real Betis Balompié,€3.00m,,"Joined from Real Betis Balompié; date: Jul 6, 2023; fee: €4.50m",€3.00m
+1125,387687,César Montes,Centre-Back,"Feb 24, 1997",27,Mexico,,"1,95m",right,"Sep 1, 2023",RCD Espanyol Barcelona,€3.00m,,"Joined from RCD Espanyol Barcelona; date: Sep 1, 2023; fee: €14.00m",€3.00m
+1126,333361,Chumi,Centre-Back,"Mar 2, 1999",25,Spain,,"1,83m",right,"Sep 10, 2020",FC Barcelona B,€2.00m,,,€2.00m
+1127,339501,Aleksandar Radovanovic,Centre-Back,"Nov 11, 1993",30,Serbia,,"1,90m",left,"Jan 20, 2024",KV Kortrijk,€1.00m,,"Joined as a winter arrival from: KV Kortrijk; date: Jan 20, 2024; fee: free transfer",€1.00m
+1128,631472,Bruno Langa,Left-Back,"Oct 31, 1997",26,Mozambique,,"1,78m",left,"Feb 1, 2024",GD Chaves,€1.50m,,"On loan from GD Chaves until Jun 30, 2024",€1.50m
+1129,423443,Álex Centelles,Left-Back,"Aug 30, 1999",24,Spain,,"1,85m",left,"Oct 2, 2020",Valencia CF,€1.20m,,,€1.20m
+1130,844637,Marc Pubill,Right-Back,"Jun 20, 2003",20,Spain,,"1,91m",right,"Aug 9, 2023",Levante UD,€3.00m,,"Joined from Levante UD; date: Aug 9, 2023; fee: €5.00m",€3.00m
+1131,341272,Alejandro Pozo,Right-Back,"Feb 22, 1999",25,Spain,,"1,72m",right,"Jul 1, 2022",Sevilla FC,€2.00m,,,€2.00m
+1132,649033,Dion Lopy,Defensive Midfield,"Feb 2, 2002",22,Senegal,,"1,84m",right,"Aug 5, 2023",Stade Reims,€6.00m,,"Joined from Stade Reims; date: Aug 5, 2023; fee: €6.50m",€6.00m
+1133,457221,Lucas Robertone,Central Midfield,"Mar 18, 1997",27,Argentina,,"1,69m",right,"Oct 1, 2020",CA Vélez Sarsfield,€7.00m,,,€7.00m
+1134,442805,Iddrisu Baba,Central Midfield,"Jan 22, 1996",28,Ghana,,"1,82m",right,"Aug 10, 2023",RCD Mallorca,€2.50m,,"On loan from RCD Mallorca until Jun 30, 2024",€2.50m
+1135,162056,Gonzalo Melero,Central Midfield,"Jan 2, 1994",30,Spain,,"1,83m",right,"Sep 1, 2022",Levante UD,€2.00m,,,€2.00m
+1136,537762,Sergio Arribas,Attacking Midfield,"Sep 30, 2001",22,Spain,,"1,74m",left,"Aug 9, 2023",Real Madrid Castilla,€8.00m,,"Joined from Real Madrid Castilla; date: Aug 9, 2023; fee: €6.00m",€8.00m
+1137,153238,Jonathan Viera,Attacking Midfield,"Oct 21, 1989",34,Spain,,"1,71m",right,"Feb 6, 2024",Without Club,€1.20m,,"Joined as a winter arrival from: Without Club; date: Feb 6, 2024; fee: -",€1.20m
+1138,518644,Largie Ramazani,Left Winger,"Feb 27, 2001",23,Belgium,,"1,68m",right,"Aug 24, 2020",Manchester United U23,€5.00m,,,€5.00m
+1139,769063,Luka Romero,Right Winger,"Nov 18, 2004",19,Argentina,,"1,69m",left,"Jan 22, 2024",AC Milan,€5.00m,,"On loan from AC Milan until Jun 30, 2024",€5.00m
+1140,288318,Adrián Embarba,Right Winger,"May 7, 1992",31,Spain,,"1,73m",right,"Aug 24, 2022",RCD Espanyol Barcelona,€2.00m,,,€2.00m
+1141,424784,Luis Suárez,Centre-Forward,"Dec 2, 1997",26,Colombia,,"1,81m",right,"Jul 1, 2023",Olympique Marseille,€5.00m,,"Joined from Olympique Marseille; date: Jul 1, 2023; fee: €8.00m",€5.00m
+1142,490223,Ibrahima Koné,Centre-Forward,"Jun 16, 1999",24,Mali,,"1,90m",left,"Aug 16, 2023",FC Lorient,€2.50m,,"Joined from FC Lorient; date: Aug 16, 2023; fee: €7.50m",€2.50m
+1143,221899,Léo Baptistão,Centre-Forward,"Aug 26, 1992",31,Brazil,,"1,83m",right,"Aug 11, 2022",Santos FC,€1.60m,,,€1.60m
+1144,131275,Choco Lozano,Centre-Forward,"Apr 25, 1993",30,Honduras,,"1,83m",right,"Feb 1, 2024",Getafe CF,€1.20m,,"On loan from Getafe CF until Jun 30, 2024",€1.20m
+1145,845568,Marko Milovanovic,Centre-Forward,"Aug 4, 2003",20,Serbia,,"1,97m",right,"Jul 11, 2022",FK Partizan Belgrade,€1.00m,,,€1.00m
+1146,262396,Unai Simón,Goalkeeper,"Jun 11, 1997",26,Spain,,"1,90m",right,"Jul 1, 2018",Bilbao Athletic,€25.00m,,,€25.00m
+1147,625014,Julen Agirrezabala,Goalkeeper,"Dec 26, 2000",23,Spain,,"1,87m",left,"Jul 1, 2022",Bilbao Athletic,€5.00m,,,€5.00m
+1148,524000,Dani Vivian,Centre-Back,"Jul 5, 1999",24,Spain,,"1,84m",right,"Aug 1, 2020",Bilbao Athletic,€25.00m,,,€25.00m
+1149,591916,Aitor Paredes,Centre-Back,"Apr 29, 2000",23,Spain,,"1,85m",right,"Jul 1, 2022",Bilbao Athletic,€15.00m,,,€15.00m
+1150,255488,Yeray Álvarez,Centre-Back,"Jan 24, 1995",29,Spain,,"1,82m",right,"Jul 1, 2016",Bilbao Athletic,€10.00m,,,€10.00m
+1151,61812,Yuri Berchiche,Left-Back,"Feb 10, 1990",34,Spain,,"1,81m",left,"Jul 2, 2018",Paris Saint-Germain,€2.00m,,,€2.00m
+1152,626954,Imanol García de Albéniz,Left-Back,"Jun 8, 2000",23,Spain,,"1,77m",left,"Jul 1, 2021",Bilbao Athletic,€1.50m,,"Returned after loan spell with SD Eibar; date: Jun 30, 2023; fee: End of loan",€1.50m
+1153,255501,Iñigo Lekue,Right-Back,"May 4, 1993",30,Spain,,"1,80m",right,"Jul 1, 2016",Bilbao Athletic,€3.00m,,,€3.00m
+1154,96718,Óscar de Marcos,Right-Back,"Apr 14, 1989",34,Spain,,"1,82m",right,"Jul 1, 2009",Deportivo Alavés,€1.80m,,,€1.80m
+1155,300168,Mikel Vesga,Defensive Midfield,"Apr 8, 1993",30,Spain,,"1,91m",left,"Jul 1, 2016",Bilbao Athletic,€5.00m,,,€5.00m
+1156,625047,Beñat Prados,Central Midfield,"Feb 8, 2001",23,Spain,,"1,80m",right,"Jul 1, 2022",Bilbao Athletic,€8.00m,,"Returned after loan spell with CD Mirandés; date: Jun 30, 2023; fee: End of loan",€8.00m
+1157,126751,Iñigo Ruiz de Galarreta,Central Midfield,"Aug 6, 1993",30,Spain,,"1,75m",right,"Jul 1, 2023",RCD Mallorca,€5.00m,,"Joined from RCD Mallorca; date: Jul 1, 2023; fee: free transfer",€5.00m
+1158,99343,Ander Herrera,Central Midfield,"Aug 14, 1989",34,Spain,,"1,82m",right,"Jan 31, 2023",Paris Saint-Germain,€2.50m,,,€2.50m
+1159,178425,Dani García,Central Midfield,"May 24, 1990",33,Spain,,"1,79m",right,"Jul 1, 2018",SD Eibar,€2.00m,,,€2.00m
+1160,938729,Mikel Jauregizar,Central Midfield,"Nov 13, 2003",20,Spain,,"1,77m",right,"Aug 4, 2020",,€800k,,,€800k
+1161,571020,Oihan Sancet,Attacking Midfield,"Apr 25, 2000",23,Spain,,"1,88m",right,"Jul 1, 2009",Bilbao Athletic,€35.00m,,,€35.00m
+1162,54235,Iker Muniain,Attacking Midfield,"Dec 19, 1992",31,Spain,,"1,69m",right,"Jul 1, 2023",Bilbao Athletic,€6.00m,Team captain,,€6.00m
+1163,834752,Unai Gómez,Attacking Midfield,"May 25, 2003",20,Spain,,"1,83m",left,"Jul 1, 2021",Bilbao Athletic,€1.50m,,"Internal transfer: Bilbao Athletic; date: Jul 1, 2023",€1.50m
+1164,709187,Nico Williams,Left Winger,"Jul 12, 2002",21,Spain,,"1,81m",right,"Oct 2, 2020",Bilbao Athletic,€50.00m,,,€50.00m
+1165,338425,Álex Berenguer,Left Winger,"Jul 4, 1995",28,Spain,,"1,75m",right,"Jul 1, 2023",Torino FC,€12.00m,,,€12.00m
+1166,895480,Adu Ares,Left Winger,"Oct 12, 2001",22,Spain,,"1,83m",right,"Jul 1, 2015",Bilbao Athletic,€1.00m,,"Internal transfer: Bilbao Athletic; date: Jul 1, 2023",€1.00m
+1167,255508,Iñaki Williams,Right Winger,"Jun 15, 1994",29,Ghana,,"1,86m",right,"Jul 3, 2022",Bilbao Athletic,€25.00m,,,€25.00m
+1168,340205,Gorka Guruzeta,Centre-Forward,"Sep 12, 1996",27,Spain,,"1,88m",right,"Jul 1, 2019",SD Amorebieta,€15.00m,,,€15.00m
+1169,251897,Asier Villalibre,Centre-Forward,"Sep 30, 1997",26,Spain,,"1,82m",left,"Aug 30, 2015",Bilbao Athletic,€2.50m,,"Returned after loan spell with Deportivo Alavés; date: Jun 30, 2023; fee: End of loan",€2.50m
+1170,297194,Iván Villar,Goalkeeper,"Jul 9, 1997",26,Spain,,"1,86m",right,"Jul 1, 2019",Celta Vigo B,€1.50m,,,€1.50m
+1171,64399,Vicente Guaita,Goalkeeper,"Jan 10, 1987",37,Spain,,"1,90m",right,"Sep 1, 2023",Crystal Palace,€900k,,"Joined from Crystal Palace; date: Sep 1, 2023; fee: free transfer",€900k
+1172,338285,Unai Núñez,Centre-Back,"Jan 30, 1997",27,Spain,,"1,86m",right,"Jul 20, 2022",Athletic Bilbao,€7.00m,,"On loan from Athletic Bilbao until Jun 30, 2024",€7.00m
+1173,258987,Carl Starfelt,Centre-Back,"Jun 1, 1995",28,Sweden,,"1,87m",right,"Aug 10, 2023",Celtic FC,€6.00m,,"Joined from Celtic FC; date: Aug 10, 2023; fee: €5.00m",€6.00m
+1174,358250,Joseph Aidoo,Centre-Back,"Sep 29, 1995",28,Ghana,,"1,81m",right,"Jul 11, 2019",KRC Genk,€4.00m,"Achilles tendon surgery - Return expected on May 1, 2024",,€4.00m
+1175,636093,Carlos Domínguez,Centre-Back,"Feb 11, 2001",23,Spain,,"1,87m",left,"Jan 1, 2023",Celta Vigo B,€1.50m,,,€1.50m
+1176,618809,Manu Sánchez,Left-Back,"Aug 24, 2000",23,Spain,,"1,71m",left,"Jul 3, 2023",Atlético de Madrid,€8.00m,,"Joined from Atlético de Madrid; date: Jul 3, 2023; fee: free transfer",€8.00m
+1177,271455,Mihailo Ristic,Left-Back,"Oct 31, 1995",28,Serbia,,"1,80m",left,"Sep 1, 2023",SL Benfica,€1.20m,,"Joined from SL Benfica; date: Sep 1, 2023; fee: €1.50m",€1.20m
+1178,331505,Óscar Mingueza,Right-Back,"May 13, 1999",24,Spain,,"1,84m",right,"Jul 30, 2022",FC Barcelona,€8.00m,,,€8.00m
+1179,162029,Javier Manquillo,Right-Back,"May 5, 1994",29,Spain,,"1,78m",right,"Jan 21, 2024",Newcastle United,€1.80m,,"Joined as a winter arrival from: Newcastle United; date: Jan 21, 2024; fee: free transfer",€1.80m
+1180,221315,Kevin Vázquez,Right-Back,"Mar 23, 1993",31,Spain,,"1,75m",right,"Jul 1, 2018",Celta Vigo B,€900k,,,€900k
+1181,277137,Renato Tapia,Defensive Midfield,"Jul 28, 1995",28,Peru,,"1,85m",right,"Aug 4, 2020",Feyenoord Rotterdam,€5.00m,Thigh problems - Return unknown,,€5.00m
+1182,366948,Jailson,Defensive Midfield,"Sep 7, 1995",28,Brazil,,"1,87m",right,"Jan 1, 2024",Sociedade Esportiva Palmeiras,€1.20m,,"Joined as a winter arrival from: Sociedade Esportiva Palmeiras; date: Jan 1, 2024; fee: free transfer",€1.20m
+1183,423444,Fran Beltrán,Central Midfield,"Feb 3, 1999",25,Spain,,"1,65m",right,"Aug 1, 2018",: Ablöse €8.00m,€6.00m,,,€6.00m
+1184,315762,Luca de la Torre,Central Midfield,"May 23, 1998",25,United States,,"1,77m",right,"Jul 8, 2022",Heracles Almelo,€3.50m,,,€3.50m
+1185,623524,Carlos Dotor,Central Midfield,"Mar 15, 2001",23,Spain,,"1,80m",right,"Jul 20, 2023",Real Madrid Castilla,€2.50m,unknown injury - Return unknown,"Joined from Real Madrid Castilla; date: Jul 20, 2023; fee: €3.00m",€2.50m
+1186,892221,Hugo Sotelo,Central Midfield,"Dec 19, 2003",20,Spain,,"1,80m",,"Jul 1, 2023",RC Celta Fortuna,€1.00m,,"Internal transfer: RC Celta Fortuna; date: Jul 1, 2023",€1.00m
+1187,764859,Williot Swedberg,Attacking Midfield,"Feb 1, 2004",20,Sweden,,"1,87m",right,"Jul 1, 2022",Hammarby IF,€2.50m,Foot injury - Return unknown,,€2.50m
+1188,292818,Jonathan Bamba,Left Winger,"Mar 26, 1996",28,Cote d'Ivoire,,"1,75m",right,"Jul 18, 2023",LOSC Lille,€10.00m,,"Joined from LOSC Lille; date: Jul 18, 2023; fee: free transfer",€10.00m
+1189,341110,Franco Cervi,Left Winger,"May 26, 1994",29,Argentina,,"1,66m",left,"Jul 5, 2021",SL Benfica,€1.80m,,,€1.80m
+1190,892929,Hugo Álvarez,Left Winger,"Jul 2, 2003",20,Spain,,"1,76m",right,"Jan 31, 2024",,€400k,,,€400k
+1191,872184,Tadeo Allende,Right Winger,"Feb 20, 1999",25,Argentina,,"1,83m",right,"Jul 1, 2023",CD Godoy Cruz Antonio Tomba,€4.50m,,"Joined as a winter arrival from: CD Godoy Cruz Antonio Tomba; date: Jan 31, 2024; fee: €4.50m",€4.50m
+1192,282810,Carles Pérez,Right Winger,"Feb 16, 1998",26,Spain,,"1,73m",left,"Jan 1, 2023",AS Roma,€3.00m,,"Joined from AS Roma; date: Jul 1, 2023; fee: €5.20m",€3.00m
+1193,634427,Miguel Rodríguez,Right Winger,"Apr 29, 2003",20,Spain,,"1,79m",left,"Sep 1, 2022",Celta Vigo B,€900k,Foot injury - Return unknown,,€900k
+1194,429983,Jørgen Strand Larsen,Centre-Forward,"Feb 6, 2000",24,Norway,,"1,93m",right,"Aug 28, 2023",FC Groningen,€20.00m,,,€20.00m
+1195,523318,Anastasios Douvikas,Centre-Forward,"Aug 2, 1999",24,Greece,,"1,86m",right,"Jul 7, 2015",FC Utrecht,€6.00m,,"Joined from FC Utrecht; date: Aug 28, 2023; fee: €12.00m",€6.00m
+1196,585323,Filip Jørgensen,Goalkeeper,"Apr 16, 2002",21,Denmark,,"1,90m",right,"Jan 5, 2023",Villarreal CF B,€15.00m,,,€15.00m
+1197,7825,Pepe Reina,Goalkeeper,"Aug 31, 1982",41,Spain,,"1,88m",right,"Jul 8, 2022",SS Lazio,€700k,,,€700k
+1198,494880,Jorge Cuenca,Centre-Back,"Nov 17, 1999",24,Spain,,"1,90m",left,"Sep 21, 2020",FC Barcelona B,€5.00m,,,€5.00m
+1199,716276,Yerson Mosquera,Centre-Back,"May 2, 2001",22,Colombia,,"1,88m",right,"Jan 23, 2024",Wolverhampton Wanderers,€3.50m,,"On loan from Wolverhampton Wanderers until Jun 30, 2024",€3.50m
+1200,286384,Eric Bailly,Centre-Back,"Apr 12, 1994",29,Cote d'Ivoire,,"1,87m",right,"Jan 1, 2024",Besiktas JK,€3.50m,,"Joined as a winter arrival from: Besiktas JK; date: Jan 1, 2024; fee: free transfer",€3.50m
+1201,15452,Raúl Albiol,Centre-Back,"Sep 4, 1985",38,Spain,,"1,90m",right,"Jul 4, 2019",SSC Napoli,€2.00m,Team captain,,€2.00m
+1202,80293,Aïssa Mandi,Centre-Back,"Oct 22, 1991",32,Algeria,,"1,84m",right,"Jul 1, 2021",Real Betis Balompié,€2.00m,,,€2.00m
+1203,356197,Alfonso Pedraza,Left-Back,"Apr 9, 1996",27,Spain,,"1,84m",left,"Jul 1, 2016",Villarreal CF B,€9.00m,,,€9.00m
+1204,207917,Alberto Moreno,Left-Back,"Jul 5, 1992",31,Spain,,"1,71m",left,"Jul 9, 2019",Liverpool FC,€2.00m,,,€2.00m
+1205,709372,Carlos Romero,Left-Back,"Oct 29, 2001",22,Spain,,,left,"Jul 1, 2021",,€1.50m,,,€1.50m
+1206,480763,Juan Foyth,Right-Back,"Jan 12, 1998",26,Argentina,,"1,87m",right,"Jul 28, 2022",Tottenham Hotspur,€18.00m,,,€18.00m
+1207,466807,Adrià Altimira,Right-Back,"Mar 28, 2001",23,Spain,,"1,70m",right,"Jul 1, 2023",,€2.00m,,,€2.00m
+1208,76467,Kiko Femenía,Right-Back,"Feb 2, 1991",33,Spain,,"1,74m",right,"Jan 4, 2021",Watford FC,€1.50m,,,€1.50m
+1209,783396,Ramón Terrats,Defensive Midfield,"Oct 18, 2000",23,Spain,,"1,81m",left,"Aug 12, 2020",Girona FC,€4.00m,"Meniscus injury - Return expected on Apr 17, 2024","Joined from Girona FC; date: Jul 1, 2023; fee: €2.50m",€4.00m
+1210,63494,Étienne Capoue,Defensive Midfield,"Jul 11, 1988",35,France,,"1,89m",right,"Jul 1, 2023",Watford FC,€2.00m,,,€2.00m
+1211,74869,Francis Coquelin,Defensive Midfield,"May 13, 1991",32,France,,"1,77m",right,"Aug 12, 2020",Valencia CF,€2.00m,,,€2.00m
+1212,380598,Santi Comesaña,Central Midfield,"Oct 5, 1996",27,Spain,,"1,88m",both,"Jul 1, 2012",Rayo Vallecano,€6.00m,,"Joined from Rayo Vallecano; date: Jul 1, 2023; fee: free transfer",€6.00m
+1213,59561,Dani Parejo,Central Midfield,"Apr 16, 1989",34,Spain,,"1,82m",right,"Aug 1, 2020",Valencia CF,€3.00m,,,€3.00m
+1214,188854,Manu Trigueros,Central Midfield,"Oct 17, 1991",32,Spain,,"1,78m",right,"Jul 1, 2023",Villarreal CF B,€2.00m,,,€2.00m
+1215,548111,Álex Baena,Attacking Midfield,"Jul 20, 2001",22,Spain,,"1,74m",right,"Jan 19, 2024",Villarreal CF B,€25.00m,,,€25.00m
+1216,165007,Denis Suárez,Attacking Midfield,"Jan 6, 1994",30,Spain,,"1,76m",right,"Aug 1, 2020",Celta de Vigo,€2.00m,"Tendon rupture - Return expected on Jun 30, 2024","Joined from Celta de Vigo; date: Jul 1, 2023; fee: free transfer",€2.00m
+1217,225122,Gonçalo Guedes,Left Winger,"Nov 29, 1996",27,Portugal,,"1,79m",right,"Jul 3, 2023",Wolverhampton Wanderers,€18.00m,,"On loan from Wolverhampton Wanderers until Jun 30, 2024",€18.00m
+1218,568157,Yéremy Pino,Right Winger,"Oct 20, 2002",21,Spain,,"1,72m",right,"Feb 1, 2024",FC Villarreal C,€30.00m,"Cruciate ligament surgery - Return expected on Jun 15, 2024",,€30.00m
+1219,709969,Ilias Akhomach,Right Winger,"Apr 16, 2004",19,Morocco,,"1,75m",left,"Jul 25, 2023",FC Barcelona Atlètic,€12.00m,,"Joined from FC Barcelona Atlètic; date: Jul 3, 2023; fee: free transfer",€12.00m
+1220,131996,Bertrand Traoré,Right Winger,"Sep 6, 1995",28,Burkina Faso,,"1,81m",left,"Jul 1, 2018",Aston Villa,€10.00m,,"Joined as a winter arrival from: Aston Villa; date: Feb 1, 2024; fee: free transfer",€10.00m
+1221,238407,Alexander Sørloth,Centre-Forward,"Dec 5, 1995",28,Norway,,"1,95m",left,"Jul 1, 2022",RB Leipzig,€15.00m,,"Joined from RB Leipzig; date: Jul 25, 2023; fee: €10.00m",€15.00m
+1222,275218,Augusto Batalla,Goalkeeper,"Apr 30, 1996",27,Argentina,,"1,86m",right,"Jan 3, 2024",CA River Plate,€6.00m,,"On loan from CA River Plate until Jun 30, 2024",€6.00m
+1223,129374,Marc Martínez,Goalkeeper,"Apr 4, 1990",34,Spain,,"1,86m",right,"Jan 28, 2024",FC Cartagena,€400k,,"Joined as a winter arrival from: FC Cartagena; date: Jan 28, 2024; fee: €150k",€400k
+1224,54217,Raúl Fernández,Goalkeeper,"Mar 13, 1988",36,Spain,,"1,95m",right,"Jul 18, 2022",UD Las Palmas,€300k,,,€300k
+1225,552912,Bruno Méndez,Centre-Back,"Sep 10, 1999",24,Uruguay,,"1,80m",right,"Jan 1, 2024",Sport Club Corinthians Paulista,€6.00m,,"Joined as a winter arrival from: Sport Club Corinthians Paulista; date: Jan 1, 2024; fee: free transfer",€6.00m
+1226,345449,Kamil Piatkowski,Centre-Back,"Jun 21, 2000",23,Poland,,"1,91m",right,"Jan 5, 2024",Red Bull Salzburg,€3.00m,,"On loan from Red Bull Salzburg until Jun 30, 2024",€3.00m
+1227,631222,Raúl Torrente,Centre-Back,"Sep 11, 2001",22,Spain,,"1,93m",left,"Jan 1, 2022",Recreativo Granada,€2.00m,,,€2.00m
+1228,251896,Jesús Vallejo,Centre-Back,"Jan 5, 1997",27,Spain,,"1,84m",right,"Jul 15, 2023",Real Madrid,€1.50m,,"On loan from Real Madrid until Jun 30, 2024",€1.50m
+1229,70245,Ignasi Miquel,Centre-Back,"Sep 28, 1992",31,Spain,,"1,89m",left,"Jul 26, 2022",Getafe CF,€1.40m,,,€1.40m
+1230,583510,Miguel Rubio,Centre-Back,"Mar 11, 1998",26,Spain,,"1,91m",right,"Jul 26, 2022",Getafe CF,€1.20m,,,€1.20m
+1231,357072,Faitout Maouassa,Left-Back,"Jul 6, 1998",25,France,,"1,70m",left,"Jan 25, 2024",Club Brugge KV,€5.00m,,"On loan from Club Brugge KV until Jun 30, 2024",€5.00m
+1232,448844,Carlos Neva,Left-Back,"Jun 12, 1996",27,Spain,,"1,74m",left,"Aug 15, 2019",Recreativo Granada,€2.50m,,,€2.50m
+1233,388545,Ricard Sánchez,Right-Back,"Feb 22, 2000",24,Spain,,"1,75m",right,"Aug 30, 2021",Atlético de Madrid B,€2.50m,,,€2.50m
+1234,58330,Víctor Díaz,Right-Back,"Jun 12, 1988",35,Spain,,"1,83m",right,"Jul 4, 2017",CD Leganés,€500k,Team captain,,€500k
+1235,268670,Gerard Gumbau,Defensive Midfield,"Dec 18, 1994",29,Spain,,"1,88m",left,"Jul 27, 2023",Elche CF,€3.50m,,"Joined from Elche CF; date: Jul 27, 2023; fee: free transfer",€3.50m
+1236,398808,Martin Hongla,Defensive Midfield,"Mar 16, 1998",26,Cameroon,,"1,82m",right,"Jan 12, 2024",Hellas Verona,€2.80m,,"Joined as a winter arrival from: Hellas Verona; date: Jan 12, 2024; fee: €2.70m",€2.80m
+1237,398163,Gonzalo Villar,Central Midfield,"Mar 23, 1998",26,Spain,,"1,81m",right,"Aug 4, 2023",AS Roma,€2.80m,,"Joined from AS Roma; date: Aug 4, 2023; fee: €1.80m",€2.80m
+1238,394694,Sergio Ruiz,Central Midfield,"Dec 16, 1994",29,Spain,,"1,76m",right,"Aug 9, 2022",Charlotte FC,€2.00m,,,€2.00m
+1239,448344,Óscar Melendo,Attacking Midfield,"Aug 23, 1997",26,Spain,,"1,67m",left,"Aug 6, 2022",RCD Espanyol Barcelona,€2.00m,,,€2.00m
+1240,315289,Myrto Uzuni,Left Winger,"May 31, 1995",28,Albania,,"1,78m",right,"Jan 31, 2022",Ferencvárosi TC,€10.00m,,,€10.00m
+1241,289167,Kamil Jóźwiak,Left Winger,"Apr 22, 1998",25,Poland,,"1,76m",right,"Feb 1, 2024",Charlotte FC,€2.50m,,"Joined as a winter arrival from: Charlotte FC; date: Feb 1, 2024; fee: ?",€2.50m
+1242,676318,Facundo Pellistri,Right Winger,"Dec 20, 2001",22,Uruguay,,"1,75m",right,"Feb 1, 2024",Manchester United,€10.00m,,"On loan from Manchester United until Jun 30, 2024",€10.00m
+1243,262365,Antonio Puertas,Right Winger,"Feb 21, 1992",32,Spain,,"1,83m",right,"Jul 1, 2017",UD Almería,€2.50m,,,€2.50m
+1244,568535,Theo Corbeanu,Right Winger,"May 17, 2002",21,Canada,,"1,90m",left,"Feb 1, 2024",Wolverhampton Wanderers U21,€1.70m,,"Joined as a winter arrival from: Wolverhampton Wanderers U21; date: Feb 1, 2024; fee: €1.50m",€1.70m
+1245,61253,José Callejón,Right Winger,"Feb 11, 1987",37,Spain,,"1,78m",right,"Jul 25, 2022",ACF Fiorentina,€900k,,,€900k
+1246,611426,Matías Arezo,Centre-Forward,"Nov 21, 2002",21,Uruguay,,"1,77m",right,"Jan 31, 2022",CA River Plate Montevideo,€7.50m,,"Returned after loan spell with CA Peñarol; date: Dec 31, 2023; fee: End of loan",€7.50m
+1247,334222,Lucas Boyé,Centre-Forward,"Feb 28, 1996",28,Argentina,,"1,83m",right,"Aug 30, 2023",Elche CF,€7.00m,,"Joined from Elche CF; date: Aug 30, 2023; fee: €7.00m",€7.00m

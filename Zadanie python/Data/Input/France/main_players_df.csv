@@ -1,0 +1,1311 @@
+,id,name,position,dateOfBirth,age,nationality,currentClub,height,foot,joinedOn,signedFrom,marketValue,status,joined,contract
+0,56809,Alexandre Oukidja,Goalkeeper,"Jul 19, 1988",34,Algeria,FC Metz,"1,84m",right,"Jul 1, 2018",RC Strasbourg Alsace,€500k,,,
+1,205465,Marc-Aurèle Caillard,Goalkeeper,"May 12, 1994",29,France,FC Metz,"1,91m",right,"Jul 20, 2020",EA Guingamp,€500k,,,
+2,666975,Ousmane Ba,Goalkeeper,"Jun 6, 2002",21,Senegal,SO Cholet,"1,85m",right,"Jul 1, 2021",FC Metz B,€400k,,,
+3,928873,Alexis Mirbach,Goalkeeper,"Mar 4, 2005",18,France,FC Metz B,"1,92m",right,"Aug 25, 2020",,€50k,,,
+4,211637,Kiki Kouyaté,Centre-Back,"Apr 15, 1997",26,Mali,Montpellier HSC,"1,92m",right,"Jan 26, 2022",ESTAC Troyes,€5.00m,,,
+5,520530,Fali Candé,Centre-Back,"Jan 24, 1998",25,Guinea-Bissau,FC Metz,"1,84m",left,"Jul 21, 2022",Portimonense SC,€2.50m,,,
+6,57216,Ismaël Traoré,Centre-Back,"Aug 18, 1986",36,Cote d'Ivoire,FC Metz,"1,84m",right,"Jul 1, 2021",Angers SCO,€300k,,,
+7,739076,Abou Lo,Centre-Back,"Jan 2, 2000",23,Senegal,FC Metz,"1,87m",right,"Jul 1, 2015",FC Metz B,€250k,,,
+8,950892,Oussmane Kebe,Centre-Back,"Apr 28, 2003",20,France,RFC Seraing,"1,83m",left,"Jul 1, 2019",,,,,
+9,344886,Matthieu Udol,Left-Back,"Mar 20, 1996",27,France,FC Metz,"1,78m",left,"Aug 12, 2022",FC Metz B,€2.50m,Team captain,,
+10,384859,Fabien Centonze,Right-Back,"Jan 16, 1996",27,France,Hellas Verona,"1,82m",right,"Jan 1, 2022",RC Lens,€4.00m,,,
+11,481513,Koffi Kouao,Right-Back,"May 20, 1998",25,Cote d'Ivoire,FC Metz,"1,73m",right,"Jul 21, 2021",FC Vizela,€2.00m,,,
+12,743500,William Mikelbrencis,Right-Back,"Feb 25, 2004",19,France,Hamburger SV,"1,76m",right,"Aug 22, 2019",FC Metz B,€1.00m,,,
+13,434358,Sofiane Alakouch,Right-Back,"Jul 29, 1998",24,Morocco,Paris FC,"1,75m",right,"Jul 1, 2019",Nîmes Olympique,€600k,"Cruciate ligament tear - Return expected on Jun 10, 2024",,
+14,649020,Boubacar Traoré,Defensive Midfield,"Aug 20, 2001",21,Mali,Wolverhampton Wanderers,"1,83m",right,"Jul 1, 2020",AS Bamako,€5.00m,Called up to national team -  - cross-competition,"Returned after loan spell with Wolverhampton Wanderers; date: Jun 30, 2023; fee: End of loan",
+15,293944,Habib Maïga,Defensive Midfield,"Jan 1, 1996",27,Cote d'Ivoire,Ferencvárosi TC,"1,81m",right,"Jul 7, 2022",: Ablöse €1.00m,€2.50m,,,
+16,342209,Kévin N'Doram,Defensive Midfield,"Jan 22, 1996",27,France,FC Metz,"1,84m",right,"Jul 23, 2020",AS Monaco,€1.50m,,,
+17,628834,Danley Jean Jacques,Defensive Midfield,"May 20, 2000",23,Haiti,FC Metz,"1,82m",right,"Jan 25, 2023",FC Metz B,€1.50m,,,
+18,591914,Warren Tchimbembé,Defensive Midfield,"Apr 21, 1998",25,Congo,FC Metz,"1,80m",left,"Jul 1, 2021",ESTAC Troyes,€500k,,"Returned after loan spell with EA Guingamp; date: Jun 30, 2023; fee: End of loan",
+19,855308,Arthur Atta,Defensive Midfield,"Jan 14, 2003",20,France,FC Metz,"1,89m",right,"Aug 31, 2023",FC Metz B,€500k,,,
+20,919621,Lilian Raillot,Defensive Midfield,"May 19, 2004",19,France,RFC Seraing,"1,93m",right,"Jul 1, 2023",,€50k,,,
+21,738720,Mathieu Cachbach,Central Midfield,"May 23, 2001",22,Belgium,RFC Seraing,"1,80m",left,"Jul 1, 2021",FC Metz B,€500k,,,
+22,919620,Joseph Nduquidi,Central Midfield,"Oct 25, 2004",18,France,FC Metz,"1,87m",,"Jul 1, 2020",FC Metz B,€250k,,"Internal transfer: FC Metz B; date: Aug 31, 2023",
+23,918969,Lamine Camara,Central Midfield,"Jan 1, 2004",19,Senegal,FC Metz,"1,73m",right,"Jul 1, 2019",FC Metz B,€200k,,"Internal transfer: FC Metz B; date: Jul 1, 2023",
+24,506009,Amine Bassi,Attacking Midfield,"Nov 27, 1997",25,Morocco,Houston Dynamo FC,"1,73m",right,"Jul 1, 2018",AS Nancy-Lorraine,€1.50m,,,
+25,481116,Youssef Maziz,Attacking Midfield,"Jun 24, 1998",25,France,Oud-Heverlee Leuven,"1,75m",right,"Jul 1, 2023",FC Metz B,€1.50m,,,
+26,568702,Papa Ndiaga Yade,Left Winger,"Jan 5, 2000",23,Mauritania,Quevilly - Rouen Métropole,"1,85m",left,"Jul 1, 2022",Génération Foot,€1.20m,,,
+27,568696,Cheikh Sabaly,Left Winger,"Mar 4, 1999",24,Senegal,FC Metz,"1,68m",right,"Jul 11, 2017",Génération Foot,€700k,,,
+28,1099726,Papa Amadou Diallo,Left Winger,"Jun 25, 2004",19,Senegal,FC Metz,"1,82m",right,"Jul 1, 2020",FC Metz B,€150k,,"Internal transfer: FC Metz B; date: Jul 1, 2023",
+29,512690,Maïdine Douane,Left Winger,"Aug 23, 2002",20,Algeria,FC Metz,,right,"Aug 29, 2022",FC Metz B,€50k,,"Returned after loan spell with RFC Seraing; date: Feb 7, 2024; fee: End of loan",
+30,366045,Ablie Jallow,Right Winger,"Nov 14, 1998",24,The Gambia,FC Metz,"1,66m",left,"Jul 2, 2020",Génération Foot,€1.50m,Dead leg - Return unknown,,
+31,568701,Lamine Gueye,Right Winger,"Mar 13, 1998",25,Senegal,Paris FC,"1,78m",,"Jul 1, 2021",Génération Foot,€1.00m,Knee injury - Return unknown,,
+32,511401,Anthony Musaba,Right Winger,"Dec 6, 2000",22,Netherlands,Sheffield Wednesday,"1,82m",both,"Jul 1, 2023",AS Monaco,€800k,,,
+33,353211,Vagner,Right Winger,"Jan 10, 1996",27,Cape Verde,Radomiak Radom,"1,68m",right,"Jan 4, 2024",: Ablöse €3.00m,€650k,"Red card suspension - until Apr 15, 2024 - PKO BP Ekstraklasa - 2 matchdays","Returned after loan spell with RFC Seraing; date: Jun 30, 2023; fee: End of loan",
+34,815359,Lenny Joseph,Right Winger,"Oct 12, 2000",22,France,Grenoble Foot 38,"1,83m",right,"Jul 1, 2017",Le Puy Foot 43 Auvergne,€400k,,,
+35,707063,Malick Mbaye,Right Winger,"Apr 6, 2004",19,Senegal,FC Metz,"1,73m",right,"Jan 23, 2023",FC Metz B,€150k,,"Internal transfer: FC Metz B; date: Jul 1, 2023",
+36,729814,Georges Mikautadze,Centre-Forward,"Oct 31, 2000",22,Georgia,FC Metz,"1,76m",right,"Jul 1, 2018",Ajax Amsterdam,€10.00m,,"On loan from Ajax Amsterdam until Jun 30, 2024",
+37,124884,Marco Bizot,Goalkeeper,"Mar 10, 1991",32,Netherlands,Stade Brestois 29,"1,93m",right,"Aug 4, 2021",AZ Alkmaar,€3.50m,,,
+38,668996,Joaquín Blázquez,Goalkeeper,"Jan 28, 2001",22,Argentina,Club Atlético Platense,"1,93m",right,"Jul 27, 2022",CA Talleres,€400k,,,
+39,525155,Grégoire Coudert,Goalkeeper,"Apr 3, 1999",24,France,Stade Brestois 29,"1,88m",left,"Jul 5, 2021",: Ablöse free transfer,€150k,,,
+40,485960,Lilian Brassier,Centre-Back,"Nov 2, 1999",23,France,Stade Brestois 29,"1,86m",left,"Jul 1, 2021",Stade Rennais FC,€5.00m,,,
+41,250779,Brendan Chardonnet,Centre-Back,"Dec 22, 1994",28,France,Stade Brestois 29,"1,84m",right,"Jul 1, 2013",Stade Brest 29 B,€5.00m,Team captain,,
+42,344864,Jean-Kévin Duverne,Centre-Back,"Jul 12, 1997",25,Haiti,FC Nantes,"1,86m",right,"Sep 2, 2019",RC Lens,€4.00m,,,
+43,566823,Achraf Dari,Centre-Back,"May 6, 1999",24,Morocco,R Charleroi SC,"1,88m",right,"Jul 29, 2022",Wydad Casablanca,€2.00m,,,
+44,170544,Christophe Hérelle,Centre-Back,"Aug 22, 1992",30,Martinique,FC Metz,"1,91m",right,"Aug 11, 2020",OGC Nice,€2.00m,,,
+45,862972,Josué Escartin,Centre-Back,"Mar 21, 2003",20,France,AC Ajaccio,"1,94m",right,"Aug 9, 2022",Stade Brest 29 B,€150k,,,
+46,805908,Bradley Locko,Left-Back,"May 6, 2002",21,France,Stade Brestois 29,"1,80m",left,"Jul 27, 2023",Stade Reims,€2.50m,,"Joined from Stade Reims; date: Jul 27, 2023; fee: €500k",
+47,131827,Jere Uronen,Left-Back,"Jul 13, 1994",28,Finland,Charlotte FC,"1,77m",left,"Jul 20, 2021",KRC Genk,€1.00m,,"Returned after loan spell with FC Schalke 04; date: Jun 30, 2023; fee: End of loan",
+48,174196,Kenny Lala,Right-Back,"Oct 3, 1991",31,France,Stade Brestois 29,"1,78m",right,"Jan 1, 2023",Olympiacos Piraeus,€1.50m,,,
+49,379168,Noah Fadiga,Right-Back,"Dec 3, 1999",23,Senegal,KAA Gent,"1,87m",right,"Jul 1, 2022",Heracles Almelo,€1.20m,,,
+50,377393,Pierre Lees-Melou,Defensive Midfield,"May 25, 1993",30,France,Stade Brestois 29,"1,85m",right,"Jul 23, 2022",Norwich City,€4.00m,,,
+51,138055,Haris Belkebla,Central Midfield,"Jan 28, 1994",29,Algeria,Ohod Club,"1,77m",right,"Jul 1, 2018",Tours FC,€3.00m,,,
+52,324795,Mahdi Camara,Central Midfield,"Jun 30, 1998",25,France,Stade Brestois 29,"1,78m",right,"Jul 1, 2023",AS Saint-Étienne,€3.00m,,"Joined from AS Saint-Étienne; date: Jul 1, 2023; fee: €3.00m",
+53,474662,Hugo Magnetti,Central Midfield,"May 30, 1998",25,France,Stade Brestois 29,"1,80m",right,"Jul 1, 2018",Stade Brest 29 B,€2.00m,,,
+54,684062,Hianga'a Mbock,Central Midfield,"Dec 28, 1999",23,France,SM Caen,"1,86m",right,"Jul 1, 2019",Stade Brest 29 B,€1.20m,,,
+55,659518,Félix Lemaréchal,Central Midfield,"Aug 7, 2003",19,France,Cercle Brugge,"1,80m",right,"Jan 31, 2023",AS Monaco,€1.00m,,,
+56,924800,Axel Camblan,Left Midfield,"Aug 30, 2003",19,France,Stade Brestois 29,"1,69m",right,"Jul 1, 2022",Stade Brest 29 B,€400k,,"Returned after loan spell with US Concarneau; date: Jun 30, 2023; fee: End of loan",
+57,466602,Karamoko Dembélé,Attacking Midfield,"Feb 22, 2003",20,England,Blackpool FC,"1,67m",left,"Jul 5, 2022",Celtic FC,€500k,,,
+58,737781,Jérémy Le Douaron,Left Winger,"Apr 21, 1998",25,France,Stade Brestois 29,"1,89m",left,"Jul 1, 2020",Stade Briochin,€4.50m,,,
+59,424072,Mathias Pereira Lage,Left Winger,"Nov 30, 1996",26,France,Stade Brestois 29,"1,80m",right,"Jul 1, 2022",Angers SCO,€2.00m,,,
+60,175014,Youcef Belaïli,Left Winger,"Mar 14, 1992",31,Algeria,MC Algiers,"1,82m",right,"Jan 31, 2022",Qatar SC,€1.50m,,,
+61,229006,Franck Honorat,Right Winger,"Aug 11, 1996",26,France,Borussia Mönchengladbach,"1,80m",right,"Jul 1, 2020",: Ablöse €5.00m,€10.00m,,,
+62,353399,Romain Del Castillo,Right Winger,"Mar 29, 1996",27,France,Stade Brestois 29,"1,72m",left,"Aug 31, 2021",Stade Rennais FC,€3.00m,,,
+63,281319,Alberth Elis,Right Winger,"Feb 12, 1996",27,Honduras,FC Girondins Bordeaux,"1,85m",right,"Jan 30, 2023",FC Girondins Bordeaux,€2.50m,Head injury - Return unknown,,
+64,238639,Steve Mounié,Centre-Forward,"Sep 29, 1994",28,Benin,Stade Brestois 29,"1,90m",right,"Sep 9, 2020",Huddersfield Town,€5.00m,,,
+65,342226,Irvin Cardona,Centre-Forward,"Aug 8, 1997",25,France,AS Saint-Étienne,"1,85m",right,"Aug 12, 2019",AS Monaco,€2.50m,,,
+66,174915,Islam Slimani,Centre-Forward,"Jun 18, 1988",35,Algeria,KV Mechelen,"1,88m",right,"Aug 25, 2022",Sporting CP,€1.50m,,,
+67,855056,Taïryk Arconte,Centre-Forward,"Nov 12, 2003",19,Guadeloupe,Rodez AF,"1,81m",,"Sep 1, 2022",AC Ajaccio,€500k,,,
+68,45121,Loïc Rémy,Centre-Forward,"Jan 2, 1987",36,France,Retired,"1,85m",right,"Feb 1, 2023",Without Club,€150k,,,
+69,127188,Maxime Dupé,Goalkeeper,"Mar 4, 1993",30,France,OGC Nice,"1,88m",right,"Jul 1, 2020",FC Nantes,€2.50m,,,
+70,328770,Kjetil Haug,Goalkeeper,"Jun 12, 1998",25,Norway,FK Bodø/Glimt,"1,87m",right,"Jul 1, 2022",Vålerenga Fotball Elite,€400k,,,
+71,835136,Thomas Himeur,Goalkeeper,"Jan 17, 2001",22,France,FC Toulouse,"1,92m",right,"Jul 1, 2021",Toulouse FC B,€150k,,,
+72,912902,Guillaume Restes,Goalkeeper,"Mar 11, 2005",18,France,FC Toulouse,"1,88m",left,"Jul 1, 2023",Toulouse FC B,,,"Internal transfer: Toulouse FC B; date: Jul 1, 2023",
+73,690799,Anthony Rouault,Centre-Back,"May 29, 2001",22,France,VfB Stuttgart,"1,86m",right,"Jul 1, 2019",Toulouse FC B,€10.00m,Broken jaw - Return unknown,"Joining: VfB Stuttgart; date: Jul 1, 2024; fee: €3.00m",
+74,283227,Rasmus Nicolaisen,Centre-Back,"Mar 16, 1997",26,Denmark,FC Toulouse,"1,91m",left,"Aug 17, 2021",FC Midtjylland,€6.00m,,,
+75,484988,Logan Costa,Centre-Back,"Apr 1, 2001",22,Cape Verde,FC Toulouse,"1,90m",right,"Aug 20, 2021",Stade Reims,€1.20m,,,
+76,694509,Moussa Diarra,Centre-Back,"Nov 10, 2000",22,Mali,FC Toulouse,"1,85m",left,"Jul 1, 2019",Toulouse FC B,€800k,,,
+77,855014,Kévin Keben,Centre-Back,"Jan 26, 2004",19,Cameroon,FC Toulouse,"1,87m",right,"Jul 1, 2022",Toulouse FC U19,€400k,,,
+78,1005240,Christian Mawissa,Centre-Back,"Apr 18, 2005",18,France,FC Toulouse,"1,80m",left,"Jul 1, 2023",Toulouse FC B,€250k,,"Internal transfer: Toulouse FC B; date: Jul 1, 2023",
+79,220878,Issiaga Sylla,Left-Back,"Jan 1, 1994",29,Guinea,Montpellier HSC,"1,80m",left,"Sep 4, 2012",: Ablöse ?,€2.50m,,,
+80,385105,Gabriel Suazo,Left-Back,"Aug 9, 1997",25,Chile,FC Toulouse,"1,78m",left,"Jan 16, 2023",CSD Colo-Colo,€2.50m,,,
+81,611195,Oliver Zandén,Left-Back,"Aug 14, 2001",21,Sweden,Randers FC,"1,83m",,"Jul 19, 2022",IF Elfsborg,€1.00m,,,
+82,923758,Ylies Aradj,Left-Back,"Jun 5, 2005",18,France,FC Toulouse,"1,79m",left,"Jul 1, 2023",Toulouse FC U19,€50k,,"Internal transfer: Toulouse FC U19; date: Jul 1, 2023",
+83,221873,Mikkel Desler,Right-Back,"Feb 19, 1995",28,Denmark,FC Toulouse,"1,84m",right,"Jul 20, 2021",FK Haugesund,€2.50m,,,
+84,794758,Warren Kamanzi,Right-Back,"Nov 11, 2000",22,Norway,FC Toulouse,"1,77m",right,"Jan 2, 2023",Tromsø IL,€1.20m,,,
+85,241501,Stijn Spierings,Defensive Midfield,"Mar 12, 1996",27,Netherlands,FC Toulouse,"1,88m",right,"Sep 14, 2023",RC Lens,€6.00m,,"On loan from RC Lens until Jun 30, 2024",
+86,203938,Branco van den Boomen,Central Midfield,"Jul 21, 1995",27,Netherlands,Ajax Amsterdam,"1,88m",right,"Aug 7, 2020",: Ablöse €350k,€12.00m,,,
+87,159098,Brecht Dejaegere,Central Midfield,"May 29, 1991",32,Belgium,Charlotte FC,"1,73m",right,"Jul 1, 2021",KAA Gent,€1.80m,,,
+88,280387,Vincent Sierro,Central Midfield,"Oct 8, 1995",27,Switzerland,FC Toulouse,"1,85m",right,"Jan 23, 2023",BSC Young Boys,€1.50m,Team captain,,
+89,464530,Theocharis Tsingaras,Central Midfield,"Aug 20, 2000",22,Greece,PAOK Thessaloniki,"1,75m",right,"Sep 1, 2022",PAOK Thessaloniki,€1.20m,,,
+90,666953,Steve Mvoué,Central Midfield,"Feb 2, 2002",21,Cameroon,Portimonense SC,"1,85m",right,"Jul 1, 2021",Toulouse FC B,€400k,,,
+91,855015,Farès Chaïbi,Attacking Midfield,"Nov 28, 2002",20,Algeria,Eintracht Frankfurt,"1,83m",right,"Jul 1, 2022",Toulouse FC B,€10.00m,,,
+92,470618,Denis Genreau,Attacking Midfield,"May 21, 1999",24,Australia,FC Toulouse,"1,75m",right,"Aug 2, 2021",Macarthur FC,€1.50m,,,
+93,567309,Naatan Skyttä,Attacking Midfield,"May 7, 2002",21,Finland,FC Toulouse,"1,70m",left,"Feb 1, 2021",Ilves Tampere,€500k,,"Returned after loan spell with Odense Boldklub; date: Jun 30, 2023; fee: End of loan",
+94,944427,Edhy Zuliani,Attacking Midfield,"Aug 11, 2004",18,Algeria,Toulouse FC B,,,"Aug 31, 2021",,€50k,,,
+95,289802,Rafael Ratão,Left Winger,"Nov 30, 1995",27,Brazil,Esporte Clube Bahia,"1,83m",right,"Jan 5, 2022",Slovan Bratislava,€2.50m,,,
+96,354664,Junior Flemmings,Left Winger,"Jan 16, 1996",27,Jamaica,FK Vozdovac,"1,80m",right,"Jul 1, 2022",Birmingham Legion FC,€350k,,,
+97,393238,Zakaria Aboukhlal,Right Winger,"Feb 18, 2000",23,Morocco,FC Toulouse,"1,79m",both,"Jul 1, 2019",AZ Alkmaar,€9.00m,,,
+98,629588,Nathan Ngoumou,Right Winger,"Mar 14, 2000",23,France,Borussia Mönchengladbach,"1,85m",right,"Sep 1, 2022",Toulouse FC B,€5.00m,,,
+99,419648,Veljko Birmancevic,Right Winger,"Mar 5, 1998",25,Serbia,AC Sparta Prague,"1,79m",,"Jul 1, 2022",Malmö FF,€3.00m,,"Joining: AC Sparta Prague; date: Jul 1, 2024; fee: €2.30m",
+100,538964,Thijs Dallinga,Centre-Forward,"Aug 3, 2000",22,Netherlands,FC Toulouse,"1,90m",right,"Aug 27, 2020",Excelsior Rotterdam,€12.00m,,,
+101,238185,Rhys Healey,Centre-Forward,"Dec 6, 1994",28,England,Huddersfield Town,"1,80m",right,"Jul 20, 2021",Milton Keynes Dons,€2.50m,,,
+102,308133,Ado Onaiwu,Centre-Forward,"Nov 8, 1995",27,Japan,AJ Auxerre,"1,80m",right,"Jan 24, 2023",Yokohama F. Marinos,€1.50m,,,
+103,652996,Said Hamulic,Centre-Forward,"Nov 12, 2000",22,Bosnia-Herzegovina,Lokomotiv Moscow,"1,86m",right,"Aug 6, 2021",Stal Mielec,€1.50m,,,
+104,357117,Alban Lafont,Goalkeeper,"Jan 23, 1999",24,France,FC Nantes,"1,96m",right,"Jul 1, 2021",: Ablöse €7.50m,€16.00m,,,
+105,282028,Rémy Descamps,Goalkeeper,"Jun 25, 1996",27,France,FC Nantes,"1,96m",left,"Jul 1, 2021",R Charleroi SC,€700k,,,
+106,28356,Denis Petric,Goalkeeper,"May 24, 1988",35,Slovenia,FC Nantes,"1,87m",right,"Aug 1, 2019",EA Guingamp,€150k,,,
+107,671145,João Victor,Centre-Back,"Jul 17, 1998",24,Brazil,Clube de Regatas Vasco da Gama,"1,87m",right,"Jan 25, 2023",SL Benfica,€7.00m,,,
+108,270051,Andrei Girotto,Centre-Back,"Feb 17, 1992",31,Brazil,Al-Taawoun FC,"1,86m",right,"Aug 12, 2017",Tombense Futebol Clube (MG),€4.00m,,,
+109,182875,Jean-Charles Castelletto,Centre-Back,"Jan 26, 1995",28,Cameroon,FC Nantes,"1,86m",both,"Jul 1, 2020",Stade Brestois 29,€3.50m,,,
+110,139279,Nicolas Pallois,Centre-Back,"Sep 19, 1987",35,France,FC Nantes,"1,89m",left,"Jul 27, 2017",: Ablöse €2.00m,€900k,,,
+111,923832,Nathan Zeze,Centre-Back,"Jun 18, 2005",18,France,FC Nantes,"1,90m",left,"Jul 4, 2023",FC Nantes B,€400k,,"Internal transfer: FC Nantes B; date: Jul 4, 2023",
+112,650582,Robin Voisine,Centre-Back,"Apr 7, 2002",21,France,FC Nantes B,"1,88m",left,"Jul 1, 2023",,€150k,,,
+113,1009596,Junior Diaz,Centre-Back,"Jul 23, 2003",19,Cote d'Ivoire,FC Annecy,"1,93m",right,"Jul 1, 2021",FC Nantes B,€100k,,,
+114,557613,Quentin Merlin,Left-Back,"May 16, 2002",21,France,Olympique Marseille,"1,74m",left,"Jan 17, 2023",FC Nantes B,€7.00m,,,
+115,750903,Jaouen Hadjam,Left-Back,"Mar 26, 2003",20,Algeria,BSC Young Boys,"1,85m",left,"Aug 31, 2018",Paris FC,€2.00m,,,
+116,394906,Charles Traoré,Left-Back,"Jan 1, 1992",31,Mali,SC Bastia,"1,80m",left,"Sep 22, 2022",ESTAC Troyes,€600k,,,
+117,384859,Fabien Centonze,Right-Back,"Jan 16, 1996",27,France,Hellas Verona,"1,82m",right,"Jul 1, 2019",FC Metz,€4.00m,,,
+118,111038,Dennis Appiah,Right-Back,"Jun 9, 1992",31,France,AS Saint-Étienne,"1,79m",right,"Jul 18, 2018",RSC Anderlecht,€1.50m,Dead leg - Return unknown,,
+119,61891,Fábio,Right-Back,"Jul 9, 1990",32,Brazil,Grêmio Foot-Ball Porto Alegrense,"1,72m",right,"Oct 7, 2020",Middlesbrough FC,€1.20m,,,
+120,102744,Sébastien Corchia,Right-Back,"Nov 1, 1990",32,France,Amiens SC,"1,76m",right,"Jul 1, 2020",Without Club,€1.00m,,,
+121,944355,Mathieu Acapandié,Right-Back,"Dec 14, 2004",18,France,FC Nantes B,"1,82m",right,"Jul 1, 2022",,,,,
+122,242273,Pedro Chirivella,Defensive Midfield,"May 23, 1997",26,Spain,FC Nantes,"1,78m",right,"Sep 6, 2017",Liverpool FC U23,€6.00m,Team captain,,
+123,830265,Lohann Doucet,Defensive Midfield,"Sep 14, 2002",20,France,Paris FC,"1,80m",right,"Jul 1, 2022",FC Nantes B,€700k,,,
+124,353403,Samuel Moutoussamy,Central Midfield,"Aug 12, 1996",26,DR Congo,FC Nantes,"1,76m",left,"Jul 1, 2022",: Ablöse -,€5.00m,,,
+125,46001,Moussa Sissoko,Central Midfield,"Aug 16, 1989",33,France,FC Nantes,"1,87m",right,"Sep 2, 2019",Watford FC,€2.50m,,,
+126,855158,Mohamed Achi,Central Midfield,"Jan 16, 2002",21,France,FC Nantes B,"1,81m",left,"Jan 17, 2023",FC Nantes B,€300k,,,
+127,288225,Ludovic Blas,Attacking Midfield,"Dec 31, 1997",25,France,Stade Rennais FC,"1,80m",left,"Jul 1, 2022",EA Guingamp,€20.00m,,,
+128,222859,Florent Mollet,Attacking Midfield,"Nov 19, 1991",31,France,FC Nantes,"1,75m",right,"Jul 1, 2020",FC Schalke 04,€2.00m,,,
+129,538973,Samuel Yépié Yépié,Attacking Midfield,"Oct 2, 2002",20,France,Adanaspor,"1,71m",left,"Jul 1, 2021",FC Nantes B,€150k,,,
+130,274862,Moses Simon,Left Winger,"Jul 12, 1995",27,Nigeria,FC Nantes,"1,68m",right,"Jul 1, 2023",Levante UD,€8.00m,Broken fibula - Return unknown,,
+131,773795,Gor Manvelyan,Left Winger,"Apr 9, 2002",21,Armenia,FC Noah Yerevan,"1,80m",both,"Jul 16, 2019",FC Nantes B,€400k,,,
+132,615618,Santiago Eneme,Left Winger,"Sep 29, 2000",22,Equatorial Guinea,MFK Vyskov,"1,83m",right,"Jul 1, 2019",,€150k,visa issues -  - cross-competition,,
+133,1004618,Stredair Appuah,Left Winger,"Jun 27, 2004",19,France,FC Nantes,"1,85m",,"Jul 1, 2023",FC Nantes U19,€150k,,"Internal transfer: FC Nantes U19; date: Jul 1, 2023",
+134,353365,Marcus Coco,Right Winger,"Jun 24, 1996",27,Guadeloupe,FC Nantes,"1,84m",right,"Jul 1, 2023",EA Guingamp,€1.20m,,,
+135,560725,Abdoul Kader Bamba,Right Winger,"Apr 25, 1994",29,France,FC Nantes,"1,77m",right,"Jul 12, 2022",FC Nantes B,€900k,,"Returned after loan spell with AS Saint-Étienne; date: Jun 30, 2023; fee: End of loan",
+136,122797,Andy Delort,Centre-Forward,"Oct 9, 1991",31,Algeria,Without Club,"1,81m",right,"Sep 1, 2022",OGC Nice,€7.00m,,"Joined from OGC Nice; date: Jul 1, 2023; fee: €5.00m",
+137,16911,Kasper Schmeichel,Goalkeeper,"Nov 5, 1986",36,Denmark,RSC Anderlecht,"1,89m",right,"Aug 3, 2022",Leicester City,€2.00m,,,
+138,465955,Marcin Bulka,Goalkeeper,"Oct 4, 1999",23,Poland,OGC Nice,"1,99m",right,"Jul 1, 2022",Paris Saint-Germain,€2.00m,,,
+139,789419,Teddy Boulhendi,Goalkeeper,"Apr 9, 2001",22,Algeria,OGC Nice,"1,85m",,"Jul 1, 2020",OGC Nice B,€150k,,,
+140,904710,Enzo Garrido,Goalkeeper,"Jul 26, 2003",19,France,Avoine Olympique Chinon Cinais,"1,82m",right,"Jul 1, 2021",,,,,
+141,605184,Jean-Clair Todibo,Centre-Back,"Dec 30, 1999",23,France,OGC Nice,"1,90m",right,"Jul 1, 2020",FC Barcelona,€30.00m,,,
+142,322655,Flavius Daniliuc,Centre-Back,"Apr 27, 2001",22,Austria,Red Bull Salzburg,"1,88m",right,"Aug 3, 2022",FC Bayern Munich U19 ,€8.00m,,,
+143,493702,Mattia Viti,Centre-Back,"Jan 24, 2002",21,Italy,US Sassuolo,"1,90m",left,"Sep 1, 2022",FC Empoli,€7.00m,,,
+144,372240,Mads Bech Sörensen,Centre-Back,"Jan 7, 1999",24,Denmark,FC Midtjylland,"1,93m",left,"Aug 23, 2016",Brentford FC,€2.50m,,,
+145,16136,Dante,Centre-Back,"Oct 18, 1983",39,Brazil,OGC Nice,"1,88m",left,"Jul 1, 2023",VfL Wolfsburg,€600k,Team captain,,
+146,904707,Yannis Nahounou,Centre-Back,"May 16, 2004",19,France,OGC Nice,"1,93m",right,"Jul 16, 2021",OGC Nice B,€150k,,"Internal transfer: OGC Nice B; date: Jul 1, 2023",
+147,532775,Melvin Bard,Left-Back,"Nov 6, 2000",22,France,OGC Nice,"1,73m",left,"Jan 1, 2023",: Ablöse €3.00m,€7.00m,,,
+148,860051,Ayoub Amraoui,Left-Back,"May 14, 2004",19,Morocco,Amiens SC,"1,84m",left,"Aug 31, 2022",OGC Nice B,€2.50m,,,
+149,194460,Joe Bryan,Left-Back,"Sep 17, 1993",29,England,Millwall FC,"1,70m",left,"Aug 3, 2020",Fulham FC,€2.20m,,,
+150,313094,Jordan Lotomba,Right-Back,"Sep 29, 1998",24,Switzerland,OGC Nice,"1,77m",right,"Jul 17, 2018",BSC Young Boys,€8.00m,,,
+151,416108,Youcef Atal,Right-Back,"May 17, 1996",27,Algeria,Adana Demirspor,"1,76m",both,"Jul 1, 2022",KV Kortrijk,€7.00m,,,
+152,891998,Antoine Mendy,Right-Back,"May 27, 2004",19,France,OGC Nice,"1,87m",right,"Jan 25, 2023",OGC Nice B,€1.00m,,,
+153,674612,Youssouf Ndayishimiye,Defensive Midfield,"Oct 27, 1998",24,Burundi,OGC Nice,"1,83m",right,"Jul 24, 2021",Basaksehir FK,€12.00m,,,
+154,170934,Mario Lemina,Defensive Midfield,"Sep 1, 1993",29,Gabon,Wolverhampton Wanderers,"1,84m",right,"Jul 27, 2021",Southampton FC,€10.00m,,,
+155,370791,Pablo Rosario,Defensive Midfield,"Jan 7, 1997",26,Netherlands,OGC Nice,"1,85m",right,"Aug 1, 2022",PSV Eindhoven,€6.00m,,,
+156,539065,Alexis Beka Beka,Defensive Midfield,"Mar 29, 2001",22,France,OGC Nice,"1,78m",right,"Jan 1, 2023",Lokomotiv Moscow,€4.50m,"depression - Return expected on May 31, 2024",,
+157,982855,Reda Belahyane,Defensive Midfield,"Jun 1, 2004",19,France,Hellas Verona,"1,73m",right,"Jul 6, 2019",OGC Nice B,€300k,,,
+158,982859,Théo Trinker,Defensive Midfield,"Jun 20, 2001",22,France,AS Cannes,"1,67m",,"Sep 2, 2019",,€100k,,,
+159,463618,Khéphren Thuram,Central Midfield,"Mar 26, 2001",22,France,OGC Nice,"1,92m",right,"Sep 4, 2022",AS Monaco,€40.00m,,,
+160,560593,Hicham Boudaoui,Central Midfield,"Sep 23, 1999",23,Algeria,OGC Nice,"1,75m",right,"Aug 1, 2022",Paradou AC,€8.00m,,,
+161,131978,Ross Barkley,Central Midfield,"Dec 5, 1993",29,England,Luton Town,"1,89m",right,"Jul 1, 2023",Without Club,€6.00m,,,
+162,50057,Aaron Ramsey,Central Midfield,"Dec 26, 1990",32,Wales,Cardiff City,"1,78m",right,"Jul 14, 2021",Juventus FC,€2.50m,,,
+163,569365,Soudeysse Kari,Central Midfield,"Feb 7, 2002",21,France,RC Pays de Grasse,"1,70m",left,"Aug 29, 2019",,€100k,,,
+164,750904,Tom Louchet,Central Midfield,"May 4, 2003",20,France,OGC Nice,"1,78m",both,"Jul 1, 2020",OGC Nice B,€100k,,"Internal transfer: OGC Nice B; date: Jul 1, 2023",
+165,986300,Daouda Traoré,Central Midfield,"Jul 22, 2006",16,France,OGC Nice B,"1,86m",,"Aug 29, 2022",,€100k,,,
+166,409344,Calvin Stengs,Attacking Midfield,"Dec 18, 1998",24,Netherlands,Feyenoord Rotterdam,"1,87m",left,"Jan 28, 2022",AZ Alkmaar,€10.00m,,"Returned after loan spell with Royal Antwerp FC; date: Jun 30, 2023; fee: End of loan",
+167,384593,Alexis Claude-Maurice,Attacking Midfield,"Jun 6, 1998",25,France,OGC Nice,"1,74m",right,"Jul 16, 2022",FC Lorient,€4.50m,,"Returned after loan spell with RC Lens; date: Jun 30, 2023; fee: End of loan",
+168,1072902,Andrea Dacourt,Attacking Midfield,"Jul 30, 2005",17,France,Sampdoria Primavera,"1,84m",right,"Aug 25, 2022",,,,,
+169,418659,Amine Gouiri,Left Winger,"Feb 16, 2000",23,Algeria,Stade Rennais FC,"1,81m",right,"Jul 7, 2022",: Ablöse €7.00m,€35.00m,,,
+170,569389,Sofiane Diop,Left Winger,"Jun 9, 2000",23,Morocco,OGC Nice,"1,75m",right,"Jul 1, 2023",AS Monaco,€15.00m,,,
+171,543051,Billal Brahimi,Left Winger,"Mar 14, 2000",23,Algeria,Stade Brestois 29,"1,83m",left,"Sep 1, 2022",Angers SCO,€7.00m,,,
+172,812654,Rares Ilie,Left Winger,"Apr 19, 2003",20,Romania,FC Lausanne-Sport,"1,85m",right,"Aug 28, 2021",FC Rapid Bucharest,€2.50m,,,
+173,147051,Yvon Mvogo,Goalkeeper,"Jun 6, 1994",29,Switzerland,FC Lorient,"1,90m",right,"Jul 13, 2022",RB Leipzig,€3.50m,,,
+174,189744,Paul Nardi,Goalkeeper,"May 18, 1994",29,France,KAA Gent,"1,88m",right,"Jul 23, 2019",AS Monaco,€3.00m,Broken leg - Return unknown,,
+175,228975,Julian Pollersbeck,Goalkeeper,"Aug 16, 1994",28,Germany,1.FC Magdeburg,"1,95m",right,"Jan 31, 2023",Olympique Lyon,€500k,Torn muscle bundle - Return unknown,,
+176,33781,Vito Mannone,Goalkeeper,"Mar 2, 1988",35,Italy,LOSC Lille,"1,89m",right,"Sep 1, 2022",AS Monaco,€300k,,,
+177,629587,Teddy Bartouche,Goalkeeper,"Jun 5, 1997",26,Guadeloupe,EA Guingamp,"1,78m",right,"Jul 1, 2020",FC Lorient B,€150k,,,
+178,496706,Montassar Talbi,Centre-Back,"May 26, 1998",25,Tunisia,FC Lorient,"1,90m",right,"Jul 18, 2022",Rubin Kazan,€8.00m,,,
+179,569383,Chrislain Matsima,Centre-Back,"May 15, 2002",21,France,Clermont Foot 63,"1,93m",right,"Aug 16, 2022",AS Monaco,€6.00m,,,
+180,386057,Julien Laporte,Centre-Back,"Nov 4, 1993",29,France,FC Lorient,"1,85m",right,"Jul 8, 2019",Clermont Foot 63,€2.50m,,,
+181,807165,Bamo Meïté,Centre-Back,"Dec 3, 2001",21,Cote d'Ivoire,Olympique Marseille,"1,83m",,"Jul 1, 2022",FC Lorient B,€2.50m,,,
+182,412829,Léo Pétrot,Centre-Back,"Apr 15, 1997",26,France,AS Saint-Étienne,"1,88m",left,"Jul 16, 2021",Andrézieux-Bouthéon FC,€900k,,,
+183,799936,Loris Mouyokolo,Centre-Back,"May 22, 2001",22,France,FC Lorient,"1,94m",right,"Jul 13, 2021",FC Lorient B,€500k,,"Returned after loan spell with Rodez AF; date: Jun 30, 2023; fee: End of loan",
+184,798894,Maxime Wackers,Centre-Back,"Jan 1, 1998",25,France,Entente Feignies Aulnoye FC,"1,84m",right,"Jul 1, 2022",,€150k,,,
+185,918268,Aurélien Pelon,Centre-Back,"May 6, 2004",19,France,FC Lorient B,"1,86m",right,"Jul 17, 2014",,€50k,,,
+186,601059,Paul Mbelek,Centre-Back,"Jul 22, 1999",23,France,US Créteil-Lusitanos,"1,85m",right,"Jul 1, 2020",,,,,
+187,717118,Darlin Yongwa,Left-Back,"Sep 22, 2000",22,Cameroon,FC Lorient,"1,77m",left,"Jul 1, 2022",Chamois Niortais FC,€1.20m,,,
+188,120651,Vincent Le Goff,Left-Back,"Oct 15, 1989",33,France,Retired,"1,77m",left,"Jul 23, 2021",: Ablöse ?,€1.00m,,,
+189,648886,Samuel Loric,Left-Back,"Jul 5, 2000",22,France,Quevilly - Rouen Métropole,"1,83m",left,"Jul 26, 2019",FC Lorient B,€500k,,"Returned after loan spell with Quevilly - Rouen Métropole; date: Jun 30, 2023; fee: End of loan",
+190,395685,Gédéon Kalulu,Right-Back,"Aug 29, 1997",25,DR Congo,FC Lorient,"1,79m",right,"Jan 18, 2022",AC Ajaccio,€5.00m,,,
+191,391720,Igor Silva,Right-Back,"Aug 21, 1996",26,Brazil,FC Lorient,"1,73m",right,"Jan 30, 2023",NK Osijek,€1.50m,,,
+192,238626,Laurent Abergel,Defensive Midfield,"Feb 1, 1993",30,France,FC Lorient,"1,70m",right,"Jan 31, 2023",AS Nancy-Lorraine,€3.00m,Team captain,,
+193,333383,Bonke Innocent,Defensive Midfield,"Jan 20, 1996",27,Nigeria,FC Lorient,"1,78m",right,"Jul 14, 2023",Malmö FF,€2.00m,,,
+194,322305,Jean-Victor Makengo,Central Midfield,"Jun 12, 1998",25,France,FC Lorient,"1,77m",left,"Jul 1, 2022",Udinese Calcio,€10.00m,,,
+195,810093,Ayman Kari,Central Midfield,"Nov 19, 2004",18,France,FC Lorient,"1,76m",right,"Jul 1, 2019",Paris Saint-Germain,€1.00m,,"On loan from Paris Saint-Germain until Jun 30, 2024",
+196,804550,Paul Bellon,Central Midfield,"Jan 15, 2000",23,France,FC Lorient B,"1,75m",right,"Jul 1, 2018",,€100k,,,
+197,555076,Romain Faivre,Right Midfield,"Jul 14, 1998",24,France,AFC Bournemouth,"1,80m",left,"Sep 1, 2022",AFC Bournemouth,€10.00m,,"On loan from AFC Bournemouth; started on: Jul 14, 2023; loaned until: ",
+198,766412,Théo Le Bris,Left Midfield,"Oct 1, 2002",20,France,FC Lorient,"1,70m",right,"Jul 2, 2020",FC Lorient B,€3.00m,,,
+199,633992,Enzo Le Fée,Attacking Midfield,"Feb 3, 2000",23,France,Stade Rennais FC,"1,73m",right,"Jul 1, 2023",FC Lorient B,€20.00m,,,
+200,569390,Julien Ponceau,Attacking Midfield,"Nov 28, 2000",22,France,FC Lorient,"1,70m",right,"Sep 8, 2020",FC Lorient U19,€2.50m,,,
+201,569385,Adil Aouchiche,Attacking Midfield,"Jul 15, 2002",20,France,Sunderland AFC,"1,81m",right,"Sep 5, 2022",AS Saint-Étienne,€2.20m,,,
+202,412671,Quentin Boisgard,Attacking Midfield,"Mar 17, 1997",26,France,FC Lorient,"1,74m",right,"Jul 1, 2021",FC Toulouse,€1.00m,Metatarsal fracture - Return unknown,"Returned after loan spell with Pau FC; date: Jun 30, 2023; fee: End of loan",
+203,955357,Eli Junior Kroupi,Attacking Midfield,"Jun 23, 2006",17,France,FC Lorient,"1,79m",right,"Jul 1, 2020",FC Lorient B,€400k,,"Internal transfer: FC Lorient B; date: Jul 1, 2023",
+204,579930,Armand Laurienté,Left Winger,"Dec 4, 1998",24,France,US Sassuolo,"1,71m",right,"Oct 1, 2020",Stade Rennais FC,€18.00m,,,
+205,782476,Yoann Cathline,Left Winger,"Jul 22, 2002",20,France,Almere City FC,"1,76m",right,"Jan 27, 2023",EA Guingamp,€2.00m,,,
+206,804386,Erwan Colas,Left Winger,"Apr 22, 1997",26,France,Le Mans FC,"1,79m",right,"Jan 31, 2022",,,,,
+207,823231,Dango Ouattara,Right Winger,"Feb 11, 2002",21,Burkina Faso,AFC Bournemouth,"1,77m",left,"Jul 8, 2020",FC Lorient B,€25.00m,,,
+208,428954,Stéphane Diarra,Right Winger,"Dec 9, 1998",24,Cote d'Ivoire,AS Saint-Étienne,"1,73m",left,"Jul 1, 2022",Le Mans FC,€2.50m,Cruciate ligament tear - Return unknown,,
+209,538874,Terem Moffi,Centre-Forward,"May 25, 1999",24,Nigeria,OGC Nice,"1,88m",left,"Sep 1, 2022",KV Kortrijk,€20.00m,,"Returned after loan spell with OGC Nice; date: Jun 30, 2023; fee: End of loan",
+210,164904,Mory Diaw,Goalkeeper,"Jun 22, 1993",30,Senegal,Clermont Foot 63,"1,97m",right,"Jul 1, 2022",FC Lausanne-Sport,€2.00m,,,
+211,594993,Ouparine Djoco,Goalkeeper,"Apr 22, 1998",25,Guinea-Bissau,Francs Borains,"1,89m",left,"Jul 1, 2018",Clermont Foot 63 B,€500k,,,
+212,618463,Lucas Margueron,Goalkeeper,"Feb 12, 2001",22,France,RFC Seraing,"1,94m",right,"Jul 2, 2020",Olympique Lyon B,€150k,,,
+213,798404,Alidu Seidu,Centre-Back,"Jun 4, 2000",23,Ghana,Stade Rennais FC,"1,73m",right,"Jul 1, 2020",Clermont Foot 63 B,€7.00m,,,
+214,208172,Mateusz Wieteska,Centre-Back,"Feb 11, 1997",26,Poland,Cagliari Calcio,"1,87m",right,"Jul 25, 2022",Legia Warszawa,€3.00m,,,
+215,369267,Maximiliano Caufriez,Centre-Back,"Feb 16, 1997",26,Belgium,Clermont Foot 63,"1,89m",right,"Jul 1, 2023",Spartak Moscow,€2.50m,,"Joined from Spartak Moscow; date: Jul 1, 2023; fee: €3.50m",
+216,91473,Florent Ogier,Centre-Back,"Mar 21, 1989",34,France,Clermont Foot 63,"1,83m",right,"Jul 13, 2018",FC Sochaux-Montbéliard,€450k,Team captain,,
+217,391192,Jean-Claude Billong,Centre-Back,"Dec 28, 1993",29,Cameroon,Muangthong United,"1,92m",right,"Aug 17, 2021",Benevento Calcio,€250k,,,
+218,806501,Souleymane Cissé,Centre-Back,"Aug 8, 2002",20,France,Dijon FCO,"1,92m",right,"Jul 1, 2022",RC Lens B,€100k,,,
+219,557939,Neto Borges,Left-Back,"Sep 13, 1996",26,Brazil,Clermont Foot 63,"1,85m",left,"Jul 1, 2022",KRC Genk,€4.00m,,,
+220,422715,Arial Mendy,Left-Back,"Nov 7, 1994",28,Senegal,Grenoble Foot 38,"1,80m",left,"Jul 13, 2021",Servette FC,€600k,,,
+221,857482,Baïla Diallo,Left-Back,"Jun 24, 2001",22,Senegal,SC Austria Lustenau,"1,76m",left,"Jan 22, 2021",Clermont Foot 63 B,€200k,,,
+222,1108145,Cheick Oumar Konaté,Right-Back,"Apr 2, 2004",19,Mali,Clermont Foot 63,"1,73m",right,"Feb 1, 2023",Clermont Foot 63 B,€1.00m,,,
+223,118303,Mehdi Zeffane,Right-Back,"May 19, 1992",31,Algeria,Clermont Foot 63,"1,76m",right,"Jul 1, 2022",Without Club,€450k,,,
+224,969154,Oliver Kamdem,Right-Back,"Oct 15, 2002",20,France,Lokomotiv Plovdiv,"1,78m",right,"Jul 1, 2022",Clermont Foot 63 B,€100k,,,
+225,594997,Yohann Magnin,Defensive Midfield,"Jun 21, 1997",26,France,Clermont Foot 63,"1,83m",right,"Jan 25, 2019",Clermont Foot 63 B,€2.50m,,,
+226,60542,Maxime Gonalons,Defensive Midfield,"Mar 10, 1989",34,France,Clermont Foot 63,"1,87m",right,"Jul 1, 2022",Granada CF,€900k,,,
+227,72121,Johan Gastien,Defensive Midfield,"Jan 25, 1988",35,France,Clermont Foot 63,"1,79m",right,"Jul 1, 2018",Stade Brestois 29,€700k,,,
+228,358025,Brandon Baiye,Defensive Midfield,"Dec 27, 2000",22,Belgium,KAS Eupen,"1,77m",right,"Sep 2, 2019",Club Brugge KV,€500k,,,
+229,1051756,Stan Berkani,Defensive Midfield,"Aug 13, 2003",19,Algeria,Clermont Foot 63 B,"1,78m",right,"Oct 4, 2020",,€50k,Foot surgery - Return unknown,,
+230,422281,Muhammed Cham,Attacking Midfield,"Sep 26, 2000",22,Austria,Clermont Foot 63,"1,80m",left,"Aug 14, 2021",FC Admira Wacker Mödling,€6.00m,,,
+231,270411,Saîf-Eddine Khaoui,Attacking Midfield,"Apr 27, 1995",28,Tunisia,Khor Fakkan SSC,"1,80m",left,"Feb 1, 2023",Olympique Marseille,€2.00m,,,
+232,860056,Aïman Maurer,Attacking Midfield,"Sep 25, 2004",18,Morocco,USL Dunkerque,"1,73m",right,"Jan 2, 2019",Clermont Foot 63 B,€800k,,,
+233,306191,Jason Berthomier,Attacking Midfield,"Jan 6, 1990",33,France,Newcastle United Jets,"1,77m",left,"Jul 1, 2022",ESTAC Troyes,€500k,,,
+234,915849,Yanis Massolin,Attacking Midfield,"Sep 20, 2002",20,France,Francs Borains,"1,97m",left,"Jul 16, 2021",Moulins-Yzeure Foot 03,€250k,,,
+235,149579,Elbasan Rashani,Left Winger,"May 9, 1993",30,Kosovo,Clermont Foot 63,"1,81m",left,"Aug 2, 2022",: Ablöse free transfer,€2.00m,,,
+236,170966,Jérémie Bela,Left Winger,"Apr 8, 1993",30,Angola,Clermont Foot 63,"1,73m",right,"Jul 1, 2020",Birmingham City,€1.50m,,,
+237,748358,Sofyan Chader,Left Winger,"May 12, 2000",23,France,FC Luzern,"1,78m",right,"Jul 1, 2019",Clermont Foot 63 B,€800k,Torn muscle fiber - Return unknown,,
+238,646733,Jim Allevinah,Right Winger,"Feb 27, 1995",28,Gabon,Clermont Foot 63,"1,72m",right,"Aug 15, 2020",Le Puy Foot 43 Auvergne,€2.00m,,,
+239,221151,Jodel Dossou,Right Winger,"Mar 17, 1992",31,Benin,FC Sochaux-Montbéliard,"1,71m",right,"Jan 31, 2022",TSV Hartberg,€800k,,,
+240,922685,Giovani Versini,Right Winger,"Mar 18, 2004",19,France,FC Bourgoin-Jallieu,"1,67m",left,"Jul 15, 2022",,€100k,,,
+241,191056,Brice Samba,Goalkeeper,"Apr 25, 1994",29,France,RC Lens,"1,87m",left,"Jul 5, 2022",Nottingham Forest,€13.00m,Team captain,,
+242,373714,Wuilker Fariñez,Goalkeeper,"Feb 15, 1998",25,Venezuela,Caracas FC,"1,80m",right,"Jul 1, 2021",Millonarios FC,€3.50m,,,
+243,27490,Jean-Louis Leca,Goalkeeper,"Sep 21, 1985",37,France,RC Lens,"1,80m",right,"Jul 1, 2018",AC Ajaccio,€200k,,,
+244,804829,Yannick Pandor,Goalkeeper,"May 1, 2001",22,Comoros,RC Lens,"1,92m",left,"Jul 1, 2022",RC Lens B,€150k,,,
+245,263236,Kevin Danso,Centre-Back,"Sep 19, 1998",24,Austria,RC Lens,"1,90m",right,"Aug 6, 2021",FC Augsburg,€22.00m,,,
+246,474800,Facundo Medina,Centre-Back,"May 28, 1999",24,Argentina,RC Lens,"1,84m",left,"Jul 2, 2020",CA Talleres,€22.00m,,,
+247,572326,Christopher Wooh,Centre-Back,"Sep 18, 2001",21,Cameroon,Stade Rennais FC,"1,91m",right,"Jul 1, 2021",AS Nancy-Lorraine,€6.00m,,,
+248,126557,Jonathan Gradit,Centre-Back,"Nov 24, 1992",30,France,RC Lens,"1,80m",right,"Aug 20, 2019",SM Caen,€5.00m,,,
+249,794349,Julien Le Cardinal,Centre-Back,"Aug 3, 1997",25,France,Stade Brestois 29,"1,84m",right,"Nov 15, 2022",Paris FC,€2.00m,,,
+250,276895,Steven Fortes,Centre-Back,"Apr 17, 1992",31,Cape Verde,Quevilly - Rouen Métropole,"1,92m",right,"Jul 1, 2019",FC Toulouse,€400k,,,
+251,804817,Adrien Louveau,Centre-Back,"Feb 1, 2000",23,France,LKS Lodz,"1,89m",right,"Jul 1, 2022",RC Lens B,€100k,Red card suspension -  - PKO BP Ekstraklasa,,
+252,1020191,Ismaëlo Ganiou,Centre-Back,"Mar 14, 2005",18,France,RC Lens B,"1,85m",right,"Jul 7, 2021",,€50k,,,
+253,332560,Deiver Machado,Left-Back,"Sep 2, 1993",29,Colombia,RC Lens,"1,80m",left,"Jul 1, 2018",FC Toulouse,€4.00m,Adductor pain - Return unknown,,
+254,170929,Massadio Haidara,Left-Back,"Dec 2, 1992",30,Mali,RC Lens,"1,79m",left,"Apr 19, 2020",Newcastle United,€3.00m,,,
+255,770895,Ismaël Boura,Left-Back,"Aug 14, 2000",22,Comoros,ESTAC Troyes,"1,73m",left,"Jul 1, 2022",RC Lens B,€1.00m,,,
+256,688707,Salis Abdul Samed,Defensive Midfield,"Mar 26, 2000",23,Ghana,RC Lens,"1,79m",right,"Sep 1, 2022",Clermont Foot 63,€18.00m,,,
+257,656441,Jean Onana,Defensive Midfield,"Jan 8, 2000",23,Cameroon,Olympique Marseille,"1,89m",right,"Jan 1, 2022",FC Girondins Bordeaux,€6.00m,No eligibility -  - UEFA Europa League,,
+258,308439,Patrick Berg,Defensive Midfield,"Nov 24, 1997",25,Norway,FK Bodø/Glimt,"1,77m",right,"Jul 1, 2022",FK Bodø/Glimt,€4.50m,,,
+259,532169,Lukasz Poreba,Defensive Midfield,"Mar 13, 2000",23,Poland,Hamburger SV,"1,79m",right,"Aug 18, 2020",Zaglebie Lubin,€2.00m,,,
+260,821136,Yacouba Barry,Defensive Midfield,"Nov 25, 2002",20,France,FC Annecy,"1,88m",right,"Jul 2, 2021",,€100k,,,
+261,955359,Fodé Sylla,Defensive Midfield,"Apr 16, 2006",17,France,RC Lens B,"1,89m",,"Aug 5, 2021",,,,,
+262,182893,Seko Fofana,Central Midfield,"May 7, 1995",28,Cote d'Ivoire,Al-Ettifaq FC,"1,85m",right,"Jul 1, 2022",Udinese Calcio,€32.00m,,,
+263,905408,Mamadou Camara,Central Midfield,"Oct 15, 2002",20,Senegal,AS Nancy-Lorraine,"1,83m",left,"Jul 1, 2023",AS Dakar Sacré-Cœur,€250k,,,
+264,1044893,Yaya Fofana,Central Midfield,"Jun 12, 2004",19,Cote d'Ivoire,Stade Reims B,"1,80m",right,"Jul 1, 2020",,€150k,,,
+265,239743,Przemyslaw Frankowski,Right Midfield,"Apr 12, 1995",28,Poland,RC Lens,"1,75m",right,"Jan 12, 2023",Chicago Fire FC,€9.00m,,,
+266,206912,Jimmy Cabot,Right Midfield,"Apr 18, 1994",29,France,RC Lens,"1,64m",right,"Aug 31, 2022",Angers SCO,€3.50m,Cruciate ligament tear - Return unknown,,
+267,250013,Angelo Fulgini,Attacking Midfield,"Aug 20, 1996",26,France,RC Lens,"1,82m",right,"Jul 1, 2021",1.FSV Mainz 05,€9.00m,,"Joined from 1.FSV Mainz 05; date: Jul 1, 2023; fee: €7.20m",
+268,719442,David Pereira da Costa,Attacking Midfield,"Jan 5, 2001",22,Portugal,RC Lens,"1,68m",right,"Jul 6, 2022",RC Lens B,€8.00m,,,
+269,215977,Adrien Thomasson,Attacking Midfield,"Dec 10, 1993",29,France,RC Lens,"1,75m",right,"Jul 1, 2022",RC Strasbourg Alsace,€6.00m,,,
+270,384593,Alexis Claude-Maurice,Attacking Midfield,"Jun 6, 1998",25,France,OGC Nice,"1,74m",right,"Jul 10, 2020",OGC Nice,€4.50m,,,
+271,74297,Gaël Kakuta,Attacking Midfield,"Jun 21, 1991",32,DR Congo,Amiens SC,"1,73m",left,"Jul 1, 2019",: Ablöse €5.00m,€1.80m,,,
+272,1052885,Nolan Bonte,Attacking Midfield,"Jan 19, 2004",19,France,RC Lens B,"1,75m",right,"Jul 1, 2021",,€100k,,,
+273,368887,Loïs Openda,Centre-Forward,"Feb 16, 2000",23,Belgium,RB Leipzig,"1,77m",right,"Jan 1, 2023",Club Brugge KV,€35.00m,,,
+274,267160,Adam Buksa,Centre-Forward,"Jul 12, 1996",26,Poland,Antalyaspor,"1,91m",left,"Jul 1, 2021",New England Revolution,€5.00m,,,
+275,448632,Yehvann Diouf,Goalkeeper,"Nov 16, 1999",23,France,Stade Reims,"1,90m",right,"Jul 1, 2019",ESTAC Troyes,€8.00m,,,
+276,223972,Patrick Pentz,Goalkeeper,"Jan 2, 1997",26,Austria,Bröndby IF,"1,83m",left,"Jul 9, 2022",Austria Vienna,€1.50m,,,
+277,395602,Alexandre Olliero,Goalkeeper,"Feb 15, 1996",27,France,Stade Reims,"1,93m",right,"Jan 31, 2023",Pau FC,€600k,,,
+278,5578,Nicolas Penneteau,Goalkeeper,"Feb 28, 1981",42,France,Retired,"1,85m",left,"Jul 1, 2021",R Charleroi SC,€100k,,,
+279,854861,Florent Duparchy,Goalkeeper,"Jun 20, 2000",23,France,Stade Reims B,"1,87m",right,"Jan 30, 2020",,€100k,,,
+280,894585,Soumaïla Sylla,Goalkeeper,"Mar 15, 2004",19,France,Stade Reims B,"1,81m",right,"Jul 1, 2022",,€50k,,,
+281,292808,Wout Faes,Centre-Back,"Apr 3, 1998",25,Belgium,Leicester City,"1,87m",right,"Jul 1, 2022",: Ablöse €3.00m,€20.00m,,,
+282,683895,Emmanuel Agbadou,Centre-Back,"Jun 17, 1997",26,Cote d'Ivoire,Stade Reims,"1,92m",right,"Mar 1, 2023",KAS Eupen,€7.50m,,,
+283,395083,Andreaw Gravillon,Centre-Back,"Feb 8, 1998",25,Guadeloupe,Adana Demirspor,"1,89m",right,"Jul 1, 2017",Inter Milan,€4.00m,,"Returned after loan spell with Torino FC; date: Jun 30, 2023; fee: End of loan",
+284,820146,Check Keita,Centre-Back,"Apr 2, 2003",20,France,SC Bastia,"1,85m",right,"Jul 1, 2021",Stade Reims B,€1.50m,,,
+285,199704,Yunis Abdelhamid,Centre-Back,"Sep 28, 1987",35,Morocco,Stade Reims,"1,90m",left,"Jul 1, 2020",Dijon FCO,€700k,Team captain,"Joining: Without Club; date: Jul 1, 2024; fee: -",
+286,649026,Moustapha Mbow,Centre-Back,"Mar 8, 2000",23,Senegal,Paris FC,"1,92m",right,"Jul 1, 2021",Stade Reims B,€600k,,"Returned after loan spell with RFC Seraing; date: Jun 30, 2023; fee: End of loan",
+287,1038821,Fallou Fall,Centre-Back,"Apr 15, 2004",19,Senegal,Stade Reims B,"1,92m",left,"Aug 31, 2018",,€150k,,,
+288,340177,Thibault De Smet,Left-Back,"Jun 5, 1998",25,Belgium,Stade Reims,"1,83m",left,"Jul 1, 2022",Sint-Truidense VV,€3.00m,,,
+289,805908,Bradley Locko,Left-Back,"May 6, 2002",21,France,Stade Brestois 29,"1,80m",left,"Jul 1, 2022",Stade Reims B,€2.50m,,"Returned after loan spell with Stade Brestois 29; date: Jun 30, 2023; fee: End of loan",
+290,215114,Thomas Foket,Right-Back,"Sep 25, 1994",28,Belgium,Stade Reims,"1,77m",right,"Jul 1, 2023",KAA Gent,€5.00m,,,
+291,570817,Maxime Busi,Right-Back,"Oct 14, 1999",23,Belgium,Stade Reims,"1,82m",right,"Aug 31, 2021",Parma Calcio 1913,€2.50m,,,
+292,919173,Ibrahim Diakité,Right-Back,"Oct 31, 2003",19,Guinea,FC Stade-Lausanne-Ouchy,"1,80m",right,"Jul 1, 2021",Stade Reims B,€350k,"Red card suspension - until Apr 7, 2024 - Super League - 2 matchdays",,
+293,910176,Thérence Koudou,Right-Back,"Dec 13, 2004",18,France,Stade Reims,"1,78m",right,"Jul 1, 2023",Stade Reims B,€100k,,"Returned after loan spell with Pau FC; date: Jan 24, 2024; fee: End of loan",
+294,315145,Azor Matusiwa,Defensive Midfield,"Apr 28, 1998",25,Netherlands,Stade Rennais FC,"1,73m",right,"Jul 1, 2019",: Ablöse €4.00m,€7.50m,,,
+295,649033,Dion Lopy,Defensive Midfield,"Feb 2, 2002",21,Senegal,UD Almería,"1,84m",right,"Jan 10, 2022",Stade Reims B,€4.00m,,,
+296,926235,Samuel Koeberlé,Defensive Midfield,"Nov 26, 2004",18,France,Stade Reims B,,left,"Jul 1, 2022",,€250k,,,
+297,923759,Valentin Atangana,Defensive Midfield,"Aug 25, 2005",17,France,Stade Reims,"1,73m",right,"Jul 1, 2022",Stade Reims B,€250k,,"Internal transfer: Stade Reims B; date: Jul 1, 2023",
+298,414908,Marshall Munetsi,Central Midfield,"Jun 22, 1996",27,Zimbabwe,Stade Reims,"1,88m",right,"Jul 1, 2021",Orlando Pirates,€9.00m,,,
+299,468066,Jens Cajuste,Central Midfield,"Aug 10, 1999",23,Sweden,SSC Napoli,"1,88m",right,"Jan 26, 2019",FC Midtjylland,€6.00m,,,
+300,814976,Martin Adeline,Central Midfield,"Dec 2, 2003",19,France,FC Annecy,"1,80m",right,"Jul 1, 2019",Stade Reims B,€800k,,,
+301,671594,Kamory Doumbia,Attacking Midfield,"Feb 18, 2003",20,Mali,Stade Brestois 29,"1,70m",right,"Jan 31, 2023",Stade Reims B,€2.50m,,,
+302,395242,Alexis Flips,Left Winger,"Jan 18, 2000",23,France,MKE Ankaragücü,"1,73m",right,"Jul 1, 2023",Stade Reims B,€6.00m,,,
+303,222876,Arbër Zeneli,Left Winger,"Feb 25, 1995",28,Kosovo,IF Elfsborg,"1,76m",right,"Jul 29, 2022",: Ablöse €4.00m,€3.50m,,,
+304,557614,Nathanaël Mbuku,Left Winger,"Mar 16, 2002",21,France,AS Saint-Étienne,"1,70m",left,"Aug 27, 2021",: Ablöse -,€3.00m,,,
+305,371142,Myziane Maolida,Left Winger,"Feb 14, 1999",24,Comoros,Hibernian FC,"1,81m",right,"Aug 30, 2021",Hertha BSC,€1.50m,,,
+306,1054839,Mamadou Diakhon,Left Winger,"Sep 22, 2005",17,France,Stade Reims,"1,80m",left,"Aug 3, 2022",Stade Reims B,,,"Internal transfer: Stade Reims B; date: Jul 1, 2023",
+307,348791,Junya Ito,Right Winger,"Mar 9, 1993",30,Japan,Stade Reims,"1,76m",right,"Jan 3, 2020",KRC Genk,€10.00m,,,
+308,393239,Mitchell van Bergen,Right Winger,"Aug 27, 1999",23,Netherlands,Twente Enschede FC,"1,70m",right,"Jan 31, 2020",SC Heerenveen,€1.20m,,,
+309,394328,Rafik Guitane,Right Winger,"May 26, 1999",24,Algeria,GD Estoril Praia,"1,70m",left,"Sep 1, 2022",Stade Rennais FC,€1.00m,,"Returned after loan spell with GD Estoril Praia; date: Jun 30, 2023; fee: End of loan",
+310,303657,Andrei Radu,Goalkeeper,"May 28, 1997",26,Romania,AFC Bournemouth,"1,88m",right,"Jan 25, 2023",Inter Milan,€3.50m,,,
+311,22628,Benoît Costil,Goalkeeper,"Jul 3, 1987",35,France,US Salernitana 1919,"1,88m",right,"Jul 15, 2022",FC Girondins Bordeaux,€1.00m,,,
+312,170911,Donovan Léon,Goalkeeper,"Nov 3, 1992",30,French Guiana,AJ Auxerre,"1,87m",right,"Jul 1, 2020",Stade Brestois 29,€500k,,,
+313,695422,Théo De Percin,Goalkeeper,"Feb 2, 2001",22,Martinique,AJ Auxerre,"1,85m",right,"Mar 17, 2021",AJ Auxerre B,€150k,,,
+314,563140,Vincenzo Cozzella,Goalkeeper,"Dec 21, 2001",21,Italy,Nîmes Olympique,"1,90m",,"Jan 18, 2023",AJ Auxerre B,€100k,,,
+315,708678,Isaak Touré,Centre-Back,"Mar 28, 2003",20,France,FC Lorient,"2,06m",left,"Jan 3, 2023",Olympique Marseille,€6.00m,,,
+316,149928,Jubal,Centre-Back,"Aug 29, 1993",29,Brazil,AJ Auxerre,"1,90m",right,"Sep 3, 2020",Vitória Setúbal FC,€2.00m,Team captain,,
+317,238716,Théo Pellenard,Centre-Back,"Mar 4, 1994",29,France,AJ Auxerre,"1,82m",left,"Jul 1, 2021",Valenciennes FC,€1.00m,,,
+318,134277,Julian Jeanvier,Centre-Back,"Mar 31, 1992",31,Guinea,Kayserispor,"1,83m",right,"Aug 2, 2022",Brentford FC,€800k,,,
+319,89450,Alexandre Coeff,Centre-Back,"Feb 20, 1992",31,France,SM Caen,"1,85m",right,"Jul 1, 2019",GFC Ajaccio,€700k,,,
+320,184575,Denys Bain,Centre-Back,"Jul 2, 1993",29,France,Without Club,"1,81m",both,"Jul 5, 2022",Stade Brestois 29,€500k,,,
+321,696630,Lamine Buhanga,Centre-Back,"Oct 3, 2001",21,France,Bourges Foot 18,"1,88m",right,"Aug 13, 2022",,€100k,,,
+322,397171,Gideon Mensah,Left-Back,"Jul 18, 1998",24,Ghana,AJ Auxerre,"1,78m",left,"Jul 1, 2014",Red Bull Salzburg,€2.50m,,,
+323,229012,Kenji-Van Boto,Left-Back,"Mar 7, 1996",27,Madagascar,Pau FC,"1,83m",left,"Jul 1, 2019",AJ Auxerre U19,€400k,,,
+324,98262,Quentin Bernard,Left-Back,"Jul 7, 1989",33,France,Chamois Niortais FC,"1,84m",left,"Dec 9, 2022",Stade Brestois 29,€350k,,,
+325,913323,Raphaël Lipinski,Left-Back,"Jul 30, 2002",20,France,Rodez AF,"1,81m",left,"Jul 1, 2021",,€100k,,,
+326,327863,Akim Zedadka,Right-Back,"May 30, 1995",28,Algeria,Real Zaragoza,"1,73m",right,"Jul 12, 2022",LOSC Lille,€2.50m,,,
+327,806168,Paul Joly,Right-Back,"Jun 7, 2000",23,France,AJ Auxerre,"1,82m",right,"Jan 30, 2023",AJ Auxerre B,€1.20m,,"Returned after loan spell with Dijon FCO; date: Jun 30, 2023; fee: End of loan",
+328,620317,Brayann Pereira,Right-Back,"May 21, 2003",20,Congo,NEC Nijmegen,"1,72m",right,"Jan 16, 2023",RC Lens B,€600k,,"Joining: NEC Nijmegen; date: Jul 1, 2024; fee: ?",
+329,536508,Han-Noah Massengo,Defensive Midfield,"Jul 7, 2001",21,France,Burnley FC,"1,78m",right,"Jul 17, 2017",Bristol City,€5.00m,,,
+330,395695,Elisha Owusu,Defensive Midfield,"Nov 7, 1997",25,Ghana,AJ Auxerre,"1,82m",right,"Aug 4, 2022",KAA Gent,€2.00m,,,
+331,229853,Birama Touré,Defensive Midfield,"Jun 6, 1992",31,Mali,Al-Riyadh SC,"1,83m",right,"Jul 1, 2022",: Ablöse €500k,€1.80m,,,
+332,344576,Rayan Raveloson,Defensive Midfield,"Jan 16, 1997",26,Madagascar,AJ Auxerre,"1,82m",right,"Jul 1, 2021",Los Angeles Galaxy,€1.80m,,,
+333,478107,Ousoumane Camara,Defensive Midfield,"Dec 19, 1998",24,France,AJ Auxerre B,"1,84m",right,"Apr 16, 2018",,€150k,,,
+334,913303,Natanaël Bouekou,Defensive Midfield,"May 10, 2002",21,France,Chamois Niortais FC,"1,76m",,"Jul 1, 2022",,€100k,,,
+335,538045,Kays Ruiz-Atil,Central Midfield,"Aug 26, 2002",20,Morocco,Without Club,"1,77m",right,"Jul 1, 2020",Without Club,€800k,,,
+336,353404,Gaëtan Perrin,Right Midfield,"Jun 7, 1996",27,France,AJ Auxerre,"1,69m",right,"Jul 1, 2022",US Orléans,€1.20m,,,
+337,263951,Hamza Sakhi,Attacking Midfield,"Jun 7, 1996",27,Morocco,AC Ajaccio,"1,76m",right,"Jan 31, 2023",: Ablöse ?,€2.00m,,"Returned after loan spell with Melbourne City FC; date: Jan 10, 2024; fee: End of loan",
+338,167472,Youssouf M'Changama,Attacking Midfield,"Aug 29, 1990",32,Comoros,ESTAC Troyes,"1,75m",right,"Aug 13, 2018",EA Guingamp,€900k,,,
+339,138171,Mathias Autret,Attacking Midfield,"Mar 1, 1991",32,France,SM Caen,"1,79m",right,"Jul 1, 2020",Stade Brestois 29,€800k,,,
+340,743496,Kévin Danois,Attacking Midfield,"Jun 28, 2004",19,France,AJ Auxerre,"1,67m",right,"Jul 1, 2019",AJ Auxerre B,€100k,,,
+341,488656,Siriki Dembélé,Left Winger,"Sep 7, 1996",26,Scotland,Birmingham City,"1,73m",right,"Jan 2, 2023",AFC Bournemouth,€2.00m,,,
+342,174304,Rémy Dugimont,Left Winger,"Jul 1, 1986",36,France,Retired,"1,82m",right,"Aug 16, 2022",Clermont Foot 63,€100k,,,
+343,344892,Gauthier Hein,Right Winger,"Aug 7, 1996",26,France,AJ Auxerre,"1,70m",left,"Aug 5, 2022",: Ablöse ?,€2.00m,,,
+344,569140,Lassine Sinayoko,Right Winger,"Dec 8, 1999",23,Mali,AJ Auxerre,"1,86m",right,"Aug 2, 2021",AJ Auxerre B,€1.20m,,,
+345,806167,Kylian Silvestre,Right Winger,"Aug 16, 2002",20,France,AJ Auxerre B,"1,83m",left,"Jul 1, 2022",,€100k,,,
+346,193256,Gauthier Gallon,Goalkeeper,"Apr 23, 1993",30,France,Stade Rennais FC,"1,87m",right,"Jul 1, 2019",US Orléans,€2.00m,,,
+347,345437,Mateusz Lis,Goalkeeper,"Feb 27, 1997",26,Poland,Göztepe,"1,92m",right,"Sep 1, 2022",Southampton FC,€900k,,,
+348,33925,Jessy Moulin,Goalkeeper,"Jan 13, 1986",37,France,Retired,"1,84m",right,"Jul 19, 2021",: Ablöse free transfer,€200k,,,
+349,540642,Corentin Michel,Goalkeeper,"Mar 20, 2000",23,Belgium,ESTAC Troyes,"1,87m",right,"Jul 1, 2023",ESTAC Troyes B,€150k,,"Internal transfer: ESTAC Troyes B; date: Jul 1, 2023",
+350,491616,Jackson Porozo,Centre-Back,"Aug 4, 2000",22,Ecuador,Kasimpasa,"1,92m",right,"Jul 1, 2022",Boavista FC,€3.00m,,,
+351,282199,Erik Palmer-Brown,Centre-Back,"Apr 24, 1997",26,United States,Panathinaikos FC,"1,86m",right,"Feb 2, 2022",Manchester City,€2.50m,Bone marrow swelling - Return unknown,,
+352,351843,Yoann Salmier,Centre-Back,"Nov 21, 1992",30,French Guiana,Le Havre AC,"1,88m",right,"Jul 1, 2019",RC Strasbourg Alsace,€2.00m,,,
+353,917120,Tanguy Zoukrou,Centre-Back,"May 7, 2003",20,France,ESTAC Troyes,"1,89m",right,"Jul 1, 2022",ESTAC Troyes B,€1.00m,,,
+354,51118,Adil Rami,Centre-Back,"Dec 27, 1985",37,France,Retired,"1,91m",right,"Aug 24, 2021",Boavista FC,€250k,,,
+355,991649,Eric N'Jo,Centre-Back,"Jun 1, 2004",19,France,ESTAC Troyes,"1,95m",right,"Jul 1, 2022",ESTAC Troyes U19,€200k,,,
+356,917101,Rudy Kohon,Centre-Back,"May 23, 2004",19,France,ESTAC Troyes,"1,87m",right,"Jul 1, 2023",ESTAC Troyes B,€100k,,"Internal transfer: ESTAC Troyes B; date: Jul 1, 2023",
+357,554251,Yasser Larouci,Left-Back,"Jan 1, 2001",22,Algeria,Sheffield United,"1,76m",left,"Jul 28, 2021",Liverpool FC U23,€3.50m,Called up to national team -  - cross-competition,,
+358,337798,Abdu Conté,Left-Back,"Mar 24, 1998",25,Portugal,ESTAC Troyes,"1,83m",left,"Jan 12, 2022",Moreirense FC,€2.00m,,,
+359,982864,Mathis Hamdi,Left-Back,"Oct 18, 2003",19,France,ESTAC Troyes,"1,80m",,"Jul 1, 2023",ESTAC Troyes B,€150k,,"Internal transfer: ESTAC Troyes B; date: Jul 1, 2023",
+360,709482,Thierno Baldé,Right-Back,"Jun 10, 2002",21,France,ESTAC Troyes,"1,82m",right,"Aug 9, 2022",Paris Saint-Germain,€4.00m,Cruciate ligament tear - Return unknown,,
+361,345748,Andreas Bruus,Right-Back,"Jan 16, 1999",24,Denmark,ESTAC Troyes,"1,83m",right,"Jul 18, 2022",Bröndby IF,€2.00m,,,
+362,569384,Lucien Agoumé,Defensive Midfield,"Feb 9, 2002",21,France,Sevilla FC,"1,85m",right,"Sep 1, 2022",Inter Milan,€7.00m,,,
+363,277635,Rominigue Kouamé,Central Midfield,"Dec 17, 1996",26,Mali,Cádiz CF,"1,77m",left,"Jul 1, 2021",LOSC Lille,€4.50m,,,
+364,212804,Florian Tardieu,Central Midfield,"Apr 22, 1992",31,France,AS Saint-Étienne,"1,81m",right,"Jul 24, 2019",SV Zulte Waregem,€2.00m,,,
+365,118278,Xavier Chavalerin,Central Midfield,"Mar 7, 1991",32,France,ESTAC Troyes,"1,79m",left,"Aug 29, 2021",Stade Reims,€1.50m,Team captain,,
+366,371003,Ante Palaversa,Central Midfield,"Apr 6, 2000",23,Croatia,ESTAC Troyes,"1,87m",right,"Aug 31, 2022",Manchester City,€700k,,,
+367,126683,Tristan Dingomé,Central Midfield,"Feb 17, 1991",32,Cameroon,Without Club,"1,74m",left,"Oct 5, 2020",Stade Reims,€500k,,,
+368,917104,Derek Mazou-Sacko,Central Midfield,"Oct 6, 2004",18,France,AS Nancy-Lorraine,"1,75m",right,"Jul 1, 2023",ESTAC Troyes B,€250k,,,
+369,929612,Danel Dongmo,Central Midfield,"Jan 31, 2001",22,Cameroon,ESTAC Troyes B,"1,82m",left,"Jan 30, 2023",,€100k,,,
+370,326300,Jeff Reine-Adélaïde,Attacking Midfield,"Jan 17, 1998",25,France,RWD Molenbeek,"1,84m",right,"Jul 15, 2022",Olympique Lyon,€5.00m,,,
+371,857155,Ryan Fage,Attacking Midfield,"Oct 31, 2003",19,France,US Avranches,"1,69m",,"Jan 28, 2023",,€50k,,,
+372,743498,Wilson Odobert,Left Winger,"Nov 28, 2004",18,France,Burnley FC,"1,82m",right,"Aug 30, 2022",Paris Saint-Germain U19,€6.00m,,,
+373,750886,Alexis Tibidi,Left Winger,"Nov 3, 2003",19,France,Manchester City U21,"1,87m",right,"Aug 25, 2022",VfB Stuttgart,€2.00m,,,
+374,931841,Amar Fatah,Left Winger,"Feb 19, 2004",19,Sweden,Lommel SK,"1,80m",right,"Sep 1, 2022",AIK,€1.20m,,,
+375,568702,Papa Ndiaga Yade,Left Winger,"Jan 5, 2000",23,Mauritania,Quevilly - Rouen Métropole,"1,85m",left,"Jul 28, 2020",FC Metz,€1.20m,,,
+376,345654,Marlos Moreno,Left Winger,"Sep 20, 1996",26,Colombia,Konyaspor,"1,73m",right,"Aug 24, 2022",Manchester City,€950k,,"Returned after loan spell with Konyaspor; date: Jun 30, 2023; fee: End of loan",
+377,537182,Levi Lumeka,Left Winger,"Sep 5, 1998",24,England,Oxford City,"1,70m",right,"Jul 15, 2021",Varzim SC,€200k,,,
+378,174694,Rony Lopes,Right Winger,"Dec 28, 1995",27,Portugal,SC Braga,"1,74m",left,"Jul 1, 2023",Sevilla FC,€4.00m,,,
+379,234802,Renaud Ripart,Right Winger,"Mar 14, 1993",30,France,ESTAC Troyes,"1,81m",right,"Jul 1, 2023",Nîmes Olympique,€2.50m,,,
+380,982863,Kyliane Dong,Right Winger,"Sep 27, 2004",18,France,ESTAC Troyes,"1,78m",,"Jul 31, 2021",ESTAC Troyes B,€500k,,"Internal transfer: ESTAC Troyes B; date: Jul 1, 2023",
+381,857154,Alexis Lefebvre,Right Winger,"May 21, 2003",20,France,AS Nancy-Lorraine,"1,66m",right,"Aug 4, 2022",ESTAC Troyes B,€250k,,,
+382,325223,Mama Baldé,Centre-Forward,"Nov 6, 1995",27,Guinea-Bissau,Olympique Lyon,"1,76m",right,"Jul 16, 2021",Dijon FCO,€8.00m,,,
+383,339943,Iké Ugbo,Centre-Forward,"Sep 21, 1998",24,Canada,Sheffield Wednesday,"1,84m",right,"Jul 1, 2018",KRC Genk,€3.00m,,,
+384,60561,Anthony Lopes,Goalkeeper,"Oct 1, 1990",32,Portugal,Olympique Lyon,"1,84m",left,"Jul 1, 2011",Olympique Lyon B,€8.00m,,,
+385,18940,Rémy Riou,Goalkeeper,"Aug 6, 1987",35,France,Paris FC,"1,91m",right,"Jul 1, 2022",SM Caen,€400k,,,
+386,618465,Kayne Bonnevie,Goalkeeper,"Jul 22, 2001",21,France,Quevilly - Rouen Métropole,"1,91m",left,"Jul 1, 2022",Olympique Lyon B,€200k,,,
+387,618472,Castello Lukeba,Centre-Back,"Dec 17, 2002",20,France,RB Leipzig,"1,84m",left,"Jul 1, 2021",Olympique Lyon B,€25.00m,,,
+388,702441,Sinaly Diomandé,Centre-Back,"Apr 9, 2001",22,Cote d'Ivoire,Olympique Lyon,"1,84m",right,"Jul 1, 2020",Olympique Lyon B,€9.00m,,,
+389,37838,Dejan Lovren,Centre-Back,"Jul 5, 1989",33,Croatia,Olympique Lyon,"1,88m",right,"Jan 2, 2023",: Ablöse €2.00m,€2.50m,,,
+390,910905,Mamadou Sarr,Centre-Back,"Aug 29, 2005",17,France,RWD Molenbeek,"1,94m",right,"Jul 1, 2023",Olympique Lyon B,€1.00m,,,
+391,26485,Jérôme Boateng,Centre-Back,"Sep 3, 1988",34,Germany,US Salernitana 1919,"1,92m",right,"Sep 1, 2021",Bayern Munich,€800k,,,
+392,57370,Damien Da Silva,Centre-Back,"May 17, 1988",35,France,Melbourne Victory,"1,84m",right,"Jul 1, 2021",Stade Rennais FC,€500k,,,
+393,131225,Nicolás Tagliafico,Left-Back,"Aug 31, 1992",30,Argentina,Olympique Lyon,"1,72m",left,"Jul 23, 2022",Ajax Amsterdam,€9.00m,,,
+394,204072,Henrique Silva,Left-Back,"Apr 25, 1994",29,Brazil,Olympique Lyon,"1,73m",left,"Jul 1, 2021",Clube de Regatas Vasco da Gama,€1.00m,,,
+395,902862,Achraf Laâziri,Left-Back,"Jul 8, 2003",19,Morocco,USL Dunkerque,"1,77m",left,"Jul 1, 2023",Olympique Lyon B,€250k,,,
+396,620322,Malo Gusto,Right-Back,"May 19, 2003",20,France,Chelsea FC,"1,78m",right,"Jan 30, 2023",Chelsea FC,€25.00m,,,
+397,951579,Saël Kumbedi,Right-Back,"Mar 26, 2005",18,France,Olympique Lyon,"1,75m",right,"Aug 31, 2022",Le Havre AC,€12.00m,,,
+398,585973,Johann Lepenant,Defensive Midfield,"Oct 22, 2002",20,France,Olympique Lyon,"1,76m",right,"Jul 1, 2022",SM Caen,€10.00m,,,
+399,135617,Thiago Mendes,Defensive Midfield,"Mar 15, 1992",31,Brazil,Al-Rayyan SC,"1,77m",right,"Jul 3, 2019",LOSC Lille,€5.00m,,,
+400,395237,Maxence Caqueret,Central Midfield,"Feb 15, 2000",23,France,Olympique Lyon,"1,74m",right,"Dec 14, 2018",Olympique Lyon B,€25.00m,,,
+401,190393,Corentin Tolisso,Central Midfield,"Aug 3, 1994",28,France,Olympique Lyon,"1,81m",right,"Jul 1, 2022",Bayern Munich,€14.00m,,,
+402,395693,Houssem Aouar,Central Midfield,"Jun 30, 1998",25,Algeria,AS Roma,"1,75m",right,"Jul 1, 2017",Olympique Lyon B,€13.00m,,,
+403,743533,Mohamed El Arouch,Central Midfield,"Apr 6, 2004",19,France,Olympique Lyon,"1,66m",right,"Jul 1, 2022",Olympique Lyon B,€2.00m,,,
+404,555076,Romain Faivre,Right Midfield,"Jul 14, 1998",24,France,AFC Bournemouth,"1,80m",left,"Jan 31, 2022",Stade Brestois 29,€10.00m,,"Returned after loan spell with FC Lorient; date: Jun 30, 2023; fee: End of loan",
+405,444523,Lucas Paquetá,Attacking Midfield,"Aug 27, 1997",25,Brazil,West Ham United,"1,80m",left,"Sep 30, 2020",AC Milan,€45.00m,,,
+406,607223,Rayan Cherki,Attacking Midfield,"Aug 17, 2003",19,France,Olympique Lyon,"1,77m",both,"Jan 1, 2020",Olympique Lyon B,€30.00m,,,
+407,326300,Jeff Reine-Adélaïde,Attacking Midfield,"Jan 17, 1998",25,France,RWD Molenbeek,"1,84m",right,"Aug 14, 2019",: Ablöse €25.00m,€5.00m,,"Returned after loan spell with ESTAC Troyes; date: Jun 30, 2023; fee: End of loan",
+408,538969,Djibrail Dib,Attacking Midfield,"Jul 3, 2002",20,Algeria,Olympique Lyon B,"1,75m",left,"Jan 7, 2022",,€150k,,,
+409,708265,Bradley Barcola,Left Winger,"Sep 2, 2002",20,France,Paris Saint-Germain,"1,82m",right,"Jan 31, 2023",Olympique Lyon B,€18.00m,unknown injury - Return unknown,,
+410,884072,Jeffinho,Left Winger,"Dec 30, 1999",23,Brazil,Botafogo de Futebol e Regatas,"1,76m",right,"Mar 31, 2022",Botafogo de Futebol e Regatas,€8.00m,,,
+411,371256,Tetê,Right Winger,"Feb 15, 2000",23,Brazil,Galatasaray,"1,75m",left,"Jul 1, 2022",Shakhtar Donetsk,€25.00m,,"Returned after loan spell with Leicester City; date: Jun 29, 2023; fee: End of loan",
+412,93720,Alexandre Lacazette,Centre-Forward,"May 28, 1991",32,France,Olympique Lyon,"1,75m",right,"Aug 31, 2018",Arsenal FC,€14.00m,Team captain,,
+413,229004,Moussa Dembélé,Centre-Forward,"Jul 12, 1996",26,France,Al-Ettifaq FC,"1,87m",right,"Jul 1, 2020",Celtic FC,€12.00m,,,
+414,315110,Karl Toko Ekambi,Centre-Forward,"Sep 14, 1992",30,Cameroon,Al-Ettifaq FC,"1,82m",right,"Jan 30, 2023",Villarreal CF,€8.00m,,"Returned after loan spell with Stade Rennais FC; date: Jun 30, 2023; fee: End of loan",
+415,748382,Amin Sarr,Centre-Forward,"Mar 11, 2001",22,Sweden,VfL Wolfsburg,"1,88m",right,"Jan 22, 2020",SC Heerenveen,€8.00m,,,
+416,247915,Jonas Omlin,Goalkeeper,"Jan 10, 1994",29,Switzerland,Borussia Mönchengladbach,"1,90m",right,"Aug 15, 2020",FC Basel 1893,€9.00m,,,
+417,127181,Benjamin Lecomte,Goalkeeper,"Apr 26, 1991",32,France,Montpellier HSC,"1,86m",left,"Jan 26, 2023",AS Monaco,€4.00m,,,
+418,371816,Dimitry Bertaud,Goalkeeper,"Jun 6, 1998",25,DR Congo,Montpellier HSC,"1,80m",right,"Jul 1, 2017",Montpellier HSC B,€1.50m,,,
+419,333175,Bingourou Kamara,Goalkeeper,"Oct 21, 1996",26,Senegal,Pau FC,"1,95m",right,"Sep 1, 2022",RC Strasbourg Alsace,€800k,,,
+420,478346,Matis Carvalho,Goalkeeper,"Apr 28, 1999",24,Portugal,Le Puy Foot 43 Auvergne,"1,86m",left,"Jul 1, 2019",Toulouse FC B,€300k,,,
+421,842341,Maxime Estève,Centre-Back,"May 26, 2002",21,France,Burnley FC,"1,93m",left,"Jul 1, 2021",Montpellier HSC B,€7.00m,,,
+422,211637,Kiki Kouyaté,Centre-Back,"Apr 15, 1997",26,Mali,Montpellier HSC,"1,92m",right,"Jan 20, 2023",FC Metz,€5.00m,,,
+423,201737,Christopher Jullien,Centre-Back,"Mar 22, 1993",30,France,Montpellier HSC,"1,96m",right,"Aug 23, 2022",Celtic FC,€3.50m,,,
+424,47713,Mamadou Sakho,Centre-Back,"Feb 13, 1990",33,France,Without Club,"1,87m",left,"Jul 27, 2021",Crystal Palace,€2.50m,,,
+425,72857,Pedro Mendes,Centre-Back,"Oct 1, 1990",32,Portugal,CF Estrela Amadora SAD,"1,86m",right,"Jul 18, 2017",Stade Rennais FC,€1.80m,,,
+426,913669,Téo Allix,Centre-Back,"Jul 5, 2004",18,France,Montpellier HSC B,"1,83m",right,"Jul 1, 2022",,€150k,,,
+427,913660,Redouane Halhal,Centre-Back,"Mar 5, 2003",20,Morocco,Atlético de Madrid B,"1,87m",right,"Jul 1, 2017",,€100k,,,
+428,357072,Faitout Maouassa,Left-Back,"Jul 6, 1998",24,France,Granada CF,"1,70m",left,"Jan 31, 2023",Club Brugge KV,€6.00m,,,
+429,485965,Nicolas Cozza,Left-Back,"Jan 8, 1999",24,France,FC Nantes,"1,78m",left,"Jul 1, 2022",Montpellier HSC U19,€3.50m,,,
+430,220878,Issiaga Sylla,Left-Back,"Jan 1, 1994",29,Guinea,Montpellier HSC,"1,80m",left,"Sep 27, 2019",FC Toulouse,€2.50m,,,
+431,537127,Théo Sainte-Luce,Left-Back,"Oct 20, 1998",24,France,Montpellier HSC,"1,76m",left,"Jul 1, 2023",Nîmes Olympique,€2.00m,,,
+432,569374,Thibault Tamas,Left-Back,"Feb 20, 2001",22,France,Stade Briochin,"1,78m",left,"Jul 1, 2022",Montpellier HSC B,€150k,,,
+433,364857,Falaye Sacko,Right-Back,"May 1, 1995",28,Mali,Montpellier HSC,"1,80m",right,"Aug 6, 2019",Vitória Guimarães SC,€4.00m,,"Joined from Vitória Guimarães SC; date: Jul 1, 2023; fee: €1.30m",
+434,842338,Enzo Tchato,Right-Back,"Nov 23, 2002",20,Cameroon,Montpellier HSC,"1,82m",right,"Jan 2, 2019",Montpellier HSC B,€2.50m,,,
+435,111058,Arnaud Souquet,Right-Back,"Feb 12, 1992",31,France,Chicago Fire FC,"1,79m",right,"Sep 25, 2019",KAA Gent,€2.00m,,,
+436,294895,Mathías Suárez,Right-Back,"Jun 24, 1996",27,Uruguay,Barcelona SC Guayaquil,"1,82m",right,"Jul 1, 2019",Defensor Sporting Club,€300k,,,
+437,743516,Ryan Tchato,Right-Back,"Sep 13, 2004",18,Cameroon,Montpellier HSC B,"1,83m",right,"Jul 1, 2022",,€150k,,,
+438,624037,Joris Chotard,Defensive Midfield,"Sep 24, 2001",21,France,Montpellier HSC,"1,79m",right,"Jul 1, 2021",Montpellier HSC B,€9.00m,,,
+439,118284,Jordan Ferri,Central Midfield,"Mar 12, 1992",31,France,Montpellier HSC,"1,73m",right,"Jul 2, 2019",: Ablöse €2.00m,€5.00m,,,
+440,782630,Khalil Fayad,Central Midfield,"Jun 9, 2004",19,France,Montpellier HSC,"1,72m",right,"Jul 1, 2021",Montpellier HSC B,€4.50m,,,
+441,650350,Léo Leroy,Central Midfield,"Feb 14, 2000",23,France,Montpellier HSC,"1,87m",right,"Jul 1, 2020",LB Châteauroux,€1.20m,,,
+442,913645,Matéo Loubatières,Central Midfield,"Sep 15, 2003",19,France,SC Bastia,"1,75m",left,"Jul 1, 2022",,€150k,,,
+443,127156,Téji Savanier,Attacking Midfield,"Dec 22, 1991",31,France,Montpellier HSC,"1,72m",right,"Oct 19, 2020",Nîmes Olympique,€10.00m,Team captain,,
+444,842425,Sacha Delaye,Attacking Midfield,"Apr 23, 2002",21,France,Montpellier HSC,"1,71m",right,"Jul 1, 2022",Montpellier HSC B,€400k,,"Returned after loan spell with Le Puy Foot 43 Auvergne; date: Jun 30, 2023; fee: End of loan",
+445,340328,Stephy Mavididi,Left Winger,"May 31, 1998",25,England,Leicester City,"1,82m",right,"Jan 1, 2021",Juventus U23,€6.00m,,,
+446,103565,Wahbi Khazri,Left Winger,"Feb 8, 1991",32,Tunisia,Montpellier HSC,"1,76m",right,"Aug 31, 2021",AS Saint-Étienne,€2.50m,,,
+447,624920,Béni Makouana,Left Winger,"Sep 28, 2002",20,Congo,Polissya Zhytomyr,"1,82m",right,"Jul 1, 2021",Diables Noirs Brazzaville,€600k,Torn thigh muscle - Return unknown,,
+448,286415,Pau López,Goalkeeper,"Dec 13, 1994",28,Spain,Olympique Marseille,"1,89m",left,"Jul 1, 2022",AS Roma,€14.00m,,,
+449,199321,Rubén Blanco,Goalkeeper,"Jul 25, 1995",27,Spain,Olympique Marseille,"1,88m",right,"Jul 30, 2023",Celta de Vigo,€4.00m,,"Joined from Celta de Vigo; date: Jul 30, 2023; fee: €1.50m",
+450,696600,Simon Ngapandouetnbu,Goalkeeper,"Apr 12, 2003",20,Cameroon,Olympique Marseille,"1,86m",right,"Oct 11, 2019",Olympique de Marseille B,€400k,,,
+451,203348,Chancel Mbemba,Centre-Back,"Aug 8, 1994",28,DR Congo,Olympique Marseille,"1,82m",right,"Jul 15, 2022",FC Porto,€20.00m,,,
+452,238266,Duje Caleta-Car,Centre-Back,"Sep 17, 1996",26,Croatia,Olympique Lyon,"1,93m",right,"Jul 20, 2018",: Ablöse €19.00m,€11.00m,,,
+453,276896,Samuel Gigot,Centre-Back,"Oct 12, 1993",29,France,Olympique Marseille,"1,87m",right,"Jan 29, 2022",: Ablöse €500k,€10.00m,,,
+454,575998,Leonardo Balerdi,Centre-Back,"Jan 26, 1999",24,Argentina,Olympique Marseille,"1,87m",right,"Jul 3, 2021",Borussia Dortmund,€10.00m,,,
+455,94005,Sead Kolasinac,Centre-Back,"Jun 20, 1993",30,Bosnia-Herzegovina,Atalanta BC,"1,83m",left,"Jan 18, 2022",Arsenal FC,€8.00m,,,
+456,708678,Isaak Touré,Centre-Back,"Mar 28, 2003",20,France,FC Lorient,"2,06m",left,"Jul 1, 2022",Le Havre AC,€6.00m,,"Returned after loan spell with AJ Auxerre; date: Jun 30, 2023; fee: End of loan",
+457,286384,Eric Bailly,Centre-Back,"Apr 12, 1994",29,Cote d'Ivoire,Villarreal CF,"1,87m",right,"Aug 24, 2022",Manchester United,€5.00m,,,
+458,922488,Yakine Said M'Madi,Centre-Back,"Mar 11, 2004",19,Comoros,Olympique de Marseille B,"1,84m",right,"Jul 30, 2022",,€150k,,,
+459,535955,Nuno Tavares,Left-Back,"Jan 26, 2000",23,Portugal,Nottingham Forest,"1,83m",left,"Jul 20, 2022",Arsenal FC,€18.00m,,,
+460,175639,Jonathan Clauss,Right-Back,"Sep 25, 1992",30,France,Olympique Marseille,"1,78m",right,"Aug 17, 2022",RC Lens,€14.00m,Torn muscle bundle - Return unknown,,
+461,649452,Issa Kaboré,Right-Back,"May 12, 2001",22,Burkina Faso,Luton Town,"1,80m",right,"Aug 23, 2021",Manchester City,€7.00m,,,
+462,298975,Pol Lirola,Right-Back,"Aug 13, 1997",25,Spain,Frosinone Calcio,"1,83m",right,"Jul 1, 2020",: Ablöse €13.00m,€2.00m,,,
+463,485963,Pape Gueye,Defensive Midfield,"Jan 24, 1999",24,Senegal,Olympique Marseille,"1,89m",left,"Jul 1, 2022",Le Havre AC,€10.00m,No eligibility -  - UEFA Europa League,"Returned after loan spell with Sevilla FC; date: Jun 30, 2023; fee: End of loan",
+464,655895,Bartuğ Elmaz,Defensive Midfield,"Feb 19, 2003",20,Türkiye,Sivasspor,"1,79m",right,"Jul 1, 2022",Galatasaray,€300k,,,
+465,960655,Raimane Daou,Defensive Midfield,"Nov 20, 2004",18,Comoros,Olympique de Marseille B,"1,82m",right,"Sep 3, 2019",,,,,
+466,465830,Mattéo Guendouzi,Central Midfield,"Apr 14, 1999",24,France,SS Lazio,"1,85m",right,"Jul 1, 2021",Arsenal FC,€25.00m,,,
+467,332889,Valentin Rongier,Central Midfield,"Dec 7, 1994",28,France,Olympique Marseille,"1,72m",right,"Aug 5, 2022",FC Nantes,€22.00m,Team captain; Broken kneecap - Return unknown,,
+468,341705,Gerson,Central Midfield,"May 20, 1997",26,Brazil,CR Flamengo,"1,84m",left,"Jan 29, 2023",CR Flamengo,€16.00m,,,
+469,164771,Jordan Veretout,Central Midfield,"Mar 1, 1993",30,France,Olympique Marseille,"1,77m",right,"Jul 1, 2023",AS Roma,€16.00m,,,
+470,593482,Azzedine Ounahi,Central Midfield,"Apr 19, 2000",23,Morocco,Olympique Marseille,"1,82m",right,"Jul 1, 2023",Angers SCO,€12.00m,,,
+471,659271,Esey Gebreyesus,Right Midfield,"Jan 23, 2004",19,Switzerland,FC Aarau,"1,82m",right,"Jul 1, 2023",,€100k,unknown injury - Return unknown,,
+472,913495,Emran Soglo,Left Midfield,"Jul 11, 2005",17,England,Olympique Marseille,"1,78m",left,"Jan 30, 2017",Olympique de Marseille B,,,"Internal transfer: Olympique de Marseille B; date: Jul 1, 2023",
+473,207877,Ruslan Malinovskyi,Attacking Midfield,"May 4, 1993",30,Ukraine,Genoa CFC,"1,81m",left,"Jan 1, 2023",Atalanta BC,€15.00m,"Hamstring muscle injury - Return expected on Apr 30, 2024","Returned after loan spell with Genoa CFC; date: Jan 30, 2024; fee: End of loan",
+474,372711,Amine Harit,Attacking Midfield,"Jun 18, 1997",26,Morocco,Olympique Marseille,"1,80m",right,"Jul 1, 2022",FC Schalke 04,€12.00m,,"Joined from FC Schalke 04; date: Jul 1, 2023; fee: €5.00m",
+475,37647,Dimitri Payet,Attacking Midfield,"Mar 29, 1987",36,France,Clube de Regatas Vasco da Gama,"1,75m",right,"Jul 1, 2023",West Ham United,€1.80m,,,
+476,708681,Salim Ben Seghir,Left Winger,"Feb 24, 2003",20,France,Neuchâtel Xamax FCS,"1,77m",right,"Jan 31, 2023",Olympique de Marseille B,€500k,,,
+477,341647,Cengiz Ünder,Right Winger,"Jul 14, 1997",25,Türkiye,Fenerbahce,"1,73m",left,"Jul 1, 2022",AS Roma,€20.00m,,,
+478,1027216,François Mughe,Right Winger,"Jun 16, 2004",19,Cameroon,USL Dunkerque,"1,73m",right,"Jul 20, 2022",Olympique de Marseille B,€300k,,,
+479,586853,Vitinha,Centre-Forward,"Mar 15, 2000",23,Portugal,Genoa CFC,"1,78m",right,"Jul 1, 2021",SC Braga,€18.00m,unknown injury - Return unknown,,
+480,191891,Arkadiusz Milik,Centre-Forward,"Feb 28, 1994",29,Poland,Juventus FC,"1,86m",left,"Jan 13, 2022",SSC Napoli,€8.00m,"Adductor injury - Return expected on Apr 13, 2024","Returned after loan spell with Juventus FC; date: Jun 30, 2023; fee: End of loan",
+481,424784,Luis Suárez,Centre-Forward,"Dec 2, 1997",25,Colombia,UD Almería,"1,81m",right,"Aug 10, 2022",Granada CF,€8.00m,,"Returned after loan spell with UD Almería; date: Jun 30, 2023; fee: End of loan",
+482,127202,Matz Sels,Goalkeeper,"Feb 26, 1992",31,Belgium,Nottingham Forest,"1,88m",right,"Jul 26, 2018",Newcastle United,€7.00m,,,
+483,77383,Eiji Kawashima,Goalkeeper,"Mar 20, 1983",40,Japan,Júbilo Iwata,"1,85m",right,"Aug 29, 2018",: Ablöse free transfer,€150k,,,
+484,743515,Robin Risser,Goalkeeper,"Dec 2, 2004",18,France,Dijon FCO,"1,92m",right,"Jul 1, 2022",Racing Strasbourg U19,€150k,,,
+485,838947,Alexandre Pierre,Goalkeeper,"Feb 25, 2001",22,Haiti,RC Strasbourg Alsace,"1,91m",right,"Jul 1, 2021",Racing Strasbourg B,€100k,,,
+486,250844,Alexander Djiku,Centre-Back,"Aug 9, 1994",28,Ghana,Fenerbahce,"1,82m",right,"Jul 5, 2019",SM Caen,€8.00m,,,
+487,786436,Ismaël Doukouré,Centre-Back,"Jul 24, 2003",19,France,RC Strasbourg Alsace,"1,83m",right,"Jan 29, 2022",Valenciennes FC,€6.00m,,,
+488,378953,Gerzino Nyamsi,Centre-Back,"Jan 22, 1997",26,France,Lokomotiv Moscow,"1,94m",right,"Aug 30, 2021",Stade Rennais FC,€5.00m,Torn muscle fiber in the adductor area - Return unknown,,
+489,352392,Lucas Perrin,Centre-Back,"Nov 19, 1998",24,France,RC Strasbourg Alsace,"1,88m",right,"Jul 1, 2022",Olympique Marseille,€3.00m,,,
+490,60558,Maxime Le Marchand,Centre-Back,"Oct 11, 1989",33,France,Retired,"1,85m",left,"Aug 26, 2021",Fulham FC,€1.00m,,,
+491,1029294,Franci Bouebari,Centre-Back,"Sep 12, 2003",19,France,SC Freiburg II,"1,84m",both,"Jan 23, 2023",,€250k,,,
+492,206717,Eduard Sobol,Left-Back,"Apr 20, 1995",28,Ukraine,KRC Genk,"1,86m",left,"Jul 1, 2022",Club Brugge KV,€2.50m,,,
+493,170961,Thomas Delaine,Left-Back,"Mar 24, 1992",31,France,RC Strasbourg Alsace,"1,80m",left,"Jul 6, 2022",FC Metz,€1.20m,,,
+494,667999,Anas Nanah,Left-Back,"Mar 12, 2003",20,Morocco,Union Touarga Sportif,"1,77m",left,"Jan 17, 2023",,€50k,,,
+495,460629,Colin Dagba,Right-Back,"Sep 9, 1998",24,France,AJ Auxerre,"1,70m",right,"Jul 23, 2022",Paris Saint-Germain,€4.50m,,,
+496,354352,Frédéric Guilbert,Right-Back,"Dec 24, 1994",28,France,RC Strasbourg Alsace,"1,78m",right,"Jul 1, 2021",Aston Villa,€4.50m,,,
+497,410185,Ronaël Pierre-Gabriel,Right-Back,"Jun 13, 1998",25,France,GNK Dinamo Zagreb,"1,77m",right,"Jul 1, 2021",1.FSV Mainz 05,€3.50m,,,
+498,385817,Karol Fila,Right-Back,"Jun 13, 1998",25,Poland,RC Strasbourg Alsace,"1,83m",right,"Jul 1, 2018",Lechia Gdansk,€900k,Cruciate ligament tear - Return unknown,"Returned after loan spell with SV Zulte Waregem; date: Jun 30, 2023; fee: End of loan",
+499,830890,Marvin Senaya,Right-Back,"Jan 28, 2001",22,France,RC Strasbourg Alsace,"1,81m",right,"Jul 1, 2022",Racing Strasbourg B,€900k,,"Returned after loan spell with Rodez AF; date: Jun 30, 2023; fee: End of loan",
+500,1029293,Antoine Nuss,Right-Back,"Dec 19, 2003",19,France,SR Colmar,"1,79m",right,"Jul 2, 2019",,€100k,,,
+501,372712,Ibrahima Sissoko,Defensive Midfield,"Oct 27, 1997",25,Mali,RC Strasbourg Alsace,"1,93m",right,"Jan 23, 2023",Stade Brestois 29,€6.00m,,,
+502,178313,Jean-Eudes Aholou,Defensive Midfield,"Mar 20, 1994",29,Cote d'Ivoire,RC Strasbourg Alsace,"1,86m",left,"Sep 2, 2019",AS Monaco,€2.50m,,,
+503,450050,Jean-Ricner Bellegarde,Central Midfield,"Jun 27, 1998",25,France,Wolverhampton Wanderers,"1,72m",right,"Jul 1, 2013",RC Lens,€10.00m,,,
+504,174094,Morgan Sanson,Central Midfield,"Aug 18, 1994",28,France,OGC Nice,"1,80m",right,"Jul 1, 2022",Aston Villa,€6.00m,,,
+505,125783,Sanjin Prcic,Central Midfield,"Nov 20, 1993",29,Bosnia-Herzegovina,RC Strasbourg Alsace,"1,81m",right,"Jul 1, 2018",Levante UD,€3.00m,,,
+506,314940,Dimitri Liénard,Left Midfield,"Feb 13, 1988",35,France,FC Sochaux-Montbéliard,"1,81m",left,"Jul 1, 2021",: Ablöse free transfer,€500k,,,
+507,876631,Habib Diarra,Attacking Midfield,"Jan 3, 2004",19,Senegal,RC Strasbourg Alsace,"1,79m",right,"Jul 1, 2023",Racing Strasbourg U19,€10.00m,,,
+508,215977,Adrien Thomasson,Attacking Midfield,"Dec 10, 1993",29,France,RC Lens,"1,75m",right,"Jul 1, 2023",: Ablöse free transfer,€6.00m,,,
+509,891379,Nordine Kandil,Attacking Midfield,"Oct 31, 2001",21,Morocco,FC Annecy,"1,65m",left,"Oct 5, 2020",Racing Strasbourg B,€400k,,,
+510,888823,Jordan Robinand,Attacking Midfield,"Sep 16, 2003",19,France,SO Cholet,"1,80m",left,"Jul 1, 2018",Racing Strasbourg B,€50k,,,
+511,628835,Dany Jean,Left Winger,"Nov 28, 2002",20,Haiti,US Avranches,"1,70m",,"Jul 18, 2021",Racing Strasbourg B,€150k,,,
+512,886502,Tom Saettel,Left Winger,"Jun 19, 2005",18,France,Racing Strasbourg U19,,right,"Aug 30, 2018",,€150k,,,
+513,344888,Habib Diallo,Centre-Forward,"Jun 18, 1995",28,Senegal,Al-Shabab FC,"1,86m",right,"Jan 27, 2023",: Ablöse €10.00m,€18.00m,,,
+514,379869,Arthur Desmas,Goalkeeper,"Apr 7, 1994",29,France,Le Havre AC,"1,96m",right,"Jul 1, 2022",Clermont Foot 63,€1.50m,,,
+515,60543,Mathieu Gorgelin,Goalkeeper,"Aug 5, 1990",32,France,Le Havre AC,"1,87m",left,"Jul 1, 2019",: Ablöse free transfer,€200k,,,
+516,911985,Mohamed Koné,Goalkeeper,"Mar 7, 2002",21,Cote d'Ivoire,USL Dunkerque,"1,86m",right,"Jul 1, 2022",AC Le Havre B,€50k,,,
+517,768380,Arouna Sangante,Centre-Back,"Apr 12, 2002",21,Senegal,Le Havre AC,"1,89m",right,"Jul 1, 2021",AC Le Havre B,€5.00m,Team captain,,
+518,249636,Gautier Lloris,Centre-Back,"Jul 18, 1995",27,France,Le Havre AC,"1,91m",left,"Jul 12, 2022",AJ Auxerre,€1.50m,,,
+519,152651,Terence Kongolo,Centre-Back,"Feb 14, 1994",29,Netherlands,Rapid Vienna,"1,88m",left,"Sep 1, 2022",Fulham FC,€900k,,,
+520,639712,Étienne Youté Kinkoué,Centre-Back,"Jan 14, 2002",21,France,Le Havre AC,"1,96m",right,"Jan 11, 2023",Olympiacos Piraeus B,€300k,,,
+521,137930,Zakaria Diallo,Centre-Back,"Aug 13, 1986",36,France,Without Club,"1,94m",right,"Jul 26, 2022",NorthEast United FC,€200k,,,
+522,855021,Djamal Moussadek,Centre-Back,"Apr 3, 2002",21,Morocco,FC Villefranche-Beaujolais,"1,85m",,"Jul 1, 2022",Le Mans FC,€150k,,,
+523,988272,Yoni Gomis,Centre-Back,"Sep 23, 2005",17,France,AC Le Havre B,"1,86m",left,"Jul 1, 2022",,€50k,,,
+524,469976,Christopher Operi,Left-Back,"Apr 29, 1997",26,Cote d'Ivoire,Le Havre AC,"1,83m",left,"Jan 30, 2021",KAA Gent,€2.00m,,,
+525,593479,Abdelwahed Wahib,Left-Back,"Jan 27, 2000",23,Morocco,US Concarneau,"1,77m",left,"Jul 1, 2022",AC Le Havre B,€400k,Hamstring injury - Return unknown,,
+526,951579,Saël Kumbedi,Right-Back,"Mar 26, 2005",18,France,Olympique Lyon,"1,75m",right,"Jul 15, 2022",AC Le Havre U19,€12.00m,,,
+527,283127,Oualid El Hajjam,Right-Back,"Feb 19, 1991",32,Morocco,Le Havre AC,"1,81m",right,"Mar 10, 2014",ESTAC Troyes,€1.20m,,,
+528,264811,Victor Lekhal,Defensive Midfield,"Feb 27, 1994",29,Algeria,Umm Salal SC,"1,87m",right,"Jul 1, 2020",AC Le Havre B,€2.50m,,,
+529,276768,Nolan Mbemba,Defensive Midfield,"Feb 19, 1995",28,Congo,Grenoble Foot 38,"1,81m",right,"Aug 17, 2022",Stade Reims,€500k,,,
+530,292820,Aloïs Confais,Defensive Midfield,"Sep 7, 1996",26,France,Le Havre AC,"1,74m",right,"Jul 1, 2022",Olympiakos Nicosia,€300k,,,
+531,770436,Simon Ebonog,Midfielder,"Aug 16, 2004",18,France,AC Le Havre B,,right,"Jul 1, 2022",,€50k,,,
+532,893674,Aristide Wam,Defensive Midfield,"Feb 18, 2002",21,Cameroon,US Sarre-Union,"1,83m",,"Sep 1, 2022",AC Le Havre B,€50k,,,
+533,667967,Yassine Kechta,Central Midfield,"Feb 25, 2002",21,Morocco,Le Havre AC,"1,74m",left,"Jan 6, 2023",AC Le Havre B,€3.50m,,,
+534,893675,Amir Richardson,Central Midfield,"Jan 24, 2002",21,Morocco,Stade Reims,"1,97m",left,"Sep 2, 2022",Stade Reims,€3.50m,,,
+535,667965,Oussama Targhalline,Central Midfield,"May 20, 2002",21,Morocco,Le Havre AC,"1,86m",right,"Jul 1, 2021",Olympique Marseille,€800k,,,
+536,838804,Check Oumar Diakité,Central Midfield,"Dec 5, 2002",20,France,Adanaspor,"1,73m",,"Jul 1, 2020",Paris FC,€700k,Red card suspension -  - 1.Lig,,
+537,654412,Abdoullah Ba,Right Midfield,"Jul 31, 2003",19,France,Sunderland AFC,"1,80m",,"Aug 11, 2020",AC Le Havre U19,€2.00m,,,
+538,804664,Elies Mahmoud,Right Midfield,"Feb 10, 2001",22,France,FC Stade-Lausanne-Ouchy,"1,71m",right,"Jul 1, 2021",LB Châteauroux B,€800k,,,
+539,789091,Mokrane Bentoumi,Attacking Midfield,"Jun 16, 2005",18,France,AC Le Havre B,"1,69m",left,"Jan 23, 2023",,€50k,,,
+540,344607,Nabil Alioui,Left Winger,"Feb 18, 1999",24,France,Adana Demirspor,"1,75m",right,"Jul 1, 2021",AS Monaco B,€1.50m,,,
+541,622056,Ylan Gomes,Left Winger,"Jul 22, 2002",20,France,AS Nancy-Lorraine B,"1,74m",,"Jul 1, 2020",AC Le Havre B,€250k,,"Returned after loan spell with Paris 13 Atletico; date: Jun 30, 2023; fee: End of loan",
+542,770372,Amadou Samoura,Left Winger,"Nov 21, 2003",19,France,AC Le Havre B,,,"Jan 24, 2023",,€50k,,,
+543,432772,Samuel Grandsir,Right Winger,"Aug 14, 1996",26,France,Le Havre AC,"1,70m",right,"Oct 31, 2022",Los Angeles Galaxy,€2.00m,,,
+544,763182,Josué Casimir,Right Winger,"Sep 24, 2001",21,Guadeloupe,Le Havre AC,"1,78m",right,"Jul 13, 2022",AC Le Havre B,€1.80m,,,
+545,238630,Quentin Cornette,Right Winger,"Jan 17, 1994",29,France,Yelimay Semey,"1,72m",right,"Jan 1, 2023",: Ablöse free transfer,€1.00m,,,
+546,721746,Nassim Chadli,Right Winger,"Jul 28, 2001",21,Morocco,US Concarneau,"1,81m",left,"Jul 1, 2018",ESTAC Troyes,€400k,Hamstring injury - Return unknown,,
+547,986786,Salifou Soumah,Right Winger,"Oct 3, 2003",19,Guinea,Zira FC,,,"Sep 1, 2021",AC Le Havre B,€100k,,,
+548,395677,Yann Kitala,Centre-Forward,"Apr 9, 1998",25,DR Congo,Almere City FC,"1,86m",left,"Jan 1, 2024",FC Sochaux-Montbéliard,€900k,,,
+549,1028162,Antoine Joujou,Centre-Forward,"Mar 12, 2003",20,France,Le Havre AC,"1,89m",,"Jul 1, 2022",AC Le Havre B,€800k,,,
+550,318507,Paul Bernardoni,Goalkeeper,"Apr 18, 1997",26,France,Yverdon Sport FC,"1,93m",left,"Jul 1, 2020",: Ablöse €7.50m,€2.50m,,,
+551,418651,Yahia Fofana,Goalkeeper,"Aug 21, 2000",22,Cote d'Ivoire,Angers SCO,"1,94m",right,"Jul 1, 2022",Le Havre AC,€2.00m,,,
+552,548347,Melvin Zinga,Goalkeeper,"Mar 16, 2002",21,France,Angers SCO,"1,87m",left,"Jul 1, 2022",Angers SCO B,€100k,,,
+553,920218,Théo Borne,Goalkeeper,"Jul 15, 2002",20,France,Clermont Foot 63,"1,91m",right,"Jul 1, 2022",Angers SCO B,€100k,,,
+554,198709,Cédric Hountondji,Centre-Back,"Jan 19, 1994",29,Benin,Angers SCO,"1,94m",right,"Jul 18, 2022",Clermont Foot 63,€2.00m,,,
+555,179806,Miha Blazic,Centre-Back,"May 8, 1993",30,Slovenia,Lech Poznan,"1,85m",right,"Jul 1, 2022",Ferencvárosi TC,€1.80m,,,
+556,804711,Ousmane Camara,Centre-Back,"Mar 6, 2003",20,France,Angers SCO,"1,97m",right,"Aug 16, 2022",Paris FC,€1.50m,,,
+557,62351,Abdoulaye Bamba,Centre-Back,"Apr 25, 1990",33,Cote d'Ivoire,Angers SCO,"1,82m",right,"Jan 1, 2017",Without Club,€400k,,,
+558,743520,Yacine Gaya,Centre-Back,"Nov 15, 2004",18,Algeria,Angers SCO B,"1,84m",left,"Jul 8, 2020",,€50k,,,
+559,807691,Ismaël Dramé,Centre-Back,"May 27, 2001",22,France,SO Cholet,"1,86m",right,"Jan 31, 2023",,,,,
+560,1086168,Demba N'Diaye,Centre-Back,"Aug 18, 2005",17,France,Angers SCO B,,right,"Jul 19, 2022",,,,,
+561,1086787,Demba N'Diaye,Centre-Back,"Apr 13, 1992",31,France,US Le Pays du Valois,"1,80m",left,"Sep 1, 2022",,,,,
+562,296356,Souleyman Doumbia,Left-Back,"Sep 24, 1996",26,Cote d'Ivoire,Standard Liège,"1,83m",left,"Jul 1, 2022",Stade Rennais FC,€2.50m,,,
+563,126656,Faouzi Ghoulam,Left-Back,"Feb 1, 1991",32,Algeria,Hatayspor,"1,84m",left,"Jul 1, 2023",Without Club,€900k,,,
+564,477834,Ilyes Chetti,Left-Back,"Jan 22, 1995",28,Algeria,Wydad Casablanca,"1,76m",left,"Jul 1, 2022",Esperance Tunis,€400k,,,
+565,406008,Yan Valery,Right-Back,"Feb 22, 1999",24,Tunisia,Angers SCO,"1,85m",right,"Jan 6, 2022",Southampton FC,€2.00m,,,
+566,422986,Halid Sabanovic,Right-Back,"Aug 22, 1999",23,Bosnia-Herzegovina,Valenciennes FC,"1,82m",right,"Jul 19, 2021",FK Sarajevo,€700k,,,
+567,829874,Lilian Raolisoa,Right-Back,"Jun 16, 2000",23,France,Angers SCO,"1,78m",right,"Sep 1, 2022",Angers SCO B,€200k,,"Internal transfer: Angers SCO B; date: Jul 1, 2023",
+568,807687,Ali Kalla,Right-Back,"Apr 23, 1998",25,France,Fréjus-Saint-Raphaël FC,"1,72m",right,"Jul 29, 2019",Angers SCO B,€100k,,,
+569,245537,Nabil Bentaleb,Defensive Midfield,"Nov 24, 1994",28,Algeria,LOSC Lille,"1,87m",left,"Jul 14, 2021",Without Club,€7.00m,,,
+570,395234,Batista Mendy,Defensive Midfield,"Jan 12, 2000",23,France,Trabzonspor,"1,91m",right,"Aug 29, 2019",FC Nantes,€3.00m,,,
+571,205503,Ibrahim Amadou,Defensive Midfield,"Apr 6, 1993",30,France,Shanghai Shenhua,"1,83m",right,"Jul 1, 2015",FC Metz,€1.50m,,,
+572,650104,Zinédine Ould Khaled,Defensive Midfield,"Jan 14, 2000",23,France,Angers SCO,"1,95m",right,"Jul 1, 2022",Angers SCO B,€200k,,,
+573,593482,Azzedine Ounahi,Central Midfield,"Apr 19, 2000",23,Morocco,Olympique Marseille,"1,82m",right,"Jul 1, 2021",US Avranches,€12.00m,,,
+574,344575,Antonin Bobichon,Central Midfield,"Sep 14, 1995",27,France,Stade Lavallois,"1,78m",right,"Oct 5, 2020",Nîmes Olympique,€900k,,,
+575,214532,Pierrick Capelle,Central Midfield,"Apr 15, 1987",36,France,Angers SCO,"1,81m",left,"Jan 1, 2023",Clermont Foot 63,€250k,Team captain,,
+576,807688,Yassin Belkhdim,Central Midfield,"Feb 14, 2002",21,Morocco,Angers SCO B,"1,75m",right,"Jan 29, 2022",,€100k,,,
+577,591194,Salim Akkal,Central Midfield,"Feb 17, 2000",23,France,Le Puy Foot 43 Auvergne,,right,"Aug 9, 2018",,€50k,,,
+578,592979,Himad Abdelli,Attacking Midfield,"Nov 17, 1999",23,Algeria,Angers SCO,"1,85m",right,"Jul 1, 2022",Le Havre AC,€2.50m,,,
+579,680447,Waniss Taïbi,Attacking Midfield,"Mar 7, 2002",21,France,Rodez AF,"1,84m",both,"Jul 13, 2022",Angers SCO B,€500k,,,
+580,232271,Sofiane Boufal,Left Winger,"Sep 17, 1993",29,Morocco,Al-Rayyan SC,"1,75m",right,"Jul 23, 2019",Southampton FC,€8.00m,unknown injury - Return unknown,,
+581,939964,Jean-Mattéo Bahoya,Left Winger,"May 7, 2005",18,France,Eintracht Frankfurt,"1,80m",right,"Jul 1, 2023",Angers SCO B,€1.50m,,,
+582,261963,Marin Jakolis,Left Winger,"Dec 26, 1996",26,Croatia,Melbourne City FC,"1,82m",right,"Jul 1, 2023",HNK Hajduk Split,€600k,,,
+583,425400,Farid El Melali,Left Winger,"Jul 13, 1997",25,Algeria,Angers SCO,"1,68m",both,"Jul 1, 2022",Paradou AC,€600k,,,
+584,460660,Jason Mbock,Left Winger,"Nov 1, 1999",23,France,US Créteil-Lusitanos,"1,79m",right,"Jul 1, 2022",Angers SCO B,€150k,,,
+585,776798,Abdallah Sima,Right Winger,"Jun 17, 2001",22,Senegal,Rangers FC,"1,88m",right,"Sep 10, 2020",Brighton & Hove Albion,€6.00m,,,
+586,290593,Sada Thioub,Right Winger,"Jun 1, 1995",28,Senegal,Yelimay Semey,"1,79m",right,"Jul 1, 2023",Nîmes Olympique,€1.20m,,,
+587,576033,Doğan Alemdar,Goalkeeper,"Oct 29, 2002",20,Türkiye,ESTAC Troyes,"1,92m",right,"Aug 27, 2021",Kayserispor,€4.00m,,,
+588,23951,Steve Mandanda,Goalkeeper,"Mar 28, 1985",38,France,Stade Rennais FC,"1,87m",right,"Jul 6, 2022",Olympique Marseille,€1.00m,Team captain,,
+589,693312,Elias Damergy,Goalkeeper,"Oct 17, 2002",20,Tunisia,Without Club,"1,86m",right,"Jul 1, 2022",Stade Rennais FC B,€150k,,,
+590,23974,Romain Salin,Goalkeeper,"Jul 29, 1984",38,France,US Fougères,"1,86m",left,"Jul 1, 2019",Sporting CP,€150k,,,
+591,368891,Arthur Theate,Centre-Back,"May 25, 2000",23,Belgium,Stade Rennais FC,"1,85m",left,"Jul 29, 2022",Bologna FC 1909,€22.00m,,,
+592,730581,Loïc Badé,Centre-Back,"Apr 11, 2000",23,France,Sevilla FC,"1,91m",right,"Jul 5, 2021",RC Lens,€12.00m,Muscle injury - Return unknown,"Returned after loan spell with Sevilla FC; date: Jun 30, 2023; fee: End of loan",
+593,711996,Warmed Omari,Centre-Back,"Apr 23, 2000",23,France,Stade Rennais FC,"1,88m",right,"Jul 1, 2021",Stade Rennais FC B,€9.00m,,,
+594,297212,Joe Rodon,Centre-Back,"Oct 22, 1997",25,Wales,Leeds United,"1,93m",right,"Aug 1, 2022",Tottenham Hotspur,€7.00m,,,
+595,919515,Jeanuël Belocian,Centre-Back,"Feb 17, 2005",18,France,Stade Rennais FC,"1,82m",left,"Jul 1, 2022",Stade Rennais FC U19,€7.00m,,,
+596,572326,Christopher Wooh,Centre-Back,"Sep 18, 2001",21,Cameroon,Stade Rennais FC,"1,91m",right,"Sep 1, 2022",RC Lens,€6.00m,,,
+597,1004301,Jérémy Jacquet,Centre-Back,"Jul 13, 2005",17,France,Clermont Foot 63,"1,88m",right,"Jan 1, 2024",Stade Rennais FC B,€50k,,,
+598,654539,Adrien Truffert,Left-Back,"Nov 20, 2001",21,France,Stade Rennais FC,"1,76m",left,"Jul 1, 2020",Stade Rennais FC B,€18.00m,,,
+599,282250,Birger Meling,Left-Back,"Dec 17, 1994",28,Norway,FC Copenhagen,"1,73m",left,"Jul 20, 2021",Nîmes Olympique,€5.00m,,,
+600,1030144,Léo Rouillé,Left-Back,"Feb 9, 2004",19,France,Stade Rennais FC B,,,"Jul 1, 2017",,€50k,,,
+601,297070,Hamari Traoré,Right-Back,"Jan 27, 1992",31,Mali,Real Sociedad,"1,75m",right,"Jan 31, 2023",: Ablöse €2.40m,€10.00m,,,
+602,483348,Djed Spence,Right-Back,"Aug 9, 2000",22,England,Genoa CFC,"1,84m",right,"Jul 1, 2021",Tottenham Hotspur,€10.00m,,,
+603,711969,Lorenz Assignon,Right-Back,"Jun 22, 2000",23,France,Burnley FC,"1,81m",right,"Jul 1, 2022",Stade Rennais FC B,€5.00m,,,
+604,711980,Guéla Doué,Right-Back,"Oct 17, 2002",20,Cote d'Ivoire,Stade Rennais FC,"1,87m",right,"Aug 17, 2021",Stade Rennais FC B,€300k,,,
+605,931172,Gabriel Tutu,Right-Back,"Jan 29, 2004",19,France,Stade Rennais FC B,,,"Jul 1, 2021",,€50k,,,
+606,285323,Baptiste Santamaria,Defensive Midfield,"Mar 9, 1995",28,France,Stade Rennais FC,"1,83m",right,"Jul 1, 2022",SC Freiburg,€14.00m,,,
+607,711999,Lesley Ugochukwu,Defensive Midfield,"Mar 26, 2004",19,France,Chelsea FC,"1,90m",right,"Jul 1, 2017",Stade Rennais FC B,€9.00m,Hamstring injury - Return unknown,,
+608,620321,Noah Françoise,Defensive Midfield,"Jul 5, 2003",19,France,CS Marítimo,"1,78m",right,"Jul 9, 2019",Stade Rennais FC B,€350k,,"Returned after loan spell with US Avranches; date: Jun 30, 2023; fee: End of loan",
+609,266359,Benjamin Bourigeaud,Central Midfield,"Jan 14, 1994",29,France,Stade Rennais FC,"1,78m",right,"Sep 21, 2022",RC Lens,€18.00m,,,
+610,202278,Flavien Tait,Central Midfield,"Feb 2, 1993",30,France,Samsunspor,"1,76m",right,"Aug 26, 2021",: Ablöse €9.00m,€6.00m,,,
+611,290256,Xeka,Central Midfield,"Nov 10, 1994",28,Portugal,Without Club,"1,85m",both,"Jul 1, 2022",Without Club,€6.00m,,,
+612,387106,Lovro Majer,Attacking Midfield,"Jan 17, 1998",25,Croatia,VfL Wolfsburg,"1,78m",left,"Sep 1, 2022",GNK Dinamo Zagreb,€20.00m,,,
+613,914562,Désiré Doué,Attacking Midfield,"Jun 3, 2005",18,France,Stade Rennais FC,"1,81m",both,"Jul 6, 2020",Stade Rennais FC U19,€15.00m,,,
+614,418659,Amine Gouiri,Left Winger,"Feb 16, 2000",23,Algeria,Stade Rennais FC,"1,81m",right,"Oct 5, 2020",OGC Nice,€35.00m,,,
+615,442891,Martin Terrier,Left Winger,"Mar 4, 1997",26,France,Stade Rennais FC,"1,84m",right,"Jul 16, 2021",: Ablöse €12.00m,€30.00m,,,
+616,486049,Jérémy Doku,Left Winger,"May 27, 2002",21,Belgium,Manchester City,"1,73m",right,"Jan 31, 2023",RSC Anderlecht,€28.00m,,,
+617,746695,Kamaldeen Sulemana,Left Winger,"Feb 15, 2002",21,Ghana,Southampton FC,"1,75m",right,"Aug 11, 2022",FC Nordsjaelland,€22.00m,unknown injury - Return unknown,,
+618,928323,Ibrahim Salah,Left Winger,"Aug 30, 2001",21,Morocco,Stade Rennais FC,"1,86m",right,"Aug 31, 2021",KAA Gent,€3.00m,,,
+619,585959,Arnaud Kalimuendo,Centre-Forward,"Jan 20, 2002",21,France,Stade Rennais FC,"1,78m",right,"Aug 27, 2020",Paris Saint-Germain,€22.00m,,,
+620,181378,Gaëtan Laborde,Centre-Forward,"May 3, 1994",29,France,OGC Nice,"1,81m",left,"Jan 26, 2023",Montpellier HSC,€16.00m,,,
+621,270541,Serhou Guirassy,Centre-Forward,"Mar 12, 1996",27,Guinea,VfB Stuttgart,"1,87m",right,"Jul 1, 2021",: Ablöse €15.00m,€14.00m,,"Returned after loan spell with VfB Stuttgart; date: Jun 30, 2023; fee: End of loan",
+622,315110,Karl Toko Ekambi,Centre-Forward,"Sep 14, 1992",30,Cameroon,Al-Ettifaq FC,"1,82m",right,"Jul 6, 2023",Olympique Lyon,€8.00m,,,
+623,195778,Alexander Nübel,Goalkeeper,"Sep 30, 1996",26,Germany,VfB Stuttgart,"1,93m",right,"Jul 1, 2021",Bayern Munich,€8.00m,,,
+624,182891,Thomas Didillon,Goalkeeper,"Nov 28, 1995",27,France,Cercle Brugge,"1,93m",left,"Jul 20, 2022",Cercle Brugge ,€1.00m,,,
+625,745341,Yann Lienard,Goalkeeper,"Mar 16, 2003",20,France,AS Monaco,"1,94m",right,"Jul 1, 2023",AS Monaco U21,€200k,,"Internal transfer: AS Monaco U21; date: Jul 1, 2023",
+626,463603,Benoît Badiashile,Centre-Back,"Mar 26, 2001",22,France,Chelsea FC,"1,94m",left,"Jul 1, 2018",AS Monaco U19,€40.00m,,,
+627,386047,Axel Disasi,Centre-Back,"Mar 11, 1998",25,France,Chelsea FC,"1,90m",right,"Aug 7, 2020",Stade Reims,€30.00m,,,
+628,249730,Guillermo Maripán,Centre-Back,"May 6, 1994",29,Chile,AS Monaco,"1,93m",right,"Aug 24, 2019",Deportivo Alavés,€10.00m,,,
+629,344596,Malang Sarr,Centre-Back,"Jan 23, 1999",24,France,Chelsea FC,"1,83m",left,"Aug 10, 2022",Chelsea FC,€6.00m,,,
+630,569383,Chrislain Matsima,Centre-Back,"May 15, 2002",21,France,Clermont Foot 63,"1,93m",right,"Jul 1, 2020",AS Monaco B,€6.00m,,,
+631,745181,Soungoutou Magassa,Centre-Back,"Oct 8, 2003",19,France,AS Monaco,"1,88m",right,"Jul 1, 2022",AS Monaco U21,€800k,,,
+632,745202,Yllan Okou,Centre-Back,"Dec 23, 2002",20,France,SC Bastia,"1,89m",left,"Jul 1, 2023",AS Monaco U21,€300k,,"Internal transfer: AS Monaco U21; date: Jul 1, 2023",
+633,420064,Caio Henrique,Left-Back,"Jul 31, 1997",25,Brazil,AS Monaco,"1,78m",left,"Aug 27, 2020",Atlético de Madrid,€20.00m,Cruciate ligament tear - Return unknown,,
+634,375137,Ismail Jakobs,Left-Back,"Aug 17, 1999",23,Senegal,AS Monaco,"1,84m",left,"Jul 12, 2021",1.FC Köln,€6.00m,,,
+635,789082,Vanderson,Right-Back,"Jun 21, 2001",22,Brazil,AS Monaco,"1,73m",right,"Jan 1, 2022",Grêmio Foot-Ball Porto Alegrense,€20.00m,,,
+636,203746,Ruben Aguilar,Right-Back,"Apr 26, 1993",30,France,RC Lens,"1,72m",right,"Aug 6, 2019",Montpellier HSC,€7.00m,,,
+637,745177,Nazim Babaï,Right-Back,"Jan 14, 2003",20,Algeria,AS Monaco U21,"1,71m",right,"Aug 14, 2022",,,,,
+638,543382,Mohamed Camara,Defensive Midfield,"Jan 6, 2000",23,Mali,AS Monaco,"1,73m",right,"Jan 29, 2020",Red Bull Salzburg,€30.00m,Knee injury - Return unknown,,
+639,569598,Youssouf Fofana,Central Midfield,"Jan 10, 1999",24,France,AS Monaco,"1,85m",right,"Jul 1, 2020",RC Strasbourg Alsace,€25.00m,,,
+640,535834,Eliot Matazo,Central Midfield,"Feb 15, 2002",21,Belgium,Royal Antwerp FC,"1,70m",right,"Aug 2, 2021",AS Monaco B,€7.00m,,,
+641,578872,Jean Lucas,Central Midfield,"Jun 22, 1998",25,Brazil,Esporte Clube Bahia,"1,81m",right,"Jul 1, 2023",: Ablöse €11.00m,€5.00m,,,
+642,745178,Edan Diop,Central Midfield,"Aug 28, 2004",18,France,AS Monaco,"1,73m",right,"Jul 1, 2022",AS Monaco U21,€2.00m,,"Internal transfer: AS Monaco U21; date: Jul 1, 2023",
+643,659518,Félix Lemaréchal,Central Midfield,"Aug 7, 2003",19,France,Cercle Brugge,"1,80m",right,"Jul 27, 2018",AS Monaco U21,€1.00m,,,
+644,263918,Aleksandr Golovin,Attacking Midfield,"May 30, 1996",27,Russia,AS Monaco,"1,78m",right,"Jan 1, 2023",CSKA Moscow,€28.00m,,,
+645,810895,Eliesse Ben Seghir,Attacking Midfield,"Feb 16, 2005",18,Morocco,AS Monaco,"1,78m",right,"Jul 1, 2022",AS Monaco U21,€18.00m,,,
+646,745200,Maghnes Akliouche,Attacking Midfield,"Feb 25, 2002",21,France,AS Monaco,"1,83m",left,"Jul 1, 2018",AS Monaco U21,€6.00m,,,
+647,569389,Sofiane Diop,Left Winger,"Jun 9, 2000",23,Morocco,OGC Nice,"1,75m",right,"Jul 1, 2022",Stade Rennais FC B,€15.00m,,,
+648,165793,Takumi Minamino,Left Winger,"Jan 16, 1995",28,Japan,AS Monaco,"1,72m",right,"Jan 21, 2021",Liverpool FC,€6.00m,,,
+649,490426,Krépin Diatta,Right Winger,"Feb 25, 1999",24,Senegal,AS Monaco,"1,75m",right,"Jul 1, 2019",Club Brugge KV,€15.00m,,,
+650,257448,Gelson Martins,Right Winger,"May 11, 1995",28,Portugal,Olympiacos Piraeus,"1,70m",right,"Jul 15, 2022",Atlético de Madrid,€5.00m,"No eligibility - until Jun 30, 2024 - UEFA Europa Conference League",,
+651,237662,Breel Embolo,Centre-Forward,"Feb 14, 1997",26,Switzerland,AS Monaco,"1,87m",right,"Aug 14, 2019",Borussia Mönchengladbach,€20.00m,,,
+652,146854,Wissam Ben Yedder,Centre-Forward,"Aug 12, 1990",32,France,AS Monaco,"1,70m",both,"Sep 2, 2020",Sevilla FC,€15.00m,Team captain,,
+653,82009,Kevin Volland,Centre-Forward,"Jul 30, 1992",30,Germany,1.FC Union Berlin,"1,79m",left,"Aug 4, 2021",Bayer 04 Leverkusen,€8.00m,,,
+654,124901,Benjamin Leroy,Goalkeeper,"Apr 7, 1989",34,France,Quevilly - Rouen Métropole,"1,84m",right,"Jul 1, 2018",Dijon FCO,€500k,,,
+655,331977,François-Joseph Sollacaro,Goalkeeper,"Mar 21, 1994",29,France,AC Ajaccio,"1,82m",right,"Jul 1, 2018",AC Ajaccio B,€300k,,,
+656,855050,Ghjuvanni Quilichini,Goalkeeper,"Sep 1, 2002",20,France,US Avranches,"1,82m",,"Jul 1, 2021",AC Ajaccio U19,€150k,,,
+657,388795,Oumar Gonzalez,Centre-Back,"Feb 25, 1998",25,Cameroon,Al-Raed SFC,"1,86m",right,"Jul 1, 2021",FC Chambly Oise,€2.50m,,,
+658,569388,Clément Vidal,Centre-Back,"Jun 18, 2000",23,France,AC Ajaccio,"1,81m",right,"Jul 1, 2022",Montpellier HSC,€1.80m,,,
+659,413245,Fernand Mayembo,Centre-Back,"Jan 9, 1996",27,Congo,Hapoel Haifa,"1,84m",right,"Jul 26, 2022",Le Havre AC,€600k,,,
+660,44421,Cédric Avinel,Centre-Back,"Sep 11, 1986",36,Guadeloupe,AC Ajaccio,"1,87m",right,"Jul 1, 2017",Clermont Foot 63,€250k,,,
+661,989817,Anthony Khelifa,Centre-Back,"Sep 20, 2005",17,Algeria,AC Ajaccio B,,,"Jul 1, 2018",,€150k,,,
+662,375881,Ismaël Diallo,Left-Back,"Jan 29, 1997",26,Cote d'Ivoire,HNK Hajduk Split,"1,78m",left,"Aug 30, 2022",SC Bastia,€1.50m,,,
+663,274484,Youssouf Koné,Left-Back,"Jul 5, 1995",27,Mali,RWD Molenbeek,"1,74m",left,"Oct 12, 2021",Olympique Lyon,€1.50m,,,
+664,178540,Chaker Alhadhur,Left-Back,"Dec 4, 1991",31,Comoros,Without Club,"1,72m",right,"Jul 1, 2022",Without Club,€150k,,,
+665,726698,Victor Lebas,Left-Back,"Sep 14, 2004",18,Portugal,AC Ajaccio B,,,"Jul 1, 2018",,€50k,,,
+666,172153,Mickaël Alphonse,Right-Back,"Jul 12, 1989",33,Guadeloupe,Retired,"1,82m",right,"May 15, 2023",: Ablöse free transfer,€250k,,,
+667,57482,Mohamed Youssouf,Right-Back,"Mar 26, 1988",35,Comoros,AC Ajaccio,"1,69m",right,"Jul 1, 2023",APO Levadiakos,€200k,,,
+668,1004681,Tony Strata,Right-Back,"Sep 7, 2004",18,Romania,AC Ajaccio,"1,77m",right,"Oct 5, 2020",AC Ajaccio U19,€50k,,,
+669,989826,Mehdi Puch-Herrantz,Defensive Midfield,"Jan 20, 2004",19,Algeria,AC Ajaccio,"1,75m",,"Jul 1, 2018",AC Ajaccio B,€150k,Injury to the ankle - Return unknown,"Internal transfer: AC Ajaccio B; date: Jul 1, 2023",
+670,374040,Vincent Marchetti,Central Midfield,"Jul 4, 1997",25,France,Paris FC,"1,78m",left,"Jul 1, 2022",AS Nancy-Lorraine,€2.50m,,,
+671,290552,Qazim Laci,Central Midfield,"Jan 19, 1996",27,Albania,AC Sparta Prague,"1,73m",right,"Jul 1, 2017",Olympiacos Piraeus,€1.70m,,,
+672,18934,Thomas Mangani,Central Midfield,"Apr 29, 1987",36,France,AC Ajaccio,"1,83m",left,"Jul 1, 2020",Angers SCO,€400k,,,
+673,39914,Mathieu Coutadeur,Central Midfield,"Mar 20, 1986",37,France,Le Mans FC,"1,69m",right,"Jul 1, 2020",Stade Lavallois,€200k,,,
+674,657919,Paolo Lebas,Central Midfield,"Apr 20, 2003",20,Portugal,SC Bastia B,"1,83m",right,"Jul 1, 2020",,€100k,,,
+675,281704,Alassane N'Diaye,Right Midfield,"Jun 14, 1991",32,France,Les Sables FCOC Vendée,"1,80m",right,"Jan 5, 2021",Clermont Foot 63,€150k,,,
+676,801754,Yanis Cimignani,Left Midfield,"Jan 22, 2002",21,France,FC Lugano,"1,76m",left,"Oct 12, 2022",AC Ajaccio B,€1.20m,,,
+677,149518,Michaël Barreto,Attacking Midfield,"Jan 18, 1991",32,France,AC Ajaccio,"1,75m",right,"Jul 1, 2022",AJ Auxerre,€400k,,,
+678,418662,Florian Chabrolle,Attacking Midfield,"Apr 7, 1998",25,France,Without Club,"1,71m",right,"Jan 15, 2021",Olympique Marseille,€200k,,,
+679,175014,Youcef Belaïli,Left Winger,"Mar 14, 1992",31,Algeria,MC Algiers,"1,82m",right,"Jul 1, 2022",Without Club,€1.50m,,,
+680,371554,Kevin Spadanuda,Left Winger,"Jan 16, 1997",26,Switzerland,FC Luzern,"1,77m",right,"Sep 7, 2020",FC Aarau,€700k,Metatarsal fracture - Return unknown,,
+681,267147,Cyrille Bayala,Right Winger,"May 24, 1996",27,Burkina Faso,AC Ajaccio,"1,81m",right,"Jul 1, 2023",RC Lens,€900k,,,
+682,98349,Romain Hamouma,Right Winger,"Mar 29, 1987",36,France,Retired,"1,79m",right,"Sep 20, 2022",AS Saint-Étienne,€400k,,,
+683,119104,Riad Nouri,Right Winger,"Jun 7, 1985",38,France,AC Ajaccio,"1,78m",right,"Jul 1, 2019",Ümraniyespor,€200k,,,
+684,989819,Ivane Chegra,Right Winger,"Mar 3, 2004",19,Algeria,SO Cholet,"1,80m",right,"Jan 31, 2023",AC Ajaccio B,€150k,,,
+685,645601,Ruan Levine,Right Winger,"Jan 19, 1999",24,Brazil,Figueirense Futebol Clube,"1,77m",right,"Jan 1, 2023",SSA FC,€100k,,,
+686,627163,Mounaïm El Idrissy,Centre-Forward,"Feb 10, 1999",24,France,KV Kortrijk,"1,81m",right,"Jul 10, 2020",AC Ajaccio B,€2.00m,,,
+687,591796,Moussa Djitté,Centre-Forward,"Oct 4, 1999",23,Senegal,Bandirmaspor,"1,80m",right,"Sep 7, 2020",Austin FC,€1.50m,,,
+688,1053240,Moussa Soumano,Centre-Forward,"Jul 9, 2005",17,France,AC Ajaccio,"1,85m",,"Feb 16, 2021",AC Ajaccio B,€900k,,,
+689,364525,Bevic Moussiti-Oko,Centre-Forward,"Jan 28, 1995",28,Congo,US Concarneau,"1,84m",right,"Aug 24, 2022",Le Mans FC,€500k,Hamstring injury - Return unknown,,
+690,171408,Gaëtan Courtet,Centre-Forward,"Feb 22, 1989",34,France,USL Dunkerque,"1,80m",both,"Jul 1, 2023",FC Lorient,€400k,,,
+691,463600,Lucas Chevalier,Goalkeeper,"Nov 6, 2001",21,France,LOSC Lille,"1,89m",right,"Jul 1, 2020",LOSC Lille B,€10.00m,,,
+692,288415,Léo Jardim,Goalkeeper,"Mar 20, 1995",28,Brazil,Clube de Regatas Vasco da Gama,"1,88m",right,"Jul 12, 2019",Rio Ave FC,€3.00m,,,
+693,22628,Benoît Costil,Goalkeeper,"Jul 3, 1987",35,France,US Salernitana 1919,"1,88m",right,"Jan 26, 2023",AJ Auxerre,€1.00m,,,
+694,258267,Adam Jakubech,Goalkeeper,"Jan 2, 1997",26,Slovakia,LOSC Lille,"1,88m",right,"Jul 26, 2017",Spartak Trnava,€300k,,,
+695,866916,Tom Negrel,Goalkeeper,"Apr 13, 2003",20,France,LOSC Lille B,"1,92m",right,"Aug 1, 2019",,€50k,,,
+696,420465,Tiago Djaló,Centre-Back,"Apr 9, 2000",23,Portugal,Juventus FC,"1,90m",right,"Jul 1, 2022",Milan Primavera,€16.00m,,,
+697,923831,Leny Yoro,Centre-Back,"Nov 13, 2005",17,France,LOSC Lille,"1,90m",right,"Jul 1, 2022",LOSC Lille B,€10.00m,,,
+698,648020,Alexsandro,Centre-Back,"Aug 9, 1999",23,Brazil,LOSC Lille,"1,89m",right,"Jul 15, 2018",GD Chaves,€5.00m,,,
+699,33829,José Fonte,Centre-Back,"Dec 22, 1983",39,Portugal,SC Braga,"1,91m",right,"Aug 31, 2021",Dalian Yifang,€600k,,,
+700,689091,Abdoulaye Ousmane,Centre-Back,"Feb 22, 2000",23,Mauritania,LOSC Lille B,"1,83m",right,"Aug 4, 2022",,€50k,,,
+701,362108,Gabriel Gudmundsson,Left-Back,"Apr 29, 1999",24,Sweden,LOSC Lille,"1,80m",left,"Aug 5, 2022",: Ablöse €6.00m,€4.50m,,,
+702,124028,Ismaily,Left-Back,"Jan 11, 1990",33,Brazil,LOSC Lille,"1,77m",left,"Jul 1, 2022",Shakhtar Donetsk,€2.50m,,,
+703,463605,Bafodé Diakité,Right-Back,"Jan 6, 2001",22,France,LOSC Lille,"1,85m",right,"Jul 17, 2019",FC Toulouse,€10.00m,,,
+704,327863,Akim Zedadka,Right-Back,"May 30, 1995",28,Algeria,Real Zaragoza,"1,73m",right,"Jul 1, 2022",Clermont Foot 63,€2.50m,,,
+705,707231,Simon Ramet,Right-Back,"Mar 13, 2003",20,France,RC Lens B,"1,70m",right,"Jul 1, 2022",,€150k,,,
+706,84301,Benjamin André,Defensive Midfield,"Aug 3, 1990",32,France,LOSC Lille,"1,80m",right,"Sep 1, 2022",Stade Rennais FC,€9.00m,,,
+707,973085,Carlos Baleba,Defensive Midfield,"Jan 3, 2004",19,Cameroon,Brighton & Hove Albion,"1,79m",left,"Jul 1, 2019",LOSC Lille B,€5.00m,,,
+708,127142,Jonas Martin,Defensive Midfield,"Apr 9, 1990",33,France,Stade Brestois 29,"1,84m",right,"Aug 9, 2020",Stade Rennais FC,€1.50m,,,
+709,221025,André Gomes,Central Midfield,"Jul 30, 1993",29,Portugal,Everton FC,"1,88m",right,"Aug 6, 2019",Everton FC,€16.00m,,,
+710,370846,Timothy Weah,Right Midfield,"Feb 22, 2000",23,United States,Juventus FC,"1,83m",right,"Jul 10, 2022",Paris Saint-Germain,€14.00m,,,
+711,392770,Angel Gomes,Attacking Midfield,"Aug 31, 2000",22,England,LOSC Lille,"1,68m",right,"Jul 2, 2018",Manchester United,€16.00m,"Hamstring injury - Return expected on Apr 18, 2024",,
+712,386726,Yusuf Yazıcı,Attacking Midfield,"Jan 29, 1997",26,Türkiye,LOSC Lille,"1,84m",left,"Aug 17, 2022",Trabzonspor,€9.00m,,"Returned after loan spell with Trabzonspor; date: Jun 30, 2023; fee: End of loan",
+713,113707,Rémy Cabella,Attacking Midfield,"Mar 8, 1990",33,France,LOSC Lille,"1,72m",right,"Jan 14, 2022",Montpellier HSC,€5.00m,,,
+714,935198,Mattéo Makhabe,Attacking Midfield,"Nov 28, 2003",19,France,Bourges Foot 18,"1,70m",both,"Sep 1, 2022",,€100k,,,
+715,292818,Jonathan Bamba,Left Winger,"Mar 26, 1996",27,Cote d'Ivoire,Celta de Vigo,"1,75m",right,"Jul 2, 2020",: Ablöse free transfer,€20.00m,,,
+716,654415,Alan Virginius,Left Winger,"Jan 3, 2003",20,France,Clermont Foot 63,"1,80m",right,"Aug 11, 2020",FC Sochaux-Montbéliard,€4.00m,,,
+717,496857,Edon Zhegrova,Right Winger,"Mar 31, 1999",24,Kosovo,LOSC Lille,"1,81m",left,"Jul 13, 2022",FC Basel 1893,€8.00m,,,
+718,315858,Gianluigi Donnarumma,Goalkeeper,"Feb 25, 1999",24,Italy,Paris Saint-Germain,"1,96m",right,"Jul 14, 2021",AC Milan,€45.00m,,,
+719,79422,Keylor Navas,Goalkeeper,"Dec 15, 1986",36,Costa Rica,Paris Saint-Germain,"1,85m",right,"Sep 2, 2019",Real Madrid,€4.00m,,"Returned after loan spell with Nottingham Forest; date: Jun 30, 2023; fee: End of loan",
+720,207302,Sergio Rico,Goalkeeper,"Sep 1, 1993",29,Spain,Paris Saint-Germain,"1,96m",right,"Sep 5, 2020",Sevilla FC,€3.00m,Fitness - Return unknown,,
+721,654408,Lucas Lavallée,Goalkeeper,"Feb 18, 2003",20,France,USL Dunkerque,"1,95m",right,"Jul 1, 2022",Paris Saint-Germain U19,€300k,,,
+722,93730,Alexandre Letellier,Goalkeeper,"Dec 11, 1990",32,France,Paris Saint-Germain,"1,93m",right,"Sep 25, 2020",US Orléans,€300k,,,
+723,181767,Marquinhos,Centre-Back,"May 14, 1994",29,Brazil,Paris Saint-Germain,"1,83m",right,"Jul 19, 2013",: Ablöse €31.40m,€65.00m,Team captain; Achilles tendon contusion - Return unknown,,
+724,282041,Presnel Kimpembe,Centre-Back,"Aug 13, 1995",27,France,Paris Saint-Germain,"1,83m",left,"Jul 1, 2015",Paris Saint-Germain B,€28.00m,Achilles tendon rupture - Return unknown,,
+725,229005,Abdou Diallo,Centre-Back,"May 4, 1996",27,Senegal,Al-Arabi SC,"1,86m",left,"Jul 16, 2019",Borussia Dortmund,€10.00m,,"Returned after loan spell with RB Leipzig; date: Jun 30, 2023; fee: End of loan",
+726,787912,El Chadaille Bitshiabu,Centre-Back,"May 16, 2005",18,France,RB Leipzig,"1,96m",left,"Jul 1, 2022",Paris Saint-Germain U19,€7.00m,,,
+727,25557,Sergio Ramos,Centre-Back,"Mar 30, 1986",37,Spain,Sevilla FC,"1,84m",right,"Jul 8, 2021",Real Madrid,€4.50m,,,
+728,743495,Nehemiah Fernandez,Centre-Back,"Dec 11, 2004",18,France,USL Dunkerque,"1,84m",right,"Jul 1, 2022",,€250k,Knee injury - Return unknown,,
+729,616341,Nuno Mendes,Left-Back,"Jun 19, 2002",21,Portugal,Paris Saint-Germain,"1,83m",left,"Aug 31, 2018",Sporting CP,€65.00m,,,
+730,126719,Juan Bernat,Left-Back,"Mar 1, 1993",30,Spain,SL Benfica,"1,70m",left,"Jul 6, 2021",Bayern Munich,€10.00m,,,
+731,1102761,Serif Nhaga,Left-Back,"Sep 1, 2005",17,Portugal,Paris Saint-Germain U19,"1,76m",left,"Jul 26, 2022",,€150k,,,
+732,398073,Achraf Hakimi,Right-Back,"Nov 4, 1998",24,Morocco,Paris Saint-Germain,"1,81m",right,"Jul 1, 2020",Inter Milan,€65.00m,,,
+733,348026,Nordi Mukiele,Right-Back,"Nov 1, 1997",25,France,Paris Saint-Germain,"1,87m",right,"Jan 29, 2019",RB Leipzig,€18.00m,,,
+734,538998,Timothée Pembélé,Right-Back,"Sep 9, 2002",20,France,Sunderland AFC,"1,83m",right,"Jul 1, 2021",Paris Saint-Germain U19,€5.00m,,,
+735,815445,Hugo Lamy,Right-Back,"Jan 16, 2004",19,France,AC Bellinzona,"1,76m",right,"Jul 1, 2022",,€250k,,,
+736,166237,Leandro Paredes,Defensive Midfield,"Jun 29, 1994",29,Argentina,AS Roma,"1,80m",right,"Jul 18, 2012",: Ablöse €40.00m,€12.00m,,"Returned after loan spell with Juventus FC; date: Jun 30, 2023; fee: End of loan",
+737,141050,Danilo Pereira,Defensive Midfield,"Sep 9, 1991",31,Portugal,Paris Saint-Germain,"1,88m",right,"Aug 30, 2022",FC Porto,€10.00m,,,
+738,487469,Vitinha,Central Midfield,"Feb 13, 2000",23,Portugal,Paris Saint-Germain,"1,72m",right,"Sep 1, 2022",FC Porto,€42.00m,,,
+739,102558,Marco Verratti,Central Midfield,"Nov 5, 1992",30,Italy,Al-Arabi SC,"1,65m",right,"Jul 1, 2022",: Ablöse €12.00m,€40.00m,,,
+740,350219,Fabián Ruiz,Central Midfield,"Apr 3, 1996",27,Spain,Paris Saint-Germain,"1,89m",left,"Aug 4, 2022",SSC Napoli,€32.00m,,,
+741,372246,Carlos Soler,Central Midfield,"Jan 2, 1997",26,Spain,Paris Saint-Germain,"1,80m",right,"Jul 30, 2019",Valencia CF,€25.00m,,,
+742,810092,Warren Zaïre-Emery,Central Midfield,"Mar 8, 2006",17,France,Paris Saint-Germain,"1,78m",right,"Jul 1, 2022",Paris Saint-Germain U19,€20.00m,,,
+743,258027,Renato Sanches,Central Midfield,"Aug 18, 1997",25,Portugal,AS Roma,"1,76m",right,"Jul 1, 2022",LOSC Lille,€15.00m,,,
+744,126665,Idrissa Gueye,Central Midfield,"Sep 26, 1989",33,Senegal,Everton FC,"1,74m",right,"Aug 3, 2017",Everton FC,€5.00m,,,
+745,810093,Ayman Kari,Central Midfield,"Nov 19, 2004",18,France,FC Lorient,"1,76m",right,"Aug 10, 2021",Paris Saint-Germain U19,€1.00m,,,
+746,810096,Ismaël Gharbi,Attacking Midfield,"Apr 10, 2004",19,Spain,FC Stade-Lausanne-Ouchy,"1,73m",right,"Jul 2, 2019",Paris Saint-Germain U19,€5.00m,,,
+747,68290,Neymar,Left Winger,"Feb 5, 1992",31,Brazil,Al-Hilal SFC,"1,75m",right,"Jul 1, 2018",FC Barcelona,€60.00m,"Cruciate ligament tear - Return expected on Apr 30, 2024",,
+748,28003,Lionel Messi,Right Winger,"Jun 24, 1987",36,Argentina,Inter Miami CF,"1,70m",left,"Jul 1, 2020",FC Barcelona,€35.00m,muscular problems - Return unknown,,
+749,74230,Pablo Sarabia,Right Winger,"May 11, 1992",31,Spain,Wolverhampton Wanderers,"1,74m",left,"Jul 1, 2023",Sevilla FC,€14.00m,,,
+750,342229,Kylian Mbappé,Centre-Forward,"Dec 20, 1998",24,France,Paris Saint-Germain,"1,78m",right,"Jul 1, 2020",AS Monaco,€180.00m,,,
+751,463601,Guillaume Dietsch,Goalkeeper,"Apr 17, 2001",22,France,,"1,84m",right,"Nov 30, 2018",FC Metz U19,€700k,,"Returned after loan spell with RFC Seraing; date: Jun 30, 2023; fee: End of loan",€700k
+752,56809,Alexandre Oukidja,Goalkeeper,"Jul 19, 1988",35,Algeria,,"1,84m",right,"Jul 1, 2018",RC Strasbourg Alsace,€500k,,,€500k
+753,205465,Marc-Aurèle Caillard,Goalkeeper,"May 12, 1994",29,France,,"1,91m",right,"Jul 20, 2020",EA Guingamp,€300k,,,€300k
+754,520530,Fali Candé,Centre-Back,"Jan 24, 1998",26,Guinea-Bissau,,"1,84m",left,"Jan 26, 2022",Portimonense SC,€2.50m,,,€2.50m
+755,170544,Christophe Hérelle,Centre-Back,"Aug 22, 1992",31,Martinique,,"1,91m",right,"Sep 1, 2023",Stade Brestois 29,€1.80m,,"Joined from Stade Brestois 29; date: Sep 1, 2023; fee: ?",€1.80m
+756,57216,Ismaël Traoré,Centre-Back,"Aug 18, 1986",37,Cote d'Ivoire,,"1,84m",right,"Jul 21, 2022",Angers SCO,€300k,,,€300k
+757,739076,Abou Lo,Centre-Back,"Jan 2, 2000",24,Senegal,,"1,87m",right,"Jul 1, 2021",FC Metz B,€250k,,,€250k
+758,1111777,Sadibou Sané,Centre-Back,"Jun 10, 2004",19,Senegal,,"1,82m",right,"Jul 22, 2023",Génération Foot,€200k,,"Joined from Génération Foot; date: Jul 22, 2023; fee: ?",€200k
+759,344886,Matthieu Udol,Left-Back,"Mar 20, 1996",28,France,,"1,78m",left,"Jul 1, 2015",FC Metz B,€2.50m,Team captain,,€2.50m
+760,400680,Kevin Van Den Kerkhof,Right-Back,"Mar 14, 1996",28,Algeria,,"1,90m",right,"Aug 31, 2023",SC Bastia,€3.00m,,"Joined from SC Bastia; date: Aug 31, 2023; fee: €2.50m",€3.00m
+761,481513,Koffi Kouao,Right-Back,"May 20, 1998",25,Cote d'Ivoire,,"1,73m",right,"Aug 12, 2022",FC Vizela,€1.50m,,,€1.50m
+762,156618,Maxime Colin,Right-Back,"Nov 15, 1991",32,France,,"1,80m",right,"Jul 27, 2023",Birmingham City,€1.00m,,"Joined from Birmingham City; date: Jul 27, 2023; fee: free transfer",€1.00m
+763,628834,Danley Jean Jacques,Defensive Midfield,"May 20, 2000",23,Haiti,,"1,82m",right,"Jul 7, 2022",FC Metz B,€2.00m,,,€2.00m
+764,342209,Kévin N'Doram,Defensive Midfield,"Jan 22, 1996",28,France,,"1,84m",right,"Jul 1, 2020",AS Monaco,€1.50m,,,€1.50m
+765,855308,Arthur Atta,Defensive Midfield,"Jan 14, 2003",21,France,,"1,89m",right,"Jan 25, 2023",FC Metz B,€500k,,,€500k
+766,591914,Warren Tchimbembé,Defensive Midfield,"Apr 21, 1998",25,Congo,,"1,80m",left,"Jul 23, 2020",ESTAC Troyes,€400k,,"Returned after loan spell with EA Guingamp; date: Jun 30, 2023; fee: End of loan",€400k
+767,918969,Lamine Camara,Central Midfield,"Jan 1, 2004",20,Senegal,,"1,73m",right,"Jul 1, 2023",FC Metz B,€8.00m,,"Internal transfer: FC Metz B; date: Jul 1, 2023",€8.00m
+768,919620,Joseph Nduquidi,Central Midfield,"Oct 25, 2004",19,France,,"1,87m",,"Aug 31, 2023",FC Metz B,€700k,,"Internal transfer: FC Metz B; date: Aug 31, 2023",€700k
+769,568696,Cheikh Sabaly,Left Winger,"Mar 4, 1999",25,Senegal,,"1,68m",right,"Jul 1, 2018",Génération Foot,€2.00m,,,€2.00m
+770,442320,Didier Lamkel Zé,Left Winger,"Sep 17, 1996",27,Cameroon,,"1,89m",right,"Feb 1, 2024",Hatayspor,€1.10m,,"On loan from Hatayspor until Jun 30, 2024",€1.10m
+771,512690,Maïdine Douane,Left Winger,"Aug 23, 2002",21,Algeria,,,right,"Jul 1, 2022",FC Metz B,€300k,,"Returned after loan spell with RFC Seraing; date: Feb 7, 2024; fee: End of loan",€300k
+772,1099726,Papa Amadou Diallo,Left Winger,"Jun 25, 2004",19,Senegal,,"1,82m",right,"Jul 1, 2023",FC Metz B,€250k,,"Internal transfer: FC Metz B; date: Jul 1, 2023",€250k
+773,366045,Ablie Jallow,Right Winger,"Nov 14, 1998",25,The Gambia,,"1,66m",left,"Jul 11, 2017",Génération Foot,€2.00m,Dead leg - Return unknown,,€2.00m
+774,375391,Joel Asoro,Right Winger,"Apr 27, 1999",24,Sweden,,"1,76m",right,"Aug 24, 2023",Djurgårdens IF,€1.50m,,"Joined from Djurgårdens IF; date: Aug 24, 2023; fee: €1.20m",€1.50m
+775,707063,Malick Mbaye,Right Winger,"Apr 6, 2004",20,Senegal,,"1,73m",right,"Jul 1, 2023",FC Metz B,€500k,,"Internal transfer: FC Metz B; date: Jul 1, 2023",€500k
+776,729814,Georges Mikautadze,Centre-Forward,"Oct 31, 2000",23,Georgia,,"1,76m",right,"Jan 4, 2024",Ajax Amsterdam,€9.00m,,"On loan from Ajax Amsterdam until Jun 30, 2024",€9.00m
+777,306382,Benjamin Tetteh,Centre-Forward,"Jul 10, 1997",26,Ghana,,"1,93m",right,"Aug 10, 2023",Hull City,€1.20m,,"Joined from Hull City; date: Aug 10, 2023; fee: €1.80m",€1.20m
+778,1111776,Ibou Sané,Centre-Forward,"Mar 28, 2005",19,Senegal,,"1,79m",right,"Jul 22, 2023",Génération Foot,€200k,,"Joined from Génération Foot; date: Jul 22, 2023; fee: ?",€200k
+779,124884,Marco Bizot,Goalkeeper,"Mar 10, 1991",33,Netherlands,,"1,93m",right,"Aug 4, 2021",AZ Alkmaar,€4.00m,,,€4.00m
+780,525155,Grégoire Coudert,Goalkeeper,"Apr 3, 1999",25,France,,"1,88m",left,"Jul 5, 2021",: Ablöse free transfer,€400k,,,€400k
+781,454149,Yan Marillat,Goalkeeper,"Aug 12, 1994",29,France,,"1,83m",right,"Sep 27, 2023",Without Club,€200k,,"Joined from Without Club; date: Sep 27, 2023; fee: -",€200k
+782,485960,Lilian Brassier,Centre-Back,"Nov 2, 1999",24,France,,"1,86m",left,"Jul 1, 2021",Stade Rennais FC,€10.00m,,,€10.00m
+783,250779,Brendan Chardonnet,Centre-Back,"Dec 22, 1994",29,France,,"1,84m",right,"Jul 1, 2013",Stade Brest 29 B,€8.00m,Team captain,,€8.00m
+784,794349,Julien Le Cardinal,Centre-Back,"Aug 3, 1997",26,France,,"1,84m",right,"Sep 1, 2023",RC Lens,€1.50m,,"On loan from RC Lens until Jun 30, 2024",€1.50m
+785,805908,Bradley Locko,Left-Back,"May 6, 2002",21,France,,"1,80m",left,"Jul 27, 2023",Stade Reims,€10.00m,,"Joined from Stade Reims; date: Jul 27, 2023; fee: €500k",€10.00m
+786,241229,Jordan Amavi,Left-Back,"Mar 9, 1994",30,France,,"1,76m",left,"Aug 31, 2023",Olympique Marseille,€1.50m,,"On loan from Olympique Marseille until Jun 30, 2024",€1.50m
+787,774772,Antonin Cartillier,Left-Back,"Jun 23, 2004",19,France,,"1,76m",left,"Feb 1, 2024",AS Monaco U21,€200k,,"On loan from AS Monaco U21 until Jun 30, 2024",€200k
+788,174196,Kenny Lala,Right-Back,"Oct 3, 1991",32,France,,"1,78m",right,"Jan 1, 2023",Olympiacos Piraeus,€3.00m,,,€3.00m
+789,1144999,Luck Zogbé,Right-Back,"Mar 24, 2005",19,Cote d'Ivoire,,"1,78m",left,"Oct 26, 2023",Without Club,€100k,,"Joined from Without Club; date: Oct 26, 2023; fee: -",€100k
+790,377393,Pierre Lees-Melou,Defensive Midfield,"May 25, 1993",30,France,,"1,85m",right,"Jul 23, 2022",Norwich City,€10.00m,,,€10.00m
+791,127142,Jonas Martin,Defensive Midfield,"Apr 9, 1990",33,France,,"1,84m",right,"Jul 19, 2023",LOSC Lille,€1.20m,,"Joined from LOSC Lille; date: Jul 19, 2023; fee: free transfer",€1.20m
+792,324795,Mahdi Camara,Central Midfield,"Jun 30, 1998",25,France,,"1,78m",right,"Jul 1, 2023",AS Saint-Étienne,€9.00m,,"Joined from AS Saint-Étienne; date: Jul 1, 2023; fee: €3.00m",€9.00m
+793,474662,Hugo Magnetti,Central Midfield,"May 30, 1998",25,France,,"1,80m",right,"Jul 1, 2018",Stade Brest 29 B,€6.00m,,,€6.00m
+794,924800,Axel Camblan,Left Midfield,"Aug 30, 2003",20,France,,"1,69m",right,"Jul 1, 2022",Stade Brest 29 B,€600k,,"Returned after loan spell with US Concarneau; date: Jun 30, 2023; fee: End of loan",€600k
+795,671594,Kamory Doumbia,Attacking Midfield,"Feb 18, 2003",21,Mali,,"1,70m",right,"Sep 1, 2023",Stade Reims,€3.00m,,"On loan from Stade Reims until Jun 30, 2024",€3.00m
+796,737781,Jérémy Le Douaron,Left Winger,"Apr 21, 1998",25,France,,"1,89m",left,"Jul 1, 2020",Stade Briochin,€5.00m,,,€5.00m
+797,543051,Billal Brahimi,Left Winger,"Mar 14, 2000",24,Algeria,,"1,83m",left,"Sep 1, 2023",OGC Nice,€4.00m,,"On loan from OGC Nice until Jun 30, 2024",€4.00m
+798,424072,Mathias Pereira Lage,Left Winger,"Nov 30, 1996",27,France,,"1,80m",right,"Jul 1, 2022",Angers SCO,€2.00m,,,€2.00m
+799,395674,Adrien Lebeau,Left Winger,"Jul 8, 1999",24,France,,"1,75m",left,"Aug 4, 2023",SV Waldhof Mannheim,€300k,,"Joined from SV Waldhof Mannheim; date: Aug 4, 2023; fee: free transfer",€300k
+800,353399,Romain Del Castillo,Right Winger,"Mar 29, 1996",28,France,,"1,72m",left,"Aug 31, 2021",Stade Rennais FC,€9.00m,,,€9.00m
+801,640109,Martín Satriano,Centre-Forward,"Feb 20, 2001",23,Uruguay,,"1,87m",right,"Jul 14, 2023",Inter Milan,€6.00m,,"On loan from Inter Milan until Jun 30, 2024",€6.00m
+802,238639,Steve Mounié,Centre-Forward,"Sep 29, 1994",29,Benin,,"1,90m",right,"Sep 9, 2020",Huddersfield Town,€5.00m,,,€5.00m
+803,912902,Guillaume Restes,Goalkeeper,"Mar 11, 2005",19,France,,"1,88m",left,"Jul 1, 2023",Toulouse FC B,€12.00m,,"Internal transfer: Toulouse FC B; date: Jul 1, 2023",€12.00m
+804,524937,Álex Domínguez,Goalkeeper,"Jul 30, 1998",25,Spain,,"1,87m",left,"Jul 26, 2023",UD Las Palmas,€300k,,"Joined from UD Las Palmas; date: Jul 26, 2023; fee: ?",€300k
+805,835136,Thomas Himeur,Goalkeeper,"Jan 17, 2001",23,France,,"1,92m",right,"Jul 1, 2021",Toulouse FC B,€150k,,,€150k
+806,854988,Justin Lacombe,Goalkeeper,"Apr 9, 2003",20,France,,"1,92m",right,"Jul 1, 2023",Toulouse FC B,€100k,,"Internal transfer: Toulouse FC B; date: Jul 1, 2023",€100k
+807,484988,Logan Costa,Centre-Back,"Apr 1, 2001",23,Cape Verde,,"1,90m",right,"Aug 20, 2021",Stade Reims,€8.00m,,,€8.00m
+808,1005240,Christian Mawissa,Centre-Back,"Apr 18, 2005",18,France,,"1,80m",left,"Jul 1, 2023",Toulouse FC B,€7.00m,,"Internal transfer: Toulouse FC B; date: Jul 1, 2023",€7.00m
+809,283227,Rasmus Nicolaisen,Centre-Back,"Mar 16, 1997",27,Denmark,,"1,91m",left,"Aug 17, 2021",FC Midtjylland,€6.00m,,,€6.00m
+810,694509,Moussa Diarra,Centre-Back,"Nov 10, 2000",23,Mali,,"1,85m",left,"Jul 1, 2019",Toulouse FC B,€1.50m,,,€1.50m
+811,855014,Kévin Keben,Centre-Back,"Jan 26, 2004",20,Cameroon,,"1,87m",right,"Jul 1, 2022",Toulouse FC U19,€400k,,,€400k
+812,385105,Gabriel Suazo,Left-Back,"Aug 9, 1997",26,Chile,,"1,78m",left,"Jan 16, 2023",CSD Colo-Colo,€3.00m,,,€3.00m
+813,923758,Ylies Aradj,Left-Back,"Jun 5, 2005",18,France,,"1,79m",left,"Jul 1, 2023",Toulouse FC U19,€50k,,"Internal transfer: Toulouse FC U19; date: Jul 1, 2023",€50k
+814,221873,Mikkel Desler,Right-Back,"Feb 19, 1995",29,Denmark,,"1,84m",right,"Jul 20, 2021",FK Haugesund,€3.00m,,,€3.00m
+815,794758,Warren Kamanzi,Right-Back,"Nov 11, 2000",23,Norway,,"1,77m",right,"Jan 2, 2023",Tromsø IL,€1.50m,,,€1.50m
+816,241501,Stijn Spierings,Defensive Midfield,"Mar 12, 1996",28,Netherlands,,"1,88m",right,"Sep 14, 2023",RC Lens,€5.00m,,"On loan from RC Lens until Jun 30, 2024",€5.00m
+817,467632,Cristian Cásseres Jr.,Central Midfield,"Jan 20, 2000",24,Venezuela,,"1,76m",right,"Jul 7, 2023",New York Red Bulls,€3.50m,,"Joined from New York Red Bulls; date: Jul 7, 2023; fee: €1.00m",€3.50m
+818,280387,Vincent Sierro,Central Midfield,"Oct 8, 1995",28,Switzerland,,"1,85m",right,"Jan 23, 2023",BSC Young Boys,€3.00m,Team captain,,€3.00m
+819,463613,Yann Gboho,Attacking Midfield,"Jan 14, 2001",23,France,,"1,78m",right,"Jan 8, 2024",Cercle Brugge ,€3.50m,,"Joined as a winter arrival from: Cercle Brugge ; date: Jan 8, 2024; fee: €2.50m",€3.50m
+820,275249,Niklas Schmidt,Attacking Midfield,"Mar 1, 1998",26,Germany,,"1,84m",both,"Aug 4, 2023",SV Werder Bremen,€3.00m,,"Joined from SV Werder Bremen; date: Aug 4, 2023; fee: €2.50m",€3.00m
+821,470618,Denis Genreau,Attacking Midfield,"May 21, 1999",24,Australia,,"1,75m",right,"Aug 2, 2021",Macarthur FC,€2.00m,,,€2.00m
+822,505308,César Gelabert,Attacking Midfield,"Oct 31, 2000",23,Spain,,"1,82m",right,"Jul 1, 2023",CD Mirandés,€1.50m,,"Joined from CD Mirandés; date: Jul 1, 2023; fee: free transfer",€1.50m
+823,567309,Naatan Skyttä,Attacking Midfield,"May 7, 2002",21,Finland,,"1,70m",left,"Feb 1, 2021",Ilves Tampere,€400k,,"Returned after loan spell with Odense Boldklub; date: Jun 30, 2023; fee: End of loan",€400k
+824,575693,Ibrahim Cissoko,Left Winger,"Mar 26, 2003",21,Netherlands,,"1,88m",right,"Jul 1, 2023",NEC Nijmegen,€2.00m,,"Joined from NEC Nijmegen; date: Jul 1, 2023; fee: €3.00m",€2.00m
+825,393238,Zakaria Aboukhlal,Right Winger,"Feb 18, 2000",24,Morocco,,"1,79m",both,"Jul 1, 2022",AZ Alkmaar,€10.00m,,,€10.00m
+826,476836,Aron Dønnum,Right Winger,"Apr 20, 1998",25,Norway,,"1,78m",left,"Sep 1, 2023",Standard Liège,€3.50m,,"Joined from Standard Liège; date: Sep 1, 2023; fee: €4.50m",€3.50m
+827,916920,Shavy Babicka,Right Winger,"Jun 1, 2000",23,Gabon,,"1,79m",right,"Jan 18, 2024",Aris Limassol,€2.00m,,"Joined as a winter arrival from: Aris Limassol; date: Jan 18, 2024; fee: €2.75m",€2.00m
+828,538964,Thijs Dallinga,Centre-Forward,"Aug 3, 2000",23,Netherlands,,"1,90m",right,"Jul 1, 2022",Excelsior Rotterdam,€15.00m,,,€15.00m
+829,807689,Frank Magri,Centre-Forward,"Sep 4, 1999",24,Cameroon,,"1,78m",right,"Jul 21, 2023",SC Bastia,€3.00m,,"Joined from SC Bastia; date: Jul 21, 2023; fee: €2.00m",€3.00m
+830,357117,Alban Lafont,Goalkeeper,"Jan 23, 1999",25,France,,"1,96m",right,"Jul 1, 2021",: Ablöse €7.50m,€10.00m,,,€10.00m
+831,282028,Rémy Descamps,Goalkeeper,"Jun 25, 1996",27,France,,"1,96m",left,"Jul 1, 2021",R Charleroi SC,€1.50m,,,€1.50m
+832,28356,Denis Petric,Goalkeeper,"May 24, 1988",35,Slovenia,,"1,87m",right,"Aug 1, 2019",EA Guingamp,€150k,,,€150k
+833,923832,Nathan Zeze,Centre-Back,"Jun 18, 2005",18,France,,"1,90m",left,"Jul 4, 2023",FC Nantes B,€5.00m,,"Internal transfer: FC Nantes B; date: Jul 4, 2023",€5.00m
+834,298583,Eray Cömert,Centre-Back,"Feb 4, 1998",26,Switzerland,,"1,83m",right,"Aug 26, 2023",Valencia CF,€4.00m,,"On loan from Valencia CF until Jun 30, 2024",€4.00m
+835,344864,Jean-Kévin Duverne,Centre-Back,"Jul 12, 1997",26,Haiti,,"1,86m",right,"Aug 30, 2023",Stade Brestois 29,€3.50m,,"Joined from Stade Brestois 29; date: Aug 30, 2023; fee: free transfer",€3.50m
+836,182875,Jean-Charles Castelletto,Centre-Back,"Jan 26, 1995",29,Cameroon,,"1,86m",both,"Jul 1, 2020",Stade Brestois 29,€3.50m,,,€3.50m
+837,955253,Bastien Meupiyou,Centre-Back,"Mar 19, 2006",18,France,,"1,91m",left,"Aug 1, 2023",FC Nantes B,€1.00m,Meniscus damage - Return unknown,"Internal transfer: FC Nantes B; date: Aug 1, 2023",€1.00m
+838,139279,Nicolas Pallois,Centre-Back,"Sep 19, 1987",36,France,,"1,89m",left,"Jul 27, 2017",: Ablöse €2.00m,€800k,,,€800k
+839,485965,Nicolas Cozza,Left-Back,"Jan 8, 1999",25,France,,"1,78m",left,"Feb 1, 2024",VfL Wolfsburg,€3.50m,,"On loan from VfL Wolfsburg until Jun 30, 2024",€3.50m
+840,344072,Kelvin Amian,Right-Back,"Feb 8, 1998",26,France,,"1,80m",right,"Jan 25, 2024",Spezia Calcio,€2.50m,,"Joined as a winter arrival from: Spezia Calcio; date: Jan 25, 2024; fee: €3.00m",€2.50m
+841,242273,Pedro Chirivella,Defensive Midfield,"May 23, 1997",26,Spain,,"1,78m",right,"Jul 1, 2020",Liverpool FC U23,€7.00m,Team captain,,€7.00m
+842,393621,Douglas Augusto,Central Midfield,"Jan 13, 1997",27,Brazil,,"1,73m",left,"Aug 12, 2023",PAOK Thessaloniki,€6.00m,,"Joined from PAOK Thessaloniki; date: Aug 12, 2023; fee: €5.50m",€6.00m
+843,353403,Samuel Moutoussamy,Central Midfield,"Aug 12, 1996",27,DR Congo,,"1,76m",left,"Sep 6, 2017",: Ablöse -,€4.00m,,,€4.00m
+844,46001,Moussa Sissoko,Central Midfield,"Aug 16, 1989",34,France,,"1,87m",right,"Jul 1, 2022",Watford FC,€1.20m,,,€1.20m
+845,222859,Florent Mollet,Attacking Midfield,"Nov 19, 1991",32,France,,"1,75m",right,"Jan 17, 2023",FC Schalke 04,€2.00m,,,€2.00m
+846,274862,Moses Simon,Left Winger,"Jul 12, 1995",28,Nigeria,,"1,68m",right,"Jul 1, 2020",Levante UD,€12.00m,Broken fibula - Return unknown,,€12.00m
+847,1004618,Stredair Appuah,Left Winger,"Jun 27, 2004",19,France,,"1,85m",,"Jul 1, 2023",FC Nantes U19,€600k,,"Internal transfer: FC Nantes U19; date: Jul 1, 2023",€600k
+848,353365,Marcus Coco,Right Winger,"Jun 24, 1996",27,Guadeloupe,,"1,84m",right,"Jul 16, 2019",EA Guingamp,€1.50m,,,€1.50m
+849,560725,Abdoul Kader Bamba,Right Winger,"Apr 25, 1994",29,France,,"1,77m",right,"Jul 1, 2019",FC Nantes B,€900k,,"Returned after loan spell with AS Saint-Étienne; date: Jun 30, 2023; fee: End of loan",€900k
+850,462348,Mostafa Mohamed,Centre-Forward,"Nov 28, 1997",26,Egypt,,"1,85m",right,"Jul 1, 2023",Galatasaray,€10.00m,,"Joined from Galatasaray; date: Jul 1, 2023; fee: €5.75m",€10.00m
+851,659543,Matthis Abline,Centre-Forward,"Mar 28, 2003",21,France,,"1,82m",right,"Aug 25, 2023",Stade Rennais FC,€4.00m,,"On loan from Stade Rennais FC until Jun 30, 2024",€4.00m
+852,852024,Bénie Traoré,Centre-Forward,"Nov 30, 2002",21,Cote d'Ivoire,,"1,72m",right,"Jan 4, 2024",Sheffield United,€4.00m,,"On loan from Sheffield United until Jun 30, 2024",€4.00m
+853,531949,Ignatius Ganago,Centre-Forward,"Feb 16, 1999",25,Cameroon,,"1,76m",right,"Sep 1, 2022",RC Lens,€3.50m,Cruciate ligament tear - Return unknown,,€3.50m
+854,384060,Tino Kadewere,Centre-Forward,"Jan 5, 1996",28,Zimbabwe,,"1,83m",right,"Jan 4, 2024",Olympique Lyon,€2.50m,,"On loan from Olympique Lyon until Jun 30, 2024",€2.50m
+855,465955,Marcin Bulka,Goalkeeper,"Oct 4, 1999",24,Poland,,"1,99m",right,"Jul 1, 2022",Paris Saint-Germain,€18.00m,,,€18.00m
+856,127188,Maxime Dupé,Goalkeeper,"Mar 4, 1993",31,France,,"1,88m",right,"Jan 28, 2024",RSC Anderlecht,€2.00m,,"Joined as a winter arrival from: RSC Anderlecht; date: Jan 28, 2024; fee: free transfer",€2.00m
+857,789419,Teddy Boulhendi,Goalkeeper,"Apr 9, 2001",22,Algeria,,"1,85m",,"Jul 1, 2020",OGC Nice B,€150k,,,€150k
+858,605184,Jean-Clair Todibo,Centre-Back,"Dec 30, 1999",24,France,,"1,90m",right,"Jul 1, 2021",FC Barcelona,€35.00m,,,€35.00m
+859,16136,Dante,Centre-Back,"Oct 18, 1983",40,Brazil,,"1,88m",left,"Aug 23, 2016",VfL Wolfsburg,€600k,Team captain,,€600k
+860,1075574,Amidou Doumbouya,Centre-Back,"Aug 5, 2007",16,France,,"1,82m",left,"Aug 29, 2023",FC Sochaux-Montbéliard U19,€500k,,"Joined from FC Sochaux-Montbéliard U19; date: Aug 29, 2023; fee: €500k",€500k
+861,904707,Yannis Nahounou,Centre-Back,"May 16, 2004",19,France,,"1,93m",right,"Jul 1, 2023",OGC Nice B,€150k,,"Internal transfer: OGC Nice B; date: Jul 1, 2023",€150k
+862,532775,Melvin Bard,Left-Back,"Nov 6, 2000",23,France,,"1,73m",left,"Jul 16, 2021",: Ablöse €3.00m,€12.00m,,,€12.00m
+863,318523,Romain Perraud,Left-Back,"Sep 22, 1997",26,France,,"1,73m",left,"Aug 28, 2023",Southampton FC,€6.00m,,"On loan from Southampton FC until Jun 30, 2024",€6.00m
+864,313094,Jordan Lotomba,Right-Back,"Sep 29, 1998",25,Switzerland,,"1,77m",right,"Aug 3, 2020",BSC Young Boys,€8.00m,,,€8.00m
+865,441170,Valentin Rosier,Right-Back,"Aug 19, 1996",27,France,,"1,75m",right,"Jan 18, 2024",Besiktas JK,€5.00m,,"On loan from Besiktas JK until Jun 30, 2024",€5.00m
+866,891998,Antoine Mendy,Right-Back,"May 27, 2004",19,France,,"1,87m",right,"Jul 1, 2022",OGC Nice B,€800k,,,€800k
+867,674612,Youssouf Ndayishimiye,Defensive Midfield,"Oct 27, 1998",25,Burundi,,"1,83m",right,"Jan 25, 2023",Basaksehir FK,€18.00m,,,€18.00m
+868,370791,Pablo Rosario,Defensive Midfield,"Jan 7, 1997",27,Netherlands,,"1,85m",right,"Jul 27, 2021",PSV Eindhoven,€7.00m,,,€7.00m
+869,539065,Alexis Beka Beka,Defensive Midfield,"Mar 29, 2001",23,France,,"1,78m",right,"Aug 1, 2022",Lokomotiv Moscow,€2.00m,"depression - Return expected on May 31, 2024",,€2.00m
+870,463618,Khéphren Thuram,Central Midfield,"Mar 26, 2001",23,France,,"1,92m",right,"Jul 6, 2019",AS Monaco,€35.00m,,,€35.00m
+871,560593,Hicham Boudaoui,Central Midfield,"Sep 23, 1999",24,Algeria,,"1,75m",right,"Sep 2, 2019",Paradou AC,€9.00m,,,€9.00m
+872,174094,Morgan Sanson,Central Midfield,"Aug 18, 1994",29,France,,"1,80m",right,"Jul 24, 2023",Aston Villa,€7.00m,,"On loan from Aston Villa until Jun 30, 2024",€7.00m
+873,750904,Tom Louchet,Central Midfield,"May 4, 2003",20,France,,"1,78m",both,"Jul 1, 2023",OGC Nice B,€2.50m,,"Internal transfer: OGC Nice B; date: Jul 1, 2023",€2.50m
+874,986300,Daouda Traoré,Central Midfield,"Jul 22, 2006",17,France,,"1,86m",,"Aug 29, 2019",,€100k,,,€100k
+875,384593,Alexis Claude-Maurice,Attacking Midfield,"Jun 6, 1998",25,France,,"1,74m",right,"Jul 25, 2023",FC Lorient,€4.00m,,"Returned after loan spell with RC Lens; date: Jun 30, 2023; fee: End of loan",€4.00m
+876,216569,Jérémie Boga,Left Winger,"Jan 3, 1997",27,Cote d'Ivoire,,"1,72m",right,"Aug 29, 2022",Atalanta BC,€15.00m,,"Joined from Atalanta BC; date: Jul 25, 2023; fee: €17.00m",€15.00m
+877,569389,Sofiane Diop,Left Winger,"Jun 9, 2000",23,Morocco,,"1,75m",right,"Jan 8, 2024",AS Monaco,€15.00m,,,€15.00m
+878,670847,Mohamed-Ali Cho,Left Winger,"Jan 19, 2004",20,France,,"1,82m",left,"Sep 1, 2023",Real Sociedad,€10.00m,,"Joined as a winter arrival from: Real Sociedad; date: Jan 8, 2024; fee: €10.00m",€10.00m
+879,666977,Aliou Baldé,Left Winger,"Dec 12, 2002",21,Senegal,,"1,70m",right,"Jul 1, 2023",FC Lausanne-Sport,€1.00m,,"Joined from FC Lausanne-Sport; date: Sep 1, 2023; fee: €2.50m",€1.00m
+880,538874,Terem Moffi,Centre-Forward,"May 25, 1999",24,Nigeria,,"1,88m",left,"Sep 1, 2022",FC Lorient,€25.00m,,"Joined from FC Lorient; date: Jul 1, 2023; fee: €22.50m",€25.00m
+881,181378,Gaëtan Laborde,Centre-Forward,"May 3, 1994",29,France,,"1,81m",left,"Jul 1, 2020",Stade Rennais FC,€15.00m,,,€15.00m
+882,147051,Yvon Mvogo,Goalkeeper,"Jun 6, 1994",29,Switzerland,,"1,90m",right,"Jul 13, 2022",RB Leipzig,€3.50m,,,€3.50m
+883,163568,Alfred Gomis,Goalkeeper,"Sep 5, 1993",30,Senegal,,"1,96m",right,"Sep 1, 2023",Stade Rennais FC,€1.50m,,"On loan from Stade Rennais FC until Jun 30, 2024",€1.50m
+884,591190,Dominique Youfeigane,Goalkeeper,"Feb 7, 2000",24,Central African Republic,,"1,88m",right,"Jul 20, 2023",EA Guingamp,€250k,,"Joined from EA Guingamp; date: Jul 20, 2023; fee: free transfer",€250k
+885,496706,Montassar Talbi,Centre-Back,"May 26, 1998",25,Tunisia,,"1,90m",right,"Jul 18, 2022",Rubin Kazan,€8.00m,,,€8.00m
+886,708678,Isaak Touré,Centre-Back,"Mar 28, 2003",21,France,,"2,06m",left,"Sep 1, 2023",Olympique Marseille,€8.00m,,"Joined from Olympique Marseille; date: Sep 1, 2023; fee: €8.00m",€8.00m
+887,649023,Formose Mendy,Centre-Back,"Jan 2, 2001",23,Senegal,,"1,91m",right,"Jul 20, 2023",Amiens SC,€5.00m,,"Joined from Amiens SC; date: Jul 20, 2023; fee: €7.50m",€5.00m
+888,646829,Nathaniel Adjei,Centre-Back,"Aug 21, 2002",21,Ghana,,"1,91m",right,"Jan 27, 2024",Hammarby IF,€2.50m,,"On loan from Hammarby IF until Jun 30, 2024",€2.50m
+889,386057,Julien Laporte,Centre-Back,"Nov 4, 1993",30,France,,"1,85m",right,"Jul 8, 2019",Clermont Foot 63,€2.00m,,,€2.00m
+890,799936,Loris Mouyokolo,Centre-Back,"May 22, 2001",22,France,,"1,94m",right,"Jul 13, 2021",FC Lorient B,€400k,,"Returned after loan spell with Rodez AF; date: Jun 30, 2023; fee: End of loan",€400k
+891,157495,Benjamin Mendy,Left-Back,"Jul 17, 1994",29,France,,"1,85m",left,"Jul 19, 2023",Manchester City,€2.00m,,"Joined from Manchester City; date: Jul 19, 2023; fee: free transfer",€2.00m
+892,717118,Darlin Yongwa,Left-Back,"Sep 22, 2000",23,Cameroon,,"1,77m",left,"Jul 1, 2022",Chamois Niortais FC,€1.50m,,,€1.50m
+893,395685,Gédéon Kalulu,Right-Back,"Aug 29, 1997",26,DR Congo,,"1,79m",right,"Jul 1, 2022",AC Ajaccio,€4.00m,,,€4.00m
+894,816308,Panos Katseris,Right-Back,"Jul 5, 2001",22,Greece,,"1,87m",right,"Jan 23, 2024",US Catanzaro,€2.50m,,"Joined as a winter arrival from: US Catanzaro; date: Jan 23, 2024; fee: €2.40m",€2.50m
+895,391720,Igor Silva,Right-Back,"Aug 21, 1996",27,Brazil,,"1,73m",right,"Jul 23, 2021",NK Osijek,€1.20m,,,€1.20m
+896,238626,Laurent Abergel,Defensive Midfield,"Feb 1, 1993",31,France,,"1,70m",right,"Jul 26, 2019",AS Nancy-Lorraine,€3.00m,Team captain,,€3.00m
+897,182618,Tiemoué Bakayoko,Defensive Midfield,"Aug 17, 1994",29,France,,"1,89m",right,"Aug 31, 2023",Chelsea FC,€2.00m,,"Joined from Chelsea FC; date: Aug 31, 2023; fee: free transfer",€2.00m
+898,333383,Bonke Innocent,Defensive Midfield,"Jan 20, 1996",28,Nigeria,,"1,78m",right,"Jan 18, 2022",Malmö FF,€1.50m,,,€1.50m
+899,322305,Jean-Victor Makengo,Central Midfield,"Jun 12, 1998",25,France,,"1,77m",left,"Jan 30, 2023",Udinese Calcio,€8.00m,,,€8.00m
+900,635336,Imrân Louza,Central Midfield,"May 1, 1999",24,Morocco,,"1,78m",left,"Jan 15, 2024",Watford FC,€7.00m,,"On loan from Watford FC until Jun 30, 2024",€7.00m
+901,810093,Ayman Kari,Central Midfield,"Nov 19, 2004",19,France,,"1,76m",right,"Jan 31, 2023",Paris Saint-Germain,€2.50m,,"On loan from Paris Saint-Germain until Jun 30, 2024",€2.50m
+902,766412,Théo Le Bris,Left Midfield,"Oct 1, 2002",21,France,,"1,70m",right,"Jul 1, 2022",FC Lorient B,€2.50m,,,€2.50m
+903,955357,Eli Junior Kroupi,Attacking Midfield,"Jun 23, 2006",17,France,,"1,79m",right,"Jul 1, 2023",FC Lorient B,€15.00m,,"Internal transfer: FC Lorient B; date: Jul 1, 2023",€15.00m
+904,569390,Julien Ponceau,Attacking Midfield,"Nov 28, 2000",23,France,,"1,70m",right,"Jul 1, 2018",FC Lorient U19,€3.00m,,,€3.00m
+905,412671,Quentin Boisgard,Attacking Midfield,"Mar 17, 1997",27,France,,"1,74m",right,"Jul 2, 2020",FC Toulouse,€900k,Metatarsal fracture - Return unknown,"Returned after loan spell with Pau FC; date: Jun 30, 2023; fee: End of loan",€900k
+906,707242,Badredine Bouanani,Right Winger,"Dec 8, 2004",19,Algeria,,"1,77m",left,"Jan 31, 2024",OGC Nice,€5.00m,,"On loan from OGC Nice until Jun 30, 2024",€5.00m
+907,619461,Mohamed Bamba,Centre-Forward,"Dec 10, 2001",22,Cote d'Ivoire,,"1,85m",,"Jan 26, 2024",Wolfsberger AC,€5.00m,,"Joined as a winter arrival from: Wolfsberger AC; date: Jan 26, 2024; fee: €5.00m",€5.00m
+908,822458,Bamba Dieng,Centre-Forward,"Mar 23, 2000",24,Senegal,,"1,78m",right,"Jan 27, 2023",Olympique Marseille,€5.00m,,,€5.00m
+909,239647,Aiyegun Tosin,Centre-Forward,"Jun 26, 1998",25,Benin,,"1,79m",right,"Jul 25, 2023",FC Zürich,€3.50m,,"Joined from FC Zürich; date: Jul 25, 2023; fee: €4.00m",€3.50m
+910,164904,Mory Diaw,Goalkeeper,"Jun 22, 1993",30,Senegal,,"1,97m",right,"Jul 1, 2022",FC Lausanne-Sport,€2.00m,,,€2.00m
+911,916497,Massamba N'Diaye,Goalkeeper,"Oct 8, 2001",22,Senegal,,"2,02m",,"Aug 3, 2023",Pau FC,€500k,,"Joined from Pau FC; date: Aug 3, 2023; fee: ?",€500k
+912,920218,Théo Borne,Goalkeeper,"Jul 15, 2002",21,France,,"1,91m",right,"Jul 1, 2023",Angers SCO,€100k,,"Joined from Angers SCO; date: Jul 1, 2023; fee: free transfer",€100k
+913,569383,Chrislain Matsima,Centre-Back,"May 15, 2002",21,France,,"1,93m",right,"Feb 1, 2024",AS Monaco,€7.00m,,"On loan from AS Monaco until Jun 30, 2024",€7.00m
+914,494236,Andy Pelmard,Centre-Back,"Mar 12, 2000",24,France,,"1,80m",right,"Jul 12, 2023",FC Basel 1893,€3.50m,,"Joined from FC Basel 1893; date: Jul 12, 2023; fee: €1.90m",€3.50m
+915,369267,Maximiliano Caufriez,Centre-Back,"Feb 16, 1997",27,Belgium,,"1,89m",right,"Jul 1, 2023",Spartak Moscow,€3.00m,,"Joined from Spartak Moscow; date: Jul 1, 2023; fee: €3.50m",€3.00m
+916,91473,Florent Ogier,Centre-Back,"Mar 21, 1989",35,France,,"1,83m",right,"Jul 13, 2018",FC Sochaux-Montbéliard,€400k,Team captain,,€400k
+917,1004301,Jérémy Jacquet,Centre-Back,"Jul 13, 2005",18,France,,"1,88m",right,"Jan 29, 2024",Stade Rennais FC,€300k,,"On loan from Stade Rennais FC until Jun 30, 2024",€300k
+918,557939,Neto Borges,Left-Back,"Sep 13, 1996",27,Brazil,,"1,85m",left,"Jul 1, 2022",KRC Genk,€3.50m,,,€3.50m
+919,548716,Yoël Armougom,Left-Back,"Jun 5, 1998",25,France,,"1,75m",left,"Jul 4, 2023",FC Sochaux-Montbéliard,€300k,,"Joined from FC Sochaux-Montbéliard; date: Jul 4, 2023; fee: ?",€300k
+920,1108145,Cheick Oumar Konaté,Right-Back,"Apr 2, 2004",20,Mali,,"1,73m",right,"Feb 1, 2023",Clermont Foot 63 B,€1.50m,,,€1.50m
+921,118303,Mehdi Zeffane,Right-Back,"May 19, 1992",31,Algeria,,"1,76m",right,"Jul 1, 2022",Without Club,€600k,,,€600k
+922,594997,Yohann Magnin,Defensive Midfield,"Jun 21, 1997",26,France,,"1,83m",right,"Jan 25, 2019",Clermont Foot 63 B,€2.00m,,,€2.00m
+923,60542,Maxime Gonalons,Defensive Midfield,"Mar 10, 1989",35,France,,"1,87m",right,"Jul 1, 2022",Granada CF,€800k,,,€800k
+924,72121,Johan Gastien,Defensive Midfield,"Jan 25, 1988",36,France,,"1,79m",right,"Jul 1, 2018",Stade Brestois 29,€600k,,,€600k
+925,669000,Habib Keïta,Central Midfield,"Feb 5, 2002",22,Mali,,"1,82m",left,"Jul 4, 2023",Olympique Lyon,€800k,,"Joined from Olympique Lyon; date: Jul 4, 2023; fee: €1.20m",€800k
+926,422281,Muhammed Cham,Attacking Midfield,"Sep 26, 2000",23,Austria,,"1,80m",left,"Oct 4, 2020",FC Admira Wacker Mödling,€6.00m,,,€6.00m
+927,654415,Alan Virginius,Left Winger,"Jan 3, 2003",21,France,,"1,80m",right,"Jan 9, 2024",LOSC Lille,€3.50m,,"On loan from LOSC Lille until Jun 30, 2024",€3.50m
+928,149579,Elbasan Rashani,Left Winger,"May 9, 1993",30,Kosovo,,"1,81m",left,"Jul 16, 2021",: Ablöse free transfer,€1.80m,,,€1.80m
+929,170966,Jérémie Bela,Left Winger,"Apr 8, 1993",30,Angola,,"1,73m",right,"Aug 2, 2022",Birmingham City,€800k,,,€800k
+930,344151,Bilal Boutobba,Right Winger,"Aug 29, 1998",25,France,,"1,72m",left,"Jul 1, 2023",Chamois Niortais FC,€2.00m,,"Joined from Chamois Niortais FC; date: Jul 1, 2023; fee: free transfer",€2.00m
+931,646733,Jim Allevinah,Right Winger,"Feb 27, 1995",29,Gabon,,"1,72m",right,"Jul 1, 2019",Le Puy Foot 43 Auvergne,€2.00m,,,€2.00m
+932,354666,Shamar Nicholson,Centre-Forward,"Mar 16, 1997",27,Jamaica,,"1,92m",right,"Sep 1, 2023",Spartak Moscow,€6.00m,,"On loan from Spartak Moscow until Jun 30, 2024",€6.00m
+933,321647,Grejohn Kyei,Centre-Forward,"Aug 12, 1995",28,France,,"1,87m",right,"Jan 31, 2022",Servette FC,€1.80m,,,€1.80m
+934,260316,Komnen Andric,Centre-Forward,"Jul 1, 1995",28,Serbia,,"1,89m",right,"Jul 15, 2022",GNK Dinamo Zagreb,€1.20m,,,€1.20m
+935,191056,Brice Samba,Goalkeeper,"Apr 25, 1994",29,France,,"1,87m",left,"Jul 5, 2022",Nottingham Forest,€15.00m,Team captain,,€15.00m
+936,27490,Jean-Louis Leca,Goalkeeper,"Sep 21, 1985",38,France,,"1,80m",right,"Jul 1, 2018",AC Ajaccio,€200k,,,€200k
+937,804829,Yannick Pandor,Goalkeeper,"May 1, 2001",22,Comoros,,"1,92m",left,"Jul 1, 2022",RC Lens B,€150k,,,€150k
+938,263236,Kevin Danso,Centre-Back,"Sep 19, 1998",25,Austria,,"1,90m",right,"Aug 6, 2021",FC Augsburg,€25.00m,,,€25.00m
+939,474800,Facundo Medina,Centre-Back,"May 28, 1999",24,Argentina,,"1,84m",left,"Jul 2, 2020",CA Talleres,€25.00m,,,€25.00m
+940,126557,Jonathan Gradit,Centre-Back,"Nov 24, 1992",31,France,,"1,80m",right,"Aug 20, 2019",SM Caen,€5.00m,,,€5.00m
+941,763079,Abdukodir Khusanov,Centre-Back,"Feb 29, 2004",20,Uzbekistan,,"1,86m",right,"Jul 24, 2023",Energetik-BGU Minsk,€2.00m,,"Joined from Energetik-BGU Minsk; date: Jul 24, 2023; fee: €100k",€2.00m
+942,332560,Deiver Machado,Left-Back,"Sep 2, 1993",30,Colombia,,"1,80m",left,"Jul 7, 2021",FC Toulouse,€4.00m,Adductor pain - Return unknown,,€4.00m
+943,170929,Massadio Haidara,Left-Back,"Dec 2, 1992",31,Mali,,"1,79m",left,"Jul 1, 2018",Newcastle United,€2.50m,,,€2.50m
+944,713787,Jhoanner Chávez,Left-Back,"Apr 25, 2002",21,Ecuador,,"1,82m",left,"Jan 9, 2024",Esporte Clube Bahia,€2.00m,,"On loan from Esporte Clube Bahia until Jun 30, 2024",€2.00m
+945,203746,Ruben Aguilar,Right-Back,"Apr 26, 1993",30,France,,"1,72m",right,"Sep 1, 2023",AS Monaco,€6.00m,,"Joined from AS Monaco; date: Sep 1, 2023; fee: €3.50m",€6.00m
+946,688707,Salis Abdul Samed,Defensive Midfield,"Mar 26, 2000",24,Ghana,,"1,79m",right,"Jul 1, 2022",Clermont Foot 63,€12.00m,,,€12.00m
+947,111051,Nampalys Mendy,Defensive Midfield,"Jun 23, 1992",31,Senegal,,"1,68m",right,"Sep 4, 2023",Without Club,€3.00m,,"Joined from Without Club; date: Sep 4, 2023; fee: -",€3.00m
+948,711976,Andy Diouf,Central Midfield,"May 17, 2003",20,France,,"1,87m",left,"Jul 2, 2023",FC Basel 1893,€10.00m,,"Joined from FC Basel 1893; date: Jul 2, 2023; fee: €14.00m",€10.00m
+949,901019,Neil El Aynaoui,Central Midfield,"Jul 2, 2001",22,Morocco,,"1,85m",right,"Jul 1, 2023",AS Nancy-Lorraine,€8.00m,,"Joined from AS Nancy-Lorraine; date: Jul 1, 2023; fee: €600k",€8.00m
+950,239743,Przemyslaw Frankowski,Right Midfield,"Apr 12, 1995",28,Poland,,"1,75m",right,"Aug 5, 2021",Chicago Fire FC,€9.00m,,,€9.00m
+951,206912,Jimmy Cabot,Right Midfield,"Apr 18, 1994",29,France,,"1,64m",right,"Jul 1, 2022",Angers SCO,€3.00m,Cruciate ligament tear - Return unknown,,€3.00m
+952,719442,David Pereira da Costa,Attacking Midfield,"Jan 5, 2001",23,Portugal,,"1,68m",right,"Jul 1, 2020",RC Lens B,€8.00m,,,€8.00m
+953,250013,Angelo Fulgini,Attacking Midfield,"Aug 20, 1996",27,France,,"1,82m",right,"Jul 1, 2023",1.FSV Mainz 05,€8.00m,,"Joined from 1.FSV Mainz 05; date: Jul 1, 2023; fee: €7.20m",€8.00m
+954,215977,Adrien Thomasson,Attacking Midfield,"Dec 10, 1993",30,France,,"1,75m",right,"Jan 12, 2023",RC Strasbourg Alsace,€6.00m,,,€6.00m
+955,977877,Ayanda Sishuba,Attacking Midfield,"Feb 2, 2005",19,Belgium,,"1,69m",right,"Jul 1, 2023",,€500k,,,€500k
+956,1052885,Nolan Bonte,Attacking Midfield,"Jan 19, 2004",20,France,,"1,75m",right,"Aug 20, 2023",,€100k,,,€100k
+957,691786,Morgan Guilavogui,Right Winger,"Mar 10, 1998",26,Guinea,,"1,89m",right,"Jul 1, 2021",Paris FC,€3.50m,,"Joined from Paris FC; date: Jul 1, 2023; fee: €4.00m",€3.50m
+958,659542,Elye Wahi,Centre-Forward,"Jan 2, 2003",21,France,,"1,81m",right,"Jul 1, 2019",Montpellier HSC,€35.00m,,"Joined from Montpellier HSC; date: Aug 20, 2023; fee: €30.00m",€35.00m
+959,182916,Wesley Saïd,Centre-Forward,"Apr 19, 1995",28,France,,"1,71m",right,"Jul 1, 2021",FC Toulouse,€4.00m,,,€4.00m
+960,448632,Yehvann Diouf,Goalkeeper,"Nov 16, 1999",24,France,,"1,90m",right,"Jul 1, 2019",ESTAC Troyes,€10.00m,,,€10.00m
+961,395602,Alexandre Olliero,Goalkeeper,"Feb 15, 1996",28,France,,"1,93m",right,"Jan 31, 2023",Pau FC,€500k,,,€500k
+962,12029,Ludovic Butelle,Goalkeeper,"Apr 3, 1983",41,France,,"1,88m",left,"Jul 1, 2023",Red Star FC,€100k,,"Joined from Red Star FC; date: Jul 1, 2023; fee: free transfer",€100k
+963,453376,Joseph Okumu,Centre-Back,"May 26, 1997",26,Kenya,,"1,90m",right,"Jul 22, 2023",KAA Gent,€9.00m,Groin injury - Return unknown,"Joined from KAA Gent; date: Jul 22, 2023; fee: €10.00m",€9.00m
+964,683895,Emmanuel Agbadou,Centre-Back,"Jun 17, 1997",26,Cote d'Ivoire,,"1,92m",right,"Jul 1, 2022",KAS Eupen,€9.00m,,,€9.00m
+965,199704,Yunis Abdelhamid,Centre-Back,"Sep 28, 1987",36,Morocco,,"1,90m",left,"Jul 1, 2017",Dijon FCO,€700k,Team captain,"Joining: Without Club; date: Jul 1, 2024; fee: -",€700k
+966,355627,Sergio Akieme,Left-Back,"Dec 16, 1997",26,Spain,,"1,75m",left,"Feb 1, 2024",UD Almería,€8.00m,,"Joined as a winter arrival from: UD Almería; date: Feb 1, 2024; fee: €6.00m",€8.00m
+967,340177,Thibault De Smet,Left-Back,"Jun 5, 1998",25,Belgium,,"1,83m",left,"Jul 1, 2020",Sint-Truidense VV,€4.00m,,,€4.00m
+968,215114,Thomas Foket,Right-Back,"Sep 25, 1994",29,Belgium,,"1,77m",right,"Aug 31, 2018",KAA Gent,€7.00m,,,€7.00m
+969,570817,Maxime Busi,Right-Back,"Oct 14, 1999",24,Belgium,,"1,82m",right,"Jul 1, 2022",Parma Calcio 1913,€2.00m,,,€2.00m
+970,910176,Thérence Koudou,Right-Back,"Dec 13, 2004",19,France,,"1,78m",right,"Jul 1, 2023",Stade Reims B,€600k,,"Returned after loan spell with Pau FC; date: Jan 24, 2024; fee: End of loan",€600k
+971,923759,Valentin Atangana,Defensive Midfield,"Aug 25, 2005",18,France,,"1,73m",right,"Jul 1, 2023",Stade Reims B,€800k,,"Internal transfer: Stade Reims B; date: Jul 1, 2023",€800k
+972,127160,Benjamin Stambouli,Defensive Midfield,"Aug 13, 1990",33,France,,"1,80m",right,"Feb 1, 2024",Adana Demirspor,€800k,,"Joined as a winter arrival from: Adana Demirspor; date: Feb 1, 2024; fee: free transfer",€800k
+973,414908,Marshall Munetsi,Central Midfield,"Jun 22, 1996",27,Zimbabwe,,"1,88m",right,"Jul 1, 2019",Orlando Pirates,€12.00m,,,€12.00m
+974,409153,Teddy Teuma,Central Midfield,"Sep 30, 1993",30,Malta,,"1,76m",left,"Jul 7, 2023",Union Saint-Gilloise,€7.00m,,"Joined from Union Saint-Gilloise; date: Jul 7, 2023; fee: €4.60m",€7.00m
+975,893675,Amir Richardson,Central Midfield,"Jan 24, 2002",22,Morocco,,"1,97m",left,"Aug 31, 2022",Le Havre AC,€6.00m,,"Returned after loan spell with Le Havre AC; date: Jun 30, 2023; fee: End of loan",€6.00m
+976,405686,Reda Khadra,Attacking Midfield,"Jul 4, 2001",22,Germany,,"1,75m",right,"Jul 21, 2023",Brighton & Hove Albion,€3.00m,,"Joined from Brighton & Hove Albion; date: Jul 21, 2023; fee: €1.90m",€3.00m
+977,1178474,Amadou Koné,Attacking Midfield,"May 14, 2005",18,Cote d'Ivoire,,,,"Aug 11, 2023",,€400k,,,€400k
+978,574385,Mohamed Daramy,Left Winger,"Jan 7, 2002",22,Denmark,,"1,80m",right,"Aug 10, 2023",Ajax Amsterdam,€10.00m,,"Joined from Ajax Amsterdam; date: Aug 11, 2023; fee: €12.00m",€10.00m
+979,405397,Keito Nakamura,Left Winger,"Jul 28, 2000",23,Japan,,"1,80m",right,"Jul 1, 2023",LASK,€10.00m,,"Joined from LASK; date: Aug 10, 2023; fee: €12.00m",€10.00m
+980,1054839,Mamadou Diakhon,Left Winger,"Sep 22, 2005",18,France,,"1,80m",left,"Jul 29, 2022",Stade Reims B,€700k,,"Internal transfer: Stade Reims B; date: Jul 1, 2023",€700k
+981,348791,Junya Ito,Right Winger,"Mar 9, 1993",31,Japan,,"1,76m",right,"Jul 1, 2023",KRC Genk,€10.00m,,,€10.00m
+982,847279,Oumar Diakité,Centre-Forward,"Dec 20, 2003",20,Cote d'Ivoire,,"1,82m",right,"Aug 6, 2023",Red Bull Salzburg,€6.00m,,"Joined from Red Bull Salzburg; date: Jul 1, 2023; fee: €2.50m",€6.00m
+983,170911,Donovan Léon,Goalkeeper,"Nov 3, 1992",31,French Guiana,,"1,87m",right,"Jul 1, 2020",Stade Brestois 29,€500k,,,€500k
+984,427689,Sonny Laiton,Goalkeeper,"Jan 28, 2000",24,Madagascar,,"1,91m",right,"Jul 1, 2017",AJ Auxerre U19,€250k,,"Returned after loan spell with Stade Briochin; date: Jun 30, 2023; fee: End of loan",€250k
+985,695422,Théo De Percin,Goalkeeper,"Feb 2, 2001",23,Martinique,,"1,85m",right,"Mar 17, 2021",AJ Auxerre B,€100k,,,€100k
+986,419996,Raphaël Adiceam,Goalkeeper,"Jul 3, 1990",33,France,,"1,79m",left,"Sep 21, 2023",Without Club,€50k,,"Joined from Without Club; date: Sep 21, 2023; fee: -",€50k
+987,149928,Jubal,Centre-Back,"Aug 29, 1993",30,Brazil,,"1,90m",right,"Sep 3, 2020",Vitória Setúbal FC,€2.00m,Team captain,,€2.00m
+988,238716,Théo Pellenard,Centre-Back,"Mar 4, 1994",30,France,,"1,82m",left,"Jul 1, 2021",Valenciennes FC,€1.00m,,,€1.00m
+989,556865,Saad Agouzoul,Centre-Back,"Aug 10, 1997",26,Morocco,,"1,91m",left,"Jul 6, 2023",FC Sochaux-Montbéliard,€800k,,"Joined from FC Sochaux-Montbéliard; date: Jul 6, 2023; fee: ?",€800k
+990,397171,Gideon Mensah,Left-Back,"Jul 18, 1998",25,Ghana,,"1,78m",left,"Aug 13, 2022",Red Bull Salzburg,€2.50m,,,€2.50m
+991,806793,Clément Akpa,Left-Back,"Nov 24, 2001",22,Cote d'Ivoire,,"1,81m",left,"Jul 1, 2022",AJ Auxerre B,€600k,,"Returned after loan spell with US Orléans; date: Jun 30, 2023; fee: End of loan",€600k
+992,460629,Colin Dagba,Right-Back,"Sep 9, 1998",25,France,,"1,70m",right,"Sep 1, 2023",Paris Saint-Germain,€1.50m,,"On loan from Paris Saint-Germain until Jun 30, 2024",€1.50m
+993,806168,Paul Joly,Right-Back,"Jun 7, 2000",23,France,,"1,82m",right,"Jul 1, 2021",AJ Auxerre B,€1.50m,,"Returned after loan spell with Dijon FCO; date: Jun 30, 2023; fee: End of loan",€1.50m
+994,855215,Ange Loïc N’Gatta,Right-Back,"Dec 11, 2003",20,France,,"1,81m",right,"Jul 1, 2023",AJ Auxerre B,€150k,"Knock - Return expected on Apr 30, 2024","Internal transfer: AJ Auxerre B; date: Jul 1, 2023",€150k
+995,395695,Elisha Owusu,Defensive Midfield,"Nov 7, 1997",26,Ghana,,"1,82m",right,"Jan 16, 2023",KAA Gent,€2.50m,,,€2.50m
+996,344576,Rayan Raveloson,Defensive Midfield,"Jan 16, 1997",27,Madagascar,,"1,82m",right,"Aug 4, 2022",Los Angeles Galaxy,€1.80m,,,€1.80m
+997,287635,Assane Dioussé,Defensive Midfield,"Sep 20, 1997",26,Senegal,,"1,75m",left,"Aug 10, 2023",OFI Crete FC,€900k,,"Joined from OFI Crete FC; date: Aug 10, 2023; fee: €500k",€900k
+998,743523,Nathan Buayi-Kiala,Central Midfield,"Feb 29, 2004",20,France,,"1,76m",right,"Jul 7, 2023",Parma Calcio 1913,€200k,,"On loan from Parma Calcio 1913 until Jun 30, 2024",€200k
+999,353404,Gaëtan Perrin,Right Midfield,"Jun 7, 1996",27,France,,"1,69m",right,"Jul 1, 2021",US Orléans,€2.50m,,,€2.50m
+1000,743496,Kévin Danois,Attacking Midfield,"Jun 28, 2004",19,France,,"1,67m",right,"Jul 1, 2022",AJ Auxerre B,€50k,,,€50k
+1001,568698,Issa Soumaré,Left Winger,"Oct 10, 2000",23,Senegal,,"1,82m",right,"Jan 12, 2024",Le Havre AC,€900k,,"On loan from Le Havre AC until Jun 30, 2024",€900k
+1002,344892,Gauthier Hein,Right Winger,"Aug 7, 1996",27,France,,"1,70m",left,"Jul 1, 2020",: Ablöse ?,€2.50m,,,€2.50m
+1003,569140,Lassine Sinayoko,Right Winger,"Dec 8, 1999",24,Mali,,"1,86m",right,"Jul 1, 2019",AJ Auxerre B,€2.00m,,,€2.00m
+1004,412934,Eros Maddy,Right Winger,"Feb 5, 2001",23,Netherlands,,"1,77m",right,"Jul 25, 2023",Helmond Sport,€250k,,"Joined from Helmond Sport; date: Jul 25, 2023; fee: €450k",€250k
+1005,372713,Florian Ayé,Centre-Forward,"Jan 19, 1997",27,France,,"1,84m",right,"Jul 31, 2023",Brescia Calcio,€1.80m,,"Joined from Brescia Calcio; date: Jul 31, 2023; fee: €1.50m",€1.80m
+1006,308133,Ado Onaiwu,Centre-Forward,"Nov 8, 1995",28,Japan,,"1,80m",right,"Aug 28, 2023",FC Toulouse,€1.50m,,"Joined from FC Toulouse; date: Aug 28, 2023; fee: €700k",€1.50m
+1007,1119389,Tidiane Diawara,Centre-Forward,"Apr 29, 2005",18,France,,"1,88m",right,"Jan 9, 2024",ESA Linas-Montlhéry,€50k,,"Joined as a winter arrival from: ESA Linas-Montlhéry; date: Jan 9, 2024; fee: ?",€50k
+1008,576033,Doğan Alemdar,Goalkeeper,"Oct 29, 2002",21,Türkiye,,"1,92m",right,"Jul 5, 2023",Stade Rennais FC,€3.00m,,"On loan from Stade Rennais FC until Jun 30, 2024",€3.00m
+1009,373939,Nicolas Lemaître,Goalkeeper,"Jan 12, 1997",27,France,,"1,89m",left,"Jul 3, 2023",Quevilly - Rouen Métropole,€500k,"Hip injury - Return expected on Apr 30, 2024","Joined from Quevilly - Rouen Métropole; date: Jul 3, 2023; fee: free transfer",€500k
+1010,111041,Zacharie Boucher,Goalkeeper,"Mar 7, 1992",32,France,,"1,81m",right,"Jan 3, 2024",SC Bastia,€200k,,"On loan from SC Bastia until Jun 30, 2024",€200k
+1011,540642,Corentin Michel,Goalkeeper,"Mar 20, 2000",24,Belgium,,"1,87m",right,"Jul 1, 2023",ESTAC Troyes B,€100k,,"Internal transfer: ESTAC Troyes B; date: Jul 1, 2023",€100k
+1012,673514,Abdoulaye Ndiaye,Centre-Back,"Apr 10, 2002",21,Senegal,,"1,85m",left,"Jul 20, 2023",Olympique Lyon,€3.00m,,"Joined from Olympique Lyon; date: Jul 20, 2023; fee: €3.50m",€3.00m
+1013,917120,Tanguy Zoukrou,Centre-Back,"May 7, 2003",20,France,,"1,89m",right,"Jul 1, 2022",ESTAC Troyes B,€1.50m,,,€1.50m
+1014,375287,Emmanuel Ntim,Centre-Back,"Mar 12, 1996",28,Ghana,,"1,79m",right,"Feb 1, 2024",SM Caen,€700k,,"On loan from SM Caen until Jun 30, 2024",€700k
+1015,238584,Mehdi Tahrat,Centre-Back,"Jan 24, 1990",34,Algeria,,"1,93m",right,"Sep 12, 2023",Al-Gharafa SC,€300k,,"Joined from Al-Gharafa SC; date: Sep 12, 2023; fee: free transfer",€300k
+1016,917101,Rudy Kohon,Centre-Back,"May 23, 2004",19,France,,"1,87m",right,"Jul 1, 2023",ESTAC Troyes B,€300k,,"Internal transfer: ESTAC Troyes B; date: Jul 1, 2023",€300k
+1017,991649,Eric N'Jo,Centre-Back,"Jun 1, 2004",19,France,,"1,95m",right,"Jul 1, 2022",ESTAC Troyes U19,€100k,,,€100k
+1018,337798,Abdu Conté,Left-Back,"Mar 24, 1998",26,Portugal,,"1,83m",left,"Jan 12, 2022",Moreirense FC,€1.20m,,,€1.20m
+1019,770895,Ismaël Boura,Left-Back,"Aug 14, 2000",23,Comoros,,"1,73m",left,"Jul 1, 2023",RC Lens,€1.00m,,"Joined from RC Lens; date: Jul 1, 2023; fee: free transfer",€1.00m
+1020,982864,Mathis Hamdi,Left-Back,"Oct 18, 2003",20,France,,"1,80m",,"Jul 1, 2023",ESTAC Troyes B,€150k,,"Internal transfer: ESTAC Troyes B; date: Jul 1, 2023",€150k
+1021,709482,Thierno Baldé,Right-Back,"Jun 10, 2002",21,France,,"1,82m",right,"Aug 9, 2022",Paris Saint-Germain,€3.00m,Cruciate ligament tear - Return unknown,,€3.00m
+1022,345748,Andreas Bruus,Right-Back,"Jan 16, 1999",25,Denmark,,"1,83m",right,"Jul 18, 2022",Bröndby IF,€1.00m,,,€1.00m
+1023,1091219,Abdoulaye Kanté,Defensive Midfield,"Jul 9, 2005",18,Cote d'Ivoire,,"1,80m",right,"Jul 1, 2023",ESTAC Troyes U19,€800k,Ankle injury - Return unknown,"Internal transfer: ESTAC Troyes U19; date: Jul 1, 2023",€800k
+1024,118278,Xavier Chavalerin,Central Midfield,"Mar 7, 1991",33,France,,"1,79m",left,"Aug 29, 2021",Stade Reims,€1.20m,Team captain,,€1.20m
+1025,371003,Ante Palaversa,Central Midfield,"Apr 6, 2000",24,Croatia,,"1,87m",right,"Aug 31, 2022",Manchester City,€400k,,,€400k
+1026,929612,Danel Dongmo,Central Midfield,"Jan 31, 2001",23,Cameroon,,"1,82m",left,"Jan 30, 2022",,€100k,,,€100k
+1027,429790,Luka Ilic,Attacking Midfield,"Jul 2, 1999",24,Serbia,,"1,82m",left,"Jul 25, 2023",Manchester City,€2.00m,,"Returned after loan spell with FK TSC Backa Topola; date: Jun 30, 2023; fee: End of loan",€2.00m
+1028,933147,Mouhamed Diop,Attacking Midfield,"Sep 30, 2000",23,Senegal,,"1,82m",right,"Aug 31, 2023",Kocaelispor,€800k,,"Joined from Kocaelispor; date: Jul 25, 2023; fee: €1.10m",€800k
+1029,167472,Youssouf M'Changama,Attacking Midfield,"Aug 29, 1990",33,Comoros,,"1,75m",right,"Sep 1, 2023",AJ Auxerre,€400k,,"Joined from AJ Auxerre; date: Aug 31, 2023; fee: ?",€400k
+1030,900938,Junior Olaitan,Attacking Midfield,"May 9, 2002",21,Benin,,"1,74m",,"Jul 22, 2023",Chamois Niortais FC,€400k,,"On loan from Chamois Niortais FC until Jun 30, 2024",€400k
+1031,780147,Rafiki Saïd,Left Winger,"Mar 15, 2000",24,Comoros,,"1,78m",both,"Jul 15, 2021",Nîmes Olympique,€1.50m,,"Joined from Nîmes Olympique; date: Jul 22, 2023; fee: €800k",€1.50m
+1032,234802,Renaud Ripart,Right Winger,"Mar 14, 1993",31,France,,"1,81m",right,"Jul 1, 2023",Nîmes Olympique,€1.20m,,,€1.20m
+1033,982863,Kyliane Dong,Right Winger,"Sep 27, 2004",19,France,,"1,78m",,"Jan 8, 2024",ESTAC Troyes B,€1.00m,,"Internal transfer: ESTAC Troyes B; date: Jul 1, 2023",€1.00m
+1034,817180,Mamady Bangré,Right Winger,"Jun 15, 2001",22,Burkina Faso,,"1,71m",left,"Jan 11, 2024",FC Toulouse,€900k,,"On loan from FC Toulouse until Jun 30, 2024",€900k
+1035,804661,Simon Elisor,Centre-Forward,"Jul 22, 1999",24,France,,"1,85m",left,"Jul 19, 2023",FC Metz,€1.20m,,"On loan from FC Metz until Jun 30, 2024",€1.20m
+1036,1066904,Jaurès Assoumou,Centre-Forward,"Oct 17, 2002",21,Cote d'Ivoire,,"1,67m",right,"Jul 20, 2023",ESTAC Troyes B,€600k,,"Internal transfer: ESTAC Troyes B; date: Jul 19, 2023",€600k
+1037,352041,Lucas Perri,Goalkeeper,"Dec 10, 1997",26,Brazil,,"1,97m",right,"Jan 5, 2024",Botafogo de Futebol e Regatas,€6.00m,,"Joined as a winter arrival from: Botafogo de Futebol e Regatas; date: Jan 5, 2024; fee: €3.25m",€6.00m
+1038,60561,Anthony Lopes,Goalkeeper,"Oct 1, 1990",33,Portugal,,"1,84m",left,"Jul 1, 2011",Olympique Lyon B,€5.00m,,,€5.00m
+1039,802986,Justin Bengui Joao,Goalkeeper,"Jul 9, 2005",18,France,,"1,90m",left,"Aug 31, 2023",Olympique Lyon B,€300k,,"Internal transfer: Olympique Lyon B; date: Aug 31, 2023",€300k
+1040,711544,Jake O'Brien,Centre-Back,"May 15, 2001",22,Ireland,,"1,97m",right,"Aug 15, 2023",Crystal Palace U21,€9.00m,,"Joined from Crystal Palace U21; date: Aug 15, 2023; fee: €1.00m",€9.00m
+1041,238266,Duje Caleta-Car,Centre-Back,"Sep 17, 1996",27,Croatia,,"1,93m",right,"Aug 2, 2023",Southampton FC,€7.00m,,"On loan from Southampton FC until Jun 30, 2024",€7.00m
+1042,702441,Sinaly Diomandé,Centre-Back,"Apr 9, 2001",22,Cote d'Ivoire,,"1,84m",right,"Jul 1, 2020",Olympique Lyon B,€5.00m,,,€5.00m
+1043,373433,Adryelson,Centre-Back,"Mar 23, 1998",26,Brazil,,"1,82m",right,"Jan 5, 2024",Botafogo de Futebol e Regatas,€5.00m,,"Joined as a winter arrival from: Botafogo de Futebol e Regatas; date: Jan 5, 2024; fee: €3.58m",€5.00m
+1044,37838,Dejan Lovren,Centre-Back,"Jul 5, 1989",34,Croatia,,"1,88m",right,"Jan 2, 2023",: Ablöse €2.00m,€2.00m,,,€2.00m
+1045,131225,Nicolás Tagliafico,Left-Back,"Aug 31, 1992",31,Argentina,,"1,72m",left,"Jul 23, 2022",Ajax Amsterdam,€8.00m,,,€8.00m
+1046,204072,Henrique Silva,Left-Back,"Apr 25, 1994",29,Brazil,,"1,73m",left,"Jul 1, 2021",Clube de Regatas Vasco da Gama,€1.00m,,,€1.00m
+1047,951579,Saël Kumbedi,Right-Back,"Mar 26, 2005",19,France,,"1,75m",right,"Aug 31, 2022",Le Havre AC,€9.00m,,,€9.00m
+1048,187718,Clinton Mata,Right-Back,"Nov 7, 1992",31,Angola,,"1,80m",right,"Jul 6, 2023",Club Brugge KV,€4.00m,,"Joined from Club Brugge KV; date: Jul 6, 2023; fee: €5.00m",€4.00m
+1049,585973,Johann Lepenant,Defensive Midfield,"Oct 22, 2002",21,France,,"1,76m",right,"Jul 1, 2022",SM Caen,€7.00m,,,€7.00m
+1050,74683,Nemanja Matic,Defensive Midfield,"Aug 1, 1988",35,Serbia,,"1,94m",left,"Jan 27, 2024",Stade Rennais FC,€3.50m,,"Joined as a winter arrival from: Stade Rennais FC; date: Jan 27, 2024; fee: €2.60m",€3.50m
+1051,429901,Paul Akouokou,Defensive Midfield,"Dec 20, 1997",26,Cote d'Ivoire,,"1,81m",right,"Sep 1, 2023",Real Betis Balompié,€2.00m,,"Joined from Real Betis Balompié; date: Sep 1, 2023; fee: €3.00m",€2.00m
+1052,289592,Orel Mangala,Central Midfield,"Mar 18, 1998",26,Belgium,,"1,78m",right,"Feb 1, 2024",Nottingham Forest,€22.00m,,"On loan from Nottingham Forest until Jun 30, 2024",€22.00m
+1053,395237,Maxence Caqueret,Central Midfield,"Feb 15, 2000",24,France,,"1,74m",right,"Dec 14, 2018",Olympique Lyon B,€20.00m,,,€20.00m
+1054,190393,Corentin Tolisso,Central Midfield,"Aug 3, 1994",29,France,,"1,81m",right,"Jul 1, 2022",Bayern Munich,€5.00m,,,€5.00m
+1055,1053147,Mahamadou Diawara,Central Midfield,"Feb 17, 2005",19,France,,"1,87m",left,"Jul 1, 2023",Paris Saint-Germain U19,€3.00m,,"Joined from Paris Saint-Germain U19; date: Jul 1, 2023; fee: free transfer",€3.00m
+1056,743533,Mohamed El Arouch,Central Midfield,"Apr 6, 2004",20,France,,"1,66m",right,"Jul 1, 2022",Olympique Lyon B,€2.00m,,,€2.00m
+1057,285845,Ainsley Maitland-Niles,Right Midfield,"Aug 29, 1997",26,England,,"1,80m",right,"Aug 7, 2023",Arsenal FC,€7.00m,,"Joined from Arsenal FC; date: Aug 7, 2023; fee: free transfer",€7.00m
+1058,743386,Malick Fofana,Left Midfield,"Mar 31, 2005",19,Belgium,,"1,69m",right,"Jan 10, 2024",KAA Gent,€12.00m,,"Joined as a winter arrival from: KAA Gent; date: Jan 10, 2024; fee: €17.00m",€12.00m
+1059,607223,Rayan Cherki,Attacking Midfield,"Aug 17, 2003",20,France,,"1,77m",both,"Jan 1, 2020",Olympique Lyon B,€25.00m,,,€25.00m
+1060,290532,Saïd Benrahma,Left Winger,"Aug 10, 1995",28,Algeria,,"1,72m",right,"Feb 1, 2024",West Ham United,€22.00m,,"On loan from West Ham United until Jun 30, 2024",€22.00m
+1061,955070,Ernest Nuamah,Right Winger,"Nov 1, 2003",20,Ghana,,"1,78m",left,"Aug 31, 2023",RWD Molenbeek,€18.00m,,"On loan from RWD Molenbeek until Jun 30, 2024",€18.00m
+1062,1018259,Gift Orban,Centre-Forward,"Jul 17, 2002",21,Nigeria,,"1,78m",right,"Jan 18, 2024",KAA Gent,€15.00m,,"Joined as a winter arrival from: KAA Gent; date: Jan 18, 2024; fee: €12.00m",€15.00m
+1063,93720,Alexandre Lacazette,Centre-Forward,"May 28, 1991",32,France,,"1,75m",right,"Jul 1, 2022",Arsenal FC,€10.00m,Team captain,,€10.00m
+1064,325223,Mama Baldé,Centre-Forward,"Nov 6, 1995",28,Guinea-Bissau,,"1,76m",right,"Aug 30, 2023",ESTAC Troyes,€4.00m,,"On loan from ESTAC Troyes until Jun 30, 2024",€4.00m
+1065,127181,Benjamin Lecomte,Goalkeeper,"Apr 26, 1991",32,France,,"1,86m",left,"Jan 26, 2023",AS Monaco,€4.00m,,,€4.00m
+1066,371816,Dimitry Bertaud,Goalkeeper,"Jun 6, 1998",25,DR Congo,,"1,80m",right,"Jul 1, 2017",Montpellier HSC B,€1.20m,,,€1.20m
+1067,483007,Belmin Dizdarevic,Goalkeeper,"Aug 9, 2001",22,Bosnia-Herzegovina,,"1,89m",right,"Jul 7, 2023",FK Sarajevo,€200k,,"Joined from FK Sarajevo; date: Jul 7, 2023; fee: €150k",€200k
+1068,211637,Kiki Kouyaté,Centre-Back,"Apr 15, 1997",26,Mali,,"1,92m",right,"Jan 20, 2023",FC Metz,€5.00m,,,€5.00m
+1069,507344,Becir Omeragic,Centre-Back,"Jan 20, 2002",22,Switzerland,,"1,87m",right,"Jul 1, 2023",FC Zürich,€5.00m,,"Joined from FC Zürich; date: Jul 1, 2023; fee: free transfer",€5.00m
+1070,524925,Modibo Sagnan,Centre-Back,"Apr 14, 1999",24,Mali,,"1,87m",left,"Feb 1, 2024",FC Utrecht,€3.00m,,"Joined as a winter arrival from: FC Utrecht; date: Feb 1, 2024; fee: €3.20m",€3.00m
+1071,201737,Christopher Jullien,Centre-Back,"Mar 22, 1993",31,France,,"1,96m",right,"Aug 23, 2022",Celtic FC,€3.00m,,,€3.00m
+1072,220878,Issiaga Sylla,Left-Back,"Jan 1, 1994",30,Guinea,,"1,80m",left,"Jan 31, 2023",FC Toulouse,€2.50m,,,€2.50m
+1073,537127,Théo Sainte-Luce,Left-Back,"Oct 20, 1998",25,France,,"1,76m",left,"Jul 1, 2022",Nîmes Olympique,€1.50m,,,€1.50m
+1074,982393,Lucas Mincarelli,Left-Back,"Jan 5, 2004",20,France,,"1,79m",left,"Dec 1, 2023",Montpellier HSC B,€600k,,"Internal winter transfer: Montpellier HSC B; Date: Dec 1, 2023",€600k
+1075,364857,Falaye Sacko,Right-Back,"May 1, 1995",28,Mali,,"1,80m",right,"Jul 1, 2023",Vitória Guimarães SC,€4.00m,,"Joined from Vitória Guimarães SC; date: Jul 1, 2023; fee: €1.30m",€4.00m
+1076,842338,Enzo Tchato,Right-Back,"Nov 23, 2002",21,Cameroon,,"1,82m",right,"Jul 1, 2022",Montpellier HSC B,€2.50m,,,€2.50m
+1077,237666,Silvan Hefti,Right-Back,"Oct 25, 1997",26,Switzerland,,"1,83m",right,"Jan 2, 2024",Genoa CFC,€2.50m,,"On loan from Genoa CFC until Jun 30, 2024",€2.50m
+1078,624037,Joris Chotard,Defensive Midfield,"Sep 24, 2001",22,France,,"1,79m",right,"Sep 25, 2019",Montpellier HSC B,€10.00m,,,€10.00m
+1079,118284,Jordan Ferri,Central Midfield,"Mar 12, 1992",32,France,,"1,73m",right,"Jul 1, 2019",: Ablöse €2.00m,€5.00m,,,€5.00m
+1080,782630,Khalil Fayad,Central Midfield,"Jun 9, 2004",19,France,,"1,72m",right,"Jul 1, 2022",Montpellier HSC B,€5.00m,,,€5.00m
+1081,650350,Léo Leroy,Central Midfield,"Feb 14, 2000",24,France,,"1,87m",right,"Jul 1, 2021",LB Châteauroux,€1.20m,,,€1.20m
+1082,127156,Téji Savanier,Attacking Midfield,"Dec 22, 1991",32,France,,"1,72m",right,"Jul 2, 2019",Nîmes Olympique,€9.00m,Team captain,,€9.00m
+1083,842425,Sacha Delaye,Attacking Midfield,"Apr 23, 2002",21,France,,"1,71m",right,"Jul 1, 2021",Montpellier HSC B,€400k,,"Returned after loan spell with Le Puy Foot 43 Auvergne; date: Jun 30, 2023; fee: End of loan",€400k
+1084,324804,Yann Karamoh,Left Winger,"Jul 8, 1998",25,France,,"1,84m",right,"Feb 1, 2024",Torino FC,€3.00m,,"On loan from Torino FC until Jun 30, 2024",€3.00m
+1085,103565,Wahbi Khazri,Left Winger,"Feb 8, 1991",33,Tunisia,,"1,76m",right,"Jul 1, 2022",AS Saint-Étienne,€2.00m,,,€2.00m
+1086,324811,Arnaud Nordin,Right Winger,"Jun 17, 1998",25,France,,"1,70m",left,"Jul 1, 2022",AS Saint-Étienne,€7.00m,,,€7.00m
+1087,551505,Mousa Tamari,Right Winger,"Jun 10, 1997",26,Jordan,,"1,78m",left,"Jul 1, 2023",Oud-Heverlee Leuven,€7.00m,,"Joined from Oud-Heverlee Leuven; date: Jul 1, 2023; fee: free transfer",€7.00m
+1088,618425,Tanguy Coulibaly,Right Winger,"Feb 18, 2001",23,France,,"1,79m",left,"Dec 4, 2023",Without Club,€2.00m,,"Joined as a winter arrival from: Without Club; date: Dec 4, 2023; fee: -",€2.00m
+1089,607034,Akor Adams,Centre-Forward,"Jan 29, 2000",24,Nigeria,,"1,90m",right,"Aug 7, 2023",Lillestrøm SK,€12.00m,,"Joined from Lillestrøm SK; date: Aug 7, 2023; fee: €4.50m",€12.00m
+1090,286415,Pau López,Goalkeeper,"Dec 13, 1994",29,Spain,,"1,89m",left,"Jul 1, 2022",AS Roma,€10.00m,,,€10.00m
+1091,199321,Rubén Blanco,Goalkeeper,"Jul 25, 1995",28,Spain,,"1,88m",right,"Jul 30, 2023",Celta de Vigo,€2.50m,,"Joined from Celta de Vigo; date: Jul 30, 2023; fee: €1.50m",€2.50m
+1092,696600,Simon Ngapandouetnbu,Goalkeeper,"Apr 12, 2003",20,Cameroon,,"1,86m",right,"Oct 11, 2019",Olympique de Marseille B,€300k,,,€300k
+1093,203348,Chancel Mbemba,Centre-Back,"Aug 8, 1994",29,DR Congo,,"1,82m",right,"Jul 15, 2022",FC Porto,€15.00m,,,€15.00m
+1094,575998,Leonardo Balerdi,Centre-Back,"Jan 26, 1999",25,Argentina,,"1,87m",right,"Jul 3, 2021",Borussia Dortmund,€10.00m,,,€10.00m
+1095,276896,Samuel Gigot,Centre-Back,"Oct 12, 1993",30,France,,"1,87m",right,"Jan 29, 2022",: Ablöse €500k,€9.00m,,,€9.00m
+1096,807165,Bamo Meïté,Centre-Back,"Dec 3, 2001",22,Cote d'Ivoire,,"1,83m",,"Sep 1, 2023",FC Lorient,€5.00m,,"On loan from FC Lorient until Jun 30, 2024",€5.00m
+1097,289216,Stéphane Sparagna,Centre-Back,"Feb 17, 1995",29,France,,"1,87m",right,"Jul 20, 2015",Olympique de Marseille B,€50k,,,€50k
+1098,557613,Quentin Merlin,Left-Back,"May 16, 2002",21,France,,"1,74m",left,"Jan 26, 2024",FC Nantes,€10.00m,,"Joined as a winter arrival from: FC Nantes; date: Jan 26, 2024; fee: €10.00m",€10.00m
+1099,192616,Ulisses Garcia,Left-Back,"Jan 11, 1996",28,Switzerland,,"1,82m",left,"Jan 16, 2024",BSC Young Boys,€4.00m,No eligibility -  - UEFA Europa League,"Joined as a winter arrival from: BSC Young Boys; date: Jan 16, 2024; fee: €4.00m",€4.00m
+1100,175639,Jonathan Clauss,Right-Back,"Sep 25, 1992",31,France,,"1,78m",right,"Jul 20, 2022",RC Lens,€15.00m,Torn muscle bundle - Return unknown,,€15.00m
+1101,354482,Amir Murillo,Right-Back,"Feb 11, 1996",28,Panama,,"1,84m",right,"Aug 30, 2023",RSC Anderlecht,€3.00m,Adductor pain - Return unknown,"Joined from RSC Anderlecht; date: Aug 30, 2023; fee: €2.50m",€3.00m
+1102,127189,Geoffrey Kondogbia,Defensive Midfield,"Feb 15, 1993",31,Central African Republic,,"1,88m",left,"Jul 1, 2023",Atlético de Madrid,€15.00m,,"Joined from Atlético de Madrid; date: Jul 1, 2023; fee: €8.00m",€15.00m
+1103,485963,Pape Gueye,Defensive Midfield,"Jan 24, 1999",25,Senegal,,"1,89m",left,"Jul 1, 2020",Le Havre AC,€6.00m,No eligibility -  - UEFA Europa League,"Returned after loan spell with Sevilla FC; date: Jun 30, 2023; fee: End of loan",€6.00m
+1104,656441,Jean Onana,Defensive Midfield,"Jan 8, 2000",24,Cameroon,,"1,89m",right,"Jan 8, 2024",Besiktas JK,€4.00m,No eligibility -  - UEFA Europa League,"On loan from Besiktas JK until Jun 30, 2024",€4.00m
+1105,332889,Valentin Rongier,Central Midfield,"Dec 7, 1994",29,France,,"1,72m",right,"Sep 3, 2019",FC Nantes,€15.00m,Team captain; Broken kneecap - Return unknown,,€15.00m
+1106,164771,Jordan Veretout,Central Midfield,"Mar 1, 1993",31,France,,"1,77m",right,"Aug 5, 2022",AS Roma,€15.00m,,,€15.00m
+1107,593482,Azzedine Ounahi,Central Midfield,"Apr 19, 2000",23,Morocco,,"1,82m",right,"Jan 29, 2023",Angers SCO,€12.00m,,,€12.00m
+1108,659520,Bilal Nadir,Central Midfield,"Nov 28, 2003",20,Morocco,,"1,79m",left,"Jul 1, 2023",Olympique de Marseille B,€500k,Cruciate ligament tear - Return unknown,"Internal transfer: Olympique de Marseille B; date: Jul 1, 2023",€500k
+1109,913495,Emran Soglo,Left Midfield,"Jul 11, 2005",18,England,,"1,78m",left,"Jul 1, 2023",Olympique de Marseille B,€1.00m,,"Internal transfer: Olympique de Marseille B; date: Jul 1, 2023",€1.00m
+1110,372711,Amine Harit,Attacking Midfield,"Jun 18, 1997",26,Morocco,,"1,80m",right,"Jul 1, 2023",FC Schalke 04,€15.00m,,"Joined from FC Schalke 04; date: Jul 1, 2023; fee: €5.00m",€15.00m
+1111,691316,Luis Henrique,Left Winger,"Dec 14, 2001",22,Brazil,,"1,81m",right,"Sep 25, 2020",Três Passos AC,€6.00m,,"Returned after loan spell with Botafogo de Futebol e Regatas; date: Dec 31, 2023; fee: End of loan",€6.00m
+1112,410225,Ismaïla Sarr,Right Winger,"Feb 25, 1998",26,Senegal,,"1,85m",right,"Jul 24, 2023",Watford FC,€20.00m,,"Joined from Watford FC; date: Jul 24, 2023; fee: €13.00m",€20.00m
+1113,227081,Joaquín Correa,Second Striker,"Aug 13, 1994",29,Argentina,,"1,88m",right,"Aug 25, 2023",Inter Milan,€8.00m,,"On loan from Inter Milan until Jun 30, 2024",€8.00m
+1114,623570,Iliman Ndiaye,Centre-Forward,"Mar 6, 2000",24,Senegal,,"1,80m",right,"Aug 1, 2023",Sheffield United,€18.00m,,"Joined from Sheffield United; date: Aug 1, 2023; fee: €17.00m",€18.00m
+1115,599663,Faris Moumbagna,Centre-Forward,"Jul 1, 2000",23,Cameroon,,"1,85m",left,"Jan 20, 2024",FK Bodø/Glimt,€8.00m,,"Joined as a winter arrival from: FK Bodø/Glimt; date: Jan 20, 2024; fee: €8.00m",€8.00m
+1116,58864,Pierre-Emerick Aubameyang,Centre-Forward,"Jun 18, 1989",34,Gabon,,"1,87m",right,"Jul 21, 2023",Chelsea FC,€4.00m,,"Joined from Chelsea FC; date: Jul 21, 2023; fee: free transfer",€4.00m
+1117,667991,Alaa Bellaarouch,Goalkeeper,"Feb 1, 2002",22,Morocco,,"1,88m",right,"Jul 1, 2022",Racing Strasbourg B,€1.50m,,"Returned after loan spell with Stade Briochin; date: Jun 30, 2023; fee: End of loan",€1.50m
+1118,57134,Matthieu Dreyer,Goalkeeper,"Mar 20, 1989",35,France,,"1,88m",right,"Feb 1, 2024",AS Saint-Étienne,€200k,,"Joined as a winter arrival from: AS Saint-Étienne; date: Feb 1, 2024; fee: ?",€200k
+1119,838947,Alexandre Pierre,Goalkeeper,"Feb 25, 2001",23,Haiti,,"1,91m",right,"Jul 1, 2021",Racing Strasbourg B,€100k,,,€100k
+1120,962555,Abakar Sylla,Centre-Back,"Dec 25, 2002",21,Cote d'Ivoire,,"1,88m",left,"Jul 15, 2023",Club Brugge KV,€12.00m,,"Joined from Club Brugge KV; date: Jul 15, 2023; fee: €20.00m",€12.00m
+1121,786436,Ismaël Doukouré,Centre-Back,"Jul 24, 2003",20,France,,"1,83m",right,"Jan 29, 2022",Valenciennes FC,€12.00m,,,€12.00m
+1122,352392,Lucas Perrin,Centre-Back,"Nov 19, 1998",25,France,,"1,88m",right,"Jul 1, 2022",Olympique Marseille,€3.00m,,,€3.00m
+1123,807128,Saïdou Sow,Centre-Back,"Jul 4, 2002",21,Guinea,,"1,85m",right,"Aug 9, 2023",AS Saint-Étienne,€2.00m,,"Joined from AS Saint-Étienne; date: Aug 9, 2023; fee: €3.00m",€2.00m
+1124,988468,Steven Baseya,Centre-Back,"Jan 14, 2005",19,France,,"1,89m",right,"Jul 1, 2023",AS Nancy-Lorraine B,€50k,,"Joined from AS Nancy-Lorraine B; date: Jul 1, 2023; fee: ?",€50k
+1125,170961,Thomas Delaine,Left-Back,"Mar 24, 1992",32,France,,"1,80m",left,"Jul 1, 2022",FC Metz,€1.20m,,,€1.20m
+1126,354352,Frédéric Guilbert,Right-Back,"Dec 24, 1994",29,France,,"1,78m",right,"Jan 17, 2023",Aston Villa,€4.00m,,,€4.00m
+1127,830890,Marvin Senaya,Right-Back,"Jan 28, 2001",23,France,,"1,81m",right,"Jul 1, 2021",Racing Strasbourg B,€1.00m,,"Returned after loan spell with Rodez AF; date: Jun 30, 2023; fee: End of loan",€1.00m
+1128,385817,Karol Fila,Right-Back,"Jun 13, 1998",25,Poland,,"1,83m",right,"Jul 1, 2021",Lechia Gdansk,€800k,Cruciate ligament tear - Return unknown,"Returned after loan spell with SV Zulte Waregem; date: Jun 30, 2023; fee: End of loan",€800k
+1129,1011200,Junior Mwanga,Defensive Midfield,"May 11, 2003",20,France,,"1,84m",both,"Aug 8, 2023",FC Girondins Bordeaux,€7.00m,,"Joined from FC Girondins Bordeaux; date: Aug 8, 2023; fee: €10.00m",€7.00m
+1130,372712,Ibrahima Sissoko,Defensive Midfield,"Oct 27, 1997",26,Mali,,"1,93m",right,"Jul 1, 2018",Stade Brestois 29,€5.00m,,,€5.00m
+1131,178313,Jean-Eudes Aholou,Defensive Midfield,"Mar 20, 1994",30,Cote d'Ivoire,,"1,86m",left,"Jul 1, 2022",AS Monaco,€1.00m,,,€1.00m
+1132,743600,Andrey Santos,Central Midfield,"May 3, 2004",19,Brazil,,"1,80m",right,"Feb 1, 2024",Chelsea FC,€14.00m,,"On loan from Chelsea FC until Jun 30, 2024",€14.00m
+1133,539232,Jessy Deminguet,Central Midfield,"Jan 7, 1998",26,France,,"1,78m",left,"Jul 1, 2023",SM Caen,€1.50m,,"Joined from SM Caen; date: Jul 1, 2023; fee: free transfer",€1.50m
+1134,125783,Sanjin Prcic,Central Midfield,"Nov 20, 1993",30,Bosnia-Herzegovina,,"1,81m",right,"Sep 2, 2019",Levante UD,€1.20m,,,€1.20m
+1135,876631,Habib Diarra,Attacking Midfield,"Jan 3, 2004",20,Senegal,,"1,79m",right,"Jul 1, 2022",Racing Strasbourg U19,€18.00m,,,€18.00m
+1136,540664,Dilane Bakwa,Left Winger,"Aug 26, 2002",21,France,,"1,79m",left,"Aug 8, 2023",FC Girondins Bordeaux,€7.00m,,"Joined from FC Girondins Bordeaux; date: Aug 8, 2023; fee: €10.00m",€7.00m
+1137,743598,Ângelo,Right Winger,"Dec 21, 2004",19,Brazil,,"1,80m",left,"Aug 8, 2023",Chelsea FC,€15.00m,,"On loan from Chelsea FC until Jun 30, 2024",€15.00m
+1138,559328,Emanuel Emegha,Centre-Forward,"Feb 3, 2003",21,Netherlands,,"1,95m",right,"Jul 22, 2023",SK Sturm Graz,€12.00m,,"Joined from SK Sturm Graz; date: Jul 22, 2023; fee: €13.00m",€12.00m
+1139,880330,Moïse Sahi Dion,Centre-Forward,"Dec 20, 2001",22,Cote d'Ivoire,,"1,75m",left,"Jul 1, 2021",Racing Strasbourg B,€2.00m,,"Returned after loan spell with FC Annecy; date: Jun 30, 2023; fee: End of loan",€2.00m
+1140,427161,Lebo Mothiba,Centre-Forward,"Jan 28, 1996",28,South Africa,,"1,82m",right,"Aug 30, 2018",LOSC Lille,€1.50m,Patellar tendon rupture - Return unknown,,€1.50m
+1141,27389,Kévin Gameiro,Centre-Forward,"May 9, 1987",36,France,,"1,72m",right,"Jul 18, 2021",Valencia CF,€800k,,,€800k
+1142,379869,Arthur Desmas,Goalkeeper,"Apr 7, 1994",29,France,,"1,96m",right,"Jul 1, 2022",Clermont Foot 63,€2.50m,,,€2.50m
+1143,60543,Mathieu Gorgelin,Goalkeeper,"Aug 5, 1990",33,France,,"1,87m",left,"Jul 1, 2019",: Ablöse free transfer,€200k,,,€200k
+1144,768380,Arouna Sangante,Centre-Back,"Apr 12, 2002",21,Senegal,,"1,89m",right,"Jul 1, 2021",AC Le Havre B,€10.00m,Team captain,,€10.00m
+1145,639712,Étienne Youté Kinkoué,Centre-Back,"Jan 14, 2002",22,France,,"1,96m",right,"Jan 11, 2023",Olympiacos Piraeus B,€5.00m,,,€5.00m
+1146,249636,Gautier Lloris,Centre-Back,"Jul 18, 1995",28,France,,"1,91m",left,"Jul 12, 2022",AJ Auxerre,€3.00m,,,€3.00m
+1147,351843,Yoann Salmier,Centre-Back,"Nov 21, 1992",31,French Guiana,,"1,88m",right,"Jul 4, 2023",ESTAC Troyes,€1.50m,,"Joined from ESTAC Troyes; date: Jul 4, 2023; fee: free transfer",€1.50m
+1148,469976,Christopher Operi,Left-Back,"Apr 29, 1997",26,Cote d'Ivoire,,"1,83m",left,"Jul 1, 2022",KAA Gent,€2.50m,,,€2.50m
+1149,918302,Cheick Doumbia,Left-Back,"Oct 18, 2004",19,France,,"1,75m",left,"Jul 1, 2023",FC Lorient B,€100k,,"Joined from FC Lorient B; date: Jul 1, 2023; fee: ?",€100k
+1150,122840,Loïc Nego,Right-Back,"Jan 15, 1991",33,Hungary,,"1,81m",right,"Jul 1, 2023",Fehérvár FC,€1.00m,,"Joined from Fehérvár FC; date: Jul 1, 2023; fee: free transfer",€1.00m
+1151,283127,Oualid El Hajjam,Right-Back,"Feb 19, 1991",33,Morocco,,"1,81m",right,"Jul 15, 2022",ESTAC Troyes,€900k,,,€900k
+1152,181382,Abdoulaye Touré,Defensive Midfield,"Mar 3, 1994",30,Guinea,,"1,88m",right,"Jul 26, 2023",Genoa CFC,€2.50m,,"Joined from Genoa CFC; date: Jul 26, 2023; fee: free transfer",€2.50m
+1153,292820,Aloïs Confais,Defensive Midfield,"Sep 7, 1996",27,France,,"1,74m",right,"Aug 17, 2022",Olympiakos Nicosia,€300k,,,€300k
+1154,279570,Daler Kuzyaev,Central Midfield,"Jan 15, 1993",31,Russia,,"1,82m",right,"Jul 12, 2023",Zenit St. Petersburg,€9.00m,,"Joined from Zenit St. Petersburg; date: Jul 12, 2023; fee: free transfer",€9.00m
+1155,667967,Yassine Kechta,Central Midfield,"Feb 25, 2002",22,Morocco,,"1,74m",left,"Jul 1, 2022",AC Le Havre B,€4.00m,,,€4.00m
+1156,662242,Rassoul Ndiaye,Central Midfield,"Dec 11, 2001",22,Senegal,,"1,79m",right,"Jul 17, 2023",FC Sochaux-Montbéliard,€3.00m,,"Joined from FC Sochaux-Montbéliard; date: Jul 17, 2023; fee: €1.50m",€3.00m
+1157,667965,Oussama Targhalline,Central Midfield,"May 20, 2002",21,Morocco,,"1,86m",right,"Jan 6, 2023",Olympique Marseille,€1.00m,,,€1.00m
+1158,45403,André Ayew,Left Winger,"Dec 17, 1989",34,Ghana,,"1,75m",left,"Nov 11, 2023",Without Club,€1.20m,,"Joined from Without Club; date: Nov 11, 2023; fee: -",€1.20m
+1159,763182,Josué Casimir,Right Winger,"Sep 24, 2001",22,Guadeloupe,,"1,78m",right,"Jul 1, 2021",AC Le Havre B,€2.50m,,,€2.50m
+1160,432772,Samuel Grandsir,Right Winger,"Aug 14, 1996",27,France,,"1,70m",right,"Jan 23, 2023",Los Angeles Galaxy,€1.80m,,,€1.80m
+1161,381187,Emmanuel Sabbi,Right Winger,"Dec 24, 1997",26,United States,,"1,78m",right,"Aug 10, 2023",Odense Boldklub,€1.20m,,"Joined from Odense Boldklub; date: Aug 10, 2023; fee: €1.00m",€1.20m
+1162,594991,Mohamed Bayo,Centre-Forward,"Jun 4, 1998",25,Guinea,,"1,88m",right,"Sep 1, 2023",LOSC Lille,€6.00m,,"On loan from LOSC Lille until Jun 30, 2024",€6.00m
+1163,1028162,Antoine Joujou,Centre-Forward,"Mar 12, 2003",21,France,,"1,89m",,"Jan 1, 2023",AC Le Havre B,€1.20m,,,€1.20m
+1164,770407,Andy Logbo,Centre-Forward,"May 6, 2004",19,France,,"1,88m",left,"Jul 1, 2022",AC Le Havre B,€800k,Cruciate ligament tear - Return unknown,,€800k
+1165,923838,Steve Ngoura,Centre-Forward,"Feb 22, 2005",19,France,,"1,93m",right,"Jan 1, 2024",AC Le Havre B,€300k,,"Internal winter transfer: AC Le Havre B; Date: Jan 1, 2024",€300k
+1166,418651,Yahia Fofana,Goalkeeper,"Aug 21, 2000",23,Cote d'Ivoire,,"1,94m",right,"Jul 1, 2022",Le Havre AC,€3.00m,,,€3.00m
+1167,548347,Melvin Zinga,Goalkeeper,"Mar 16, 2002",22,France,,"1,87m",left,"Jul 1, 2022",Angers SCO B,€100k,,,€100k
+1168,198709,Cédric Hountondji,Centre-Back,"Jan 19, 1994",30,Benin,,"1,94m",right,"Jul 18, 2022",Clermont Foot 63,€1.80m,,,€1.80m
+1169,192492,Jordan Lefort,Centre-Back,"Aug 9, 1993",30,France,,"1,84m",left,"Jul 1, 2023",Paris FC,€900k,,"Joined from Paris FC; date: Jul 1, 2023; fee: free transfer",€900k
+1170,804711,Ousmane Camara,Centre-Back,"Mar 6, 2003",21,France,,"1,97m",right,"Aug 16, 2022",Paris FC,€800k,,,€800k
+1171,62351,Abdoulaye Bamba,Centre-Back,"Apr 25, 1990",33,Cote d'Ivoire,,"1,82m",right,"Jan 1, 2017",Without Club,€400k,,,€400k
+1172,111811,Florent Hanin,Left-Back,"Feb 4, 1990",34,France,,"1,77m",left,"Jul 31, 2023",Paris FC,€400k,,"Joined from Paris FC; date: Jul 31, 2023; fee: free transfer",€400k
+1173,406008,Yan Valery,Right-Back,"Feb 22, 1999",25,Tunisia,,"1,85m",right,"Sep 1, 2022",Southampton FC,€2.00m,,,€2.00m
+1174,829874,Lilian Raolisoa,Right-Back,"Jun 16, 2000",23,France,,"1,78m",right,"Jul 1, 2023",Angers SCO B,€600k,,"Internal transfer: Angers SCO B; date: Jul 1, 2023",€600k
+1175,650104,Zinédine Ould Khaled,Defensive Midfield,"Jan 14, 2000",24,France,,"1,95m",right,"Jul 29, 2019",Angers SCO B,€400k,,,€400k
+1176,204585,Joseph Lopy,Central Midfield,"Mar 15, 1992",32,Senegal,,"1,81m",right,"Jul 19, 2023",Nîmes Olympique,€500k,Ankle injury - Return unknown,"Joined from Nîmes Olympique; date: Jul 19, 2023; fee: free transfer",€500k
+1177,214532,Pierrick Capelle,Central Midfield,"Apr 15, 1987",36,France,,"1,81m",left,"Jul 1, 2015",Clermont Foot 63,€250k,Team captain,,€250k
+1178,592979,Himad Abdelli,Attacking Midfield,"Nov 17, 1999",24,Algeria,,"1,85m",right,"Jul 1, 2022",Le Havre AC,€3.50m,,,€3.50m
+1179,425400,Farid El Melali,Left Winger,"Jul 13, 1997",26,Algeria,,"1,68m",both,"Aug 9, 2018",Paradou AC,€800k,,,€800k
+1180,986288,Sidiki Cherif,Left Winger,"Dec 15, 2006",17,France,,"1,85m",,"Jul 1, 2023",Angers SCO U19,€100k,,"Internal transfer: Angers SCO U19; date: Jul 1, 2023",€100k
+1181,232895,Zinedine Ferhat,Right Winger,"Mar 1, 1993",31,Algeria,,"1,80m",right,"Aug 31, 2023",Alanyaspor,€1.80m,,"Joined from Alanyaspor; date: Aug 31, 2023; fee: free transfer",€1.80m
+1182,1101641,Justin-Noël Kalumba,Right Winger,"Dec 25, 2004",19,France,,"1,82m",right,"Jul 1, 2023",Angers SCO B,€250k,,"Internal transfer: Angers SCO B; date: Jul 1, 2023",€250k
+1183,126552,Loïs Diony,Centre-Forward,"Dec 20, 1992",31,France,,"1,83m",right,"Sep 10, 2020",: Ablöse free transfer,€2.00m,,,€2.00m
+1184,490417,Ibrahima Niane,Centre-Forward,"Mar 11, 1999",25,Senegal,,"1,87m",right,"Jul 1, 2023",FC Metz,€1.20m,,"Joined from FC Metz; date: Jul 1, 2023; fee: €500k",€1.20m
+1185,203507,Adrien Hunou,Centre-Forward,"Jan 19, 1994",30,France,,"1,79m",right,"Jul 1, 2022",Minnesota United FC,€800k,,,€800k
+1186,461607,Esteban Lepaul,Centre-Forward,"Apr 18, 2000",23,France,,"1,77m",right,"Jan 25, 2024",SAS Epinal,€700k,,"Joined as a winter arrival from: SAS Epinal; date: Jan 25, 2024; fee: €150k",€700k
+1187,855160,Guédé Nadje,Centre-Forward,"Nov 12, 2003",20,France,,"1,84m",right,"Jul 1, 2023",Angers SCO B,€100k,,"Internal transfer: Angers SCO B; date: Jul 1, 2023",€100k
+1188,193256,Gauthier Gallon,Goalkeeper,"Apr 23, 1993",30,France,,"1,87m",right,"Jul 5, 2023",ESTAC Troyes,€1.50m,,"Joined from ESTAC Troyes; date: Jul 5, 2023; fee: ?",€1.50m
+1189,23951,Steve Mandanda,Goalkeeper,"Mar 28, 1985",39,France,,"1,87m",right,"Jul 6, 2022",Olympique Marseille,€1.00m,Team captain,,€1.00m
+1190,72414,Geoffrey Lembet,Goalkeeper,"Sep 23, 1988",35,Central African Republic,,"1,86m",left,"Jul 18, 2023",CS Sedan-Ardennes,€150k,,"Joined from CS Sedan-Ardennes; date: Jul 18, 2023; fee: free transfer",€150k
+1191,368891,Arthur Theate,Centre-Back,"May 25, 2000",23,Belgium,,"1,85m",left,"Jul 29, 2022",Bologna FC 1909,€20.00m,,,€20.00m
+1192,919515,Jeanuël Belocian,Centre-Back,"Feb 17, 2005",19,France,,"1,82m",left,"Jul 1, 2022",Stade Rennais FC U19,€10.00m,,,€10.00m
+1193,798404,Alidu Seidu,Centre-Back,"Jun 4, 2000",23,Ghana,,"1,73m",right,"Jan 29, 2024",Clermont Foot 63,€9.00m,,"Joined as a winter arrival from: Clermont Foot 63; date: Jan 29, 2024; fee: €11.00m",€9.00m
+1194,711996,Warmed Omari,Centre-Back,"Apr 23, 2000",23,France,,"1,88m",right,"Jul 1, 2021",Stade Rennais FC B,€8.00m,,,€8.00m
+1195,572326,Christopher Wooh,Centre-Back,"Sep 18, 2001",22,Cameroon,,"1,91m",right,"Sep 1, 2022",RC Lens,€6.00m,,,€6.00m
+1196,654539,Adrien Truffert,Left-Back,"Nov 20, 2001",22,France,,"1,76m",left,"Jul 1, 2020",Stade Rennais FC B,€18.00m,,,€18.00m
+1197,1176345,Mahamadou Nagida,Left-Back,"Jun 28, 2005",18,Cameroon,,"1,76m",left,"Jul 1, 2022",,€500k,"Knee injury - Return expected on Jun 30, 2024",,€500k
+1198,711980,Guéla Doué,Right-Back,"Oct 17, 2002",21,Cote d'Ivoire,,"1,87m",right,"Jan 22, 2024",Stade Rennais FC B,€7.00m,,,€7.00m
+1199,315145,Azor Matusiwa,Defensive Midfield,"Apr 28, 1998",25,Netherlands,,"1,73m",right,"Aug 17, 2021",Stade Reims,€13.00m,,"Joined as a winter arrival from: Stade Reims; date: Jan 22, 2024; fee: €15.50m",€13.00m
+1200,285323,Baptiste Santamaria,Defensive Midfield,"Mar 9, 1995",29,France,,"1,83m",right,"Jul 1, 2017",SC Freiburg,€12.00m,,,€12.00m
+1201,266359,Benjamin Bourigeaud,Central Midfield,"Jan 14, 1994",30,France,,"1,78m",right,"Jul 7, 2023",RC Lens,€18.00m,,,€18.00m
+1202,633992,Enzo Le Fée,Attacking Midfield,"Feb 3, 2000",24,France,,"1,73m",right,"Jul 1, 2022",FC Lorient,€20.00m,,"Joined from FC Lorient; date: Jul 7, 2023; fee: €20.00m",€20.00m
+1203,914562,Désiré Doué,Attacking Midfield,"Jun 3, 2005",18,France,,"1,81m",both,"Jul 5, 2023",Stade Rennais FC U19,€20.00m,,,€20.00m
+1204,288225,Ludovic Blas,Attacking Midfield,"Dec 31, 1997",26,France,,"1,80m",left,"Aug 31, 2023",FC Nantes,€18.00m,,"Joined from FC Nantes; date: Jul 5, 2023; fee: €15.00m",€18.00m
+1205,507341,Fabian Rieder,Attacking Midfield,"Feb 16, 2002",22,Switzerland,,"1,79m",left,"Sep 1, 2022",BSC Young Boys,€10.00m,,"Joined from BSC Young Boys; date: Aug 31, 2023; fee: €15.00m",€10.00m
+1206,418659,Amine Gouiri,Left Winger,"Feb 16, 2000",24,Algeria,,"1,81m",right,"Jul 6, 2020",OGC Nice,€28.00m,,,€28.00m
+1207,442891,Martin Terrier,Left Winger,"Mar 4, 1997",27,France,,"1,84m",right,"Jan 31, 2023",: Ablöse €12.00m,€25.00m,,,€25.00m
+1208,928323,Ibrahim Salah,Left Winger,"Aug 30, 2001",22,Morocco,,"1,86m",right,"Aug 11, 2022",KAA Gent,€5.00m,,,€5.00m
+1209,585959,Arnaud Kalimuendo,Centre-Forward,"Jan 20, 2002",22,France,,"1,78m",right,"Aug 29, 2023",Paris Saint-Germain,€20.00m,,,€20.00m
+1210,251322,Philipp Köhn,Goalkeeper,"Apr 2, 1998",26,Switzerland,,"1,90m",right,"Jul 15, 2023",Red Bull Salzburg,€7.00m,,"Joined from Red Bull Salzburg; date: Jul 15, 2023; fee: €8.00m",€7.00m
+1211,346546,Radoslaw Majecki,Goalkeeper,"Nov 16, 1999",24,Poland,,"1,93m",right,"Jan 29, 2020",Legia Warszawa,€3.00m,,"Returned after loan spell with Cercle Brugge ; date: Jun 30, 2023; fee: End of loan",€3.00m
+1212,745341,Yann Lienard,Goalkeeper,"Mar 16, 2003",21,France,,"1,94m",right,"Jul 1, 2023",AS Monaco U21,€200k,,"Internal transfer: AS Monaco U21; date: Jul 1, 2023",€200k
+1213,563963,Mohammed Salisu,Centre-Back,"Apr 17, 1999",24,Ghana,,"1,88m",left,"Aug 1, 2023",Southampton FC,€15.00m,,"Joined from Southampton FC; date: Aug 1, 2023; fee: €15.00m",€15.00m
+1214,249730,Guillermo Maripán,Centre-Back,"May 6, 1994",29,Chile,,"1,93m",right,"Aug 24, 2019",Deportivo Alavés,€10.00m,,,€10.00m
+1215,745181,Soungoutou Magassa,Centre-Back,"Oct 8, 2003",20,France,,"1,88m",right,"Jul 1, 2022",AS Monaco U21,€10.00m,,,€10.00m
+1216,228948,Thilo Kehrer,Centre-Back,"Sep 21, 1996",27,Germany,,"1,86m",right,"Jan 5, 2024",West Ham United,€9.00m,,"On loan from West Ham United until Jun 30, 2024",€9.00m
+1217,420064,Caio Henrique,Left-Back,"Jul 31, 1997",26,Brazil,,"1,78m",left,"Aug 27, 2020",Atlético de Madrid,€20.00m,Cruciate ligament tear - Return unknown,,€20.00m
+1218,375137,Ismail Jakobs,Left-Back,"Aug 17, 1999",24,Senegal,,"1,84m",left,"Jul 12, 2021",1.FC Köln,€8.00m,,,€8.00m
+1219,947360,Kassoum Ouattara,Left-Back,"Oct 14, 2004",19,France,,"1,76m",left,"Nov 1, 2023",Amiens SC,€6.00m,,"Joined from Amiens SC; date: Nov 1, 2023; fee: €2.00m",€6.00m
+1220,789082,Vanderson,Right-Back,"Jun 21, 2001",22,Brazil,,"1,73m",right,"Jan 1, 2022",Grêmio Foot-Ball Porto Alegrense,€20.00m,,,€20.00m
+1221,648779,Wilfried Singo,Right-Back,"Dec 25, 2000",23,Cote d'Ivoire,,"1,90m",right,"Aug 17, 2023",Torino FC,€20.00m,,"Joined from Torino FC; date: Aug 17, 2023; fee: €10.00m",€20.00m
+1222,543382,Mohamed Camara,Defensive Midfield,"Jan 6, 2000",24,Mali,,"1,73m",right,"Aug 14, 2022",Red Bull Salzburg,€25.00m,Knee injury - Return unknown,,€25.00m
+1223,334526,Denis Zakaria,Defensive Midfield,"Nov 20, 1996",27,Switzerland,,"1,90m",right,"Aug 14, 2023",Juventus FC,€25.00m,,"Joined from Juventus FC; date: Aug 14, 2023; fee: €20.00m",€25.00m
+1224,569598,Youssouf Fofana,Central Midfield,"Jan 10, 1999",25,France,,"1,85m",right,"Jan 29, 2020",RC Strasbourg Alsace,€28.00m,,,€28.00m
+1225,745178,Edan Diop,Central Midfield,"Aug 28, 2004",19,France,,"1,73m",right,"Jul 1, 2023",AS Monaco U21,€2.00m,,"Internal transfer: AS Monaco U21; date: Jul 1, 2023",€2.00m
+1226,263918,Aleksandr Golovin,Attacking Midfield,"May 30, 1996",27,Russia,,"1,78m",right,"Jul 27, 2018",CSKA Moscow,€30.00m,,,€30.00m
+1227,810895,Eliesse Ben Seghir,Attacking Midfield,"Feb 16, 2005",19,Morocco,,"1,78m",right,"Jan 1, 2023",AS Monaco U21,€15.00m,,,€15.00m
+1228,745200,Maghnes Akliouche,Attacking Midfield,"Feb 25, 2002",22,France,,"1,83m",left,"Jul 1, 2022",AS Monaco U21,€15.00m,,,€15.00m
+1229,165793,Takumi Minamino,Left Winger,"Jan 16, 1995",29,Japan,,"1,72m",right,"Jul 1, 2022",Liverpool FC,€15.00m,,,€15.00m
+1230,490426,Krépin Diatta,Right Winger,"Feb 25, 1999",25,Senegal,,"1,75m",right,"Jan 21, 2021",Club Brugge KV,€12.00m,,,€12.00m
+1231,503770,Folarin Balogun,Centre-Forward,"Jul 3, 2001",22,United States,,"1,78m",right,"Aug 30, 2023",Arsenal FC,€30.00m,,"Joined from Arsenal FC; date: Aug 30, 2023; fee: €30.00m",€30.00m
+1232,237662,Breel Embolo,Centre-Forward,"Feb 14, 1997",27,Switzerland,,"1,87m",right,"Jul 15, 2022",Borussia Mönchengladbach,€12.00m,,,€12.00m
+1233,146854,Wissam Ben Yedder,Centre-Forward,"Aug 12, 1990",33,France,,"1,70m",both,"Aug 14, 2019",Sevilla FC,€10.00m,Team captain,,€10.00m
+1234,193142,Mathieu Michel,Goalkeeper,"Sep 4, 1991",32,France,,"1,88m",right,"Jul 1, 2023",Chamois Niortais FC,€400k,,"Joined from Chamois Niortais FC; date: Jul 1, 2023; fee: free transfer",€400k
+1235,331977,François-Joseph Sollacaro,Goalkeeper,"Mar 21, 1994",30,France,,"1,82m",right,"Jul 1, 2018",AC Ajaccio B,€300k,,,€300k
+1236,569388,Clément Vidal,Centre-Back,"Jun 18, 2000",23,France,,"1,81m",right,"Jul 1, 2022",Montpellier HSC,€1.00m,,,€1.00m
+1237,44421,Cédric Avinel,Centre-Back,"Sep 11, 1986",37,Guadeloupe,,"1,87m",right,"Jul 1, 2017",Clermont Foot 63,€250k,,,€250k
+1238,862972,Josué Escartin,Centre-Back,"Mar 21, 2003",21,France,,"1,94m",right,"Jan 4, 2024",Stade Brestois 29,€150k,,"On loan from Stade Brestois 29 until Jun 30, 2024",€150k
+1239,550572,Stephen Quemper,Left-Back,"May 12, 1993",30,France,,"1,78m",left,"Jul 21, 2023",EA Guingamp,€500k,,"Joined from EA Guingamp; date: Jul 21, 2023; fee: ?",€500k
+1240,57482,Mohamed Youssouf,Right-Back,"Mar 26, 1988",36,Comoros,,"1,69m",right,"Jul 1, 2018",APO Levadiakos,€200k,,,€200k
+1241,988213,Salomon Abergel,Right-Back,"Jul 4, 2004",19,France,,"1,70m",right,"Jul 5, 2023",,€200k,,,€200k
+1242,449223,Thibault Campanini,Right-Back,"Jul 27, 1998",25,France,,"1,79m",right,"May 15, 2023",AC Ajaccio B,€100k,Knee injury - Return unknown,"Internal transfer: AC Ajaccio B; date: Jul 5, 2023",€100k
+1243,1004681,Tony Strata,Right-Back,"Sep 7, 2004",19,Romania,,"1,77m",right,"Jul 1, 2023",AC Ajaccio U19,€100k,,,€100k
+1244,989826,Mehdi Puch-Herrantz,Defensive Midfield,"Jan 20, 2004",20,Algeria,,"1,75m",,"Jul 1, 2023",AC Ajaccio B,€250k,Injury to the ankle - Return unknown,"Internal transfer: AC Ajaccio B; date: Jul 1, 2023",€250k
+1245,674241,Tim Jabol-Folcarelli,Central Midfield,"Dec 6, 1999",24,France,,"1,87m",right,"Jul 1, 2022",Le Puy Foot 43 Auvergne,€2.00m,,"Joined from Le Puy Foot 43 Auvergne; date: Jul 1, 2023; fee: free transfer",€2.00m
+1246,18934,Thomas Mangani,Central Midfield,"Apr 29, 1987",36,France,,"1,83m",left,"Aug 3, 2023",Angers SCO,€300k,,,€300k
+1247,353932,Julien Benhaim,Left Midfield,"Oct 25, 1996",27,France,,"1,75m",left,"Jan 25, 2024",Stade Briochin,€300k,Heel injury - Return unknown,"Joined from Stade Briochin; date: Aug 3, 2023; fee: free transfer",€300k
+1248,263951,Hamza Sakhi,Attacking Midfield,"Jun 7, 1996",27,Morocco,,"1,76m",right,"Jul 4, 2023",Melbourne City FC,€1.50m,,"Joined as a winter arrival from: Melbourne City FC; date: Jan 25, 2024; fee: free transfer",€1.50m
+1249,284526,Valentin Jacob,Attacking Midfield,"Jun 15, 1994",29,France,,"1,71m",both,"Jul 1, 2020",Dijon FCO,€500k,unknown injury - Return unknown,"Joined from Dijon FCO; date: Jul 4, 2023; fee: ?",€500k
+1250,149518,Michaël Barreto,Attacking Midfield,"Jan 18, 1991",33,France,,"1,75m",right,"Jul 1, 2023",AJ Auxerre,€300k,,,€300k
+1251,919236,Everson Junior,Attacking Midfield,"Nov 7, 2003",20,France,,"1,78m",right,"Jan 15, 2021",AC Ajaccio B,€100k,,"Internal transfer: AC Ajaccio B; date: Jul 1, 2023",€100k
+1252,267147,Cyrille Bayala,Right Winger,"May 24, 1996",27,Burkina Faso,,"1,81m",right,"Sep 7, 2020",RC Lens,€800k,,,€800k
+1253,119104,Riad Nouri,Right Winger,"Jun 7, 1985",38,France,,"1,78m",right,"Jan 19, 2024",Ümraniyespor,€200k,,,€200k
+1254,303410,Christopher Ibayi,Centre-Forward,"Jul 18, 1995",28,Congo,,"1,87m",right,"Jul 1, 2023",FC Rouen 1899,€600k,,"Joined as a winter arrival from: FC Rouen 1899; date: Jan 19, 2024; fee: €100k",€600k
+1255,989824,Ben Hamed Touré,Centre-Forward,"Aug 21, 2003",20,Cote d'Ivoire,,"1,85m",,"Jan 1, 2023",AC Ajaccio B,€500k,,"Internal transfer: AC Ajaccio B; date: Jul 1, 2023",€500k
+1256,1053240,Moussa Soumano,Centre-Forward,"Jul 9, 2005",18,France,,"1,85m",,"Jan 15, 2024",AC Ajaccio B,€500k,,,€500k
+1257,692440,Al Hassan Touré,Centre-Forward,"May 30, 2000",23,Australia,,"1,85m",right,"Aug 24, 2022",Eyüpspor,€350k,Calf injury - Return unknown,"Joined as a winter arrival from: Eyüpspor; date: Jan 15, 2024; fee: free transfer",€350k
+1258,463600,Lucas Chevalier,Goalkeeper,"Nov 6, 2001",22,France,,"1,89m",right,"Jul 1, 2020",LOSC Lille B,€22.00m,,,€22.00m
+1259,33781,Vito Mannone,Goalkeeper,"Mar 2, 1988",36,Italy,,"1,89m",right,"Aug 29, 2023",FC Lorient,€250k,,"Joined from FC Lorient; date: Aug 29, 2023; fee: €200k",€250k
+1260,258267,Adam Jakubech,Goalkeeper,"Jan 2, 1997",27,Slovakia,,"1,88m",right,"Jul 26, 2017",Spartak Trnava,€250k,,,€250k
+1261,923831,Leny Yoro,Centre-Back,"Nov 13, 2005",18,France,,"1,90m",right,"Jul 1, 2022",LOSC Lille B,€40.00m,,,€40.00m
+1262,648020,Alexsandro,Centre-Back,"Aug 9, 1999",24,Brazil,,"1,89m",right,"Jul 1, 2022",GD Chaves,€7.00m,,,€7.00m
+1263,126540,Samuel Umtiti,Centre-Back,"Nov 14, 1993",30,France,,"1,82m",left,"Jul 22, 2023",FC Barcelona,€3.00m,Knee surgery - Return unknown,"Joined from FC Barcelona; date: Jul 22, 2023; fee: free transfer",€3.00m
+1264,744074,Rafael Fernandes,Centre-Back,"Jun 28, 2002",21,Portugal,,"1,91m",right,"Jan 31, 2024",FC Arouca,€1.50m,,"Joined as a winter arrival from: FC Arouca; date: Jan 31, 2024; fee: €2.50m",€1.50m
+1265,362108,Gabriel Gudmundsson,Left-Back,"Apr 29, 1999",24,Sweden,,"1,80m",left,"Aug 31, 2021",: Ablöse €6.00m,€4.00m,,,€4.00m
+1266,124028,Ismaily,Left-Back,"Jan 11, 1990",34,Brazil,,"1,77m",left,"Aug 4, 2022",Shakhtar Donetsk,€2.00m,,,€2.00m
+1267,463605,Bafodé Diakité,Right-Back,"Jan 6, 2001",23,France,,"1,85m",right,"Aug 5, 2022",FC Toulouse,€15.00m,,,€15.00m
+1268,816580,Tiago Santos,Right-Back,"Jul 23, 2002",21,Portugal,,"1,75m",right,"Jul 5, 2023",GD Estoril Praia,€8.00m,,"Joined from GD Estoril Praia; date: Jul 5, 2023; fee: €6.50m",€8.00m
+1269,245537,Nabil Bentaleb,Defensive Midfield,"Nov 24, 1994",29,Algeria,,"1,87m",left,"Aug 28, 2023",Angers SCO,€8.00m,,"Joined from Angers SCO; date: Aug 28, 2023; fee: €4.50m",€8.00m
+1270,84301,Benjamin André,Defensive Midfield,"Aug 3, 1990",33,France,,"1,80m",right,"Jul 17, 2019",Stade Rennais FC,€8.00m,,,€8.00m
+1271,836518,Ignacio Miramón,Defensive Midfield,"Jun 12, 2003",20,Argentina,,"1,73m",right,"Aug 10, 2023",Club de Gimnasia y Esgrima La Plata,€3.00m,,"Joined from Club de Gimnasia y Esgrima La Plata; date: Aug 10, 2023; fee: €4.00m",€3.00m
+1272,1097139,Ayyoub Bouaddi,Central Midfield,"Oct 2, 2007",16,France,,"1,85m",right,"Jul 1, 2023",LOSC Lille U19,€5.00m,,"Internal transfer: LOSC Lille U19; date: Jul 1, 2023",€5.00m
+1273,392770,Angel Gomes,Attacking Midfield,"Aug 31, 2000",23,England,,"1,68m",right,"Aug 9, 2020",Manchester United,€22.00m,"Hamstring injury - Return expected on Apr 18, 2024",,€22.00m
+1274,386726,Yusuf Yazıcı,Attacking Midfield,"Jan 29, 1997",27,Türkiye,,"1,84m",left,"Aug 6, 2019",Trabzonspor,€10.00m,,"Returned after loan spell with Trabzonspor; date: Jun 30, 2023; fee: End of loan",€10.00m
+1275,113707,Rémy Cabella,Attacking Midfield,"Mar 8, 1990",34,France,,"1,72m",right,"Jul 10, 2022",Montpellier HSC,€4.00m,,,€4.00m
+1276,652275,Hákon Arnar Haraldsson,Left Winger,"Apr 10, 2003",20,Iceland,,"1,80m",right,"Jul 17, 2023",FC Copenhagen,€8.00m,,"Joined from FC Copenhagen; date: Jul 17, 2023; fee: €15.00m",€8.00m
+1277,815652,Tiago Morais,Left Winger,"Sep 3, 2003",20,Portugal,,"1,68m",right,"Jan 30, 2024",Boavista FC,€3.00m,,"Joined as a winter arrival from: Boavista FC; date: Jan 30, 2024; fee: €3.00m",€3.00m
+1278,149716,Ivan Cavaleiro,Left Winger,"Oct 18, 1993",30,Angola,,"1,75m",right,"Aug 10, 2023",Fulham FC,€2.50m,,"Joined from Fulham FC; date: Aug 10, 2023; fee: free transfer",€2.50m
+1279,496857,Edon Zhegrova,Right Winger,"Mar 31, 1999",25,Kosovo,,"1,81m",left,"Jan 14, 2022",FC Basel 1893,€15.00m,,,€15.00m
+1280,400485,Adam Ounas,Right Winger,"Nov 11, 1996",27,Algeria,,"1,72m",left,"Sep 1, 2022",SSC Napoli,€5.00m,,,€5.00m
+1281,533738,Jonathan David,Centre-Forward,"Jan 14, 2000",24,Canada,,"1,80m",both,"Aug 11, 2020",KAA Gent,€50.00m,,,€50.00m
+1282,583699,Andrej Ilic,Centre-Forward,"Apr 3, 2000",24,Serbia,,"1,89m",right,"Feb 1, 2024",Vålerenga Fotball Elite,€3.00m,"Broken fibula - Return expected on Apr 7, 2024","Joined as a winter arrival from: Vålerenga Fotball Elite; date: Feb 1, 2024; fee: €3.75m",€3.00m
+1283,315858,Gianluigi Donnarumma,Goalkeeper,"Feb 25, 1999",25,Italy,,"1,96m",right,"Jul 14, 2021",AC Milan,€40.00m,,,€40.00m
+1284,466783,Arnau Tenas,Goalkeeper,"May 30, 2001",22,Spain,,"1,85m",right,"Jul 30, 2023",FC Barcelona Atlètic,€5.00m,,"Joined from FC Barcelona Atlètic; date: Jul 30, 2023; fee: free transfer",€5.00m
+1285,79422,Keylor Navas,Goalkeeper,"Dec 15, 1986",37,Costa Rica,,"1,85m",right,"Sep 2, 2019",Real Madrid,€2.00m,,"Returned after loan spell with Nottingham Forest; date: Jun 30, 2023; fee: End of loan",€2.00m
+1286,207302,Sergio Rico,Goalkeeper,"Sep 1, 1993",30,Spain,,"1,96m",right,"Sep 5, 2020",Sevilla FC,€2.00m,Fitness - Return unknown,,€2.00m
+1287,93730,Alexandre Letellier,Goalkeeper,"Dec 11, 1990",33,France,,"1,93m",right,"Sep 25, 2020",US Orléans,€300k,,,€300k
+1288,181767,Marquinhos,Centre-Back,"May 14, 1994",29,Brazil,,"1,83m",right,"Jul 19, 2013",: Ablöse €31.40m,€55.00m,Team captain; Achilles tendon contusion - Return unknown,,€55.00m
+1289,204069,Milan Skriniar,Centre-Back,"Feb 11, 1995",29,Slovakia,,"1,88m",right,"Jul 6, 2023",Inter Milan,€40.00m,,"Joined from Inter Milan; date: Jul 6, 2023; fee: free transfer",€40.00m
+1290,872171,Lucas Beraldo,Centre-Back,"Nov 24, 2003",20,Brazil,,"1,82m",left,"Jan 1, 2024",São Paulo Futebol Clube,€20.00m,,"Joined as a winter arrival from: São Paulo Futebol Clube; date: Jan 1, 2024; fee: €20.00m",€20.00m
+1291,282041,Presnel Kimpembe,Centre-Back,"Aug 13, 1995",28,France,,"1,83m",left,"Jul 1, 2015",Paris Saint-Germain B,€15.00m,Achilles tendon rupture - Return unknown,,€15.00m
+1292,616341,Nuno Mendes,Left-Back,"Jun 19, 2002",21,Portugal,,"1,83m",left,"Jul 1, 2022",Sporting CP,€60.00m,,,€60.00m
+1293,281963,Lucas Hernández,Left-Back,"Feb 14, 1996",28,France,,"1,84m",left,"Jul 9, 2023",Bayern Munich,€45.00m,,"Joined from Bayern Munich; date: Jul 9, 2023; fee: €45.00m",€45.00m
+1294,126710,Layvin Kurzawa,Left-Back,"Sep 4, 1992",31,France,,"1,82m",left,"Aug 27, 2015",AS Monaco,€2.50m,,"Returned after loan spell with Fulham FC; date: Jun 30, 2023; fee: End of loan",€2.50m
+1295,398073,Achraf Hakimi,Right-Back,"Nov 4, 1998",25,Morocco,,"1,81m",right,"Jul 6, 2021",Inter Milan,€65.00m,,,€65.00m
+1296,348026,Nordi Mukiele,Right-Back,"Nov 1, 1997",26,France,,"1,87m",right,"Jul 26, 2022",RB Leipzig,€10.00m,,,€10.00m
+1297,476701,Manuel Ugarte,Defensive Midfield,"Apr 11, 2001",22,Uruguay,,"1,82m",right,"Jul 7, 2023",Sporting CP,€60.00m,,"Joined from Sporting CP; date: Jul 7, 2023; fee: €60.00m",€60.00m
+1298,141050,Danilo Pereira,Defensive Midfield,"Sep 9, 1991",32,Portugal,,"1,88m",right,"Jul 1, 2021",FC Porto,€9.00m,,,€9.00m
+1299,810092,Warren Zaïre-Emery,Central Midfield,"Mar 8, 2006",18,France,,"1,78m",right,"Jul 1, 2022",Paris Saint-Germain U19,€60.00m,,,€60.00m
+1300,487469,Vitinha,Central Midfield,"Feb 13, 2000",24,Portugal,,"1,72m",right,"Jul 1, 2022",FC Porto,€45.00m,,,€45.00m
+1301,350219,Fabián Ruiz,Central Midfield,"Apr 3, 1996",28,Spain,,"1,89m",left,"Aug 30, 2022",SSC Napoli,€30.00m,,,€30.00m
+1302,372246,Carlos Soler,Central Midfield,"Jan 2, 1997",27,Spain,,"1,80m",right,"Sep 1, 2022",Valencia CF,€20.00m,,,€20.00m
+1303,903666,Ethan Mbappé,Central Midfield,"Dec 29, 2006",17,France,,"1,76m",left,"Jul 8, 2023",,€500k,,,€500k
+1304,557149,Kang-in Lee,Attacking Midfield,"Feb 19, 2001",23,"Korea, South",,"1,73m",left,"Aug 31, 2023",RCD Mallorca,€22.00m,,"Joined from RCD Mallorca; date: Jul 8, 2023; fee: €22.00m",€22.00m
+1305,903693,Senny Mayulu,Attacking Midfield,"May 17, 2006",17,France,,"1,83m",both,"Aug 12, 2023",,€1.00m,,,€1.00m
+1306,708265,Bradley Barcola,Left Winger,"Sep 2, 2002",21,France,,"1,82m",right,"Jul 6, 2023",Olympique Lyon,€40.00m,unknown injury - Return unknown,"Joined from Olympique Lyon; date: Aug 31, 2023; fee: €45.00m",€40.00m
+1307,288230,Ousmane Dembélé,Right Winger,"May 15, 1997",26,France,,"1,78m",both,"Jul 1, 2018",FC Barcelona,€60.00m,,"Joined from FC Barcelona; date: Aug 12, 2023; fee: €50.00m",€60.00m
+1308,296622,Marco Asensio,Right Winger,"Jan 21, 1996",28,Spain,,"1,82m",left,"Sep 1, 2023",Real Madrid,€20.00m,Muscle injury - Return unknown,"Joined from Real Madrid; date: Jul 6, 2023; fee: free transfer",€20.00m
+1309,342229,Kylian Mbappé,Centre-Forward,"Dec 20, 1998",25,France,,"1,78m",right,"Jan 1, 2024",AS Monaco,€180.00m,,,€180.00m
