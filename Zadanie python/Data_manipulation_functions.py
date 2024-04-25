@@ -3,6 +3,14 @@ import numpy as np
 import os 
 from pathlib import Path
 import re
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.cluster import KMeans
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+
 
 
 def join_tables(tables_list):
@@ -191,7 +199,9 @@ def delete_strings_cash(row):
             row= row.replace('k', '')
             row= row.replace('€', '')
             row = float(row)*1e3
-            return row
+        elif row.startswith('€'):
+            row =row.replace('€', '')
+            return float(row)
 
     return row
 
@@ -229,6 +239,23 @@ def delete_strings_season(row):
         return row
     return row
 
+def positions_clusters(row):
+    # Check if the string contains 'Back'
+    if 'Back' in row:
+        return 'Defender'
+    # Check if the string contains 'Midfield'
+    elif 'Midfield' in row:
+        return 'Midfielder'
+    # Check if the string contains 'Winger'
+    elif 'Winger' in row:
+        return 'Winger'
+    # Check if the string contains 'Striker' or 'Forward'
+    elif 'Striker' in row or 'Forward' in row:
+        return 'Forward'
+    else:
+        return 'Goalkeeper'
+
+    
 def grouping(df):
     """
     Filters and aggregates a DataFrame based on specified criteria and groupings.
@@ -243,6 +270,7 @@ def grouping(df):
     """
     df = df.loc[df['seasonID'] <= df['season'].astype('float')].sort_values(by=['id', 'season']).reset_index(drop=True)
     df = df.drop(columns=['season', 'seasonID', 'clubID', 'competitionID'])
+    df= df.drop_duplicates()
     df = df.groupby(['id', 'from', 'to','Competitions', 'transferDate', 'marketValue', 'fee',
                      'position', 'dateOfBirth', 'age', 'nationality', 'currentClub',
                      'height', 'foot', 'competitionName']).sum(['appearances', 'yellowCards', 'goalsConceded',
@@ -252,7 +280,18 @@ def grouping(df):
 
 
 
+def changing_type(df):
+    for column in df.columns:
+        if df[column].dtype == 'object':
+            df[column] = df[column].astype('category')
+        elif df[column].dtype == 'float64':
+            # Convert float64 to 'Int64' (pandas' nullable integer type) to handle possible NaN values gracefully
+            df[column] = df[column].astype('int')
     return df
+
+
+
+
 
 
 def data_cleansing(df):
@@ -276,14 +315,38 @@ def data_cleansing(df):
     df['transferDate'] = df['transferDate'].apply(delete_strings_date)
     df['dateOfBirth'] = df['dateOfBirth'].apply(delete_strings_date)
     df['season'] = df['season'].apply(delete_strings_season)
-    df.loc[~df['competitionName'].isin(['Premier League', 'Serie A', 'La Liga', 'Ligue 1', 'Bundesliga', 'Champions League', 'Europa League', 'Conference League']), 'competitionName'] = 'Other'
+    df.loc[~df['competitionName'].isin(['Premier League', 'Serie A', 'LaLiga', 'Ligue 1', 'Bundesliga', 'Champions League', 'Europa League', 'Conference League']), 'competitionName'] = 'Other'
     df = df.loc[df.fee.notna()]
     df = grouping(df)
     df = df.fillna(0)
     df['ageTransfer'] = df['transferDate'] - df['dateOfBirth']
-    df= df.drop(columns= ['id', 'from', 'to', 'dateOfBirth', 'age', 'currentClub'] )
+    df= df.drop(columns= ['from', 'to', 'dateOfBirth', 'age', 'currentClub'] )
+    df['position']= df['position'].apply(positions_clusters)
+    df['above_market']= 0
+    df.loc[df['fee']>df['marketValue'],'above_market']= 1
+    df['fee']= df['fee']/1000000
+    df['marketValue']= df['marketValue']/1000000
+    df= changing_type(df)
 
     return df
+
+
+def splitting_datasets_class (df):
+  label_encoder = LabelEncoder()
+
+  for column in df.columns:
+      if df[column].dtype == 'category':
+          df[column]= label_encoder.fit_transform(df[column])
+  X = df.drop( ['fee','above_market','id','cluster'], axis=1)
+  y = df['above_market']
+  X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
+
+  return X_train, X_test, y_train, y_test
+
+def scalling_datasets (df):
+  scaler = StandardScaler()
+  df = scaler.fit_transform(df)
+  return df
 
 
         
