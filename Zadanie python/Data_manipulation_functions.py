@@ -348,6 +348,20 @@ def scalling_datasets (df):
   df = scaler.fit_transform(df)
   return df
 
+def creating_clusters (df):
+  X = df[['marketValue']]
+  kmeans = KMeans(n_clusters=5, random_state=42).fit(X)
+  df['cluster'] = kmeans.labels_
+  cluster_means = df.groupby('cluster')['marketValue'].mean().sort_values(ascending=False)
+  new_labels = {old_label: new_label for new_label, old_label in enumerate(cluster_means.index)}
+  df['new_cluster'] = df['cluster'].map(new_labels)
+  new_labels = {old_label: new_label for new_label, old_label in enumerate(cluster_means.index)}
+  df['new_cluster'] = df['cluster'].map(new_labels)
+  df=df.drop('cluster', axis=1)
+  df= df.rename ({'new_cluster':'cluster'}, axis= 1)
+
+  return df
+
 
         
 
