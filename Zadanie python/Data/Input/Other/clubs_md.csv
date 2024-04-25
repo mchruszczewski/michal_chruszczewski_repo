@@ -1,0 +1,112 @@
+,id,name,Competitions
+0,281,Manchester City,GB1
+1,11,Arsenal FC,GB1
+2,631,Chelsea FC,GB1
+3,985,Manchester United,GB1
+4,31,Liverpool FC,GB1
+5,148,Tottenham Hotspur,GB1
+6,762,Newcastle United,GB1
+7,1237,Brighton & Hove Albion,GB1
+8,405,Aston Villa,GB1
+9,543,Wolverhampton Wanderers,GB1
+10,1003,Leicester City,GB1
+11,379,West Ham United,GB1
+12,180,Southampton FC,GB1
+13,29,Everton FC,GB1
+14,703,Nottingham Forest,GB1
+15,1148,Brentford FC,GB1
+16,399,Leeds United,GB1
+17,873,Crystal Palace,GB1
+18,931,Fulham FC,GB1
+19,989,AFC Bournemouth,GB1
+20,1132,Burnley FC,GB1
+21,350,Sheffield United,GB1
+22,1031,Luton Town,GB1
+0,27,Bayern Munich,L1
+1,16,Borussia Dortmund,L1
+2,23826,RB Leipzig,L1
+3,15,Bayer 04 Leverkusen,L1
+4,24,Eintracht Frankfurt,L1
+5,18,Borussia Mönchengladbach,L1
+6,82,VfL Wolfsburg,L1
+7,60,SC Freiburg,L1
+8,533,TSG 1899 Hoffenheim,L1
+9,89,1.FC Union Berlin,L1
+10,79,VfB Stuttgart,L1
+11,39,1.FSV Mainz 05,L1
+12,167,FC Augsburg,L1
+13,3,1.FC Köln,L1
+14,44,Hertha BSC,L1
+15,86,SV Werder Bremen,L1
+16,33,FC Schalke 04,L1
+17,80,VfL Bochum,L1
+18,2036,1.FC Heidenheim 1846,L1
+19,105,SV Darmstadt 98,L1
+0,6195,SSC Napoli,IT1
+1,46,Inter Milan,IT1
+2,5,AC Milan,IT1
+3,506,Juventus FC,IT1
+4,12,AS Roma,IT1
+5,800,Atalanta BC,IT1
+6,398,SS Lazio,IT1
+7,430,ACF Fiorentina,IT1
+8,6574,US Sassuolo,IT1
+9,416,Torino FC,IT1
+10,410,Udinese Calcio,IT1
+11,1025,Bologna FC 1909,IT1
+12,2919,AC Monza,IT1
+13,749,FC Empoli,IT1
+14,276,Hellas Verona,IT1
+15,380,US Salernitana 1919,IT1
+16,3522,Spezia Calcio,IT1
+17,1005,US Lecce,IT1
+18,2239,US Cremonese,IT1
+19,1038,UC Sampdoria,IT1
+20,252,Genoa CFC,IT1
+21,8970,Frosinone Calcio,IT1
+22,1390,Cagliari Calcio,IT1
+0,583,Paris Saint-Germain,FR1
+1,273,Stade Rennais FC,FR1
+2,162,AS Monaco,FR1
+3,1041,Olympique Lyon,FR1
+4,244,Olympique Marseille,FR1
+5,417,OGC Nice,FR1
+6,1082,LOSC Lille,FR1
+7,826,RC Lens,FR1
+8,1158,FC Lorient,FR1
+9,1421,Stade Reims,FR1
+10,969,Montpellier HSC,FR1
+11,667,RC Strasbourg Alsace,FR1
+12,995,FC Nantes,FR1
+13,415,FC Toulouse,FR1
+14,3911,Stade Brestois 29,FR1
+15,1095,ESTAC Troyes,FR1
+16,1420,Angers SCO,FR1
+17,290,AJ Auxerre,FR1
+18,3524,Clermont Foot 63,FR1
+19,1147,AC Ajaccio,FR1
+20,738,Le Havre AC,FR1
+21,347,FC Metz,FR1
+0,418,Real Madrid,ES1
+1,131,FC Barcelona,ES1
+2,13,Atlético de Madrid,ES1
+3,681,Real Sociedad,ES1
+4,1050,Villarreal CF,ES1
+5,1049,Valencia CF,ES1
+6,150,Real Betis Balompié,ES1
+7,368,Sevilla FC,ES1
+8,621,Athletic Bilbao,ES1
+9,331,CA Osasuna,ES1
+10,12321,Girona FC,ES1
+11,940,Celta de Vigo,ES1
+12,3709,Getafe CF,ES1
+13,714,RCD Espanyol Barcelona,ES1
+14,3302,UD Almería,ES1
+15,237,RCD Mallorca,ES1
+16,367,Rayo Vallecano,ES1
+17,366,Real Valladolid CF,ES1
+18,1531,Elche CF,ES1
+19,2687,Cádiz CF,ES1
+20,1108,Deportivo Alavés,ES1
+21,472,UD Las Palmas,ES1
+22,16795,Granada CF,ES1

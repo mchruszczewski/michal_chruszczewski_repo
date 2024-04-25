@@ -44,7 +44,10 @@ class Clubs():
                 url_competitions = self.url + 'competitions/' + self.comp_id + '/clubs/' + '?season_id=' + season
                 response = requests.get(url_competitions)
                 data = response.json()
-                data = data['clubs']
+                competitions_id= data['id']
+                data= data['clubs']
+                for club in data:
+                    club.update({'Competitions': competitions_id})
                 # Aggregate club data, initializing with the first season's data.
                 if i == int(self.season_id_start):
                     club_dict = data
@@ -70,7 +73,7 @@ class Clubs():
         self.logger.info('List of clubs ids created')
         return clubs_ids
 
-    def club_names(self):
+    def club_dataframe(self):
         """
         Creates a DataFrame with unique club names and IDs from the competition data.
 
