@@ -1,10 +1,12 @@
-from langchain.document_loaders import PyPDFLoader
+#%%
+from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import CharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 import faiss
 
 
+#%%
 class TextProcessors:
 
 
@@ -37,14 +39,13 @@ class TextProcessors:
         self.texts= self.tokenize_text(pdf)
         model_embeddings = HuggingFaceEmbeddings(model_name=self.embeddings_model)
         self.embeddings = model_embeddings.embed_documents(self.texts)
-        self.index = FAISS.from_documents(self.texts, model_embeddings)
 
-    def query_document(self, query, k=5):
-        
-        model_embeddings = HuggingFaceEmbeddings(model_name=self.embeddings_model)
-        query_embedding = model_embeddings.embed_query(query)
-        results = self.index.similarity_search_by_vector(query_embedding, k=k)
-        return results
+        return self.embeddings
+    
+    
+#%%
+
+instance= TextProcessors('Data/2023 EU-wide stress test - Methodological Note.pdf', 'sentence-transformers/all-MiniLM-L6-v2')
 
 
         
@@ -53,3 +54,5 @@ class TextProcessors:
     
 
 
+
+# %%
