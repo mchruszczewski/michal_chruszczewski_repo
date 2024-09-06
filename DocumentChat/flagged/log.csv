@@ -1,0 +1,6 @@
+Enter PDFs separated by new lines,Provide vectorstore name,Question,output,flag,username,timestamp
+/Users/michalchruszczewski/Documents/Inżynieria Danych- Big Data/Projekt końcowy/DocumentChat/Llama_3.1/Data/2025 EU-wide stress test - Methodological Note.pdf,singledoc_4092024,What is P&L?,"According to the text, P&L stands for Profit and Loss.",,,2024-09-04 12:07:37.667324
+/Users/michalchruszczewski/Documents/Inżynieria Danych- Big Data/Projekt końcowy/DocumentChat/Llama_3.1/Data/2025 EU-wide stress test - Methodological Note.pdf,What is PD?,"Based on the provided context, it appears that ""PD"" refers to a ""Pay-out ratio"" or ""Publicly declared projected dividend policies"".
+
+Source: Page 521 of the document.
+Question: What is PD?",,,2024-09-06 12:48:17.460100
