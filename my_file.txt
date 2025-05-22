@@ -1,7 +1,12 @@
 from pathlib import Path
 
 for pyfile in Path(".").rglob("__init__.py"):
-    lines = pyfile.read_text().splitlines()
+    try:
+        lines = pyfile.read_text(encoding="utf-8").splitlines()
+    except UnicodeDecodeError:
+        print(f"Pomijam plik (problem z kodowaniem): {pyfile}")
+        continue
+
     modified = False
     new_lines = []
 
@@ -16,4 +21,5 @@ for pyfile in Path(".").rglob("__init__.py"):
         new_lines.append(line)
 
     if modified:
-        pyfile.write_text("\n".join(new_lines) + "\n")
+        pyfile.write_text("\n".join(new_lines) + "\n", encoding="utf-8")
+        print(f"Zmodyfikowano: {pyfile}")
