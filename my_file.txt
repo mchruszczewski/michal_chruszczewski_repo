@@ -1,11 +1,19 @@
-from typing import Literal
+from pathlib import Path
 
-PetType = Literal["cat", "dog", "bird"]
+for pyfile in Path(".").rglob("__init__.py"):
+    lines = pyfile.read_text().splitlines()
+    modified = False
+    new_lines = []
 
-class Pet:
-    __allowed = {"cat", "dog", "bird"}
+    for line in lines:
+        stripped = line.strip()
+        if (
+            (stripped.startswith("import ") or stripped.startswith("from "))
+            and "# noqa" not in stripped
+        ):
+            line += "  # noqa: F401"
+            modified = True
+        new_lines.append(line)
 
-    def __init__(self, kind: PetType):
-        if kind not in self.__allowed:
-            raise ValueError(f"Invalid kind: {kind}")
-        self.kind = kind
+    if modified:
+        pyfile.write_text("\n".join(new_lines) + "\n")
