@@ -1,3 +1,15 @@
 Testing the repository is a crucial part of the development workflow. It ensures that all modules function as expected and that new changes do not break existing functionality. Automated tests, such as unit and integration tests, help maintain code quality and stability. Before merging any changes, it’s important to run the test suite to catch potential bugs early. Consistent testing also supports collaboration by providing confidence in the codebase across the team.
 
-Testing the repository is a crucial part of the development workflow. It ensures that all modules function as expected and that new changes do not break existing functionality. Automated tests, such as unit and integration tests, help maintain code quality and stability. Before merging any changes, it’s important to run the test suite to catch potential bugs early. Consistent testing also supports collaboration by providing confidence in the codebase across the team.
+Unit Tests
+	•	Test individual functions or classes in isolation
+	•	Fast to run and easy to debug
+	•	Help catch bugs early in the development process
+	•	Mock dependencies to focus on specific logic
+	•	Typically written for critical components or edge cases
+
+🔗 Integration Tests
+	•	Test how multiple components work together
+	•	Validate interactions between modules, services, or databases
+	•	Slower and more complex than unit tests
+	•	Detect issues in data flow or interface mismatches
+	•	Useful for simulating real-world scenarios
