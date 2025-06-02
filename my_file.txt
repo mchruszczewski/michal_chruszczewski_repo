@@ -1,25 +1,3 @@
-from pathlib import Path
+Testing the repository is a crucial part of the development workflow. It ensures that all modules function as expected and that new changes do not break existing functionality. Automated tests, such as unit and integration tests, help maintain code quality and stability. Before merging any changes, it’s important to run the test suite to catch potential bugs early. Consistent testing also supports collaboration by providing confidence in the codebase across the team.
 
-for pyfile in Path(".").rglob("__init__.py"):
-    try:
-        lines = pyfile.read_text(encoding="utf-8").splitlines()
-    except UnicodeDecodeError:
-        print(f"Pomijam plik (problem z kodowaniem): {pyfile}")
-        continue
-
-    modified = False
-    new_lines = []
-
-    for line in lines:
-        stripped = line.strip()
-        if (
-            (stripped.startswith("import ") or stripped.startswith("from "))
-            and "# noqa" not in stripped
-        ):
-            line += "  # noqa: F401"
-            modified = True
-        new_lines.append(line)
-
-    if modified:
-        pyfile.write_text("\n".join(new_lines) + "\n", encoding="utf-8")
-        print(f"Zmodyfikowano: {pyfile}")
+Testing the repository is a crucial part of the development workflow. It ensures that all modules function as expected and that new changes do not break existing functionality. Automated tests, such as unit and integration tests, help maintain code quality and stability. Before merging any changes, it’s important to run the test suite to catch potential bugs early. Consistent testing also supports collaboration by providing confidence in the codebase across the team.
