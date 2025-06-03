@@ -1,1 +1,1 @@
-find . -name "*.py" -type f -exec grep -vE '^\s*($|#)' {} + | wc -l
+Get-ChildItem -Recurse -Filter *.py | Get-Content | Where-Object { $_.Trim() -ne "" -and -not ($_.Trim().StartsWith("#")) } | Measure-Object -Line
