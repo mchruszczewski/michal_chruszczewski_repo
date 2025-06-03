@@ -1,1 +1,10 @@
-Get-ChildItem -Recurse -Filter *.py | Get-Content | Where-Object { $_.Trim() -ne "" -and -not ($_.Trim().StartsWith("#")) } | Measure-Object -Line
+Cel testu
+Metoda
+Sprawdzić, czy zapisano plik z wykresem
+tmp_path + assert path.exists()
+Sprawdzić, czy wykres powstał
+test na fig i Axes
+Sprawdzić elementy na wykresie
+testy na bar.get_height()
+Sprawdzić tylko, czy funkcja plot() została użyta
+@patch() z unittest.mock
