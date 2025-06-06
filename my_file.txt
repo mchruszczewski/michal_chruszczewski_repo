@@ -1,47 +1,29 @@
 import os
-import ast
-import json
+import time
+from pathlib import Path
+import shutil
+from functools import wraps
 
-def extract_defs_from_source(source, tree):
-    result = {}
-    for node in ast.iter_child_nodes(tree):
-        if isinstance(node, (ast.FunctionDef, ast.AsyncFunctionDef, ast.ClassDef)):
-            body = ast.get_source_segment(source, node)
-            if body:
-                result[node.name] = body
-    return result
+def clear_cache_if_old(cache_dir, max_age_minutes=5):
+    def decorator(func):
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            now = time.time()
+            max_age = max_age_minutes * 60
+            path = Path(cache_dir)
 
-def nested_set(dic, keys, value):
-    """Ustawia zagnieżdżony słownik po liście kluczy"""
-    for key in keys[:-1]:
-        dic = dic.setdefault(key, {})
-    dic[keys[-1]] = value
+            if path.exists():
+                for item in path.iterdir():
+                    try:
+                        mtime = item.stat().st_mtime
+                        if now - mtime > max_age:
+                            if item.is_file() or item.is_symlink():
+                                item.unlink()
+                            elif item.is_dir():
+                                shutil.rmtree(item)
+                    except Exception as e:
+                        print(f"Nie udało się usunąć {item}: {e}")
 
-def process_repository_to_nested_json(root_dir, output_file_path):
-    structure = {}
-
-    root_dir = os.path.abspath(root_dir)
-    for dirpath, _, filenames in os.walk(root_dir):
-        rel_path = os.path.relpath(dirpath, root_dir).replace("\\", "/")
-        path_parts = [] if rel_path == "." else rel_path.split("/")
-        top_level_module = path_parts[0] if path_parts else None
-
-        for filename in filenames:
-            if not filename.endswith(".py"):
-                continue
-            if filename.startswith("test_") or filename.endswith("_test.py"):
-                continue
-
-            full_path = os.path.join(dirpath, filename)
-            try:
-                with open(full_path, encoding="utf-8") as fsrc:
-                    source = fsrc.read()
-                tree = ast.parse(source)
-                defs = extract_defs_from_source(source, tree)
-                if defs:
-                    nested_set(structure, path_parts + [filename], defs)
-            except Exception:
-                continue
-
-    with open(output_file_path, "w", encoding="utf-8") as f:
-        json.dump(structure, f, indent=2, ensure_ascii=False)
+            return func(*args, **kwargs)
+        return wrapper
+    return decorator
