@@ -17,12 +17,14 @@ def nested_set(dic, keys, value):
         dic = dic.setdefault(key, {})
     dic[keys[-1]] = value
 
-def process_repository_to_json(root_dir, output_file_path):
+def process_repository_to_nested_json(root_dir, output_file_path):
     structure = {}
 
+    root_dir = os.path.abspath(root_dir)
     for dirpath, _, filenames in os.walk(root_dir):
         rel_path = os.path.relpath(dirpath, root_dir).replace("\\", "/")
         path_parts = [] if rel_path == "." else rel_path.split("/")
+        top_level_module = path_parts[0] if path_parts else None
 
         for filename in filenames:
             if not filename.endswith(".py"):
@@ -39,7 +41,7 @@ def process_repository_to_json(root_dir, output_file_path):
                 if defs:
                     nested_set(structure, path_parts + [filename], defs)
             except Exception:
-                continue  # Pomijamy pliki z błędami parsowania itp.
+                continue
 
     with open(output_file_path, "w", encoding="utf-8") as f:
         json.dump(structure, f, indent=2, ensure_ascii=False)
