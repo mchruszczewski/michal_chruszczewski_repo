@@ -1,29 +1,32 @@
-import os
-import time
-from pathlib import Path
-import shutil
-from functools import wraps
+import pdfplumber
+import xml.etree.ElementTree as ET
 
-def clear_cache_if_old(cache_dir, max_age_minutes=5):
-    def decorator(func):
-        @wraps(func)
-        def wrapper(*args, **kwargs):
-            now = time.time()
-            max_age = max_age_minutes * 60
-            path = Path(cache_dir)
+pdf_path = 'przyklad.pdf'
+xml_path = 'wynik.xml'
 
-            if path.exists():
-                for item in path.iterdir():
-                    try:
-                        mtime = item.stat().st_mtime
-                        if now - mtime > max_age:
-                            if item.is_file() or item.is_symlink():
-                                item.unlink()
-                            elif item.is_dir():
-                                shutil.rmtree(item)
-                    except Exception as e:
-                        print(f"Nie udało się usunąć {item}: {e}")
+root = ET.Element('document')
 
-            return func(*args, **kwargs)
-        return wrapper
-    return decorator
+with pdfplumber.open(pdf_path) as pdf:
+    for page_num, page in enumerate(pdf.pages, start=1):
+        page_elem = ET.SubElement(root, 'page', attrib={'number': str(page_num)})
+
+        # Wyodrębnianie tekstu
+        text = page.extract_text()
+        if text:
+            text_elem = ET.SubElement(page_elem, 'text')
+            text_elem.text = text
+
+        # Wyodrębnianie tabel
+        tables = page.extract_tables()
+        for t_idx, table in enumerate(tables, start=1):
+            table_elem = ET.SubElement(page_elem, 'table', attrib={'number': str(t_idx)})
+            for row in table:
+                row_elem = ET.SubElement(table_elem, 'row')
+                for cell in row:
+                    cell_elem = ET.SubElement(row_elem, 'cell')
+                    cell_elem.text = cell if cell else ''
+
+tree = ET.ElementTree(root)
+tree.write(xml_path, encoding='utf-8', xml_declaration=True)
+
+print(f'Plik XML został zapisany jako: {xml_path}')
