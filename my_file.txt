@@ -1,32 +1,15 @@
-import pdfplumber
-import xml.etree.ElementTree as ET
+elif isinstance(func_def, dict):
+    for func_name, func_args in func_def.items():
+        if func_name not in self._custom_funcs:
+            raise ValueError(f"Nieznana funkcja: {func_name}")
+        
+        func = self._custom_funcs[func_name]
+        output_col = f"{col}_{func_name}"
 
-pdf_path = 'przyklad.pdf'
-xml_path = 'wynik.xml'
+        def agg_func(x, f=func, args=func_args):
+            call_args = {}
+            for k, v in args.items():
+                call_args[k] = self.df.loc[x.index, v] if self._is_column_reference(v) else v
+            return f(x, **call_args)
 
-root = ET.Element('document')
-
-with pdfplumber.open(pdf_path) as pdf:
-    for page_num, page in enumerate(pdf.pages, start=1):
-        page_elem = ET.SubElement(root, 'page', attrib={'number': str(page_num)})
-
-        # Wyodrębnianie tekstu
-        text = page.extract_text()
-        if text:
-            text_elem = ET.SubElement(page_elem, 'text')
-            text_elem.text = text
-
-        # Wyodrębnianie tabel
-        tables = page.extract_tables()
-        for t_idx, table in enumerate(tables, start=1):
-            table_elem = ET.SubElement(page_elem, 'table', attrib={'number': str(t_idx)})
-            for row in table:
-                row_elem = ET.SubElement(table_elem, 'row')
-                for cell in row:
-                    cell_elem = ET.SubElement(row_elem, 'cell')
-                    cell_elem.text = cell if cell else ''
-
-tree = ET.ElementTree(root)
-tree.write(xml_path, encoding='utf-8', xml_declaration=True)
-
-print(f'Plik XML został zapisany jako: {xml_path}')
+        agg_dict[output_col] = (col, agg_func)
