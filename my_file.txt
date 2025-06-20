@@ -1,15 +1,31 @@
-elif isinstance(func_def, dict):
-    for func_name, func_args in func_def.items():
-        if func_name not in self._custom_funcs:
-            raise ValueError(f"Nieznana funkcja: {func_name}")
-        
-        func = self._custom_funcs[func_name]
-        output_col = f"{col}_{func_name}"
+import inspect
 
-        def agg_func(x, f=func, args=func_args):
-            call_args = {}
-            for k, v in args.items():
-                call_args[k] = self.df.loc[x.index, v] if self._is_column_reference(v) else v
-            return f(x, **call_args)
+@classmethod
+def get_mrn_defined_agg_funcs(cls) -> dict:
+    """
+    Zwraca słownik funkcji agregujących zdefiniowanych w klasie,
+    które zaczynają się od 'calculate_'.
 
-        agg_dict[output_col] = (col, agg_func)
+    Każda funkcja jest opisana poprzez:
+    - docstring (jako 'doc')
+    - listę argumentów (jako 'args' w formacie 'a, b=0, ...')
+    """
+    funcs = {}
+
+    for name in dir(cls):
+        if not name.startswith("calculate_"):
+            continue
+
+        attr = getattr(cls, name)
+        if not callable(attr):
+            continue
+
+        sig = inspect.signature(attr)
+        arg_list = ", ".join(str(param) for param in sig.parameters.values())
+
+        funcs[name] = {
+            "doc": (attr.__doc__ or "").strip(),
+            "args": arg_list
+        }
+
+    return funcs
