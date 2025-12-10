@@ -1,18 +1,58 @@
-from openai import OpenAI
-from pdf2image import convert_from_path
+function getCSRFToken() {
+    return document.cookie.split('; ')
+        .find(row => row.startsWith('csrftoken='))
+        ?.split('=')[1];
+}
 
-client = OpenAI()
+$("#exportAllBtn").on("click", async function () {
+    const response = await fetch("/audit/api/export-all/", {
+        method: "GET",
+        headers: { "X-CSRFToken": getCSRFToken() }
+    });
 
-for img in convert_from_path("plik.pdf"):
-    img.save("tmp.jpg")
-    with open("tmp.jpg", "rb") as f:
-        r = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {"role": "user", "content": [
-                    {"type": "input_image", "image": f.read()},
-                    {"type": "text", "text": "Odczytaj tekst z obrazu."}
-                ]}
-            ]
-        )
-        print(r.choices[0].message.content)
+    if (!response.ok) {
+        console.error("Błąd pobierania CSV:", response.status);
+        return;
+    }
+
+    const blob = await response.blob();
+    const url = window.URL.createObjectURL(blob);
+
+    // Pobranie nazwy pliku jeśli backend ją zwraca
+    const cd = response.headers.get("Content-Disposition");
+    let filename = "export.csv";
+    if (cd && cd.indexOf("filename=") !== -1) {
+        filename = cd.split("filename=")[1].replace(/"/g, "");
+    }
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = filename;
+    a.click();
+
+    window.URL.revokeObjectURL(url);
+});
+
+$("#exportFilteredBtn").on("click", async function () {
+    const query = Object.entries(filters)
+        .filter(([_,v]) => v)
+        .map(([k,v]) => `${k}=${v}`)
+        .join("&");
+
+    const url = "/audit/api/export-filtered/?" + query;
+
+    const response = await fetch(url, {
+        method: "GET",
+        headers: { "X-CSRFToken": getCSRFToken() }
+    });
+
+    const blob = await response.blob();
+    const link = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = link;
+    a.download = "filtered_export.csv";
+    a.click();
+
+    URL.revokeObjectURL(link);
+});
