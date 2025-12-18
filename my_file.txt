@@ -1,5 +1,25 @@
-function getTimestamp() {
-    const d = new Date();
-    return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}_` +
-           `${String(d.getHours()).padStart(2,'0')}-${String(d.getMinutes()).padStart(2,'0')}-${String(d.getSeconds()).padStart(2,'0')}`;
-}
+from langchain.schema import Document
+
+def bq_retriever(query_embedding, k=5):
+    sql = """
+    SELECT content
+    FROM VECTOR_SEARCH(
+      TABLE dataset.embeddings,
+      'embedding',
+      @query_embedding,
+      top_k => @k,
+      distance_type => 'COSINE'
+    )
+    """
+    job = client.query(
+        sql,
+        job_config=bigquery.QueryJobConfig(
+            query_parameters=[
+                bigquery.ArrayQueryParameter(
+                    "query_embedding", "FLOAT64", query_embedding
+                ),
+                bigquery.ScalarQueryParameter("k", "INT64", k),
+            ]
+        ),
+    )
+    return [Document(page_content=row.content) for row in job]
