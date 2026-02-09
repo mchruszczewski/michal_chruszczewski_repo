@@ -1,25 +1,91 @@
-from langchain.schema import Document
+from __future__ import annotations
 
-def bq_retriever(query_embedding, k=5):
-    sql = """
-    SELECT content
-    FROM VECTOR_SEARCH(
-      TABLE dataset.embeddings,
-      'embedding',
-      @query_embedding,
-      top_k => @k,
-      distance_type => 'COSINE'
-    )
+from dataclasses import dataclass
+from typing import Any, Dict, List, Tuple
+
+import pdfplumber
+
+BBox = Tuple[float, float, float, float]  # (x0, top, x1, bottom)
+
+
+def _normalize_bbox(b: Dict[str, float]) -> BBox:
+    # pdfplumber uses x0, top, x1, bottom
+    return (float(b["x0"]), float(b["top"]), float(b["x1"]), float(b["bottom"]))
+
+
+def _bbox_intersects(a: BBox, b: BBox) -> bool:
+    ax0, at, ax1, ab = a
+    bx0, bt, bx1, bb = b
+    return not (ax1 <= bx0 or bx1 <= ax0 or ab <= bt or bb <= at)
+
+
+def _clip_out_regions(page: pdfplumber.page.Page, regions: List[BBox]) -> str:
     """
-    job = client.query(
-        sql,
-        job_config=bigquery.QueryJobConfig(
-            query_parameters=[
-                bigquery.ArrayQueryParameter(
-                    "query_embedding", "FLOAT64", query_embedding
-                ),
-                bigquery.ScalarQueryParameter("k", "INT64", k),
-            ]
-        ),
+    Extract page text excluding regions (tables) by masking them out:
+    - iterate words with positions
+    - keep only those that don't intersect any excluded bbox
+    - rebuild as text (simple line grouping)
+    """
+    words = page.extract_words(
+        keep_blank_chars=False,
+        use_text_flow=True,   # better reading order
+        extra_attrs=["x0", "top", "x1", "bottom"],
     )
-    return [Document(page_content=row.content) for row in job]
+
+    kept = []
+    for w in words:
+        wbox = (w["x0"], w["top"], w["x1"], w["bottom"])
+        if any(_bbox_intersects(wbox, r) for r in regions):
+            continue
+        kept.append(w)
+
+    # Rebuild text roughly by lines (top coordinate bucketing)
+    # You can tune "line_tol" if needed.
+    line_tol = 3.0
+    kept.sort(key=lambda x: (round(x["top"] / line_tol), x["x0"]))
+
+    lines: Dict[int, List[str]] = {}
+    for w in kept:
+        k = round(w["top"] / line_tol)
+        lines.setdefault(k, []).append(w["text"])
+
+    return "\n".join(" ".join(tokens) for _, tokens in sorted(lines.items()))
+
+
+def extract_text_and_tables(pdf_path: str) -> List[Dict[str, Any]]:
+    out: List[Dict[str, Any]] = []
+
+    with pdfplumber.open(pdf_path) as pdf:
+        for page_idx, page in enumerate(pdf.pages, start=1):
+            # 1) Find tables and their bboxes
+            # This uses pdfplumber's table finder; tune settings if needed.
+            tables = page.find_tables()
+            table_regions: List[BBox] = []
+            for t_idx, t in enumerate(tables, start=1):
+                bbox = _normalize_bbox(t.bbox)
+                table_regions.append(bbox)
+
+                data = t.extract()
+                out.append(
+                    {
+                        "type": "table",
+                        "page": page_idx,
+                        "table_id": f"{page_idx}_{t_idx}",
+                        "bbox": bbox,
+                        "rows": data,  # list[list[str|None]]
+                    }
+                )
+
+            # 2) Extract text excluding table bboxes
+            text = _clip_out_regions(page, table_regions).strip()
+            if text:
+                out.append(
+                    {
+                        "type": "text",
+                        "page": page_idx,
+                        "bbox_excluded": table_regions,
+                        "text": text,
+                    }
+                )
+
+    return out
