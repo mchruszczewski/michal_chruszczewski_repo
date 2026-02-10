@@ -9,7 +9,14 @@ BBox = Tuple[float, float, float, float]  # (x0, top, x1, bottom)
 def bbox_intersects(a: BBox, b: BBox) -> bool:
     ax0, at, ax1, ab = a
     bx0, bt, bx1, bb = b
-    return not (ax1 <= bx0 or bx1 <= ax0 or ab <= bt or bb <= at)
+    return not (ax1 <= bx0 or bx1 <= ax0 or ab <= bt or bb <= import re
+
+def fix_spaced_text(text: str) -> str:
+    # "M o d e l" -> "Model"
+    text = re.sub(r'(?<=\b[A-Za-z])\s+(?=[A-Za-z]\b)', '', text)
+    # ogarnij wielokrotne spacje
+    text = re.sub(r'\s{2,}', ' ', text)
+    return text.strip()
 
 
 def extract_text_excluding_regions(page: pdfplumber.page.Page, regions: List[BBox]) -> str:
