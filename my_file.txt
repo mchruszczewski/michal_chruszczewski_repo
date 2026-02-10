@@ -100,4 +100,57 @@ def pdf_to_contents(pdf_path: str) -> List[str]:
             if page_text:
                 contents.append(page_text)
 
-    return contents
+    return 
+
+
+from typing import List, Tuple
+import pdfplumber
+
+BBox = Tuple[float, float, float, float]  # (x0, top, x1, bottom)
+
+
+def subtract_bboxes(page_bbox: BBox, holes: List[BBox]) -> List[BBox]:
+    """
+    Split page_bbox into vertical strips excluding hole bboxes.
+    Works well when tables span page width (typical reports).
+    """
+    x0, top, x1, bottom = page_bbox
+
+    # sort holes top-down
+    holes = sorted(holes, key=lambda b: b[1])
+
+    regions: List[BBox] = []
+    cursor = top
+
+    for hx0, htop, hx1, hbottom in holes:
+        if htop > cursor:
+            regions.append((x0, cursor, x1, htop))
+        cursor = max(cursor, hbottom)
+
+    if cursor < bottom:
+        regions.append((x0, cursor, x1, bottom))
+
+    return regions
+
+
+def extract_text_with_extract_text(
+    page: pdfplumber.page.Page,
+    table_bboxes: List[BBox],
+) -> str:
+    page_bbox: BBox = (0, 0, page.width, page.height)
+
+    # opcjonalnie: powiększ bboxy tabel
+    pad = 2.0
+    holes = [
+        (x0 - pad, top - pad, x1 + pad, bottom + pad)
+        for x0, top, x1, bottom in table_bboxes
+    ]
+
+    text_parts = []
+    for region_bbox in subtract_bboxes(page_bbox, holes):
+        region = page.within_bbox(region_bbox)
+        txt = region.extract_text()
+        if txt:
+            text_parts.append(txt.strip())
+
+    return "\n".join(text_parts)
