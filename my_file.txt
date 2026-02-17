@@ -1,156 +1,67 @@
-from __future__ import annotations
-
-from typing import Any, List, Tuple, Dict
-import pdfplumber
-
-BBox = Tuple[float, float, float, float]  # (x0, top, x1, bottom)
-
-
-def bbox_intersects(a: BBox, b: BBox) -> bool:
-    ax0, at, ax1, ab = a
-    bx0, bt, bx1, bb = b
-    return not (ax1 <= bx0 or bx1 <= ax0 or ab <= bt or bb <= import re
-
-def fix_spaced_text(text: str) -> str:
-    # "M o d e l" -> "Model"
-    text = re.sub(r'(?<=\b[A-Za-z])\s+(?=[A-Za-z]\b)', '', text)
-    # ogarnij wielokrotne spacje
-    text = re.sub(r'\s{2,}', ' ', text)
-    return text.strip()
-
-
-def extract_text_excluding_regions(page: pdfplumber.page.Page, regions: List[BBox]) -> str:
-    words = page.extract_words(
-        keep_blank_chars=False,
-        use_text_flow=True,
-        extra_attrs=["x0", "top", "x1", "bottom"],
-    )
-
-    kept = []
-    for w in words:
-        wbox: BBox = (float(w["x0"]), float(w["top"]), float(w["x1"]), float(w["bottom"]))
-        if any(bbox_intersects(wbox, r) for r in regions):
-            continue
-        kept.append(w)
-
-    # rebuild lines
-    line_tol = 3.0
-    kept.sort(key=lambda x: (round(float(x["top"]) / line_tol), float(x["x0"])))
-
-    lines: Dict[int, List[str]] = {}
-    for w in kept:
-        k = round(float(w["top"]) / line_tol)
-        lines.setdefault(k, []).append(w["text"])
-
-    return "\n".join(" ".join(tokens) for _, tokens in sorted(lines.items())).strip()
-
-
-def clean_cell(x: Any) -> str:
-    if x is None:
-        return ""
-    s = str(x).strip()
-    # spłaszcz whitespace (w tym \n w komórkach)
-    return " ".join(s.split())
-
-
-def make_headers(first_row: List[Any]) -> List[str]:
-    headers = [clean_cell(h) for h in first_row]
-    return [h if h else f"col_{i}" for i, h in enumerate(headers)]
-
-
-def render_row_as_kv(headers: List[str], row: List[Any]) -> str:
-    parts = []
-    for h, v in zip(headers, row):
-        cv = clean_cell(v)
-        if cv:
-            parts.append(f"{h}: {cv}")
-    return "\n".join(parts).strip()
-
-
-def pdf_to_contents(pdf_path: str) -> List[str]:
-    """
-    Returns pure content chunks:
-    - table rows rendered as 'column: value' (one row -> one string)
-    - page text with table areas removed (one page -> one string, if non-empty)
-    """
-    contents: List[str] = []
-
-    with pdfplumber.open(pdf_path) as pdf:
-        for page in pdf.pages:
-            # tables + bboxes
-            tables = page.find_tables()
-            table_regions: List[BBox] = []
-
-            for t in tables:
-                # t.bbox is a tuple
-                table_regions.append(tuple(map(float, t.bbox)))  # type: ignore[arg-type]
-
-                rows = t.extract() or []
-                if len(rows) < 2:
-                    continue
-
-                headers = make_headers(rows[0])
-                for row in rows[1:]:
-                    txt = render_row_as_kv(headers, row)
-                    if txt:
-                        contents.append(txt)
-
-            # text outside tables
-            page_text = extract_text_excluding_regions(page, table_regions)
-            if page_text:
-                contents.append(page_text)
-
-    return 
-
-
 from typing import List, Tuple
-import pdfplumber
-
-BBox = Tuple[float, float, float, float]  # (x0, top, x1, bottom)
-
-
-def subtract_bboxes(page_bbox: BBox, holes: List[BBox]) -> List[BBox]:
-    """
-    Split page_bbox into vertical strips excluding hole bboxes.
-    Works well when tables span page width (typical reports).
-    """
-    x0, top, x1, bottom = page_bbox
-
-    # sort holes top-down
-    holes = sorted(holes, key=lambda b: b[1])
-
-    regions: List[BBox] = []
-    cursor = top
-
-    for hx0, htop, hx1, hbottom in holes:
-        if htop > cursor:
-            regions.append((x0, cursor, x1, htop))
-        cursor = max(cursor, hbottom)
-
-    if cursor < bottom:
-        regions.append((x0, cursor, x1, bottom))
-
-    return regions
+import pandas as pd
+from openpyxl import load_workbook
 
 
-def extract_text_with_extract_text(
-    page: pdfplumber.page.Page,
-    table_bboxes: List[BBox],
-) -> str:
-    page_bbox: BBox = (0, 0, page.width, page.height)
+def parse_excel_tables(
+    path: str,
+    sheet_name=0,
+    header_levels: int = 3,
+) -> List[pd.DataFrame]:
 
-    # opcjonalnie: powiększ bboxy tabel
-    pad = 2.0
-    holes = [
-        (x0 - pad, top - pad, x1 + pad, bottom + pad)
-        for x0, top, x1, bottom in table_bboxes
-    ]
+    # 1️⃣ Wczytaj arkusz
+    wb = load_workbook(path, data_only=True)
+    ws = wb[sheet_name] if isinstance(sheet_name, str) else wb.worksheets[sheet_name]
 
-    text_parts = []
-    for region_bbox in subtract_bboxes(page_bbox, holes):
-        region = page.within_bbox(region_bbox)
-        txt = region.extract_text()
-        if txt:
-            text_parts.append(txt.strip())
+    # 2️⃣ Rozszyj scalone komórki
+    for merged_range in list(ws.merged_cells.ranges):
+        min_row, min_col, max_row, max_col = merged_range.bounds
+        value = ws.cell(min_row, min_col).value
 
-    return "\n".join(text_parts)
+        for r in range(min_row, max_row + 1):
+            for c in range(min_col, max_col + 1):
+                ws.cell(r, c).value = value
+
+        ws.unmerge_cells(str(merged_range))
+
+    # 3️⃣ Zamień na DataFrame
+    df_raw = pd.DataFrame(ws.values)
+
+    # usuń całkowicie puste kolumny
+    df_raw = df_raw.dropna(axis=1, how="all")
+
+    # 4️⃣ Wykryj bloki (czyli oddzielne tabele)
+    non_empty = ~df_raw.isna().all(axis=1)
+
+    blocks: List[Tuple[int, int]] = []
+    start = None
+
+    for i, has_data in enumerate(non_empty):
+        if has_data and start is None:
+            start = i
+        elif not has_data and start is not None:
+            blocks.append((start, i - 1))
+            start = None
+
+    if start is not None:
+        blocks.append((start, len(df_raw) - 1))
+
+    tables = []
+
+    # 5️⃣ Parsuj każdą tabelę
+    for start, end in blocks:
+        sub = df_raw.iloc[start:end + 1].reset_index(drop=True)
+
+        if len(sub) <= header_levels:
+            continue  # za mała, pomijamy
+
+        header = sub.iloc[:header_levels].fillna(method="ffill", axis=1)
+        data = sub.iloc[header_levels:].reset_index(drop=True)
+
+        # MultiIndex kolumn
+        columns = pd.MultiIndex.from_frame(header.T.reset_index(drop=True))
+        data.columns = columns
+
+        tables.append(data)
+
+    return tables
