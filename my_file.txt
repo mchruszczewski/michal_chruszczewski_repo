@@ -1,67 +1,103 @@
-from typing import List, Tuple
-import pandas as pd
-from openpyxl import load_workbook
+from __future__ import annotations
+from dataclasses import dataclass
+from multiprocessing import Process, Queue, cpu_count
+from typing import Iterable
 
 
-def parse_excel_tables(
-    path: str,
-    sheet_name=0,
-    header_levels: int = 3,
-) -> List[pd.DataFrame]:
+@dataclass(frozen=True)
+class Document:
+    source: str
+    content: str
+    metadata: dict
 
-    # 1️⃣ Wczytaj arkusz
-    wb = load_workbook(path, data_only=True)
-    ws = wb[sheet_name] if isinstance(sheet_name, str) else wb.worksheets[sheet_name]
 
-    # 2️⃣ Rozszyj scalone komórki
-    for merged_range in list(ws.merged_cells.ranges):
-        min_row, min_col, max_row, max_col = merged_range.bounds
-        value = ws.cell(min_row, min_col).value
+@dataclass(frozen=True)
+class Chunk:
+    source: str
+    idx: int
+    content: str
+    metadata: dict
 
-        for r in range(min_row, max_row + 1):
-            for c in range(min_col, max_col + 1):
-                ws.cell(r, c).value = value
 
-        ws.unmerge_cells(str(merged_range))
+class DummyParser:
+    """Symuluje parser pliku -> tekst."""
+    def parse(self, source: str) -> Document:
+        # symulujemy różną długość tekstu
+        content = ("Lorem ipsum " * (1000 + (hash(source) % 1000))).strip()
+        return Document(source=source, content=content, metadata={"source": source})
 
-    # 3️⃣ Zamień na DataFrame
-    df_raw = pd.DataFrame(ws.values)
 
-    # usuń całkowicie puste kolumny
-    df_raw = df_raw.dropna(axis=1, how="all")
+class SimpleChunker:
+    def __init__(self, size: int = 500, overlap: int = 50):
+        self.size = size
+        self.overlap = overlap
 
-    # 4️⃣ Wykryj bloki (czyli oddzielne tabele)
-    non_empty = ~df_raw.isna().all(axis=1)
+    def chunk(self, doc: Document) -> list[Chunk]:
+        text = doc.content
+        out: list[Chunk] = []
+        step = max(1, self.size - self.overlap)
+        i = 0
+        idx = 0
+        while i < len(text):
+            out.append(
+                Chunk(
+                    source=doc.source,
+                    idx=idx,
+                    content=text[i : i + self.size],
+                    metadata={**doc.metadata, "start": i},
+                )
+            )
+            idx += 1
+            i += step
+        return out
 
-    blocks: List[Tuple[int, int]] = []
-    start = None
 
-    for i, has_data in enumerate(non_empty):
-        if has_data and start is None:
-            start = i
-        elif not has_data and start is not None:
-            blocks.append((start, i - 1))
-            start = None
+def worker(sources: list[str], out_q: Queue, size: int, overlap: int) -> None:
+    parser = DummyParser()
+    chunker = SimpleChunker(size=size, overlap=overlap)
 
-    if start is not None:
-        blocks.append((start, len(df_raw) - 1))
+    for src in sources:
+        doc = parser.parse(src)
+        chunks = chunker.chunk(doc)
+        # wysyłamy tylko metadane o wyniku, żeby nie zapychać RAM (tu dla demo wysyłamy całość)
+        out_q.put((src, len(chunks), chunks))
 
-    tables = []
 
-    # 5️⃣ Parsuj każdą tabelę
-    for start, end in blocks:
-        sub = df_raw.iloc[start:end + 1].reset_index(drop=True)
+def chunk_in_processes(
+    sources: list[str], nprocs: int | None = None, size: int = 500, overlap: int = 50
+) -> list[Chunk]:
+    nprocs = nprocs or max(1, cpu_count() - 1)
+    nprocs = min(nprocs, len(sources))
 
-        if len(sub) <= header_levels:
-            continue  # za mała, pomijamy
+    out_q: Queue = Queue(maxsize=nprocs * 2)
 
-        header = sub.iloc[:header_levels].fillna(method="ffill", axis=1)
-        data = sub.iloc[header_levels:].reset_index(drop=True)
+    # podział pracy na paczki
+    batches = [sources[i::nprocs] for i in range(nprocs)]
 
-        # MultiIndex kolumn
-        columns = pd.MultiIndex.from_frame(header.T.reset_index(drop=True))
-        data.columns = columns
+    procs: list[Process] = []
+    for batch in batches:
+        p = Process(target=worker, args=(batch, out_q, size, overlap))
+        p.start()
+        procs.append(p)
 
-        tables.append(data)
+    all_chunks: list[Chunk] = []
+    expected_msgs = len(sources)
 
-    return tables
+    # odbieramy wyniki (po 1 wiadomości na source)
+    for _ in range(expected_msgs):
+        src, n_chunks, chunks = out_q.get()
+        # tu zwykle byś: zapisywał do DB / vectorstore zamiast trzymać w RAM
+        all_chunks.extend(chunks)
+        # print(f"{src}: {n_chunks} chunks")
+
+    for p in procs:
+        p.join()
+
+    return all_chunks
+
+
+if __name__ == "__main__":
+    files = [f"file_{i}.pdf" for i in range(200)]
+    chunks = chunk_in_processes(files, nprocs=4, size=800, overlap=100)
+    print("Total chunks:", len(chunks))
+    print("Example:", chunks[0])
