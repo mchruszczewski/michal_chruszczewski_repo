@@ -1,103 +1,65 @@
-from __future__ import annotations
-from dataclasses import dataclass
-from multiprocessing import Process, Queue, cpu_count
-from typing import Iterable
+import queue
+import threading
+from concurrent.futures import ThreadPoolExecutor
+from typing import Iterable, List, Tuple
 
+SENTINEL = object()
 
-@dataclass(frozen=True)
-class Document:
-    source: str
-    content: str
-    metadata: dict
+def batched(it, n):
+    batch = []
+    for x in it:
+        batch.append(x)
+        if len(batch) >= n:
+            yield batch
+            batch = []
+    if batch:
+        yield batch
 
+def threaded_ingest_stream(
+    chunks: Iterable, api_client, vectorstore,
+    batch_size: int = 64, workers: int = 8, qsize: int = 32
+):
+    in_q: queue.Queue = queue.Queue(maxsize=qsize)     # backpressure
+    out_q: queue.Queue = queue.Queue(maxsize=qsize)
 
-@dataclass(frozen=True)
-class Chunk:
-    source: str
-    idx: int
-    content: str
-    metadata: dict
+    def producer():
+        for batch in batched(chunks, batch_size):
+            texts = [c.text for c in batch]
+            metas = [c.metadata for c in batch]
+            in_q.put((texts, metas))
+        for _ in range(workers):
+            in_q.put(SENTINEL)
 
+    def api_worker():
+        while True:
+            item = in_q.get()
+            if item is SENTINEL:
+                out_q.put(SENTINEL)
+                return
+            texts, metas = item
+            vectors = api_client.embed(texts)  # I/O
+            out_q.put((texts, metas, vectors))
 
-class DummyParser:
-    """Symuluje parser pliku -> tekst."""
-    def parse(self, source: str) -> Document:
-        # symulujemy różną długość tekstu
-        content = ("Lorem ipsum " * (1000 + (hash(source) % 1000))).strip()
-        return Document(source=source, content=content, metadata={"source": source})
+    def writer():
+        finished = 0
+        while finished < workers:
+            item = out_q.get()
+            if item is SENTINEL:
+                finished += 1
+                continue
+            texts, metas, vectors = item
+            # zależnie od vectorstore: add_embeddings / add_texts + embedding fn
+            vectorstore.add_texts(texts=texts, metadatas=metas, embeddings=vectors)
 
+    t_prod = threading.Thread(target=producer, daemon=True)
+    t_write = threading.Thread(target=writer, daemon=True)
+    t_prod.start()
+    t_write.start()
 
-class SimpleChunker:
-    def __init__(self, size: int = 500, overlap: int = 50):
-        self.size = size
-        self.overlap = overlap
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        futures = [ex.submit(api_worker) for _ in range(workers)]
+        for f in futures:
+            f.result()
 
-    def chunk(self, doc: Document) -> list[Chunk]:
-        text = doc.content
-        out: list[Chunk] = []
-        step = max(1, self.size - self.overlap)
-        i = 0
-        idx = 0
-        while i < len(text):
-            out.append(
-                Chunk(
-                    source=doc.source,
-                    idx=idx,
-                    content=text[i : i + self.size],
-                    metadata={**doc.metadata, "start": i},
-                )
-            )
-            idx += 1
-            i += step
-        return out
-
-
-def worker(sources: list[str], out_q: Queue, size: int, overlap: int) -> None:
-    parser = DummyParser()
-    chunker = SimpleChunker(size=size, overlap=overlap)
-
-    for src in sources:
-        doc = parser.parse(src)
-        chunks = chunker.chunk(doc)
-        # wysyłamy tylko metadane o wyniku, żeby nie zapychać RAM (tu dla demo wysyłamy całość)
-        out_q.put((src, len(chunks), chunks))
-
-
-def chunk_in_processes(
-    sources: list[str], nprocs: int | None = None, size: int = 500, overlap: int = 50
-) -> list[Chunk]:
-    nprocs = nprocs or max(1, cpu_count() - 1)
-    nprocs = min(nprocs, len(sources))
-
-    out_q: Queue = Queue(maxsize=nprocs * 2)
-
-    # podział pracy na paczki
-    batches = [sources[i::nprocs] for i in range(nprocs)]
-
-    procs: list[Process] = []
-    for batch in batches:
-        p = Process(target=worker, args=(batch, out_q, size, overlap))
-        p.start()
-        procs.append(p)
-
-    all_chunks: list[Chunk] = []
-    expected_msgs = len(sources)
-
-    # odbieramy wyniki (po 1 wiadomości na source)
-    for _ in range(expected_msgs):
-        src, n_chunks, chunks = out_q.get()
-        # tu zwykle byś: zapisywał do DB / vectorstore zamiast trzymać w RAM
-        all_chunks.extend(chunks)
-        # print(f"{src}: {n_chunks} chunks")
-
-    for p in procs:
-        p.join()
-
-    return all_chunks
-
-
-if __name__ == "__main__":
-    files = [f"file_{i}.pdf" for i in range(200)]
-    chunks = chunk_in_processes(files, nprocs=4, size=800, overlap=100)
-    print("Total chunks:", len(chunks))
-    print("Example:", chunks[0])
+    t_prod.join()
+    t_write.join()
