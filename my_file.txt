@@ -1,9 +1,22 @@
-<div class="results-panel" id="resultsPanel">
-  <h4 class="mb-3">Results</h4>
+.btn-loading {
+    position: relative;
+    pointer-events: none;
+    opacity: 0.85;
+}
 
-  <div id="resultsPlaceholder">
-    <p class="text-muted mb-0">No results yet. Upload both files and click Submit.</p>
-  </div>
+.btn-spinner {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border: 2px solid currentColor;
+    border-right-color: transparent;
+    border-radius: 50%;
+    animation: btn-spin 0.75s linear infinite;
+    vertical-align: text-bottom;
+}
 
-  <div class="status h-30px mt-2" id="chatStatus"></div>
-</div>
+@keyframes btn-spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
