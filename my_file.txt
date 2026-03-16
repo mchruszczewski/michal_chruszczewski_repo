@@ -1,47 +1,9 @@
-.results-panel {
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-    border-radius: 8px;
-    height: 100%;
-    background-color: transparent !important;
-    backdrop-filter: blur(3px) !important;
-    -webkit-backdrop-filter: blur(3px) !important;
-    background: linear-gradient(
-        to right bottom,
-        var(--gray-light),
-        var(--white)
-    );
-    box-shadow: 0 4px 20px rgba(1, 0, 0, 0.3);
-    position: relative;
+<div class="results-panel" id="resultsPanel">
+  <h4 class="mb-3">Results</h4>
 
-    /* najważniejsze: panel ma być widoczny */
-    transform: none !important;
-    opacity: 1 !important;
-    visibility: visible !important;
-    overflow: visible !important;
-}
+  <div id="resultsPlaceholder">
+    <p class="text-muted mb-0">No results yet. Upload both files and click Submit.</p>
+  </div>
 
-#resultsPanel {
-    transform: none !important;
-    opacity: 1 !important;
-    visibility: visible !important;
-    display: flex !important;
-}
-
-#resultsPlaceholder {
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    overflow: visible !important;
-    max-height: none !important;
-    height: auto !important;
-}
-
-#resultsPlaceholder table {
-    width: 100%;
-}
-
-.table-responsive {
-    overflow: visible !important;
-}
+  <div class="status h-30px mt-2" id="chatStatus"></div>
+</div>
